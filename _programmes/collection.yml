@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Curriculum/Chinese Language.md
       - Curriculum/Mathematics.md
       - Curriculum/Science.md
       - Curriculum/Humanities.md
