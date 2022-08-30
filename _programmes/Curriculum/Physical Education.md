@@ -31,11 +31,11 @@ Academic Programme: Physical Education
 <tbody>
   <tr>
     <td class="tg-qv1c">Lower Secondary</td>
-    <td class="tg-yr66">Physical Education</td>
+    <td class="tg-yr66">• Physical Education</td>
   </tr>
   <tr>
     <td class="tg-9wq8">Upper Secondary</td>
-    <td class="tg-0pky">Physical Education</td>
+    <td class="tg-0pky">• Physical Education</td>
   </tr>
 </tbody>
 </table>
