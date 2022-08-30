@@ -7,7 +7,7 @@ third_nav_title: Achievements
 <ul class="jekyllcodex_accordion">
    <li>
     <input type="checkbox" id="accordion6">
-    <label for="accordion6">Academic</label>
+    <label for="accordion6"></label>
     <div>
       <h4 style="color:black" align="left">2021</h4>
       <p>
