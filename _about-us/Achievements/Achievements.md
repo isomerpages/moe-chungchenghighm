@@ -1124,9 +1124,7 @@ Co-Curricular Activites
 	</li>
 </ul>
 
-		 
-Student Leadership
-------------------
+## Student Leadership
 
 
 <ul class="jekyllcodex_accordion">
