@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Achievements/Student Leadership.md
       - Achievements/Co Curricular Activities.md
       - Achievements/Academic.md
       - Achievements/Achievements.md
