@@ -25,43 +25,9 @@ School Song
 
 <h4 style="color:black" align="center">校歌</h4>
 
-<p style="text-align:center;">Dental Therapist - Ms Elaine<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></p>
+<p style="text-align:center;">曰吾中正 至大至刚<br>矗立星洲 巍巍昂昂<br>华夏声教 广披炎荒<br>欧印文明 他山之长<br>好学力行 知耻是倡<br>日新月异 不息自强<br>止於至善 万国同光<br>大哉中正 悠久无疆<br></p>
 
-曰吾中正 至大至刚
+<h4 style="color:black" align="center">Our School Song (Translation)</h4>
 
-矗立星洲 巍巍昂昂
-
-华夏声教 广披炎荒
-
-欧印文明 他山之长
-
-好学力行 知耻是倡
-
-日新月异 不息自强
-
-止於至善 万国同光
-
-大哉中正 悠久无疆
-
-<h4 style="color:black" align="center">校歌</h4>
-
-<p style="text-align:center;">Dental Therapist - Ms Elaine<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></p>
-
-Our School Song (Translation)
------------------------------
-
-Overlooking the eastern shore of Singapore,  
-Gallantly stands the magnificent Chung Cheng of ours.  
-Spreading far and wide our cultural heritage and traditions,  
-Enriching it with the best of all great civilizations,  
-By this we fulfil our mission.  
-With enthusiasm and perseverance we strive  
-To achieve moral virtues and excellence.  
-With new knowledge and wisdom we seek  
-To constantly reinforce our confidence.  
-To be the best we can be,  
-Our success and glory we share  
-With people of all countries.  
-To eternity we perpetuate  
-The aspirations of our magnificent Chung Cheng,  
-Far beyond all boundaries.
+<p style="text-align:center;">Overlooking the eastern shore of Singapore,<br>Gallantly stands the magnificent Chung Cheng of ours.<br>Spreading far and wide our cultural heritage and traditions, <br>Enriching it with the best of all great civilizations, <br>By this we fulfil our mission.<br>With enthusiasm and perseverance we strive<br>To achieve moral virtues and excellence.<br>With new knowledge and wisdom we seek<br>To constantly reinforce our confidence.<br>To be the best we can be,<br>Our success and glory we share<br>With people of all countries.<br>To eternity we perpetuate<br>The aspirations of our magnificent Chung Cheng,<br>Far beyond all boundaries.</p>
+      
