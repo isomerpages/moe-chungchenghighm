@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Curriculum/Humanities.md
       - Curriculum/Food and Consumer Education.md
       - Curriculum/Design and Technology.md
       - Curriculum/Art.md
