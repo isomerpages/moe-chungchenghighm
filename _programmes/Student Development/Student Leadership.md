@@ -4,6 +4,14 @@ permalink: /programmes/student-development/student-leadership/
 description: ""
 third_nav_title: Student Development
 ---
+<html>
+<body>
+<p><a href="/student-development/learning-for-life-programme-llp">
+<img src="/images/5%20Reasons%20logo%208.png"  style="width:35%">
+</a></p>
+</body>
+</html>
+
 [![](https://chungchenghighmain.moe.edu.sg/wp-content/uploads/2019/11/IMG_8353-300x200.jpg)](https://chungchenghighmain.moe.edu.sg/programmes/student-development/student-leadership/student-council/)
 
 Student Councillors
