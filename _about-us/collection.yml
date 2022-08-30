@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Form Teachers.md
       - School Leaders and Key Personnel.md
       - School Management Committee.md
       - School Crest and Song.md
