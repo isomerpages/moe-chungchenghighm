@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Curriculum/Mathematics.md
       - Curriculum/Science.md
       - Curriculum/Humanities.md
       - Curriculum/Food and Consumer Education.md
