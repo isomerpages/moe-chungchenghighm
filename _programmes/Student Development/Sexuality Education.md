@@ -41,6 +41,45 @@ You may click [here](http://www.moe.gov.sg/education/programmes/social-emotiona
 
 **Secondary 1**
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-u1cn{background-color:#EEE;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1wig"><span style="font-weight:bolder">UNIT</span></th>
+    <th class="tg-1wig"><span style="font-weight:bolder">LESSONS / DURATION</span></th>
+    <th class="tg-1wig"><span style="font-weight:bolder">Lesson Objectives</span><br><br><span style="font-weight:bolder">At the end of the lesson, students will be able to:</span></th>
+    <th class="tg-1wig"><span style="font-weight:bolder">TIME PERIOD</span><br><br><span style="font-weight:bolder">(e.g. Term 1 Week 2)</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-cly1" rowspan="3">Respectful Relationships &amp; Safety<br><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span></td>
+    <td class="tg-cly1">1<br><br><span style="font-weight:400;color:#1E1E1E">(60 mins)</span></td>
+    <td class="tg-cly1">·       Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br><br><span style="font-weight:400;color:#1E1E1E">·       Recognise that there are different forms of love (e.g. familial, platonic, romantic love)</span><br><br><span style="font-weight:400;color:#1E1E1E">·       Recognise the importance and understand what builds healthy and supportive relationships, both online and offline</span><br><br><span style="font-weight:400;color:#1E1E1E">·       Understand what dating is, and recognise that the readiness and interest in dating vary among individuals</span></td>
+    <td class="tg-cly1">Term 3 Week 3</td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">2<br><br><span style="font-weight:400;color:#1E1E1E">(60 mins)</span></td>
+    <td class="tg-u1cn">·       Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</td>
+    <td class="tg-u1cn">Term 3 Week 4</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">3<br><br><span style="font-weight:400;color:#1E1E1E">(60 mins)</span></td>
+    <td class="tg-cly1">·       Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br><br><span style="font-weight:400;color:#1E1E1E">·       Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</span></td>
+    <td class="tg-cly1">Term 3 Week 5</td>
+  </tr>
+</tbody>
+</table>
+
 **Secondary 2**
 
 <style type="text/css">
