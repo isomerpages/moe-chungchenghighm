@@ -30,4 +30,3 @@ School Song
 <h4 style="color:black" align="center">Our School Song (Translation)</h4>
 
 <p style="text-align:center;">Overlooking the eastern shore of Singapore,<br>Gallantly stands the magnificent Chung Cheng of ours.<br>Spreading far and wide our cultural heritage and traditions, <br>Enriching it with the best of all great civilizations, <br>By this we fulfil our mission.<br>With enthusiasm and perseverance we strive<br>To achieve moral virtues and excellence.<br>With new knowledge and wisdom we seek<br>To constantly reinforce our confidence.<br>To be the best we can be,<br>Our success and glory we share<br>With people of all countries.<br>To eternity we perpetuate<br>The aspirations of our magnificent Chung Cheng,<br>Far beyond all boundaries.</p>
-      
