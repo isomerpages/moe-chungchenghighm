@@ -23,7 +23,9 @@ The three sides of the triangle represent the collaboration between the school�
 School Song
 -----------
 
-**校歌**
+<h4 style="color:black" align="center">校歌</h4>
+
+<p style="text-align:center;">Dental Therapist - Ms Elaine<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></p>
 
 曰吾中正 至大至刚
 
@@ -40,6 +42,10 @@ School Song
 止於至善 万国同光
 
 大哉中正 悠久无疆
+
+<h4 style="color:black" align="center">校歌</h4>
+
+<p style="text-align:center;">Dental Therapist - Ms Elaine<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></p>
 
 Our School Song (Translation)
 -----------------------------
