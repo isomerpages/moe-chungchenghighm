@@ -2,5 +2,6 @@ collections:
   programmes:
     output: true
     order:
+      - Curriculum/Music.md
       - Curriculum/Physical Education.md
       - Curriculum/.keep
