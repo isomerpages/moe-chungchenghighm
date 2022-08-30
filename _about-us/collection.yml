@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - Strategic Directions.md
       - Mission, Vision, Values.md
       - School History.md
