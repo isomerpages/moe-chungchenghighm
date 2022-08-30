@@ -54,6 +54,37 @@ You may click [here](http://www.moe.gov.sg/education/programmes/social-emotiona
 
 **At Chung Cheng High School (Main), the _eTeens_ programme will be implemented as follows in 2022:**
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-u1cn{background-color:#EEE;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1wig"><span style="font-weight:bolder">Topics/Lessons</span></th>
+    <th class="tg-1wig"><span style="font-weight:bolder">Programme Learning Objectives</span></th>
+    <th class="tg-1wig"><span style="font-weight:bolder">Time Period</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-cly1">Mass Talk by HPB appointed vendor</td>
+    <td class="tg-cly1">·       Awareness of the different STIs and HIV/AIDS<br><br><span style="color:#1E1E1E">·       Modes of transmission</span><br><br><br><span style="font-weight:400;color:#1E1E1E">·       Modes of protection, specifically on how the condom is used</span><br><br><span style="font-weight:400;color:#1E1E1E">·       Consequences and impact of STIs/HIV</span></td>
+    <td class="tg-cly1">Term 3 Week 8</td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">Classroom-based Lesson</td>
+    <td class="tg-u1cn">·       Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</td>
+    <td class="tg-u1cn">Term 3 Week 9</td>
+  </tr>
+</tbody>
+</table>
 
 **Information for Parents**
 
