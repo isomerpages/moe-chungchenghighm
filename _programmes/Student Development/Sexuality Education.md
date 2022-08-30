@@ -45,58 +45,7 @@ You may click [here](http://www.moe.gov.sg/education/programmes/social-emotiona
 
 **Secondary 3**
 
-
 **Secondary 4** 
-
-| **UNIT** | **LESSONS / DURATION** | **Lesson Objectives**
-**At the end of the lesson, students will be able to:**
-
- | **TIME PERIOD**
-
-**(e.g. Term 1 Week 2)**
-
- |
-| --- | --- | --- | --- |
-| Respectful Relationships & Safety | 1
-
-(60 mins)
-
- | ·       Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.
-
-·       Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.
-
-·       Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.
-
- | Term 2 Week 1 |
-| 2
-
-(60 mins)
-
- | ·       Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.
-
-·       Recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims.
-
-·       Understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being.
-
-·       Understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship.
-
- | Term 2 Week 2 |
-| 3
-
-(60 mins)
-
- | ·       Know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions.
-
-·       Know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort.
-
-·       Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage.
-
- | Term 2 Week 3 |
-|  | 4
-
-(60 mins)
-
- | ·       Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs. | Term 2 Week 4 |
 
 **_eTeens_** **Programme**:
 
@@ -105,17 +54,6 @@ You may click [here](http://www.moe.gov.sg/education/programmes/social-emotiona
 
 **At Chung Cheng High School (Main), the _eTeens_ programme will be implemented as follows in 2022:**
 
-| **Topics/Lessons** | **Programme Learning Objectives** | **Time Period** |
-| --- | --- | --- |
-| Mass Talk by HPB appointed vendor | ·       Awareness of the different STIs and HIV/AIDS
-·       Modes of transmission
-
-·       Modes of protection, specifically on how the condom is used
-
-·       Consequences and impact of STIs/HIV
-
- | Term 3 Week 8 |
-| Classroom-based Lesson | ·       Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making | Term 3 Week 9 |
 
 **Information for Parents**
 
