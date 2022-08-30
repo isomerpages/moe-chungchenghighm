@@ -1126,7 +1126,6 @@ Co-Curricular Activites
 
 ## Student Leadership
 
-
 <ul class="jekyllcodex_accordion">
    <li>
     <input type="checkbox" id="accordion6">
