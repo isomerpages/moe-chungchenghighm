@@ -6,7 +6,7 @@ description: ""
 School Crest
 ------------
 
-![School Logo](https://chungchenghighmain.moe.edu.sg/wp-content/uploads/2019/09/school_logo.png)
+![School Logo](/images/school_logo.png)
 
 The three sides of the triangle represent the collaboration between the school’s management, teachers and pupils. These three work hand in hand to bring the school to greater heights. The colour red represents the school motto – “With Passion We Learn, With Perseverance We Strive” and “With Integrity We Live, With Commitment We Progress”. It inspires pupils to be upright, caring and loyal citizens. White symbolises purity and also signifies the imparting of knowledge. It serves to highlight the dual importance our school places on encouraging our pupils to achieve excellence in both studies and character building.
 
