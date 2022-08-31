@@ -73,22 +73,22 @@ third_nav_title: Student Development
 <table>
 <thead>
   <tr>
-    <th><img src="/images/badminton-square.jpeg" alt="GIRL GUIDES" width="106" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/girl-guides/" target="_blank" rel="noopener noreferrer">GIRL GUIDES<br>女童军</a></th>
-    <th><img src="/images/basketball-square.jpeg" alt="NATIONAL CADET CORPS" width="106" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/national-cadet-corps/" target="_blank" rel="noopener noreferrer">NATIONAL CADET CORPS<br> 学生军</a></th>
-    <th><img src="/images/netball-square.jpeg" alt="NATIONAL POLICE CADET CORPS" width="106" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/national-police-cadet-corps/" target="_blank" rel="noopener noreferrer">NATIONAL POLICE CADET CORPS<br>学生警察</a></th>
+    <th><img src="/images/badminton-square.jpeg" alt="GIRL GUIDES" width="106" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/girl-guides/" target="_blank" rel="noopener noreferrer">BADMINTON<br>羽球队</a></th>
+    <th><img src="/images/basketball-square.jpeg" alt="NATIONAL CADET CORPS" width="106" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/national-cadet-corps/" target="_blank" rel="noopener noreferrer">BASKETBALL<br>篮球队</a></th>
+    <th><img src="/images/netball-square.jpeg" alt="NATIONAL POLICE CADET CORPS" width="106" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/national-police-cadet-corps/" target="_blank" rel="noopener noreferrer">NETBALL<br>英式女子篮球队</a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/softball-square.jpeg" alt="ST JOHN BRIGADE" width="106" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/st-john-brigade/" target="_blank" rel="noopener noreferrer">ST JOHN BRIGADE<br>圣约翰救伤队</a></td>
-    <td><img src="/images/table-tennis-square.jpeg" alt="SCOUTS" width="74" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/scouts/" target="_blank" rel="noopener noreferrer">SCOUTS<br>童子军</a></td>
-    <td><img src="/images/volleyball-square.jpeg" alt="SCOUTS" width="74" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/scouts/" target="_blank" rel="noopener noreferrer">SCOUTS<br>童子军</a></td>
+    <td><img src="/images/softball-square.jpeg" alt="ST JOHN BRIGADE" width="106" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/st-john-brigade/" target="_blank" rel="noopener noreferrer">SOFTBALL*<br>垒球队*</a></td>
+    <td><img src="/images/table-tennis-square.jpeg" alt="SCOUTS" width="74" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/scouts/" target="_blank" rel="noopener noreferrer">TABLE TENNIS<br>乒乓队</a></td>
+    <td><img src="/images/volleyball-square.jpeg" alt="SCOUTS" width="74" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/scouts/" target="_blank" rel="noopener noreferrer">VOLLEYBALL<br>排球队</a></td>
   </tr>
 </tbody>
 <tbody>
   <tr>
-    <td><img src="/images/Track_Field-square.jpeg" alt="ST JOHN BRIGADE" width="106" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/st-john-brigade/" target="_blank" rel="noopener noreferrer">ST JOHN BRIGADE<br>圣约翰救伤队</a></td>
-    <td><img src="/images/wushu-suqare.jpeg" alt="SCOUTS" width="74" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/scouts/" target="_blank" rel="noopener noreferrer">SCOUTS<br>童子军</a></td>
+    <td><img src="/images/Track_Field-square.jpeg" alt="ST JOHN BRIGADE" width="106" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/st-john-brigade/" target="_blank" rel="noopener noreferrer">CROSS COUNTRY*<br>田径队*</a></td>
+    <td><img src="/images/wushu-suqare.jpeg" alt="SCOUTS" width="74" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/scouts/" target="_blank" rel="noopener noreferrer">WUSHU<br>武术团</a></td>
     <td></td>
   </tr>
 </tbody>
