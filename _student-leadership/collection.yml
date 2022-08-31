@@ -2,6 +2,7 @@ collections:
   student-leadership:
     output: true
     order:
+      - Class Leaders.md
       - Peer Support Leaders.md
       - CCA Leaders.md
       - Student Council.md
