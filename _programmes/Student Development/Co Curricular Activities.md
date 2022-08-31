@@ -93,3 +93,61 @@ third_nav_title: Student Development
   </tr>
 </tbody>
 </table>
+
+**CCAs with asterisk \* will not be admitting Sec 1 students from 2020 onwards.**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-43yd{background-color:#CB4B3D;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-3mbt{background-color:#EEE;color:#1E1E1E;text-align:center;vertical-align:top}
+.tg .tg-x413{color:#1E1E1E;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-43yd"><span style="color:#FFF;background-color:#CB4B3D">CCA</span></th>
+    <th class="tg-43yd"><span style="color:#FFF;background-color:#CB4B3D">Day/Time</span></th>
+    <th class="tg-43yd"><span style="color:#FFF;background-color:#CB4B3D">Venue</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Badminton</span></td>
+    <td class="tg-3mbt" rowspan="6"><span style="font-weight:400;color:#1E1E1E">Monday, Wednesday &amp; Friday</span><br><span style="font-weight:400;color:#1E1E1E">3.15pm – 6.15pm</span></td>
+    <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Grand Auditorium/ School Hall</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x413"><span style="font-weight:400;color:#1E1E1E">Basketball</span></td>
+    <td class="tg-x413"><span style="font-weight:400;color:#1E1E1E">Indoor Sports Hall Level 1 / Outdoor Basketball Courts</span></td>
+  </tr>
+  <tr>
+    <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Netball</span></td>
+    <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Netball Courts</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x413"><span style="font-weight:400;color:#1E1E1E">Softball*</span></td>
+    <td class="tg-x413"><span style="font-weight:400;color:#1E1E1E">School Field</span></td>
+  </tr>
+  <tr>
+    <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Table Tennis</span></td>
+    <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Table Tennis Room (Grand Auditorium Basement)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x413"><span style="font-weight:400;color:#1E1E1E">Volleyball</span></td>
+    <td class="tg-x413"><span style="font-weight:400;color:#1E1E1E">Indoor Sports Hall Level 2/ Outdoor Volleyball Courts</span></td>
+  </tr>
+  <tr>
+    <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Cross Country*</span></td>
+    <td class="tg-3mbt" rowspan="2"><span style="font-weight:400;color:#1E1E1E">Wednesday &amp; Friday</span><br><span style="font-weight:400;color:#1E1E1E">3.15pm – 6.15pm</span></td>
+    <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">School Field/ Kallang Practice Track</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x413"><span style="font-weight:400;color:#1E1E1E">Wushu</span></td>
+    <td class="tg-x413"><span style="font-weight:400;color:#1E1E1E">School Hall</span></td>
+  </tr>
+</tbody>
+</table>
