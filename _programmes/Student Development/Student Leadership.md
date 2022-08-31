@@ -6,7 +6,7 @@ third_nav_title: Student Development
 ---
 <html>
 <body>
-<p><a href="/student-development/learning-for-life-programme-llp">
+<p><a href="/programmes/student-development/student-leadership/student-council/">
 <img src="/images/IMG_8353-300x200.jpeg"  style="width:35%">
 </a></p>
 </body>
@@ -16,7 +16,7 @@ third_nav_title: Student Development
 
 <html>
 <body>
-<p><a href="/student-development/learning-for-life-programme-llp">
+<p><a href="programmes/student-development/student-leadership/cca-leaders/">
 <img src="/images/IMG_8364-768x512.jpeg"  style="width:35%">
 </a></p>
 </body>
@@ -26,7 +26,7 @@ third_nav_title: Student Development
 
 <html>
 <body>
-<p><a href="/student-development/learning-for-life-programme-llp">
+<p><a href="/programmes/student-development/student-leadership/peer-support-leaders/">
 <img src="/images/PSL-300x225.jpeg"  style="width:35%">
 </a></p>
 </body>
@@ -36,7 +36,7 @@ third_nav_title: Student Development
 
 <html>
 <body>
-<p><a href="/student-development/learning-for-life-programme-llp">
+<p><a href="/programmes/student-development/student-leadership/class-leaders/">
 <img src="/images/Class-Leaders-300x225.jpeg"  style="width:35%">
 </a></p>
 </body>
