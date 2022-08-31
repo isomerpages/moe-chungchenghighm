@@ -2,5 +2,6 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Chinese Drama.md
       - Lion & Dragon Dance.md
       - Girl Guides.md
