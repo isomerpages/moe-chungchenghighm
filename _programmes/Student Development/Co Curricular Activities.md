@@ -183,15 +183,15 @@ third_nav_title: Student Development
 <table>
 <thead>
   <tr>
-    <th><img src="/images/girl_guides-square.jpeg" alt="GIRL GUIDES" width="106" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/art-club/" target="_blank" rel="noopener noreferrer">ART & CRAFT<br>美术学会</a></th>
-    <th><img src="/images/ncc-square.jpeg" alt="NATIONAL CADET CORPS" width="106" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/calligraphy-chinese-painting-club/" target="_blank" rel="noopener noreferrer">CHINESE CALLIGRAPHY & BRUSH PAINTING<br>书画学会</a></th>
-    <th><img src="/images/npcc-square.jpeg" alt="NATIONAL POLICE CADET CORPS" width="106" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/chinese-chess-club/" target="_blank" rel="noopener noreferrer">CHINESE CHESS CLUB<br>象棋学会</a></th>
+    <th><img src="/images/Art-Club-square.jpeg" alt="ART & CRAFT" width="106" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/art-club/" target="_blank" rel="noopener noreferrer">ART & CRAFT<br>美术学会</a></th>
+    <th><img src="/images/calligraphy-square.jpeg" alt="CHINESE CALLIGRAPHY & BRUSH PAINTING" width="106" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/calligraphy-chinese-painting-club/" target="_blank" rel="noopener noreferrer">CHINESE CALLIGRAPHY & BRUSH PAINTING<br>书画学会</a></th>
+    <th><img src="/images/chess-club-square.jpeg" alt="CHINESE CHESS CLUB" width="106" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/chinese-chess-club/" target="_blank" rel="noopener noreferrer">CHINESE CHESS CLUB<br>象棋学会</a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/st_john-square.jpeg" alt="ST JOHN BRIGADE" width="106" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/lion-dance-club/" target="_blank" rel="noopener noreferrer">LION & DRAGON DANCE<br>龙狮团</a></td>
-    <td><img src="![](/images/media_club_square.jpeg)" alt="DIGITAL MEDIA" width="74" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/media-technology-club/" target="_blank" rel="noopener noreferrer">DIGITAL MEDIA<br>媒体学会</a></td>
+    <td><img src="/images/lion_dance-square.jpeg" alt="LION & DRAGON DANCE" width="106" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/lion-dance-club/" target="_blank" rel="noopener noreferrer">LION & DRAGON DANCE<br>龙狮团</a></td>
+    <td><img src="/images/media_club_square.jpeg" alt="DIGITAL MEDIA" width="74" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/media-technology-club/" target="_blank" rel="noopener noreferrer">DIGITAL MEDIA<br>媒体学会</a></td>
     <td></td>
   </tr>
 </tbody>
