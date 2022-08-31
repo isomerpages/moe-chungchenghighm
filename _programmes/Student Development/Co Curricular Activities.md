@@ -151,3 +151,6 @@ third_nav_title: Student Development
   </tr>
 </tbody>
 </table>
+
+<h5 style="color:black" align="left">Performing Arts Groups</h5>
+
