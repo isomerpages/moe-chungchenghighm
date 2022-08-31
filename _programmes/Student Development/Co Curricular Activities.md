@@ -7,3 +7,13 @@ third_nav_title: Student Development
 **Co-Curricular Activities (CCAs)** are an integral part of our students’ holistic education. Through **CCA**, our students discover their interests and talents while developing values and competencies to prepare for a rapidly changing world.
 
 <h5 style="color:black" align="left">Uniformed Groups</h5>
+
+![](/images/girl_guides-square.jpeg)
+
+![](/images/ncc-square.jpeg)
+
+![](/images/npcc-square.jpeg)
+
+![](/images/st_john-square.jpeg)
+
+![](/images/scouts-square.jpeg)
