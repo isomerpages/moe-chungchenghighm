@@ -158,21 +158,21 @@ third_nav_title: Student Development
 <table>
 <thead>
   <tr>
-    <th><img src="/images/badminton-square.jpeg" alt="GIRL GUIDES" width="106" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/badminton/" target="_blank" rel="noopener noreferrer">CHINESE DRAMA<br>中文戏剧学会</a></th>
-    <th><img src="/images/basketball-square.jpeg" alt="NATIONAL CADET CORPS" width="106" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/basketball/" target="_blank" rel="noopener noreferrer">CHOIR<br>合唱团</a></th>
-    <th><img src="/images/netball-square.jpeg" alt="NATIONAL POLICE CADET CORPS" width="106" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/netball/" target="_blank" rel="noopener noreferrer">CONCERT BAND<br>管乐团</a></th>
+    <th><img src="/images/badminton-square.jpeg" alt="GIRL GUIDES" width="106" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/chinese-drama-society/" target="_blank" rel="noopener noreferrer">CHINESE DRAMA<br>中文戏剧学会</a></th>
+    <th><img src="/images/basketball-square.jpeg" alt="NATIONAL CADET CORPS" width="106" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/choir/" target="_blank" rel="noopener noreferrer">CHOIR<br>合唱团</a></th>
+    <th><img src="/images/netball-square.jpeg" alt="NATIONAL POLICE CADET CORPS" width="106" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/concert-band/" target="_blank" rel="noopener noreferrer">CONCERT BAND<br>管乐团</a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/softball-square.jpeg" alt="ST JOHN BRIGADE" width="106" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/softball/" target="_blank" rel="noopener noreferrer">MODERN DANCE<br>舞蹈团</a></td>
-    <td><img src="/images/table-tennis-square.jpeg" alt="SCOUTS" width="74" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/table-tennis/" target="_blank" rel="noopener noreferrer">ENGLISH DRAMA<br>英文戏剧学会</a></td>
-    <td><img src="/images/volleyball-square.jpeg" alt="SCOUTS" width="74" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/volleyball/" target="_blank" rel="noopener noreferrer">GUZHENG ENSEMBLE*<br>古筝团*</a></td>
+    <td><img src="/images/softball-square.jpeg" alt="ST JOHN BRIGADE" width="106" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/dance-club/" target="_blank" rel="noopener noreferrer">MODERN DANCE<br>舞蹈团</a></td>
+    <td><img src="/images/table-tennis-square.jpeg" alt="SCOUTS" width="74" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/english-drama-society/" target="_blank" rel="noopener noreferrer">ENGLISH DRAMA<br>英文戏剧学会</a></td>
+    <td><img src="/images/volleyball-square.jpeg" alt="SCOUTS" width="74" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/guzheng-ensemble/" target="_blank" rel="noopener noreferrer">GUZHENG ENSEMBLE*<br>古筝团*</a></td>
   </tr>
 </tbody>
 <tbody>
   <tr>
-    <td><img src="/images/Track_Field-square.jpeg" alt="ST JOHN BRIGADE" width="106" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/cross-country-track/" target="_blank" rel="noopener noreferrer">CHINESE ORCHESTRA<br>华乐团</a></td>
+    <td><img src="/images/Track_Field-square.jpeg" alt="ST JOHN BRIGADE" width="106" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/chinese-orchestra/" target="_blank" rel="noopener noreferrer">CHINESE ORCHESTRA<br>华乐团</a></td>
     <td></td>
     <td></td>
   </tr>
