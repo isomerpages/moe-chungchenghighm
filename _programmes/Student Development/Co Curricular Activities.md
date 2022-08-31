@@ -177,3 +177,6 @@ third_nav_title: Student Development
   </tr>
 </tbody>
 </table>
+
+<h5 style="color:black" align="left">Visual & Cultural Arts Groups</h5>
+
