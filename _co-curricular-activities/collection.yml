@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Art & Craft.md
       - Chinese Calligraphy & Brush Painting.md
       - Chinese Chess Club.md
       - Chinese Drama.md
