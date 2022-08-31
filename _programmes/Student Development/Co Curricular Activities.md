@@ -178,3 +178,11 @@ third_nav_title: Student Development
   </tr>
 </tbody>
 </table>
+
+![](/images/chinese_drama_club-square.jpeg)
+![](/images/choir-square.jpeg)
+![](/images/concert-band-square.jpeg)
+![](/images/dance-club-square.jpeg)
+![](/images/English-Drama-square.jpeg)
+![](/images/guzheng-square.jpeg)
+![](/images/chinese_orchestra-square.jpeg)
