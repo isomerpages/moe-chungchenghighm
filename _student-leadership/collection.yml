@@ -2,4 +2,5 @@ collections:
   student-leadership:
     output: true
     order:
+      - CCA Leaders.md
       - Student Council.md
