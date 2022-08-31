@@ -24,3 +24,46 @@ third_nav_title: Student Development
   </tr>
 </tbody>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-43yd{background-color:#CB4B3D;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-mgsp{background-color:#EEE;text-align:center;vertical-align:middle}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-43yd"><span style="color:#FFF;background-color:#CB4B3D">CCA</span></th>
+    <th class="tg-43yd"><span style="color:#FFF;background-color:#CB4B3D">Day/Time</span></th>
+    <th class="tg-43yd"><span style="color:#FFF;background-color:#CB4B3D">Venue</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-mgsp">Girl Guides</td>
+    <td class="tg-mgsp" rowspan="5">Wednesday &amp; Friday<br><br><span style="font-weight:400;color:#1E1E1E">3.15pm – 6.15pm</span></td>
+    <td class="tg-mgsp">Concourse</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">National Cadet Corps</td>
+    <td class="tg-nrix">Concourse</td>
+  </tr>
+  <tr>
+    <td class="tg-mgsp">National Police Cadet Corps</td>
+    <td class="tg-mgsp">NPCC Room</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">St John Brigade</td>
+    <td class="tg-nrix">Concourse</td>
+  </tr>
+  <tr>
+    <td class="tg-mgsp">Scouts</td>
+    <td class="tg-mgsp">School Field</td>
+  </tr>
+</tbody>
+</table>
