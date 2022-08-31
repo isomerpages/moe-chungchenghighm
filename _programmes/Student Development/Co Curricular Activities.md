@@ -191,7 +191,7 @@ third_nav_title: Student Development
 <tbody>
   <tr>
     <td><img src="/images/st_john-square.jpeg" alt="ST JOHN BRIGADE" width="106" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/lion-dance-club/" target="_blank" rel="noopener noreferrer">LION & DRAGON DANCE<br>龙狮团</a></td>
-    <td><img src="/images/scouts-square.jpeg" alt="SCOUTS" width="74" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/media-technology-club/" target="_blank" rel="noopener noreferrer">DIGITAL MEDIA<br>媒体学会</a></td>
+    <td><img src="![](/images/media_club_square.jpeg)" alt="DIGITAL MEDIA" width="74" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/media-technology-club/" target="_blank" rel="noopener noreferrer">DIGITAL MEDIA<br>媒体学会</a></td>
     <td></td>
   </tr>
 </tbody>
