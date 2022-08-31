@@ -7,26 +7,42 @@ third_nav_title: Student Development
 <html>
 <body>
 <p><a href="/student-development/learning-for-life-programme-llp">
-<img src="/images/5%20Reasons%20logo%208.png"  style="width:35%">
+<img src="/images/IMG_8353-300x200.jpeg"  style="width:35%">
 </a></p>
 </body>
 </html>
 
-[![](https://chungchenghighmain.moe.edu.sg/wp-content/uploads/2019/11/IMG_8353-300x200.jpg)](https://chungchenghighmain.moe.edu.sg/programmes/student-development/student-leadership/student-council/)
+<p style="text-align:center;">Student Councillors</p>
 
-Student Councillors
+<html>
+<body>
+<p><a href="/student-development/learning-for-life-programme-llp">
+<img src="/images/IMG_8364-768x512.jpeg"  style="width:35%">
+</a></p>
+</body>
+</html>
 
-[![](https://chungchenghighmain.moe.edu.sg/wp-content/uploads/2019/11/IMG_8364-300x200.jpg)](https://chungchenghighmain.moe.edu.sg/programmes/student-development/student-leadership/cca-leaders/)
+<p style="text-align:center;">CCA Leaders</p>
 
-CCA Leaders
+<html>
+<body>
+<p><a href="/student-development/learning-for-life-programme-llp">
+<img src="/images/PSL-300x225.jpeg"  style="width:35%">
+</a></p>
+</body>
+</html>
 
-[![](https://chungchenghighmain.moe.edu.sg/wp-content/uploads/2019/11/PSL-300x225.jpg)](https://chungchenghighmain.moe.edu.sg/programmes/student-development/student-leadership/peer-support-leaders/)
+<p style="text-align:center;">Peer Support Leaders</p>
 
-Peer Support Leaders
+<html>
+<body>
+<p><a href="/student-development/learning-for-life-programme-llp">
+<img src="/images/Class-Leaders-300x225.jpeg"  style="width:35%">
+</a></p>
+</body>
+</html>
 
-[![](https://chungchenghighmain.moe.edu.sg/wp-content/uploads/2019/11/Class-Leaders-300x225.jpg)](https://chungchenghighmain.moe.edu.sg/programmes/student-development/student-leadership/class-leaders/)
-
-Class Leaders
+<p style="text-align:center;">Class Leaders</p>
 
 We believe that every child is a leader. Our efforts focus on nurturing students to be confident and inspiring leaders. This is achieved through providing a variety of leadership training programmes so that every Chung Cheng student will have the opportunity to lead self and to lead others (立己达人).
 
