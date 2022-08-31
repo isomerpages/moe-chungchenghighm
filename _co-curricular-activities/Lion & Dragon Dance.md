@@ -10,7 +10,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/CCA-Lion-Dance.jpeg" alt="School Uniform" style="width:100%;">  
+<body><img src="/images/CCA-Lion-Dance.jpeg" alt="Lion & Dragon Dance" style="width:100%;">  
   
 </body>
 
