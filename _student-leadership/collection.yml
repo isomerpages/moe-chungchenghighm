@@ -1,4 +1,5 @@
 collections:
   student-leadership:
     output: true
-    order: []
+    order:
+      - Student Council.md
