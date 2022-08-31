@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Chinese Chess Club.md
       - Chinese Drama.md
       - Lion & Dragon Dance.md
       - Girl Guides.md
