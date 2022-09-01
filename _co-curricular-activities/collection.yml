@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Volleyball.md
       - Wushu.md
       - Chinese Orchestra.md
       - Choir.md
