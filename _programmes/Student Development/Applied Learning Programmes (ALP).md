@@ -106,17 +106,19 @@ Encouraged by the positive responses from the July 2018 Taster Modules, the scho
 
 For any queries, please feel free to email Mr Wu Derui @ [wu\_derui@cchm.edu.sg](mailto:wu_derui@cchm.edu.sg).
 
+<br>
+
 <ul class="jekyllcodex_accordion">
   <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">Simple</label>
+    <input type="checkbox" id="accordion7">
+    <label for="accordion7">Simple</label>
     <div>
       <p>This is a simple one line item</p>
     </div>
 	</li>  
   <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">Multi-line Block</label>
+    <input type="checkbox" id="accordion8">
+    <label for="accordion8">Multi-line Block</label>
     <div>
       <p>This is line 1</p>
       <p>This is line 2<br>
@@ -124,8 +126,8 @@ For any queries, please feel free to email Mr Wu Derui @ [wu\_derui@cchm.edu.sg
     </div>
   </li>
   <li>
-    <input type="checkbox" id="accordion3">
-    <label for="accordion3">Multi-line Folded</label>
+    <input type="checkbox" id="accordion9">
+    <label for="accordion9">Multi-line Folded</label>
     <div>
       <p>
         This is all going
@@ -134,8 +136,8 @@ For any queries, please feel free to email Mr Wu Derui @ [wu\_derui@cchm.edu.sg
     </div>
   </li>
   <li>
-    <input type="checkbox" id="accordion4">
-    <label for="accordion4">Ordered List</label>
+    <input type="checkbox" id="accordion10">
+    <label for="accordion10">Ordered List</label>
     <div>
       <ol>
         <li>Item 1</li>
@@ -145,8 +147,8 @@ For any queries, please feel free to email Mr Wu Derui @ [wu\_derui@cchm.edu.sg
     </div>
   </li>
   <li>
-    <input type="checkbox" id="accordion5">
-    <label for="accordion5">Unordered List</label>
+    <input type="checkbox" id="accordion11">
+    <label for="accordion11">Unordered List</label>
     <div>
       <ul>
         <li>Item 1</li>
@@ -156,15 +158,15 @@ For any queries, please feel free to email Mr Wu Derui @ [wu\_derui@cchm.edu.sg
     </div>
   </li>
 	 <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">Simple</label>
+    <input type="checkbox" id="accordion12">
+    <label for="accordion12">Simple</label>
     <div>
       <p>This is a simple one line item</p>
     </div>
 	</li>  
   <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">Multi-line Block</label>
+    <input type="checkbox" id="accordion13">
+    <label for="accordion13">Multi-line Block</label>
     <div>
       <p>This is line 1</p>
       <p>This is line 2<br>
@@ -172,8 +174,8 @@ For any queries, please feel free to email Mr Wu Derui @ [wu\_derui@cchm.edu.sg
     </div>
   </li>
   <li>
-    <input type="checkbox" id="accordion3">
-    <label for="accordion3">Multi-line Folded</label>
+    <input type="checkbox" id="accordion14">
+    <label for="accordion14">Multi-line Folded</label>
     <div>
       <p>
         This is all going
@@ -182,8 +184,8 @@ For any queries, please feel free to email Mr Wu Derui @ [wu\_derui@cchm.edu.sg
     </div>
   </li>
   <li>
-    <input type="checkbox" id="accordion4">
-    <label for="accordion4">Ordered List</label>
+    <input type="checkbox" id="accordion15">
+    <label for="accordion15">Ordered List</label>
     <div>
       <ol>
         <li>Item 1</li>
