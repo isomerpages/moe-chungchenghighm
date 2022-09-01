@@ -72,3 +72,36 @@ Encouraged by the positive responses from the July 2018 Taster Modules, the scho
   </tr>
 </tbody>
 </table>
+
+<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-un5n{background-color:#CB4B3D;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-u1cn{background-color:#EEE;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-un5n"><span style="font-weight:bolder">Modules on Monday</span></th>
+    <th class="tg-un5n"><span style="font-weight:bolder">Modules on Tuesday</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-u1cn">The Art of Music Production</td>
+    <td class="tg-u1cn">Entrepreneurship</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Urban Farming</td>
+    <td class="tg-cly1">The Energy Crisis</td>
+  </tr>
+</tbody>
+</table>
+
+For any queries, please feel free to email Mr Wu Derui @ [wu\_derui@cchm.edu.sg](mailto:wu_derui@cchm.edu.sg).
