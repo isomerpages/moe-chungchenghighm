@@ -280,11 +280,29 @@ For any queries, please feel free to email Mr Wu Derui @ [wu\_derui@cchm.edu.sg
     <input type="checkbox" id="accordion10">
     <label for="accordion10">Survival Craft</label>
     <div>
-      <ol>
-        <li>Item 1</li>
-        <li>Item 2</li>        
-				<li>Item 3</li>
-      </ol>
+      <h3 id="synopsis">Synopsis</h3>
+<p>This module aims to equip students with the competencies and dispositions for survival in situations where little or no access to resources critical to sustenance of life (e.g. trapped in a forest) is available. In the urban setting, the competencies and skills would enable one to improvise innovatively and adapt to the environment. Join this module to learn a wide array of skills like survival planning, field medicine, water filtration, making shelters and fire, etc. in a fun and authentic way, like you have never done before!</p>
+<h3 id="outline">Outline</h3>
+<p>Session 1 (1.5 hours): Tinder Preparation and Starting a Fire</p>
+<ul>
+<li>Using Fire Steel/ Magnesium Rod as Starter and Cotton Dressing Pads as Tinder</li>
+<li>Using Regular 9V Battery as Starter and Cotton Dressing Pads as Tinder</li>
+</ul>
+<p>Session 2 (1.5 hours): Improvised shelters with basic knots and lashings</p>
+<ul>
+<li>The wedge</li>
+<li>The wing</li>
+<li>The A-frame</li>
+</ul>
+<p>Session 3 (120 mins): Food Preparation</p>
+<ul>
+<li>Sourcing for food</li>
+<li>Determining if fruits/ leaves are edible</li>
+<li>Outdoor cooking</li>
+</ul>
+<p>Session 4 (2 Hours): Basic First Aid and Improvised Stretchers with Evacuation Techniques</p>
+<p>Session 5 (2+ hours): Application of Skills</p>
+<p>Session 6 (2+ hours): Application of Skills</p>
     </div>
   </li>
   <li>
