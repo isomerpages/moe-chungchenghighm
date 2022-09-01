@@ -113,7 +113,49 @@ For any queries, please feel free to email Mr Wu Derui @ [wu\_derui@cchm.edu.sg
     <input type="checkbox" id="accordion7">
     <label for="accordion7">App Design & Creation</label>
     <div>
-      <p>This is a simple one line item</p>
+      <h3 id="synopsis">Synopsis</h3>
+<p>Ever dreamed of publishing a mobile app in iTunes or Google Play? Then wait no more! This module aims to introduce students to design innovation. With the help of MIT App Inventor, an interactive programming interface perfect for beginners at coding, this class will task the participants to come up with creative solutions to solve problems they observe around them! The coursework will involve learning the software, creating a mobile application on it and also understanding the entire process of design thinking, a technique which requires the inventor/designer to truly understand the problem before beginning to ideate on a solution.</p>
+<h3 id="outline">Outline</h3>
+<p>Session 1 [2 hours]</p>
+<ul>
+<li>Introduction to computational thinking</li>
+<li>Overview of mobile app development workflow</li>
+<li>Navigating the user interface of MIT App Inventor</li>
+<li>Coding their first game app</li>
+<li>Downloading the app on a smartphone</li>
+</ul>
+<p>Session 2 [2 hours]</p>
+<ul>
+<li>Introduction to variables</li>
+<li>Event-based programming</li>
+<li>Detecting touch-based inputs</li>
+<li>Calculating &amp; displaying a score text</li>
+<li>Importing media</li>
+</ul>
+<p>Session 3 [2 hours]</p>
+<ul>
+<li>Introduction to human-centred design approach</li>
+<li>Interview one another to discover challenges in everyday life</li>
+<li>Learn about problem framing</li>
+<li>Rapid ideation &amp; wireframing of app prototypes</li>
+<li>Understand the importance of user feedback &amp; iteration</li>
+</ul>
+<p>Session 4 [2 hours]</p>
+<ul>
+<li>Demo of relevant code components based on students’ ideas</li>
+<li>Work in pairs to develop their app prototype</li>
+<li>Describe their Minimum Viable Product (MVP) and their scope of work across the next 2 sessions</li>
+</ul>
+<p>Session 5 [2 hours]</p>
+<ul>
+<li>Review the apps with teams and get them to test with other students to get feedback</li>
+<li>Document the feedback and iterate their app design &amp; features</li>
+</ul>
+<p>Session 6 [2 hours]</p>
+<ul>
+<li>Demo of how to pitch an app</li>
+<li>Prepare a pitch deck/website to showcase their app design journey and their final app prototype</li>
+</ul>
     </div>
 	</li>  
   <li>
@@ -195,3 +237,4 @@ For any queries, please feel free to email Mr Wu Derui @ [wu\_derui@cchm.edu.sg
     </div>
   </li>
 </ul>
+
