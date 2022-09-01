@@ -360,9 +360,41 @@ For any queries, please feel free to email Mr Wu Derui @ [wu\_derui@cchm.edu.sg
     <input type="checkbox" id="accordion13">
     <label for="accordion13">Photography for Content Creators</label>
     <div>
-      <p>This is line 1</p>
-      <p>This is line 2<br>
-        This is line 3</p>
+      <h3 id="synopsis">Synopsis</h3>
+<p>History is about capturing the past to serve a present, or even a future need. Be it to uphold political legitimacy, to tell the story of a loved one from long ago, or to teach important civic values – history has held its place as an important tool, if not a vehicle for the transmission of knowledge. How will this change in the 22nd century? What value does the telling of history hold for the new age, an age filled with volatility, uncertainty, complexity, and ambiguity? How will our histories be transmitted in the next century? This module is intended to help students understand the history of history and its relevance in the 22nd century. Students will learn and appreciate the transmission of history, and how it has transformed from cave art, to books, to the use of photographs and even the use of videos. It is hoped that students will become keen tellers of the story of history and be able to use the skills learnt in storytelling, photography, and cinematography to serve them beyond the study of history.</p>
+<p>Outline</p>
+<p>Session 1 [1.5 hours]</p>
+<ul>
+<li>What is this module about?</li>
+<li>Who are Content Creators?</li>
+<li>What tools do I need to create content?</li>
+<li>What is a Digital Single-Lens Reflex (DSLR) Camera? What is a Mirrorless Camera?</li>
+<li>How do I take good photographs with a camera?</li>
+</ul>
+<p>Session 2 [1.5 hours]</p>
+<ul>
+<li>How do I take pictures and make them look like the filters on Instagram?</li>
+</ul>
+<p>Session 3 [1.5 hours]</p>
+<ul>
+<li>How do I tell good stories with my photographs?</li>
+<li>What is the history of history?</li>
+<li>How do we tell stories?</li>
+<li>What are important elements in transmitting historical stories?</li>
+<li>Where are the historical stories of today?</li>
+</ul>
+<p>Session 4 [1.5 hours]</p>
+<ul>
+<li>What is the Chung Cheng spirit?</li>
+</ul>
+<p>Session 5 [3 hours]</p>
+<ul>
+<li>Learning Journey</li>
+</ul>
+<p>Session 6 [2 hours]</p>
+<ul>
+<li>Product Presentation</li>
+</ul>
     </div>
   </li>
   <li>
@@ -387,4 +419,3 @@ For any queries, please feel free to email Mr Wu Derui @ [wu\_derui@cchm.edu.sg
     </div>
   </li>
 </ul>
-
