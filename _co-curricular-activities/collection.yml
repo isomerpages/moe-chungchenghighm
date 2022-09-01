@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Softball (Girls).md
       - Table Tennis.md
       - Volleyball.md
       - Wushu.md
