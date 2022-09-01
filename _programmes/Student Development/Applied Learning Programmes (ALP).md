@@ -401,10 +401,71 @@ For any queries, please feel free to email Mr Wu Derui @ [wu\_derui@cchm.edu.sg
     <input type="checkbox" id="accordion14">
     <label for="accordion14">The Art of Music Production</label>
     <div>
-      <p>
-        This is all going
-        to become just one line\n even though there are multiple lines
-      </p>
+      <p><strong>Synopsis</strong></p>
+<p>Learn how to produce your own records that other people will enjoy listening to. In this course, you will learn how to create emotionally moving recordings on almost any type of recording equipment, including your laptop or smartphone. The focus of the course is on mastering tangible artistic concepts while the equipment that you use is up to you. You will learn to develop the most important tool in the recording environment: your ears. By using deeper listening skills, you will learn to enhance every aspect of your own production.</p>
+<p>Through this 7-week course, you will learn about yourself and your identity as an artist and producer. There is no necessity that you read music or play an instrument to take this module.</p>
+<p><strong>Outline</strong></p>
+<p>Session 1 [2 hours]</p>
+<p><strong>How to listen like a Producer:</strong></p>
+<ul>
+<li>Role of a producer</li>
+<li>Different roles in music production: Musician, Composer, Singer, Songwriter, Sound engineer</li>
+<li>The reason behind why we listen to music</li>
+<li>Listening technically versus listening with emotion</li>
+<li>Kinesthetic observation</li>
+<li>What makes an emotionally moving recording</li>
+<li>Make your music sound like a professional record</li>
+</ul>
+<p>Session 2 [2 hours]</p>
+<p><strong>Establishing your Identity, Vision, and Intention as a Creator</strong></p>
+<ul>
+<li>Building your identity, vision, and intention as an artist and producer</li>
+</ul>
+<p>Session 3 [2 hours]</p>
+<p><strong>Tools &amp; Strategies for an Effective Music Production Part I</strong></p>
+<ul>
+<li>Make better music using the concept of prosody (storytelling)</li>
+<li>The structure of your song</li>
+<li>Writing lyrics</li>
+<li>Crafting melodies</li>
+<li>The technique of repetition</li>
+</ul>
+<p>Session 4 [2 hours]</p>
+<p><strong>Tools &amp; Strategies for an Effective Music Production Part II</strong></p>
+<ul>
+<li>Arranging your music</li>
+<li>Studio performance</li>
+<li>Programming tracks</li>
+<li>How to produce vocals</li>
+</ul>
+<p>Session 5 [2 hours]</p>
+<p><strong>Defining the Sonic Signature of your Song</strong></p>
+<ul>
+<li>Recording your song</li>
+<li>Understanding acoustics</li>
+<li>Vocal miking techniques</li>
+<li>Instrument miking Techniques</li>
+<li>Layering of music</li>
+<li>Blending technology and art</li>
+</ul>
+<p>Session 6 [2 hours]</p>
+<p><strong>Music Production Capstone Project</strong></p>
+<ul>
+<li>Students will use this session to refine their production.</li>
+</ul>
+<p>Session 7 [2 hours]</p>
+<p><strong>Music Production Capstone Project Presentation</strong></p>
+<ul>
+<li>Showcase and Reflections</li>
+</ul>
+<p>Notes regarding music copyright:</p>
+<ul>
+<li>cannot commercially exploit original works</li>
+<li>Must have independent effort in the creation of the work</li>
+<li>Must be not-for-profit</li>
+<li>Safe to use for educational purposes and with audience connected to the school (students, teachers, parents etc.)</li>
+<li>Can check with the legal department of MOE for further enquirers</li>
+</ul>
     </div>
   </li>
   <li>
