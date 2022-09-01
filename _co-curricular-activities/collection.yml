@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - National Police Cadet Corps.md
       - National Cadet Corps (NCC) (Land).md
       - St John Brigade.md
       - Scouts.md
