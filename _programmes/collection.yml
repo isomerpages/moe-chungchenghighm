@@ -2,14 +2,14 @@ collections:
   programmes:
     output: true
     order:
-      - Student Development/Applied Learning Programmes (ALP).md
-      - Student Development/Special Programmes.md
-      - Student Development/Co Curricular Activities.md
-      - Student Development/Student Leadership.md
-      - Student Development/Sexuality Education.md
-      - Student Development/Character and Citizenship Education (CCE).md
-      - Student Development/Student Development.md
       - Student Development/.keep
+      - Student Development/Student Development.md
+      - Student Development/Character and Citizenship Education (CCE).md
+      - Student Development/Sexuality Education.md
+      - Student Development/Student Leadership.md
+      - Student Development/Co Curricular Activities.md
+      - Student Development/Special Programmes.md
+      - Student Development/Applied Learning Programmes (ALP).md
       - Curriculum/English Language and Literature.md
       - Curriculum/Chinese Language.md
       - Curriculum/Mathematics.md
