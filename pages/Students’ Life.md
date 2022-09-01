@@ -8,3 +8,7 @@ description: ""
 ![](/images/Arts-fest-5-Art-club-Dreams-and-reality-e1574341924363.jpeg)
 ![](/images/Arts-fest-6-Dance-aspire-e1574341939741.jpeg)
 ![](/images/Arts-fest-7-CL-drama-e1574341955762.jpeg)
+![](/images/cchmsopenhouse22018-36-e1574341971690.jpeg)
+![](/images/cchmsopenhouse22018-81-e1574341998698.jpeg)
+![](/images/cchmsopenhouse22018-243-e1574342021787.jpeg)
+![](/images/chongqing-trip-1-e1574342040679.jpeg)
