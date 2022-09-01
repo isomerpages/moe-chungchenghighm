@@ -309,11 +309,41 @@ For any queries, please feel free to email Mr Wu Derui @ [wu\_derui@cchm.edu.sg
     <input type="checkbox" id="accordion11">
     <label for="accordion11">The Counting Problem</label>
     <div>
-      <ul>
-        <li>Item 1</li>
-        <li>Item 2</li>
-        <li>Item 3</li>
-      </ul>
+      <h3 id="synopsis">Synopsis</h3>
+<p>1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12… to quite a number of us, this song from Sesame Street still rings in our head today.</p>
+<p>Counting seems almost intuitive and deceptively simple that we believe that we are already masters of this subject.</p>
+<p>Is it really so?</p>
+<p>In this module, we introduce different problems and puzzles that bring us on a journey of discovery: testing your counting skills and unravelling the principles behind counting efficiently.</p>
+<p>Counting is used to calculate probabilities and possibilities which are applied in various fields such as forensic science, Chemistry, Genetics, risk-management, etc. Using counting, we will also decide for ourselves if it is worth taking part in various gambling schemes.</p>
+<h3 id="outline">Outline</h3>
+<p>Session 1 (90 mins)</p>
+<ul>
+<li>Counting numbers in a list</li>
+<li>Idea of 1-1 correspondence in counting</li>
+<li>The Addition Principle &amp; Application [1]</li>
+</ul>
+<p>Session 2 (90 mins)</p>
+<ul>
+<li>The Addition Principle &amp; Application [2]</li>
+<li>The Multiplication Principle &amp; Application [1]</li>
+<li>The Multiplication Principle &amp; Application [2]</li>
+</ul>
+<p>Session 3 (90 mins)</p>
+<ul>
+<li>Subsets and arrangements [1]: Combination</li>
+<li>Subsets and Arrangements [2]: Permutation</li>
+<li>Calculating interesting probabilities found in games and activities</li>
+</ul>
+<p>Session 4 (90 mins)</p>
+<ul>
+<li>Counting …Infinity?</li>
+<li>Miscellaneous Problems [1]</li>
+</ul>
+<p>Session 5 (90 mins)</p>
+<ul>
+<li>Miscellaneous Problems [2]</li>
+<li>Further Application and Related Topics</li>
+</ul>
     </div>
   </li>
 	 <li>
