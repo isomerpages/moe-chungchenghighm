@@ -3,7 +3,6 @@ title: Students’ Life
 permalink: /students-life/
 description: ""
 ---
-![](/images/Arts-fest-1-CO-e1574341883749.jpeg)
 <style>  
 img {  
   display: block;  
@@ -11,12 +10,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:90%;">  
+<body><img src="/images/Arts-fest-1-CO-e1574341883749.jpeg" alt="School Uniform" style="width:90%;">  
   
 </body>
 
-![](/images/Arts-fest-4-guzheng%20Large.jpeg)
-
 <style>  
 img {  
   display: block;  
@@ -24,12 +21,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:90%;">  
+<body><img src="/images/Arts-fest-4-guzheng%20Large.jpeg" alt="School Uniform" style="width:90%;">  
   
 </body>
 
-![](/images/Arts-fest-5-Art-club-Dreams-and-reality-e1574341924363.jpeg)
-
 <style>  
 img {  
   display: block;  
@@ -37,12 +32,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:90%;">  
+<body><img src="/images/Arts-fest-5-Art-club-Dreams-and-reality-e1574341924363.jpeg" alt="School Uniform" style="width:90%;">  
   
 </body>
 
-![](/images/Arts-fest-6-Dance-aspire-e1574341939741.jpeg)
-
 <style>  
 img {  
   display: block;  
@@ -50,12 +43,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:90%;">  
+<body><img src="/images/Arts-fest-6-Dance-aspire-e1574341939741.jpeg" alt="School Uniform" style="width:90%;">  
   
 </body>
 
-![](/images/Arts-fest-7-CL-drama-e1574341955762.jpeg)
-
 <style>  
 img {  
   display: block;  
@@ -63,7 +54,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:90%;">  
+<body><img src="/images/Arts-fest-7-CL-drama-e1574341955762.jpeg" alt="School Uniform" style="width:90%;">  
   
 </body>
 
