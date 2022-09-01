@@ -12,3 +12,8 @@ description: ""
 ![](/images/cchmsopenhouse22018-81-e1574341998698.jpeg)
 ![](/images/cchmsopenhouse22018-243-e1574342021787.jpeg)
 ![](/images/chongqing-trip-1-e1574342040679.jpeg)
+![](/images/CCHS-Camp-Resilience-19-7-e1574342061678.jpeg)
+![](/images/CCHS-Camp-Resilience-19-61-e1574342075785.jpeg)
+![](/images/CCHS-Camp-Resilience-19-205-e1574342090921.jpeg)
+![](/images/CCHS-Camp-Resilience-19-239-e1574342107860.jpeg)
+![](/images/CCHS-Camp-Resilience-19-243-e1574342123391.jpeg)
