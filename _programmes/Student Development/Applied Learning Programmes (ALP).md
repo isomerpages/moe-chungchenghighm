@@ -23,3 +23,53 @@ The ALP is intended to help students appreciate the relevance and value of acade
 Encouraged by the positive responses from the July 2018 Taster Modules, the school will roll out 6 learning modules under the ALP in Semester 1 of 2019. Synopses and outlines of these modules can be found under the “2019 Modules” tab. Students who opted for the ALP can use these information to select their desired modules in January 2019.
 
 <u>2020 Sem 1 ALP Schedule</u>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-un5n{background-color:#CB4B3D;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-mgsp{background-color:#EEE;text-align:center;vertical-align:middle}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-un5n"><span style="font-weight:bolder">Session</span></th>
+    <th class="tg-un5n"><span style="font-weight:bolder">Dates</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-mgsp">1</td>
+    <td class="tg-mgsp">20, 21 Jan</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">2</td>
+    <td class="tg-nrix">3, 4 Feb</td>
+  </tr>
+  <tr>
+    <td class="tg-mgsp">3</td>
+    <td class="tg-mgsp">10, 11 Feb</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">4</td>
+    <td class="tg-nrix">17, 18 Feb</td>
+  </tr>
+  <tr>
+    <td class="tg-mgsp">5</td>
+    <td class="tg-mgsp">24, 25 Feb</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">6</td>
+    <td class="tg-nrix">2, 3 Mar</td>
+  </tr>
+  <tr>
+    <td class="tg-mgsp">7</td>
+    <td class="tg-mgsp">9, 10 Mar</td>
+  </tr>
+</tbody>
+</table>
+
