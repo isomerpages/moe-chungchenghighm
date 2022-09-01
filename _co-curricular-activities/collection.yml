@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Girl Guides.md
       - National Police Cadet Corps.md
       - National Cadet Corps (NCC) (Land).md
       - St John Brigade.md
@@ -26,4 +27,3 @@ collections:
       - Chinese Chess Club.md
       - Chinese Drama.md
       - Lion & Dragon Dance.md
-      - Girl Guides.md
