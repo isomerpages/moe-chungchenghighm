@@ -2,4 +2,5 @@ collections:
   special-programmes:
     output: true
     order:
+      - Malay (Special Programme).md
       - Music Special Programme & Enhanced Music Programme.md
