@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Cross Country.md
       - Netball.md
       - Softball (Girls).md
       - Table Tennis.md
