@@ -162,9 +162,108 @@ For any queries, please feel free to email Mr Wu Derui @ [wu\_derui@cchm.edu.sg
     <input type="checkbox" id="accordion8">
     <label for="accordion8">Crime Scene Investigation</label>
     <div>
-      <p>This is line 1</p>
-      <p>This is line 2<br>
-        This is line 3</p>
+      <h3 id="a-look-into-forensic-science">A Look into Forensic Science</h3>
+<h3 id="synopsis">Synopsis</h3>
+<p>Forensic Science is the application of scientific theories in the resolution of legal disputes. The use of scientific concepts is of value here because of the ability of this subject nature to provide reliable, pertinent and mostly definitive information about a given case. In this module, students will learn to appreciate the basic principles behind forensic science, such as preservation and processing a crime scene, analysis of trace and contact evidence, and an introduction to the legal processes involved in forensic science. Students will also get to go for a learning journey to the Supreme Court of Singapore and take a look at how litigation cases are tried in Singapore.</p>
+<h3 id="outline">Outline</h3>
+<p>Session 1 [2 hours]</p>
+<p>Introduction to Forensic Science</p>
+<ul>
+<li><p>Basic ideas surrounding Forensic Science</p>
+</li>
+<li><p>Locard’s Exchange Principle</p>
+</li>
+<li><p>Basics of processing a crime scene</p>
+</li>
+</ul>
+<p>Analysis of Evidence</p>
+<ul>
+<li>Eye witness – Facial biometrics</li>
+</ul>
+<p>Session 2 [2 hours]</p>
+<p>Analysis of Evidence</p>
+<ul>
+<li><p>Fingerprints</p>
+</li>
+<li><p>Forensic Chemistry</p>
+<ul>
+<li>Indicators</li>
+<li>Iodine fuming</li>
+<li>Magnetic and fluorescent powders</li>
+</ul>
+</li>
+</ul>
+<p>Briefing on Project Work Task</p>
+<ul>
+<li>Students will research on a particular forensic technique and present on a real case that involved the use of that technique to crack.</li>
+</ul>
+<p>Session 3 [2 hours]</p>
+<p>Analysis of Evidence</p>
+<ul>
+<li><p>Blood spatter analysis and blood typing</p>
+</li>
+<li><p>Traces of blood</p>
+<ul>
+<li>Leuco Crystal Violet</li>
+<li>Luminol</li>
+</ul>
+</li>
+<li><p>DNA Analysis</p>
+<ul>
+<li>DNA extraction and profiling</li>
+</ul>
+</li>
+</ul>
+<p>Session 4 [2 hours]</p>
+<p>Analysis of Evidence</p>
+<ul>
+<li><p>Yaw and skid marks</p>
+</li>
+<li><p>Fabric analysis</p>
+<ul>
+<li>Microscopic examination</li>
+<li>Burning test</li>
+<li>Staining</li>
+<li>Introduction to refractive indices of fabrics</li>
+</ul>
+</li>
+</ul>
+<p>Forensic Law</p>
+<ul>
+<li><p>Introduction to the Evidence Act</p>
+</li>
+<li><p>Collection of evidence</p>
+</li>
+<li><p>Hearsay Rule</p>
+</li>
+<li><p>Corroboration</p>
+</li>
+<li><p>Opinion evidence</p>
+</li>
+<li><p>Burden of proof</p>
+</li>
+</ul>
+<p>Session 5 [3 hours]</p>
+<p>Forensic Law and Sharing by Scientists</p>
+<ul>
+<li>Learning journey with Forensic Experts Group, Singapore</li>
+</ul>
+<p>Session 6 [2 hours]</p>
+<p>Student Presentations</p>
+<ul>
+<li>Each group of 3-4 students will be given 5-7 minutes to present their research findings with peer evaluation (rubrics provided), and 2-3 minutes for Q&amp;A by teachers and peers.</li>
+</ul>
+<p>Forensic Science in Singapore</p>
+<ul>
+<li><p>Introduction to Attorney General’s Chambers, Health Sciences Authority Forensic Science Division and Singapore Police Force Crime Investigation Department</p>
+</li>
+<li><p>Examples of real cases in Singapore and the part Forensic Science played in the investigation process</p>
+</li>
+</ul>
+<p>Student survey and reflections</p>
+<ul>
+<li>Students will be asked to reflect on the key learning points of the course and provide feedback for future use.</li>
+</ul>
     </div>
   </li>
   <li>
