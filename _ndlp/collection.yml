@@ -2,5 +2,5 @@ collections:
   ndlp:
     output: true
     order:
-      - Blended Learning.md
       - National Digital Literacy Programme.md
+      - Blended Learning.md
