@@ -89,15 +89,14 @@ The Family Life Education workshops have been successful in enhancing the qualit
 
 Please click on the links for further info.
 
-*   [2015 Family Life Education Workshops](https://chungchenghighmain.moe.edu.sg/wp-content/uploads/2019/09/Family-Workshop-2015.png)
-*   [Emotional Coaching Parents – 7 February 2015](https://chungchenghighmain.moe.edu.sg/wp-content/uploads/2019/09/7th-feb-coaching.png)
-*   [IQEQ Multiple Intelligences – 14 March 2015](https://chungchenghighmain.moe.edu.sg/wp-content/uploads/2019/09/IQEQ_14-Mar-2015.pdf)
-*   [The 4 Major Parenting Styles – 30 May 2015](https://chungchenghighmain.moe.edu.sg/wp-content/uploads/2019/09/The-4-Major-Parenting-Styles_30-May-2015.pdf)
-*   [Connect and Engage Your Child – 27 June 2015](https://chungchenghighmain.moe.edu.sg/wp-content/uploads/2019/09/CCHS-FMS-flyer-27-Jun-15.pdf)
-*   [Helping your teens to manage stress – 25 July 2015](https://chungchenghighmain.moe.edu.sg/wp-content/uploads/2019/09/Helping-Your-Teens-to-Manage-Stress-25-July-2015.pdf)
-*   [Anger Management – 29 August 2015](https://chungchenghighmain.moe.edu.sg/wp-content/uploads/2019/09/7th-feb-coaching.png)
-*   [Effective Counselling Skills for Parents – 19 Sept 2015](https://chungchenghighmain.moe.edu.sg/wp-content/uploads/2019/09/Effective-Counselling-Skills-for-Parents_19-Sept-2015.pdf)
-*   [Effective Counselling Skills for Parents – 19 Sept 2015](https://chungchenghighmain.moe.edu.sg/wp-content/uploads/2019/09/Effective-Counselling-Skills-for-Parents_19-Sept-2015.pdf)
-*   [Importance of Fathers\_24 Oct 2015](https://chungchenghighmain.moe.edu.sg/wp-content/uploads/2019/09/Importance-of-Fathers_24-Oct-2015.pdf)
-*   [Imparting Values to My Teens\_7 Nov 2015](https://chungchenghighmain.moe.edu.sg/wp-content/uploads/2019/09/Imparting-Values-to-My-Teens_7-Nov-2015.pdf)
-*   [Parenting and DISC Personality Tool 21 Nov\_2015](https://chungchenghighmain.moe.edu.sg/wp-content/uploads/2019/09/Parenting-and-DiSC-Personality-tool_21-Nov-2015.pdf)
+*   ![2015 Family Life Education Workshops](/images/Family-Workshop-2015.png) 2015 Family Life Education Workshops
+*   ![Emotional Coaching Parents – 7 February 2015](/images/7th-feb-coaching.png) Emotional Coaching Parents – 7 February 2015
+*   [IQEQ Multiple Intelligences – 14 March 2015](/files/IQEQ_14-Mar-2015.pdf)
+*   [The 4 Major Parenting Styles – 30 May 2015](/files/The-4-Major-Parenting-Styles_30-May-2015.pdf)
+*   [Connect and Engage Your Child – 27 June 2015](/files/CCHS-FMS-flyer-27-Jun-15.pdf)
+*   [Helping your teens to manage stress – 25 July 2015](/files/Helping-Your-Teens-to-Manage-Stress-25-July-2015.pdf)
+*   ![Anger Management – 29 August 2015](/images/7th-feb-coaching.png) Anger Management – 29 August 2015
+*   [Effective Counselling Skills for Parents – 19 Sept 2015](/files/Effective-Counselling-Skills-for-Parents_19-Sept-2015.pdf)
+*   [Importance of Fathers\_24 Oct 2015](/files/Importance-of-Fathers_24-Oct-2015.pdf)
+*   [Imparting Values to My Teens\_7 Nov 2015](/files/Imparting-Values-to-My-Teens_7-Nov-2015.pdf)
+*   [Parenting and DISC Personality Tool 21 Nov\_2015](/files/Parenting-and-DiSC-Personality-tool_21-Nov-2015.pdf)
