@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - Parents/Family Matters at School (FMS).md
       - Parents/Parents.md
       - Parents/.keep
       - Teachers.md
