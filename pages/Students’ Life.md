@@ -58,8 +58,6 @@ img {
   
 </body>
 
-![](/images/cchmsopenhouse22018-36-e1574341971690.jpeg)
-
 <style>  
 img {  
   display: block;  
@@ -67,12 +65,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:90%;">  
+<body><img src="/images/cchmsopenhouse22018-36-e1574341971690.jpeg" alt="School Uniform" style="width:90%;">  
   
 </body>
 
-![](/images/cchmsopenhouse22018-81-e1574341998698.jpeg)
-
 <style>  
 img {  
   display: block;  
@@ -80,12 +76,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:90%;">  
+<body><img src="/images/cchmsopenhouse22018-81-e1574341998698.jpeg" alt="School Uniform" style="width:90%;">  
   
 </body>
 
-![](/images/cchmsopenhouse22018-243-e1574342021787.jpeg)
-
 <style>  
 img {  
   display: block;  
@@ -93,11 +87,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:90%;">  
+<body><img src="/images/cchmsopenhouse22018-243-e1574342021787.jpeg" alt="School Uniform" style="width:90%;">  
   
 </body>
 
-![](/images/chongqing-trip-1-e1574342040679.jpeg)
 
 <style>  
 img {  
@@ -106,12 +99,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:90%;">  
+<body><img src="/images/chongqing-trip-1-e1574342040679.jpeg" alt="School Uniform" style="width:90%;">  
   
 </body>
 
-![](/images/CCHS-Camp-Resilience-19-7-e1574342061678.jpeg)
-
 <style>  
 img {  
   display: block;  
@@ -119,12 +110,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:90%;">  
+<body><img src="/images/CCHS-Camp-Resilience-19-7-e1574342061678.jpeg" alt="School Uniform" style="width:90%;">  
   
 </body>
 
-![](/images/CCHS-Camp-Resilience-19-61-e1574342075785.jpeg)
-
 <style>  
 img {  
   display: block;  
@@ -132,12 +121,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:90%;">  
+<body><img src="/images/CCHS-Camp-Resilience-19-61-e1574342075785.jpeg" alt="School Uniform" style="width:90%;">  
   
 </body>
 
-![](/images/CCHS-Camp-Resilience-19-205-e1574342090921.jpeg)
-
 <style>  
 img {  
   display: block;  
@@ -145,12 +132,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:90%;">  
+<body><img src="/images/CCHS-Camp-Resilience-19-205-e1574342090921.jpeg" alt="School Uniform" style="width:90%;">  
   
 </body>
 
-![](/images/CCHS-Camp-Resilience-19-239-e1574342107860.jpeg)
-
 <style>  
 img {  
   display: block;  
@@ -158,11 +143,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:90%;">  
+<body><img src="/images/CCHS-Camp-Resilience-19-239-e1574342107860.jpeg" alt="School Uniform" style="width:90%;">  
   
 </body>
 
-![](/images/CCHS-Camp-Resilience-19-243-e1574342123391.jpeg)
 
 <style>  
 img {  
@@ -171,11 +155,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:90%;">  
+<body><img src="/images/CCHS-Camp-Resilience-19-243-e1574342123391.jpeg" alt="School Uniform" style="width:90%;">  
   
 </body>
 
-![](/images/Chung-cheng-80-Carnival-e1574342141168.jpeg)
 
 <style>  
 img {  
@@ -184,12 +167,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:90%;">  
+<body><img src="/images/Chung-cheng-80-Carnival-e1574342141168.jpeg" alt="School Uniform" style="width:90%;">  
   
 </body>
 
-![](/images/Chung-Cheng-80-Dinner-1-e1574342161316.jpeg)
-
 <style>  
 img {  
   display: block;  
@@ -197,11 +178,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:90%;">  
+<body><img src="/images/Chung-Cheng-80-Dinner-1-e1574342161316.jpeg" alt="School Uniform" style="width:90%;">  
   
 </body>
 
-![](/images/Chung-Cheng-80-Dinner-2-e1574342176475.jpeg)
 
 <style>  
 img {  
@@ -210,11 +190,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:90%;">  
+<body><img src="/images/Chung-Cheng-80-Dinner-2-e1574342176475.jpeg" alt="School Uniform" style="width:90%;">  
   
 </body>
 
-![](/images/Chung-Cheng-80-Dinner-3-e1574342190268.jpeg)
 
 <style>  
 img {  
@@ -223,12 +202,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:90%;">  
+<body><img src="/images/Chung-Cheng-80-Dinner-3-e1574342190268.jpeg" alt="School Uniform" style="width:90%;">  
   
 </body>
 
-![](/images/Chung-Cheng-80-Dinner-5-e1574342207901.jpeg)
-
 <style>  
 img {  
   display: block;  
@@ -236,12 +213,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:90%;">  
+<body><img src="/images/Chung-Cheng-80-Dinner-5-e1574342207901.jpeg" alt="School Uniform" style="width:90%;">  
   
 </body>
 
-![](/images/Chung-Cheng-80-Dinner-e1574342222925.jpeg)
-
 <style>  
 img {  
   display: block;  
@@ -249,6 +224,6 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school%20uniform.jpg" alt="School Uniform" style="width:90%;">  
+<body><img src="/images/Chung-Cheng-80-Dinner-e1574342222925.jpeg" alt="School Uniform" style="width:90%;">  
   
 </body>
