@@ -39,14 +39,14 @@ The Family Life Education workshops have been successful in enhancing the qualit
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion16">
-    <label for="accordion16">Simple</label>
+    <label for="accordion16">Information on FLE Workshops 2018</label>
     <div>
       <p>This is a simple one line item</p>
     </div>
 	</li>  
   <li>
     <input type="checkbox" id="accordion17">
-    <label for="accordion17">Multi-line Block</label>
+    <label for="accordion17">Information on FLE Workshops 2017</label>
     <div>
       <p>This is line 1</p>
       <p>This is line 2<br>
@@ -55,7 +55,7 @@ The Family Life Education workshops have been successful in enhancing the qualit
   </li>
   <li>
     <input type="checkbox" id="accordion18">
-    <label for="accordion18">Multi-line Folded</label>
+    <label for="accordion18">Information on FLE Workshops 2016</label>
     <div>
       <p>
         This is all going
@@ -65,7 +65,7 @@ The Family Life Education workshops have been successful in enhancing the qualit
   </li>
   <li>
     <input type="checkbox" id="accordion19">
-    <label for="accordion19">Ordered List</label>
+    <label for="accordion19">2015</label>
     <div>
       <ol>
         <li>Item 1</li>
