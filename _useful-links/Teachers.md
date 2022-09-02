@@ -20,8 +20,8 @@ description: ""
 </tbody>
 	<tbody>
   <tr>
-    <td><img src="![](/images/SchoolCockpit-logo.jpg)" alt="Library Online Catalogue" width="106" height="17"><br><br><a href="https://schoolibrary.moe.edu.sg/cchms" target="_blank" rel="noopener noreferrer"></a></td>
-    <td><img src="![](/images/School-Cockpit-Plus-Icon.jpeg)" alt="MySkills Future" width="106" height="17"><br><br><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" target="_blank" rel="noopener noreferrer"></a></td>
+    <td><img src="/images/SchoolCockpit-logo.jpg" alt="SchoolCockpit" width="106" height="17"><br><br><a href="https://schoolcockpit.moe.edu.sg/login" target="_blank" rel="noopener noreferrer"></a></td>
+    <td><img src="/images/School-Cockpit-Plus-Icon.jpeg" alt="School Cockpit Plus Icon" width="106" height="17"><br><br><a href="https://schoolcockpit.moe.gov.sg/" target="_blank" rel="noopener noreferrer"></a></td>
     <td></td>
   </tr>
 </tbody>
