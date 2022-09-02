@@ -6,8 +6,8 @@ description: ""
 <table>
 <thead>
   <tr>
-    <th><img src="![](/images/MOE_intranet.jpeg)" alt="Student Learning Space" width="106" height="17"><br><br><a href="https://vle.learning.moe.edu.sg/login" target="_blank" rel="noopener noreferrer"></a></th>
-    <th><img src="![](/images/ast.jpeg)" alt="School Gmail" width="106" height="17"><br><br><a href="https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fa%2Fcchm.edu.sg%2F&service=mail&hd=cchm.edu.sg&sacu=1&flowName=GlifWebSignIn&flowEntry=AddSession" target="_blank" rel="noopener noreferrer"></a></th>
+    <th><img src="/images/MOE_intranet.jpeg" alt="MOE intranet" width="106" height="17"><br><br><a href="http://intranet.moe.gov.sg/" target="_blank" rel="noopener noreferrer"></a></th>
+    <th><img src="/images/ast.jpeg" alt="Academy of Singapore Teachers" width="106" height="17"><br><br><a href="https://academyofsingaporeteachers.moe.edu.sg/" target="_blank" rel="noopener noreferrer"></a></th>
     <th><img src="/images/SLSLogo-e1661422248124.png" alt="Student Learning Space" width="106" height="17"><br><br><a href="https://vle.learning.moe.edu.sg/login" target="_blank" rel="noopener noreferrer"></a></th>
   </tr>
 </thead>
