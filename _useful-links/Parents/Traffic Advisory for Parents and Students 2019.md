@@ -6,7 +6,7 @@ third_nav_title: Parents
 ---
 Dear Parents / Guardians
 
-**TRAFFIC SAFETY IN AND AROUND SCHOOL**
+<h5 style="color:black" align="center"><u>TRAFFIC SAFETY IN AND AROUND SCHOOL</u></h5>
 
 We would like to thank you for exercising great care and concern when you drive into the school to drop off and/or pick up your child /ward. Please find the latest advisory from the Traffic Police Department here.  
 As there is very heavy flow of traffic in and around the school in the early morning and afternoon, here are some guidelines for your consideration :
@@ -33,10 +33,10 @@ As there is very heavy flow of traffic in and around the school in the early mor
 
 Your child/ward will need to walk for a short distance on the walkways to the gates.
 
-**C. Drop-off and Pick-up Points Inside the School’s Compound (Refer to Map 1)**
+**C. Drop-off and Pick-up Points <u>Inside</u> the School’s Compound (Refer to Map 1)**
 
 – You can drop your child/ward off at the porch of either Zhuopu Building (**DP1**) or Zhulin Building (**DP2**)  
-– In the event of traffic build-up behind drop-off point **DP1**, you may allow your child/ward to drop-off along the drop-off zone between **DP1** and **DP2** when you have ascertained it is safe to do so.
+– In the event of traffic build-up behind drop-off point **DP1**, you may allow your child/ward to drop-off along the <u>drop-off zone</u> between **DP1** and **DP2** when you have ascertained it is safe to do so.
 
 *   Remind your child to **exit only from the left side of your car carefully**.
 *   While waiting to pick up your child/ward, kindly park your car in a considerate manner so as to avoid obstructing the flow of traffic. Our security personnel will be there to assist you if necessary.
@@ -48,6 +48,6 @@ Your Partner-in-Education,
 Mr Chan Ying Yin  
 Principal
 
-![Main Layout Of School](https://chungchenghighmain.moe.edu.sg/wp-content/uploads/2019/09/Main-Layout-of-School.jpg)
+![Main Layout Of School](/images/Main-Layout-of-School.jpeg)
 
-![Location Plan](https://chungchenghighmain.moe.edu.sg/wp-content/uploads/2019/09/Location-Plan.jpg)
+![Location Plan](/images/Location-Plan.jpeg)
