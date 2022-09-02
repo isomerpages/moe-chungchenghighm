@@ -48,6 +48,26 @@ Your Partner-in-Education,
 Mr Chan Ying Yin  
 Principal
 
-![Main Layout Of School](/images/Main-Layout-of-School.jpeg)
+<br>
 
-![Location Plan](/images/Location-Plan.jpeg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Main-Layout-of-School.jpeg" alt="Main Layout Of School" style="width:90%;">  
+  
+</body>
+
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/Location-Plan.jpeg" alt="Location Plan" style="width:90%;">  
+  
+</body>
