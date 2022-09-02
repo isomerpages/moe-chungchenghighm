@@ -48,19 +48,31 @@ The Family Life Education workshops have been successful in enhancing the qualit
     <input type="checkbox" id="accordion17">
     <label for="accordion17">Information on FLE Workshops 2017</label>
     <div>
-      <p>This is line 1</p>
-      <p>This is line 2<br>
-        This is line 3</p>
+      <p>Please click on the links for further info.</p>
+<ul>
+<li><a href="/files/CCHMS_8-Apr-2017_Entering-the-World-of-Your-Child.pdf">CCHMS_8 Apr 2017_Entering the World of Your Child</a></li>
+<li><a href="/files/CCHMS_18Feb2017_Digital-Age-workshop.pdf">CCHMS_18Feb2017_Digital Age workshop</a></li>
+<li><a href="/files/CCHMS_21Jan2017_Transition-workshop.pdf">CCHMS_21Jan2017_Transition workshop</a></li>
+<li><a href="/files/CCHMS_14Oct2017_FMS_Discipline-and-Conflict-Management.pdf">CCHMS_14JOct2017_Parenting Workshop</a></li>
+</ul>
     </div>
   </li>
   <li>
     <input type="checkbox" id="accordion18">
     <label for="accordion18">Information on FLE Workshops 2016</label>
     <div>
-      <p>
-        This is all going
-        to become just one line\n even though there are multiple lines
-      </p>
+      <p>Please click on the links for further info.</p>
+<ul>
+<li><a href="/files/Parent-Teen-Workshop-cum-Air-Rifle_22-Oct-2016.pdf">Parent-Teen Workshop cum Air Rifle 22 Oct 2016</a></li>
+<li><a href="/files/IQEQSQSUCCESS_17-Sept-2016.pdf">IQ+EQ+SQ=SUCCESS_17 Sept 2016</a></li>
+<li><a href="/files/The-Art-Science-of-Parenting-in-the-Digital-Age_28-May-2016.pdf">The Art &amp; Science of Parenting in the Digital Age 28 May 2016</a></li>
+<li><a href="/files/Nurturing-Your-Child-Wellness-in-School-Exam_16-April-2016.pdf">Nurturing Your Child Wellness in School Exam_16 April 2016</a></li>
+<li><a href="/files/5-Love-Languages-for-Teens_20-Feb-2016.pdf">5 Love Languages for Teens_20 Feb 2016</a></li>
+<li><a href="https://chungchenghighmain.moe.edu.sg/wp-content/uploads/2019/09/%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%E4%BD%A0%E7%9A%84%E5%AD%A9%E5%AD%90%E5%8F%96%E5%BE%97%E6%88%90%E5%8A%9F_30-Jan-2016.pdf">如何帮助你的孩子取得成功_30 Jan 2016</a></li>
+<li><a href="/files/Helping-Your-Child-to-Succeed_30-Jan-2016.pdf">Helping Your Child to Succeed_30 Jan 2016</a></li>
+<li><a href="/files/Making-the-transition-from-Primary-School-to-Secondary-School_9-Jan-2016.pdf">Making the transition from Primary School to Secondary School 9 Jan 2016</a></li>
+<li><a href="https://chungchenghighmain.moe.edu.sg/wp-content/uploads/2019/09/%E4%BB%8E%E5%B0%8F%E5%AD%A6%E5%88%B0%E4%B8%AD%E5%AD%A6%E7%9A%84%E8%BF%87%E6%B8%A1%E6%97%B6%E6%9C%9F%E7%9A%84%E8%BD%AC%E5%8F%98_9-Jan-2016.pdf">从小学到中学的过渡时期的转 变 9 Jan 2016</a></li>
+</ul>
     </div>
   </li>
   <li>
@@ -77,7 +89,15 @@ The Family Life Education workshops have been successful in enhancing the qualit
 
 Please click on the links for further info.
 
-*   [CCHMS\_8 Apr 2017\_Entering the World of Your Child](/files/CCHMS_8-Apr-2017_Entering-the-World-of-Your-Child.pdf)
-*   [CCHMS\_18Feb2017\_Digital Age workshop](/files/CCHMS_18Feb2017_Digital-Age-workshop.pdf)
-*   [CCHMS\_21Jan2017\_Transition workshop](/files/CCHMS_21Jan2017_Transition-workshop.pdf)
-*   [CCHMS\_14JOct2017\_Parenting Workshop](/files/CCHMS_14Oct2017_FMS_Discipline-and-Conflict-Management.pdf)
+*   [2015 Family Life Education Workshops](https://chungchenghighmain.moe.edu.sg/wp-content/uploads/2019/09/Family-Workshop-2015.png)
+*   [Emotional Coaching Parents – 7 February 2015](https://chungchenghighmain.moe.edu.sg/wp-content/uploads/2019/09/7th-feb-coaching.png)
+*   [IQEQ Multiple Intelligences – 14 March 2015](https://chungchenghighmain.moe.edu.sg/wp-content/uploads/2019/09/IQEQ_14-Mar-2015.pdf)
+*   [The 4 Major Parenting Styles – 30 May 2015](https://chungchenghighmain.moe.edu.sg/wp-content/uploads/2019/09/The-4-Major-Parenting-Styles_30-May-2015.pdf)
+*   [Connect and Engage Your Child – 27 June 2015](https://chungchenghighmain.moe.edu.sg/wp-content/uploads/2019/09/CCHS-FMS-flyer-27-Jun-15.pdf)
+*   [Helping your teens to manage stress – 25 July 2015](https://chungchenghighmain.moe.edu.sg/wp-content/uploads/2019/09/Helping-Your-Teens-to-Manage-Stress-25-July-2015.pdf)
+*   [Anger Management – 29 August 2015](https://chungchenghighmain.moe.edu.sg/wp-content/uploads/2019/09/7th-feb-coaching.png)
+*   [Effective Counselling Skills for Parents – 19 Sept 2015](https://chungchenghighmain.moe.edu.sg/wp-content/uploads/2019/09/Effective-Counselling-Skills-for-Parents_19-Sept-2015.pdf)
+*   [Effective Counselling Skills for Parents – 19 Sept 2015](https://chungchenghighmain.moe.edu.sg/wp-content/uploads/2019/09/Effective-Counselling-Skills-for-Parents_19-Sept-2015.pdf)
+*   [Importance of Fathers\_24 Oct 2015](https://chungchenghighmain.moe.edu.sg/wp-content/uploads/2019/09/Importance-of-Fathers_24-Oct-2015.pdf)
+*   [Imparting Values to My Teens\_7 Nov 2015](https://chungchenghighmain.moe.edu.sg/wp-content/uploads/2019/09/Imparting-Values-to-My-Teens_7-Nov-2015.pdf)
+*   [Parenting and DISC Personality Tool 21 Nov\_2015](https://chungchenghighmain.moe.edu.sg/wp-content/uploads/2019/09/Parenting-and-DiSC-Personality-tool_21-Nov-2015.pdf)
