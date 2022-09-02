@@ -35,3 +35,42 @@ The Family Life Education workshops have been successful in enhancing the qualit
 “Very good session for interaction and sharing. Able to learn more. Keep it up. Look forward to more sessions.”
 
 “Great Session; speaker is able to link real life experiences to the subject.”
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion16">
+    <label for="accordion16">Simple</label>
+    <div>
+      <p>This is a simple one line item</p>
+    </div>
+	</li>  
+  <li>
+    <input type="checkbox" id="accordion17">
+    <label for="accordion17">Multi-line Block</label>
+    <div>
+      <p>This is line 1</p>
+      <p>This is line 2<br>
+        This is line 3</p>
+    </div>
+  </li>
+  <li>
+    <input type="checkbox" id="accordion18">
+    <label for="accordion18">Multi-line Folded</label>
+    <div>
+      <p>
+        This is all going
+        to become just one line\n even though there are multiple lines
+      </p>
+    </div>
+  </li>
+  <li>
+    <input type="checkbox" id="accordion19">
+    <label for="accordion19">Ordered List</label>
+    <div>
+      <ol>
+        <li>Item 1</li>
+        <li>Item 2</li>        <li>Item 3</li>
+      </ol>
+    </div>
+  </li>
+</ul>
