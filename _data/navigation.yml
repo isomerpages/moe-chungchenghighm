@@ -4,5 +4,9 @@ links:
     collection: about-us
   - title: Programmes
     collection: programmes
+  - title: NDLP
+    collection: ndlp
   - title: Students’ Life
     url: /students-life/
+  - title: Useful Links
+    collection: useful-links
