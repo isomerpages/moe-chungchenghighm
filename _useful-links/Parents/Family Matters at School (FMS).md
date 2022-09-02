@@ -41,7 +41,7 @@ The Family Life Education workshops have been successful in enhancing the qualit
     <input type="checkbox" id="accordion16">
     <label for="accordion16">Information on FLE Workshops 2018</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>Please click on the links for further info.<br><a href="/files/FMS_24Mar2018_Digital-Age.pdf">FMS_24Mar2018_Digital Age</a></p>
     </div>
 	</li>  
   <li>
@@ -74,3 +74,10 @@ The Family Life Education workshops have been successful in enhancing the qualit
     </div>
   </li>
 </ul>
+
+Please click on the links for further info.
+
+*   [CCHMS\_8 Apr 2017\_Entering the World of Your Child](/files/CCHMS_8-Apr-2017_Entering-the-World-of-Your-Child.pdf)
+*   [CCHMS\_18Feb2017\_Digital Age workshop](/files/CCHMS_18Feb2017_Digital-Age-workshop.pdf)
+*   [CCHMS\_21Jan2017\_Transition workshop](/files/CCHMS_21Jan2017_Transition-workshop.pdf)
+*   [CCHMS\_14JOct2017\_Parenting Workshop](/files/CCHMS_14Oct2017_FMS_Discipline-and-Conflict-Management.pdf)
