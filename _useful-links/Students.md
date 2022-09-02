@@ -14,8 +14,8 @@ description: ""
 <tbody>
   <tr>
     <td><img src="/images/Library-Catalogue-online-Icon.jpeg" alt="ST JOHN BRIGADE" width="106" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/st-john-brigade/" target="_blank" rel="noopener noreferrer"></a></td>
-    <td><img src="/images/MySkillsFuture-Icon.jpeg" alt="SCOUTS" width="74" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/scouts/" target="_blank" rel="noopener noreferrer"></a></td>
-    <td><img src="/images/Password-reset-tool-logo-768x520.jpeg" alt="SCOUTS" width="74" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/scouts/" target="_blank" rel="noopener noreferrer"></a></td>
+    <td><img src="/images/MySkillsFuture-Icon.jpeg" alt="SCOUTS" width="106" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/scouts/" target="_blank" rel="noopener noreferrer"></a></td>
+    <td><img src="/images/Password-reset-tool-logo-768x520.jpeg" alt="SCOUTS" width="106" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/scouts/" target="_blank" rel="noopener noreferrer"></a></td>
   </tr>
 </tbody>
 </table>
