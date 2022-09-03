@@ -39,5 +39,5 @@ sections:
       button: Find Out More
       url: /about-us/contact-us/
       image: /images/CHSS MAP.jpg
-      alt: Image alt text
+      alt: CHSS map
 ---
