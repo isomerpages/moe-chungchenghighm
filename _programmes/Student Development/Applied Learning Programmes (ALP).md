@@ -11,7 +11,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/CSI.jpeg" alt="Applied Learning Programmes (ALP)" style="width:75%;">  
+<body><img src="/images/CSI.jpeg" alt="Applied Learning Programmes (ALP)" style="width:50%;">  
   
 </body>
 
@@ -482,4 +482,3 @@ For any queries, please feel free to email Mr Wu Derui @ [wu\_derui@cchm.edu.sg
     </div>
   </li>
 </ul>
-
