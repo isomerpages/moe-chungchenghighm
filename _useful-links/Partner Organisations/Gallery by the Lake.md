@@ -4,7 +4,16 @@ permalink: /useful-links/partner-organisations/gallery-by-the-lake/
 description: ""
 third_nav_title: Partner Organisations
 ---
-![Gallery by the Lake](/images/gallery-lake-1.jpeg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/gallery-lake-1.jpeg" alt="Gallery by the Lake" style="width:80%;">  
+  
+</body>
 
 Over the years, CCHMS has nurtured many artistic talents for Singapore, especially in the areas of calligraphy and Western Art. The School Management Committee (SMC) and Alumni have always been supportive of the Arts education and have spared no efforts in promoting the Arts.
 
@@ -14,13 +23,31 @@ With support from the SMC and the Alumni, CCHMS saw the birth of “Lim Tze Peng
 
 #### Jewels of the Blue Planet
 
-![Gallery by the Lake](/images/gallery-lake-3.jpeg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/gallery-lake-3.jpeg" alt="Gallery by the Lake" style="width:80%;">  
+  
+</body>
 
 I seek to emphasis on man being one with nature. Using the wearable art of Fashion Design as a platform, I desire to highlight the unrivalled beauty of marine life and coral reefs, and also raise awareness on how we need to take the necessary measures to ensure a continued relationship with the ocean’s ethereal environment.
 
 #### Remembering Grandma
 
-![Gallery by the Lake](/images/gallery-lake-4.jpeg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/gallery-lake-4.jpeg" alt="Gallery by the Lake" style="width:80%;">  
+  
+</body>
 
 Singapore’s population is rapidly ageing and values of filial piety may be lost in an increasingly hectic lifestyle. The installation captures the fragility of my grandmother whom I try to care for despite my busy schedule. Dandelions symbolize the fragility of life.
 
@@ -33,6 +60,10 @@ Tiny figures sit on the sand, lost in their own world. By exploring with wires, 
 
 Roses represent love; wildflowers- freedom and hibiscuses for hope. The melting flowers suggest how hope and freedom are draining away from the girls who are sold to become slaves. The girls, placed in pots which symbolise the different countries that they are from, are textured with tinges of purple to show the hardship they face and also the physical abuse some might be under. Dead flowers thrive beneath the girls’ feet as if they were to be swallowed by the uncertainty of their dark future.  
  
+
+<br>
+<br>
+<br>
 
 #### Opening hours to public:
 
