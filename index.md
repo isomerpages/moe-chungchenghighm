@@ -34,4 +34,10 @@ sections:
         and instilling positive values in our students, to enable them to...
       button: Find Out More
       url: /lp_announcement/dsa-sec-recruitment-talent-area-for-chung-cheng-high-school-main/
+  - infopic:
+      title: Contact Us
+      button: Find Out More
+      url: /about-us/contact-us/
+      image: /images/CHSS MAP.jpg
+      alt: Image alt text
 ---
