@@ -88,7 +88,7 @@ third_nav_title: Student Development
 <tbody>
   <tr>
     <td><img src="/images/Track_Field-square.jpeg" alt="CROSS COUNTRY" width="106" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/cross-country-track/" target="_blank" rel="noopener noreferrer">CROSS COUNTRY*<br>田径队*</a></td>
-    <td><img src="/images/wushu-suqare.jpeg" alt="WUSHU" width="74" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/wushu/" target="_blank" rel="noopener noreferrer">WUSHU<br>武术团</a></td>
+    <td><img src="/images/wushu-suqare.jpeg" alt="WUSHU" width="106" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/wushu/" target="_blank" rel="noopener noreferrer">WUSHU<br>武术团</a></td>
     <td></td>
   </tr>
 </tbody>
@@ -191,7 +191,7 @@ third_nav_title: Student Development
 <tbody>
   <tr>
     <td><img src="/images/lion_dance-square.jpeg" alt="LION & DRAGON DANCE" width="106" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/lion-dance-club/" target="_blank" rel="noopener noreferrer">LION & DRAGON DANCE<br>龙狮团</a></td>
-    <td><img src="/images/media_club_square.jpeg" alt="DIGITAL MEDIA" width="74" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/media-technology-club/" target="_blank" rel="noopener noreferrer">DIGITAL MEDIA<br>媒体学会</a></td>
+    <td><img src="/images/media_club_square.jpeg" alt="DIGITAL MEDIA" width="106" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/media-technology-club/" target="_blank" rel="noopener noreferrer">DIGITAL MEDIA<br>媒体学会</a></td>
     <td></td>
   </tr>
 </tbody>
