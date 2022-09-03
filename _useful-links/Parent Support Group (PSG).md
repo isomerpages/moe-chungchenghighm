@@ -3,7 +3,16 @@ title: Parent Support Group (PSG)
 permalink: /useful-links/parent-support-group-psg/
 description: ""
 ---
-![Parent Support Group (PSG)](/images/parent-support-group.jpeg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<body><img src="/images/parent-support-group.jpeg" alt="Parent Support Group (PSG)" style="width:80%;">  
+  
+</body>
 
 Chung Cheng High School (Main) PSG is proud to have ‘With Passion, we Serve and Grow!’ as our motto. Since its inauguration in 2001, membership has grown and remained strong with at least 300 members. As parents, we recognise the importance of working hand in hand with the school for the good of our children.
 
