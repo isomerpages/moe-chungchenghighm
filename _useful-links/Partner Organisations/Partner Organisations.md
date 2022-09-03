@@ -7,9 +7,9 @@ third_nav_title: Partner Organisations
 <table>
 <thead>
   <tr>
-    <th><br><br><a href="https://vle.learning.moe.edu.sg/login" target="_blank" rel="noopener noreferrer"><img src="![](/images/alumni-LOGO.png)" alt="Student Learning Space" width="106" height="17"></a></th>
-    <th><br><br><a href="https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fa%2Fcchm.edu.sg%2F&service=mail&hd=cchm.edu.sg&sacu=1&flowName=GlifWebSignIn&flowEntry=AddSession" target="_blank" rel="noopener noreferrer"><img src="![](/images/PSG.png)" alt="School Gmail" width="106" height="17"></a></th>
-    <th><br><br><a href="https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&func=login" target="_blank" rel="noopener noreferrer"><img src="![](/images/logo8.png)" alt="IMTL" width="106" height="17"></a></th>
+    <th><br><br><a href="https://chungchenghighmain.moe.edu.sg/useful-links/alumni/" target="_blank" rel="noopener noreferrer"><img src="/images/alumni-LOGO.png" alt="Chung Cheng High School Alumni" width="106" height="17"></a></th>
+    <th><br><br><a href="/useful-links/parent-support-group-psg/" target="_blank" rel="noopener noreferrer"><img src="/images/PSG.png" alt="Parent Support Group" width="106" height="17"></a></th>
+    <th><br><br><a href="/useful-links/partner-organisations/gallery-by-the-lake/" target="_blank" rel="noopener noreferrer"><img src="/images/logo8.png" alt="Gallery by the Lake" width="106" height="17"></a></th>
   </tr>
 </thead>
 <tbody>
