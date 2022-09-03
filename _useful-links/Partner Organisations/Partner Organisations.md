@@ -14,9 +14,9 @@ third_nav_title: Partner Organisations
 </thead>
 <tbody>
   <tr>
-    <td><br><br><a href="https://schoolibrary.moe.edu.sg/cchms" target="_blank" rel="noopener noreferrer"><img src="![](/images/LimTzePeng.png)" alt="Library Online Catalogue" width="106" height="17"></a></td>
-    <td><br><br><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" target="_blank" rel="noopener noreferrer"><img src="![](/images/SunYatSen.jpeg)" alt="MySkills Future" width="106" height="17"></a></td>
-    <td><br><br><a href="https://tinyurl.com/K7FLHZD" target="_blank" rel="noopener noreferrer"><img src="![](/images/malayheritagecentre-logo.jpeg)" alt="Password reset tool" width="106" height="17"></a></td>
+    <td><br><br><a href="/useful-links/partner-organisations/the-lim-tze-peng-art-gallery/" target="_blank" rel="noopener noreferrer"><img src="/images/LimTzePeng.png" alt="Lim Tze Peng" width="106" height="17"></a></td>
+    <td><br><br><a href="https://www.sysnmh.org.sg/en" target="_blank" rel="noopener noreferrer"><img src="/images/SunYatSen.jpeg" alt="Sun Yat Sen" width="106" height="17"></a></td>
+    <td><br><br><a href="https://www.malayheritage.org.sg/en" target="_blank" rel="noopener noreferrer"><img src="/images/malayheritagecentre-logo.jpeg" alt="Malay Heritage Centre" width="106" height="17"></a></td>
   </tr>
 </tbody>
 </table>
