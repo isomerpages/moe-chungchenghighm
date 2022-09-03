@@ -10,7 +10,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/parent-support-group.jpeg" alt="Parent Support Group (PSG)" style="width:80%;">  
+<body><img src="/images/parent-support-group.jpeg" alt="Parent Support Group (PSG)" style="width:60%;">  
   
 </body>
 
