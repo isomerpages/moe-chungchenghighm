@@ -4,7 +4,7 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       background: /images/cchs.gif
@@ -22,9 +22,9 @@ sections:
           description: ""
           url: /useful-links/partner-organisations/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: Class of 2023 School Graduation Certificate Collection
+      description: Dear Class of 2021, we would like to inform you that your School
+        Graduation Certificate (GSC) is ready for collection at...
+      button: Find Out More
+      url: /lp_announcement/class-of-2021-school-graduation-certificate-collection/
 ---
