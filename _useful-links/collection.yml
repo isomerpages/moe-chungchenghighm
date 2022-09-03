@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - Alumni.md
       - Parent Support Group (PSG).md
       - Parents/.keep
       - Parents/Parents.md
