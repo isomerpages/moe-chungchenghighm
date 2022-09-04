@@ -26,14 +26,14 @@ sections:
       description: Dear Class of 2021, we would like to inform you that your School
         Graduation Certificate (GSC) is ready for collection at...
       button: Find Out More
-      url: /lp_announcement/class-of-2021-school-graduation-certificate-collection/
+      url: /lp-announcement/class-of-2021-school-graduation-certificate-collection/
   - infobar:
       title: "Direct School Admission (DSA) Exercise for 2023 Secondary 1 "
       subtitle: Infobar Subtitle
       description: Chung Cheng High School (Main) believes in nurturing good character
         and instilling positive values in our students, to enable them to...
       button: Find Out More
-      url: /lp_announcement/dsa-sec-recruitment-talent-area-for-chung-cheng-high-school-main/
+      url: /lp-announcement/dsa-sec-recruitment-talent-area-for-chung-cheng-high-school-main/
   - infopic:
       title: Contact Us
       button: Find Out More
@@ -41,6 +41,3 @@ sections:
       image: /images/CHSS MAP.jpg
       alt: CHSS map
 ---
-
-
-
