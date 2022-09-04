@@ -1,6 +1,6 @@
 title: Chung Cheng High School (Main)
 url: https://www.open.gov.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/CHSS favicon.jpg
 colors:
   primary-color: "#bc5444"
   secondary-color: "#4372d6"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.dz18fs0ahczuh.amplifyapp.com
 prod: https://master.dz18fs0ahczuh.amplifyapp.com
-shareicon: /images/CHSS favicon.jpg
+shareicon: /images/CCHS logo.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
