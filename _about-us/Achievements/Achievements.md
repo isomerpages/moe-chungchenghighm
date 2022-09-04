@@ -1219,6 +1219,5 @@ Co-Curricular Activites
 </tbody>
 </table>
 			</p>
-  </div>
 	</li>
 </ul>
