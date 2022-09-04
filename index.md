@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Title
-description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+title: Chung Cheng High School (Main)
+description: Chung Cheng High School (Main)
+image: /images/CHSS favicon.jpg
 permalink: /
 notification: ""
 sections:
@@ -41,4 +41,5 @@ sections:
       image: /images/CHSS MAP.jpg
       alt: CHSS map
 ---
+
 
