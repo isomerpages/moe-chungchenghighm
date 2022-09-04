@@ -2,7 +2,7 @@
 layout: homepage
 title: Chung Cheng High School (Main)
 description: Chung Cheng High School (Main)
-image: /images/CHSS favicon.jpg
+image: /images/CCHS logo.png
 permalink: /
 notification: ""
 sections:
@@ -41,5 +41,6 @@ sections:
       image: /images/CHSS MAP.jpg
       alt: CHSS map
 ---
+
 
 
