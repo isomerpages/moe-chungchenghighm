@@ -14,7 +14,7 @@ img {
   
 </body>
 
-**Student Council**
+<p style="text-align:center;">Student Council</p>
 
 In the Student Council, we endeavour to develop Student Councillors with the Growth Mindset ready to challenge themselves and embrace failure, possessing both mental and emotional resilience to continually improve and lead.
 
