@@ -10,11 +10,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/PSL-300x225.jpeg" alt="School Uniform" style="width:45%;">  
+<body><img src="/images/PSL-300x225.jpeg" alt="School Uniform" style="width:40%;">  
   
 </body>
 
-**Peer Support Leaders**
+<p style="text-align:center;"><strong>Peer Support Leaders</strong></p>
 
 Peer Support Leaders help to develop resilience and support amongst their peers in the social and moral domains. They help to ensure that learning takes place in a safe and caring environment, where there is mutual respect. Peer Support Leaders undergo a period of training to develop skills which enable them to spot signs of stress among their peers and offer practical help and emotional support to them.
 
