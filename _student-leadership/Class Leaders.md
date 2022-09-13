@@ -10,11 +10,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Class-Leaders-300x225.jpeg" alt="School Uniform" style="width:45%;">  
+<body><img src="/images/Class-Leaders-300x225.jpeg" alt="School Uniform" style="width:40%;">  
   
 </body>
 
-**Class Leaders**
+<p style="text-align:center;"><strong>Class Leaders</strong></p>
 
 Class Leaders help by supporting their Form Teachers and peers in managing administrative duties pertaining to their classes. They develop a good rapport with their classmates and help to ensure that the classroom is conducive for learning. Through training programmes, Class Leaders develop skills which enable them to be more proactive in meeting the needs of the class.
 
