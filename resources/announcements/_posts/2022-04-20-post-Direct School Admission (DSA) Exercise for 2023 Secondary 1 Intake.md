@@ -62,7 +62,7 @@ All applicants who satisfy our criteria may apply for DSA to our school in **3 
 *   For **Chinese Language DSA applicants**, potential candidates will be shortlisted directly for an **in-person interview.** They will also be expected to complete a brief written task on the day of the interview.
 *   All shortlisted candidates will be notified of the interview date and time via email provided during application.
 
-**D. KEY DATES**
+<p id="link4"><strong>D. KEY DATES</strong></p>
 
 The key dates to note for your DSA application are as follows:
 
