@@ -7,7 +7,7 @@ third_nav_title: Student Development
 <html>
 <body>
 <p><a href="/programmes/student-development/student-leadership/student-council/">
-<img src="/images/IMG_8353-300x200.jpeg"  style="width:50%"><p style="text-align:center;">Student Councillors</p>
+<img src="/images/IMG_8353-300x200.jpeg"  style="width:37%"><p style="text-align:center;">Student Councillors</p>
 </a></p>
 </body>
 </html>
@@ -15,7 +15,7 @@ third_nav_title: Student Development
 <html>
 <body>
 <p><a href="programmes/student-development/student-leadership/cca-leaders/">
-<img src="/images/IMG_8364-768x512.jpeg"  style="width:50%"><p style="text-align:center;">CCA Leaders</p>
+<img src="/images/IMG_8364-768x512.jpeg"  style="width:37%"><p style="text-align:center;">CCA Leaders</p>
 </a></p>
 </body>
 </html>
@@ -24,7 +24,7 @@ third_nav_title: Student Development
 <html>
 <body>
 <p><a href="/programmes/student-development/student-leadership/peer-support-leaders/">
-<img src="/images/PSL-300x225.jpeg"  style="width:50%"><p style="text-align:center;">Peer Support Leaders</p>
+<img src="/images/PSL-300x225.jpeg"  style="width:37%"><p style="text-align:center;">Peer Support Leaders</p>
 </a></p>
 </body>
 </html>
@@ -33,7 +33,7 @@ third_nav_title: Student Development
 <html>
 <body>
 <p><a href="/programmes/student-development/student-leadership/class-leaders/">
-<img src="/images/Class-Leaders-300x225.jpeg"  style="width:50%"><p style="text-align:center;">Class Leaders</p>
+<img src="/images/Class-Leaders-300x225.jpeg"  style="width:37%"><p style="text-align:center;">Class Leaders</p>
 </a></p>
 </body>
 </html>
