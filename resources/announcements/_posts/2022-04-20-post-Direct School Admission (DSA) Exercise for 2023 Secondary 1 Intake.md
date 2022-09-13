@@ -18,6 +18,11 @@ description: ""
 **D. [KEY DATES](/lp-announcement/dsa-sec-recruitment-talent-area-for-chung-cheng-high-school-main/#D)**  
 **E. [ADDITIONAL INFORMATION](/lp-announcement/dsa-sec-recruitment-talent-area-for-chung-cheng-high-school-main/#E)**
 
+**MAIN MENU**  
+<p><strong>A. <a href="/lp-announcement/dsa-sec-recruitment-talent-area-for-chung-cheng-high-school-main/#A">DSA CATEGORIES &amp; CRITERIA</a></strong><br><strong>B. <a href="/lp-announcement/dsa-sec-recruitment-talent-area-for-chung-cheng-high-school-main/#B">PROGRAMMES FOR DSA TALENTS</a></strong><br><strong>C. <a href="/lp-announcement/dsa-sec-recruitment-talent-area-for-chung-cheng-high-school-main/#C">DSA SELECTION PROCESS</a></strong><br><strong>D. <a href="/lp-announcement/dsa-sec-recruitment-talent-area-for-chung-cheng-high-school-main/#D">KEY DATES</a></strong><br><strong>E. <a href="/lp-announcement/dsa-sec-recruitment-talent-area-for-chung-cheng-high-school-main/#E">ADDITIONAL INFORMATION</a></strong></p> 
+
+
+
 **A. DSA CATEGORIES & CRITERIA**  
 The following 3 categories are open for DSA application for the 2023 intake:
 
