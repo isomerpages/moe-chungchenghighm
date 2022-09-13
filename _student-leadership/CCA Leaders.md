@@ -10,11 +10,11 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/IMG_8364-768x512.jpeg" alt="School Uniform" style="width:65%;">  
+<body><img src="/images/IMG_8364-768x512.jpeg" alt="School Uniform" style="width:57%;">  
   
 </body>
 
-**CCA Leaders**
+<p style="text-align:center;"><strong>CCA Leaders</strong></p>
 
 Chung Cheng CCA Leaders are inspirational leaders who motivate their members to give their best to the team and strive for excellence to realise their fullest potential. To keep hope, enthusiasm and determination alive, they acknowledge contributions of every individual.
 
