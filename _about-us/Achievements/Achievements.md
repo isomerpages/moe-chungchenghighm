@@ -1122,7 +1122,6 @@ Co-Curricular Activites
 			</p>
   </div>
 	</li>
-</ul>
 
 ## Student Leadership
 
