@@ -28,6 +28,6 @@ sections:
       title: Contact Us
       button: Find Out More
       url: /about-us/contact-us/
-      image: /images/CHSS MAP.jpg
+      image: /images/CHSS-MAP2.jpg
       alt: CHSS map
 ---
