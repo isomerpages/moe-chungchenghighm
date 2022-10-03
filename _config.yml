@@ -3,7 +3,7 @@ url: https://www.open.gov.sg
 favicon: /images/CHSS favicon.jpg
 colors:
   primary-color: "#bc5444"
-  secondary-color: "#4372d6"
+  secondary-color: "#000000"
   media-colors:
     - title: media-color-one
       color: "#49759a"
