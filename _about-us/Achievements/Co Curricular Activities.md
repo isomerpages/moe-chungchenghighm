@@ -819,4 +819,3 @@ third_nav_title: Achievements
 			</p>
   </div>
 	</li>
-	</ul>
