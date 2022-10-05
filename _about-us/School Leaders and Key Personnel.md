@@ -157,16 +157,12 @@ Key Personnel
     <td class="tg-cly1">SH/Student Recognition</td>
   </tr>
   <tr>
-    <td class="tg-u1cn">Yoshikawa Akemi Debbie Teo (Mrs Yoshikawa)</td>
-    <td class="tg-u1cn">SH/Partnership &amp; Engagement</td>
+    <td class="tg-u1cn">Wang Xiao (Ms)</td>
+    <td class="tg-u1cn">Upper Sec Asst Year Head</td>
   </tr>
   <tr>
-    <td class="tg-cly1">Wang Xiao (Ms)</td>
-    <td class="tg-cly1">Upper Sec Asst Year Head</td>
-  </tr>
-  <tr>
-    <td class="tg-u1cn">Ong Lai Wei (Ms)</td>
-    <td class="tg-u1cn">Lower Sec Asst Year Head</td>
+    <td class="tg-cly1">Ong Lai Wei (Ms)</td>
+    <td class="tg-cly1">Lower Sec Asst Year Head</td>
   </tr>
 </tbody>
 </table>
