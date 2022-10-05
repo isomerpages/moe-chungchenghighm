@@ -15,9 +15,9 @@ third_nav_title: Student Development
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0lax"><img src="/images/CCE-SQUAREPIC.jpeg" alt="CHARACTER & CITIZENSHIP EDUCATION (CCE)" width="90px" height="0px"><br><br><a href="/programmes/student-development/character-and-citizenship-education-cce/" target="_blank" rel="noopener noreferrer">CHARACTER &amp; CITIZENSHIP EDUCATION (CCE)</a><br></th>
-    <th class="tg-0lax"><img src="/images/SexED-squarepic.jpeg" alt="SEXUALITY EDUCATION" width="206px" height="198px"><br><br><a href="/programmes/student-development/sexuality-education/" target="_blank" rel="noopener noreferrer">SEXUALITY EDUCATION</a><br></th>
-    <th class="tg-0lax"><img src="/images/SL-squarepic.jpeg" alt="STUDENT LEADERSHIP" width="206px" height="198px"><br><br><a href="/programmes/student-development/student-leadership/" target="_blank" rel="noopener noreferrer">STUDENT LEADERSHIP</a><br></th>
+    <th class="tg-0lax"><img src="/images/CCE-SQUAREPIC.jpeg" alt="CHARACTER & CITIZENSHIP EDUCATION (CCE)" width="90px" height="0px"><br><br><a href="/programmes/student-development/character-and-citizenship-education-cce/" target="_blank" rel="noopener noreferrer">CHARACTER </a><br></th>
+    <th class="tg-0lax"><img src="/images/SexED-squarepic.jpeg" alt="SEXUALITY EDUCATION" width="90px" height="0px"><br><br><a href="/programmes/student-development/sexuality-education/" target="_blank" rel="noopener noreferrer">SEXUALITY EDUCATION</a><br></th>
+    <th class="tg-0lax"><img src="/images/SL-squarepic.jpeg" alt="STUDENT LEADERSHIP" width="90px" height="0px"><br><br><a href="/programmes/student-development/student-leadership/" target="_blank" rel="noopener noreferrer">STUDENT LEADERSHIP</a><br></th>
   </tr>
 </thead>
 <tbody>
