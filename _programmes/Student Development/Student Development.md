@@ -17,18 +17,21 @@ table, th, td {
   
   <tr>
     <td>
-<a href="/programmes/student-development/character-and-citizenship-education-cce/" target="_blank" rel="noopener noreferrer"><img src="/images/CCE-SQUAREPIC.jpeg" alt="CHARACTER & CITIZENSHIP EDUCATION (CCE)" width="100" height="17"></a></p>
+<a href="/programmes/student-development/character-and-citizenship-education-cce/" target="_blank" rel="noopener noreferrer"><img src="/images/CCE-SQUAREPIC.jpeg" alt="CHARACTER & CITIZENSHIP EDUCATION (CCE)" width="100" height="17"></a>
 </td>
-    <td>Smith</td>
-    <td>50</td>
+    <td>
+<a href="/programmes/student-development/character-and-citizenship-education-cce/" target="_blank" rel="noopener noreferrer"><img src="/images/CCE-SQUAREPIC.jpeg" alt="CHARACTER & CITIZENSHIP EDUCATION (CCE)" width="100" height="17"></a>
+</td>
+		<td>
+<a href="/programmes/student-development/character-and-citizenship-education-cce/" target="_blank" rel="noopener noreferrer"><img src="/images/CCE-SQUAREPIC.jpeg" alt="CHARACTER & CITIZENSHIP EDUCATION (CCE)" width="100" height="17"></a>
+</td>
   </tr>
   <tr>
     <td>Eve</td>
-    <td>Jackson</td>
+    <td>Jack</td>
     <td>94</td>
   </tr>
   
 </table>
 
 </body>
-
