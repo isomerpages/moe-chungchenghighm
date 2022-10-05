@@ -20,8 +20,12 @@ third_nav_title: Student Development
 <img src="/images/CCE-SQUAREPIC.jpeg" alt="CHARACTER & CITIZENSHIP EDUCATION (CCE)" width="150" height="17">
 <br><br>
 </a><br></th>
-    <th class="tg-0lax"><img src="/images/SexED-squarepic.jpeg" alt="SEXUALITY EDUCATION" width="90px" height="0px"><br><br><a href="/programmes/student-development/sexuality-education/" target="_blank" rel="noopener noreferrer">SEXUALITY EDUCATION</a><br></th>
-    <th class="tg-0lax"><img src="/images/SL-squarepic.jpeg" alt="STUDENT LEADERSHIP" width="90px" height="0px"><br><br><a href="/programmes/student-development/student-leadership/" target="_blank" rel="noopener noreferrer">STUDENT LEADERSHIP</a><br></th>
+    <th class="tg-0lax"><a href="/programmes/student-development/sexuality-education/" target="_blank" rel="noopener noreferrer"><img src="/images/SexED-squarepic.jpeg" alt="SEXUALITY EDUCATION" width="150" height="17">
+<br><br>
+</a><br></th>
+    <th class="tg-0lax"><a href="/programmes/student-development/student-leadership/" target="_blank" rel="noopener noreferrer"><img src="/images/SL-squarepic.jpeg" alt="STUDENT LEADERSHIP" width="150" height="17">
+<br><br>
+</a><br></th>
   </tr>
 </thead>
 <tbody>
