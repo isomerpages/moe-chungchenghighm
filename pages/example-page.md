@@ -249,4 +249,4 @@ permalink: /example-page/
 </tbody>
 </table>
 			</p>
-  </div>	</li>
+  </div>	
