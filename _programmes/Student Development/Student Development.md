@@ -4,9 +4,31 @@ permalink: /programmes/student-development/
 description: ""
 third_nav_title: Student Development
 ---
+<style>
+table, th, td {
+  border:1px solid black;
+  border-collapse: collapse;
+}
+</style>
 
+<body>
 
-|<img src="/images/CCE-SQUAREPIC.jpeg" alt="CHARACTER & CITIZENSHIP EDUCATION (CCE)" width="100" height="17"> | <img src="/images/SexED-squarepic.jpeg" alt="SEXUALITY EDUCATION" width="100" height="17"> | <img src="/images/SL-squarepic.jpeg" alt="STUDENT LEADERSHIP" width="100" height="17"> |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
+<table style="width:100%">
+  
+  <tr>
+    <td>
+<a href="/programmes/student-development/character-and-citizenship-education-cce/" target="_blank" rel="noopener noreferrer"><img src="/images/CCE-SQUAREPIC.jpeg" alt="CHARACTER & CITIZENSHIP EDUCATION (CCE)" width="100" height="17"></a></p>
+</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+  
+</table>
+
+</body>
 
