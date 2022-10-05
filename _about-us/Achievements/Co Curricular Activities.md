@@ -245,13 +245,13 @@ third_nav_title: Achievements
   </tr>
   <tr>
     <td class="tg-u1cn">St John Brigade Zone 8 First Aid, Foot Drill and Home Nursing Competition 2019</td>
-    <td class="tg-u1cn">Ambulance Adult Category<br><br><span style="font-weight:400;color:#1E1E1E">(Zonal 2</span>nd <span style="font-weight:400;color:#1E1E1E">Placing) Nursing Adult Category</span><br><br><span style="font-weight:400;color:#1E1E1E">(Zonal 2</span>nd <span style="font-weight:400;color:#1E1E1E">Placing) Ambulance Cadet Category</span><br><br><span style="font-weight:400;color:#1E1E1E">(Zonal 2</span>nd <span style="font-weight:400;color:#1E1E1E">Placing) Nursing Cadet Category</span><br><span style="font-weight:400;color:#1E1E1E">(Zonal Champion)</span></td>
+    <td class="tg-u1cn">Ambulance Adult Category<br><br><span style="font-weight:400;color:#1E1E1E">(Zonal 2</span>nd <span style="font-weight:400;color:#1E1E1E">Placing) Nursing Adult Category</span><br><br><span style="font-weight:400;color:#1E1E1E">(Zonal 2</span>nd <span style="font-weight:400;color:#1E1E1E">Placing) Ambulance Cadet Category</span><br><br><span style="font-weight:400;color:#1E1E1E">(Zonal 2</span>nd <span style="font-weight:400;color:#1E1E1E">Placing) Nursing Cadet Category</span><br><span style="font-weight:400;color:#1E1E1E">(Zonal Champion1)</span></td>
   </tr>
 </tbody>
 </table>
 			</p>
-				</li>
   </div>
+	</li>
 
 	 <li>
     <input type="checkbox" id="accordion3">
