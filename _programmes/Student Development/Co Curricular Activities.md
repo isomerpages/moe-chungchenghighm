@@ -12,8 +12,8 @@ third_nav_title: Student Development
 <thead>
   <tr>
     <th><a href="/programmes/student-development/co-curricular-activities/girl-guides/" target="_blank" rel="noopener noreferrer"><img src="/images/girl_guides-square.jpeg" alt="GIRL GUIDES" width="106" height="17"></a></th>
-    <th><img src="/images/ncc-square.jpeg" alt="NATIONAL CADET CORPS" width="106" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/national-cadet-corps/" target="_blank" rel="noopener noreferrer">NATIONAL CADET CORPS<br> 学生军</a></th>
-    <th><img src="/images/npcc-square.jpeg" alt="NATIONAL POLICE CADET CORPS" width="106" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/national-police-cadet-corps/" target="_blank" rel="noopener noreferrer">NATIONAL POLICE CADET CORPS<br>学生警察</a></th>
+    <th><a href="/programmes/student-development/co-curricular-activities/national-cadet-corps/" target="_blank" rel="noopener noreferrer"><img src="/images/ncc-square.jpeg" alt="NATIONAL CADET CORPS" width="106" height="17"></a></th>
+    <th><a href="/programmes/student-development/co-curricular-activities/national-police-cadet-corps/" target="_blank" rel="noopener noreferrer"><img src="/images/npcc-square.jpeg" alt="NATIONAL POLICE CADET CORPS" width="106" height="17"></a></th>
   </tr>
 </thead>
 <tbody>
