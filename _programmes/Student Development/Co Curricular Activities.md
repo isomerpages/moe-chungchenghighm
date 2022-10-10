@@ -18,8 +18,8 @@ third_nav_title: Student Development
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/st_john-square.jpeg" alt="ST JOHN BRIGADE" width="106" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/st-john-brigade/" target="_blank" rel="noopener noreferrer">ST JOHN BRIGADE<br>圣约翰救伤队</a></td>
-    <td><img src="/images/scouts-square.jpeg" alt="SCOUTS" width="106" height="17"><br><br><a href="/programmes/student-development/co-curricular-activities/scouts/" target="_blank" rel="noopener noreferrer">SCOUTS<br>童子军</a></td>
+    <td><a href="/programmes/student-development/co-curricular-activities/st-john-brigade/" target="_blank" rel="noopener noreferrer"><img src="/images/st_john-square.jpeg" alt="ST JOHN BRIGADE" width="106" height="17"></a></td>
+    <td><a href="/programmes/student-development/co-curricular-activities/scouts/" target="_blank" rel="noopener noreferrer"><img src="/images/scouts-square.jpeg" alt="SCOUTS" width="106" height="17"></a></td>
     <td></td>
   </tr>
 </tbody>
