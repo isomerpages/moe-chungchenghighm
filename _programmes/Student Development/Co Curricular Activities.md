@@ -11,15 +11,15 @@ third_nav_title: Student Development
 <table>
 <thead>
   <tr>
-    <th><a href="/programmes/student-development/co-curricular-activities/girl-guides/" target="_blank" rel="noopener noreferrer"><img src="/images/girl_guides-square.jpeg" alt="GIRL GUIDES" width="106" height="17"></a></th>
-    <th><a href="/programmes/student-development/co-curricular-activities/national-cadet-corps/" target="_blank" rel="noopener noreferrer"><img src="/images/ncc-square.jpeg" alt="NATIONAL CADET CORPS" width="106" height="17"></a></th>
-    <th><a href="/programmes/student-development/co-curricular-activities/national-police-cadet-corps/" target="_blank" rel="noopener noreferrer"><img src="/images/npcc-square.jpeg" alt="NATIONAL POLICE CADET CORPS" width="106" height="17"></a></th>
+    <th><a href="/programmes/student-development/co-curricular-activities/girl-guides/" target="_blank" rel="noopener noreferrer"><img src="/images/girl_guides-square1.jpg" alt="GIRL GUIDES" width="106" height="17"></a></th>
+    <th><a href="/programmes/student-development/co-curricular-activities/national-cadet-corps/" target="_blank" rel="noopener noreferrer"><img src="/images/ncc-square1.jpg" alt="NATIONAL CADET CORPS" width="106" height="17"></a></th>
+    <th><a href="/programmes/student-development/co-curricular-activities/national-police-cadet-corps/" target="_blank" rel="noopener noreferrer"><img src="/images/npcc-square1.jpg" alt="NATIONAL POLICE CADET CORPS" width="106" height="17"></a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td><a href="/programmes/student-development/co-curricular-activities/st-john-brigade/" target="_blank" rel="noopener noreferrer"><img src="/images/st_john-square.jpeg" alt="ST JOHN BRIGADE" width="106" height="17"></a></td>
-    <td><a href="/programmes/student-development/co-curricular-activities/scouts/" target="_blank" rel="noopener noreferrer"><img src="/images/scouts-square.jpeg" alt="SCOUTS" width="106" height="17"></a></td>
+    <td><a href="/programmes/student-development/co-curricular-activities/st-john-brigade/" target="_blank" rel="noopener noreferrer"><img src="/images/st_john-square1.jpg" alt="ST JOHN BRIGADE" width="106" height="17"></a></td>
+    <td><a href="/programmes/student-development/co-curricular-activities/scouts/" target="_blank" rel="noopener noreferrer"><img src="/images/scouts-square1.jpg" alt="SCOUTS" width="106" height="17"></a></td>
     <td></td>
   </tr>
 </tbody>
