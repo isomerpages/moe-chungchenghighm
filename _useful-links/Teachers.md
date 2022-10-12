@@ -6,7 +6,7 @@ description: ""
 <table>
 <thead>
   <tr>
-    <th><br><br><a href="http://intranet.moe.gov.sg/" target="_blank" rel="noopener noreferrer"><img src="/images/MOE-Intranet-logo.jpg" alt="MOE intranet" width="106" height="17"></a></th>
+    <th><br><br><br><a href="http://intranet.moe.gov.sg/" target="_blank" rel="noopener noreferrer"><img src="/images/MOE-Intranet-logo.jpg" alt="MOE intranet" width="106" height="17"></a></th>
     <th><br><br><a href="https://academyofsingaporeteachers.moe.edu.sg/" target="_blank" rel="noopener noreferrer"><img src="/images/AST-logo.jpg" alt="Academy of Singapore Teachers" width="106" height="17"></a></th>
     <th><br><br><a href="https://vle.learning.moe.edu.sg/login" target="_blank" rel="noopener noreferrer"><img src="/images/SLSLogo-e1661422248124.png" alt="Student Learning Space" width="106" height="17"></a></th>
   </tr>
