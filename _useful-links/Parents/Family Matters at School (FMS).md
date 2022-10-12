@@ -82,12 +82,12 @@ The Family Life Education workshops have been successful in enhancing the qualit
       <p>Please click on the links for further info.</p>
 <ul>
 <li><a href="/images/Family-Workshop-2015.png">2015 Family Life Education Workshops</a></li>
-<li>Emotional Coaching Parents – 7 February 2015<img src="/images/7th-feb-coaching.png" alt="Emotional Coaching Parents – 7 February 2015"></li>
+<li><a href="/images/7th-feb-coaching.png">Emotional Coaching Parents – 7 February 2015</a></li>
 <li><a href="/files/IQEQ_14-Mar-2015.pdf">IQEQ Multiple Intelligences – 14 March 2015</a></li>
 <li><a href="/files/The-4-Major-Parenting-Styles_30-May-2015.pdf">The 4 Major Parenting Styles – 30 May 2015</a></li>
 <li><a href="/files/CCHS-FMS-flyer-27-Jun-15.pdf">Connect and Engage Your Child – 27 June 2015</a></li>
 <li><a href="/files/Helping-Your-Teens-to-Manage-Stress-25-July-2015.pdf">Helping your teens to manage stress – 25 July 2015</a></li>
-<li>Anger Management – 29 August 2015<img src="/images/7th-feb-coaching.png" alt="Anger Management – 29 August 2015"></li>
+<li><a href="/images/7th-feb-coaching.png">Anger Management – 29 August 2015</a></li>
 <li><a href="/files/Effective-Counselling-Skills-for-Parents_19-Sept-2015.pdf">Effective Counselling Skills for Parents – 19 Sept 2015</a></li>
 <li><a href="/files/Importance-of-Fathers_24-Oct-2015.pdf">Importance of Fathers_24 Oct 2015</a></li>
 <li><a href="/files/Imparting-Values-to-My-Teens_7-Nov-2015.pdf">Imparting Values to My Teens_7 Nov 2015</a></li>
