@@ -92,10 +92,12 @@ third_nav_title: Achievements
   </tr>
   <tr>
     <td class="tg-nrix">My First Break @ Southeast 2019</td>
-    <td class="tg-nrix">Participation</td>
+    <td class="tg-nrix">Participation1</td>
   </tr>
 </tbody>
 </table>
+<table>
+	</table>
 			</p>
   </div>
 	</li>
