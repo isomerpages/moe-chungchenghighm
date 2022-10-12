@@ -81,7 +81,7 @@ The Family Life Education workshops have been successful in enhancing the qualit
     <div>
       <p>Please click on the links for further info.</p>
 <ul>
-<li>2015 Family Life Education Workshops<img src="/images/Family-Workshop-2015.png" alt="2015 Family Life Education Workshops"></li>
+<li><a href="/images/Family-Workshop-2015.png">2015 Family Life Education Workshops</a></li>
 <li>Emotional Coaching Parents – 7 February 2015<img src="/images/7th-feb-coaching.png" alt="Emotional Coaching Parents – 7 February 2015"></li>
 <li><a href="/files/IQEQ_14-Mar-2015.pdf">IQEQ Multiple Intelligences – 14 March 2015</a></li>
 <li><a href="/files/The-4-Major-Parenting-Styles_30-May-2015.pdf">The 4 Major Parenting Styles – 30 May 2015</a></li>
