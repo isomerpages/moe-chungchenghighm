@@ -3,7 +3,7 @@ title: Alumni
 permalink: /useful-links/alumni/
 description: ""
 ---
-<p style="text-align:center;"><iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQrMaNmjpXpM5yW1dJufk2p4glxRhWH8rn-oaGErcR20Dmj270nZtAUfY778EH7QSwb5ee8654nvcrU/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe></p>
+<p style="text-align:center;"><iframe allowfullscreen="true" height="342" width="576" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQrMaNmjpXpM5yW1dJufk2p4glxRhWH8rn-oaGErcR20Dmj270nZtAUfY778EH7QSwb5ee8654nvcrU/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe></p>
 
 The Alumni Committee oversees the planning and administration of activities to engage the alumni. The main objective is to sustain a committed, strong relationship with the alumni to reinforce a sense of school spirit, which can produce holistic and positive experiences for our students.
 
