@@ -17,24 +17,44 @@ table, th, td {
   
   <tr>
     <td>
-<a href="/programmes/student-development/character-and-citizenship-education-cce/" target="_blank" rel="noopener noreferrer"><img src="/images/CCE-SQUAREPIC1.jpg" alt="CHARACTER & CITIZENSHIP EDUCATION (CCE)" width="100" height="17"></a>
+<a href="/programmes/curriculum/english-language-and-literature/" target="_blank" rel="noopener noreferrer"><img src="/images/english-squarepic1.jpg" alt="English Language And Literature" width="100" height="17"></a>
 </td>
     <td>
-<a href="/programmes/student-development/sexuality-education/" target="_blank" rel="noopener noreferrer"><img src="/images/SexED-squarepic1.jpg" alt="SEXUALITY EDUCATION" width="100" height="17"></a>
+<a href="/programmes/curriculum/chinese-language/" target="_blank" rel="noopener noreferrer"><img src="/images/tn_Chinese-squarepic1.jpg" alt="Chinese Language" width="100" height="17"></a>
 </td>
 		<td>
-<a href="/programmes/student-development/student-leadership/" target="_blank" rel="noopener noreferrer"><img src="/images/SL-squarepic1.jpg" alt="STUDENT LEADERSHIP" width="100" height="17"></a>
+<a href="/programmes/curriculum/mathematics/" target="_blank" rel="noopener noreferrer"><img src="/images/mathematic-squarepic1.jpg" alt="Mathematics" width="100" height="17"></a>
 </td>
 </tr>
   <tr>
     <td>
-<a href="/programmes/student-development/co-curricular-activities/" target="_blank" rel="noopener noreferrer"><img src="/images/cca-squarepic1.jpg" alt="CO-CURRICULAR ACTIVITIES (CCA)" width="100" height="17"></a>
+<a href="/programmes/curriculum/science/" target="_blank" rel="noopener noreferrer"><img src="/images/science-squarepic1.jpg" alt="Science" width="100" height="17"></a>
 </td>
     <td>
-<a href="/programmes/student-development/special-programmes/" target="_blank" rel="noopener noreferrer"><img src="/images/Special_Programme-squaarepic1.jpg" alt="SPECIAL PROGRAMMES" width="100" height="17"></a>
+<a href="/programmes/curriculum/humanities/" target="_blank" rel="noopener noreferrer"><img src="/images/humanities-squarepic1.jpg" alt="Humanities" width="100" height="17"></a>
 </td>
 		<td>
-<a href="/programmes/student-development/applied-learning-programmes-alp" target="_blank" rel="noopener noreferrer"><img src="/images/ALP-squarepic1.jpg" alt="APPLIED LEARNING PROGRAMMES (ALP)"  width="100" height="17"></a>
+<a href="/programmes/curriculum/food-and-consumer-education/" target="_blank" rel="noopener noreferrer"><img src="/images/tn_FCE-squarepic1.jpg" alt="Food And Consumer Education"  width="100" height="17"></a>
+</td>
+  </tr>
+<tr>
+    <td>
+<a href="/programmes/curriculum/design-and-technology/" target="_blank" rel="noopener noreferrer"><img src="/images/design_technology-squarepic1.jpg" alt="Design And Technology" width="100" height="17"></a>
+</td>
+    <td>
+<a href="/programmes/curriculum/art/" target="_blank" rel="noopener noreferrer"><img src="/images/art-squarepic1.jpg" alt="ART" width="100" height="17"></a>
+</td>
+		<td>
+<a href="/programmes/curriculum/music/" target="_blank" rel="noopener noreferrer"><img src="/images/tn_MEP-squarepic1.jpg" alt="Music"  width="100" height="17"></a>
+</td>
+  </tr>
+<tr>
+    <td>
+<a href="/programmes/curriculum/physical-education/" target="_blank" rel="noopener noreferrer"><img src="/images/PE-squarepic1.jpg" alt="Physical Education" width="100" height="17"></a>
+</td>
+<td>
+</td>
+<td>
 </td>
   </tr>
   
