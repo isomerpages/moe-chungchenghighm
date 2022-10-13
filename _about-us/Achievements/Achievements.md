@@ -554,7 +554,7 @@ Co-Curricular Activites
 </table>
 			</p>
   </div>
-	</li>
+	<li>
 	 <li>
     <input type="checkbox" id="accordion3">
     <label for="accordion3">Sports Group</label>
