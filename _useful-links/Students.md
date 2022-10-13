@@ -8,7 +8,7 @@ description: ""
   <tr>
     <th><br><br><a href="https://vle.learning.moe.edu.sg/login" target="_blank" rel="noopener noreferrer"><img src="/images/SLSLogo-e1661422248124.png" alt="Student Learning Space" width="106" height="17"></a></th>
     <th><br><br><a href="https://workspace.google.com/dashboard" target="_blank" rel="noopener noreferrer"><img src="/images/studenticon-logo.jpg" alt="Students Icon" width="106" height="17"></a></th>
-    <th><br><br><a href="https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&func=login" target="_blank" rel="noopener noreferrer"><img src="/images/imtl-logo.jpg" alt="IMTL" width="106" height="17"></a></th>
+    <th><br><br><a href="https://www.zbschools.sg/" target="_blank" rel="noopener noreferrer"><img src="/images/ZBschool-Logo.jpg" alt="ZBSchools" width="106" height="17"></a></th>
   </tr>
 </thead>
 <tbody>
