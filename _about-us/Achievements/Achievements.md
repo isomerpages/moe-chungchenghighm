@@ -848,7 +848,6 @@ Co-Curricular Activites
   </tr>
 </tbody>
 </table>
-  </div>
 	 <li>
     <input type="checkbox" id="accordion4">
     <label for="accordion4">Performing Arts Group</label>
