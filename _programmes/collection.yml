@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Curriculum/Curriculum.md
       - Curriculum/.keep
       - Curriculum/English Language and Literature.md
       - Curriculum/Chinese Language.md
