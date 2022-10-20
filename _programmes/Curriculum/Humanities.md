@@ -76,7 +76,7 @@ Academic Programme: Humanities
   <tr>
     <td class="tg-u1cn">Conversational Malay Programme (CMP)</td>
     <td class="tg-u1cn">Secondary 1 and 2</td>
-    <td class="tg-5xw7"><span style="font-weight:400;color:#1E1E1E">This programme aims to strengthen social cohesion among the different races in Singapore and to equip students with a foundational grasp in the respective languages which enables them to engage their counterparts in the region. It will also help students to enhance rapport with their friends of different races in the community.</span><br><span style="font-weight:400;color:#1E1E1E">CMP is conducted fortnightly during curriculum hours for all students in Chung Cheng. Students will also be exposed to the culture of the Malays throughout their CMP curriculum in order to enrich their learning of the language.</span></td>
+    <td class="tg-5xw7"><span style="font-weight:400;color:#1E1E1E">This programme aims to strengthen social cohesion among the different races in Singapore and to equip students with a foundational grasp in the respective languages which enables them to engage their counterparts in the region. It will also help students to enhance rapport with their friends of different races in the community.</span><br><br><span style="font-weight:400;color:#1E1E1E">CMP is conducted fortnightly during curriculum hours for all students in Chung Cheng. Students will also be exposed to the culture of the Malays throughout their CMP curriculum in order to enrich their learning of the language.</span></td>
   </tr>
 </tbody>
 </table>
