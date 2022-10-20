@@ -66,7 +66,7 @@ Academic Programme: English Language and Literature
   <tr>
     <td class="tg-u1cn">Oral Communication Programme</td>
     <td class="tg-u1cn">Secondary 1</td>
-    <td class="tg-5xw7"><span style="font-weight:400;color:#1E1E1E">Oral Communication Programme offers an interactive and activity-based learning experience which is aimed at developing the verbal and non-verbal communication skills of all students in the school using English Language so as to enable them to communicate verbally with confidence and clarity.</span><br><span style="font-weight:400;color:#1E1E1E">Through the programme, students are offered the opportunity to develop further whereby they get to present before a large audience in school. Students who show keen interest are given the chance to take part in national competitions and ad-hoc courses at Secondary 2.</span></td>
+    <td class="tg-5xw7"><span style="font-weight:400;color:#1E1E1E">Oral Communication Programme offers an interactive and activity-based learning experience which is aimed at developing the verbal and non-verbal communication skills of all students in the school using English Language so as to enable them to communicate verbally with confidence and clarity.</span><br><br><span style="font-weight:400;color:#1E1E1E">Through the programme, students are offered the opportunity to develop further whereby they get to present before a large audience in school. Students who show keen interest are given the chance to take part in national competitions and ad-hoc courses at Secondary 2.</span></td>
   </tr>
   <tr>
     <td class="tg-cly1">Authentic Project Work (Literature in English)</td>
