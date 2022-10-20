@@ -38,4 +38,6 @@ sections:
       title: Partners
       alt: Image alt text
       image: /images/Partners.gif
+      url: /useful-links/partner-organisations/
+      button: Find out more
 ---
