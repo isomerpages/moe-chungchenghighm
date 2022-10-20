@@ -24,7 +24,7 @@ The following 3 categories are open for DSA application for the 2023 intake:
 
 All DSA talents admitted to the school will be integrated into our system and culture like any other students, with equal opportunities to participate in the many programmes available. They will also be mentored and supported continuously by our key personnel and teachers throughout their four years in the school. In addition, they will have access to the multi-faceted programmes and activities organised for their respective CCA or talent areas.
 
-<img src="/images/DSA Table4a.png" alt="DSA Table4" style="width:1080px">
+<img src="/images/DSA Table4.png" alt="DSA Table4" style="width:1080px">
 
 <p id="link3"><strong>C. DSA SELECTION PROCESS</strong></p>
 
