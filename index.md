@@ -37,4 +37,5 @@ sections:
   - infopic:
       title: Partners
       alt: Image alt text
+      image: /images/Partners.gif
 ---
