@@ -60,12 +60,12 @@ Academic Programme: Design & Technology
   <tr>
     <td class="tg-mgsp">Project-based Learning</td>
     <td class="tg-mgsp">Secondary 1 and 2</td>
-    <td class="tg-5xw7"><span style="font-weight:400;color:#1E1E1E">Students will engage in an iterative process of design making, and develop a ‘design thinking’ mindset as they problem-solve within a variety of design contexts of progressive demands.</span><br><span style="font-weight:400;color:#1E1E1E">Students will also develop critical and creative thinking to conceptualise and generate imaginative ideas, in response to practical needs in problem situations.</span><br><span style="font-weight:400;color:#1E1E1E">The setup of an educational Makerspace will provide an immersive learning opportunity for hands-on tinkering and experimental play. Students will tinker and create, as they apply a repertoire of knowledge, understanding and practical skills to manipulate a range of materials, tools and equipment, processes and basic technology to turn ideas into reality.</span></td>
+    <td class="tg-5xw7"><span style="font-weight:400;color:#1E1E1E">Students will engage in an iterative process of design making, and develop a ‘design thinking’ mindset as they problem-solve within a variety of design contexts of progressive demands.</span><br><br><span style="font-weight:400;color:#1E1E1E">Students will also develop critical and creative thinking to conceptualise and generate imaginative ideas, in response to practical needs in problem situations.</span><br><br><span style="font-weight:400;color:#1E1E1E">The setup of an educational Makerspace will provide an immersive learning opportunity for hands-on tinkering and experimental play. Students will tinker and create, as they apply a repertoire of knowledge, understanding and practical skills to manipulate a range of materials, tools and equipment, processes and basic technology to turn ideas into reality.</span></td>
   </tr>
   <tr>
     <td class="tg-nrix">Digital Technology</td>
     <td class="tg-nrix">Secondary 1 and 2</td>
-    <td class="tg-ic9l"><span style="font-weight:400;color:#1E1E1E">Students will learn to develop visual-spatial thinking and creativity using computer-aided design softwares to create 3-dimensional models.</span><br><span style="font-weight:400;color:#1E1E1E">Students will also learn and apply coding skills to program codeable devices to develop logical thinking.</span></td>
+    <td class="tg-ic9l"><span style="font-weight:400;color:#1E1E1E">Students will learn to develop visual-spatial thinking and creativity using computer-aided design softwares to create 3-dimensional models.</span><br><br><span style="font-weight:400;color:#1E1E1E">Students will also learn and apply coding skills to program codeable devices to develop logical thinking.</span></td>
   </tr>
 </tbody>
 </table>
