@@ -25,13 +25,13 @@ sections:
       title: Announcements
       button: Click here for announcements!
   - infopic:
+      title: Students' Life
+      alt: Image alt text
+      image: /images/Studentslife.gif
+  - infopic:
       title: Contact Us
       button: Find Out More
       url: /about-us/contact-us/
       image: /images/CHSS-MAP2.jpg
       alt: CHSS map
-  - infopic:
-      title: Students' Life
-      alt: Image alt text
-      image: /images/Studentslife.gif
 ---
