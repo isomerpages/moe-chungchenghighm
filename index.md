@@ -33,4 +33,5 @@ sections:
   - infopic:
       title: Students' Life
       alt: Image alt text
+      image: /images/Studentslife.gif
 ---
