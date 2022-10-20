@@ -34,4 +34,7 @@ sections:
       url: /about-us/contact-us/
       image: /images/CHSS-MAP2.jpg
       alt: CHSS map
+  - infopic:
+      title: Partners
+      alt: Image alt text
 ---
