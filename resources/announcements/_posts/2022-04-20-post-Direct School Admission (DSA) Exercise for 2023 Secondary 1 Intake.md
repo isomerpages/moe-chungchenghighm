@@ -59,7 +59,7 @@ All applicants who satisfy our criteria may apply for DSA to our school in **3 
 
 The key dates to note for your DSA application are as follows:
 
-<img src="/images/DSA Table6.jpg" alt="DSA Table6" style="width:1080px">
+<a href="https://www.moe.gov.sg/dsa-sec" target="_blank" rel="noopener noreferrer"><img src="/images/DSA Table6.jpg" alt="DSA Table6" style="width:1080px"></a>
 
 <p id="link5"><strong>E. ADDITIONAL INFORMATION</strong></p>
 
