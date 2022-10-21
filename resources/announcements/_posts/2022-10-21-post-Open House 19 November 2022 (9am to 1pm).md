@@ -6,4 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
-
+<img src="/images/Open-House-2022-Poster.jpg" alt="Open House 2022" style="width:1080px">
