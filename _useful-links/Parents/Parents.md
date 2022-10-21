@@ -17,6 +17,10 @@ third_nav_title: Parents
     <td><a href="http://dadsforlife.sg/" target="_blank" rel="noopener noreferrer"><img src="/images/DadsforLife-logo.jpg" alt="Dads for Life" width="106" height="17"></a></td>
   </tr>
   <tr>
+    <td><a href="https://www.schoolbag.sg/" target="_blank" rel="noopener noreferrer"><img src="/images/GPA-Insurance-logo.jpg" alt="GPA Insurance" width="106" height="17"></a></td>
+    <td></td>
+  </tr>		
+  <tr>
     <td colspan="2"><a href="https://sites.google.com/cchm.edu.sg/cyberwellnesscchm/home" target="_blank" rel="noopener noreferrer"><img src="/images/cyberwellness.jpeg" alt="Cyberwellness" width="106" height="17"></a></td>
   </tr>
 </tbody>
