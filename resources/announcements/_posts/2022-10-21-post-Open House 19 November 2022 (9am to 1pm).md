@@ -19,4 +19,4 @@ Key Highlight for the Day
 
 For more information, please check our CCHM Open House Microsite at [go.gov.sg/cchmopenhouse](http://go.gov.sg/cchmopenhouse)
 
-See you on 19 November!
+See you on 19 November 2022!
