@@ -4,7 +4,7 @@ permalink: /programmes/student-development/character-and-citizenship-education-c
 description: ""
 third_nav_title: Student Development
 ---
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRBEEm8R_9xsalcJJsLU9UM81oPe01mdMdOBRy-L8faJ0T0dTe47-JvcuOEl35c_ejIM-5Y2GVBRiGP/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+<iframe allowfullscreen="true" height="569" width="768" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRBEEm8R_9xsalcJJsLU9UM81oPe01mdMdOBRy-L8faJ0T0dTe47-JvcuOEl35c_ejIM-5Y2GVBRiGP/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 
 -------
 
