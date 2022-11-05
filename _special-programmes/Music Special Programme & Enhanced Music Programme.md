@@ -14,7 +14,7 @@ img {
   
 </body>
 
-The Music Special Programme (MuSP) seeks to develop Sec One & Two students’ passion in music. Students are immersed in an enriched musical environment comprising weekly music lessons, music-making activities and opportunities to perform when they participate in music CCAs. Most MuSP students will continue their study of the subject at the O-Level by joining the Enhanced Music Programme. More information for both programmes is found in the enclosed [brochure](/files/CCHM-EMP-brochure-2020.pdf).
+The Music Special Programme (MuSP) seeks to develop Sec One & Two students’ passion in music. Students are immersed in an enriched musical environment comprising weekly music lessons, music-making activities and opportunities to perform when they participate in music CCAs. Most MuSP students will continue their study of the subject at the O-Level by joining the Enhanced Music Programme. More information for both programmes is found in the enclosed [brochure](/files/CCHM-EMP-brochure-2022.pdf).
 
 MuSP students and non-MuSP students with passion in music are encouraged to join the Enhanced Music Programme in Sec Three. You may also visit the MOE website: [https://beta.moe.gov.sg/secondary/courses/express/electives](https://beta.moe.gov.sg/secondary/courses/express/electives/?term=MOE%20Special%20Music%20Programmes)
 
