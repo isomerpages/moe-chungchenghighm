@@ -31,7 +31,7 @@ Academic Programme: Music
 <tbody>
   <tr>
     <td class="tg-mgsp">Lower Secondary</td>
-    <td class="tg-r5gp"><span style="font-weight:400;font-style:normal">• </span>General Music Programme<br><span style="font-weight:400;font-style:normal">• </span>Music Special Programme</td>
+    <td class="tg-r5gp"><span style="font-weight:400;font-style:normal">• </span>Lower Secondary Music<br><span style="font-weight:400;font-style:normal">• </span>Music Special Programme</td>
   </tr>
   <tr>
     <td class="tg-nrix">Upper Secondary</td>
@@ -62,9 +62,10 @@ Academic Programme: Music
 </thead>
 <tbody>
   <tr>
-    <td class="tg-u1cn">General Music Programme (GMP)</td>
+    <td class="tg-u1cn">Lower Secondary Music</td>
     <td class="tg-u1cn">Secondary 1 and 2</td>
-    <td class="tg-u1cn">The programme provides a basic music education with an emphasis in Chinese music to enable students to develop an appreciation for music in local and global cultures. Students will also develop their creative ability through instrumental playing and simple song composition to empower students to enjoy a lifelong involvement in music.</td>
+    <td class="tg-u1cn">The programme provides a basic music education to enable students to develop an appreciation for music in local and global cultures. Students will also develop their creative abilities through instrumental playing 
+(guitar, keyboard, cajon) and ensemble ship skills. They will also get to compose their own music composition through soundscape projects and Bandlab. This empowers our students to enjoy a lifelong involvement in music making.</td>
   </tr>
   <tr>
     <td class="tg-cly1">Enhanced Music Programme (EMP)</td>
