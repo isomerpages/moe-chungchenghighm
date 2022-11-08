@@ -464,7 +464,7 @@ Co-Curricular Activites
 <thead>
   <tr>
     <th class="tg-un5n"><span style="font-weight:bolder">CCA</span></th>
-    <th class="tg-un5n"><span style="font-weight:bolder">Events</span></th>
+    <th class="tg-un5n"><span style="font-weight:bolder">Event / Award</span></th>
     <th class="tg-un5n"><span style="font-weight:bolder">Achievements</span></th>
   </tr>
 </thead>
