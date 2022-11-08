@@ -1,32 +1,43 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Chung Cheng High School (Main)
+description: Chung Cheng High School (Main)
+image: /images/CCHS logo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/chss homepage02.gif
+      key_highlights:
+        - title: For Students
+          description: ""
+          url: /useful-links/students/
+        - title: For Teachers
+          description: ""
+          url: /useful-links/teachers/
+        - title: For Parents
+          description: ""
+          url: /useful-links/parents/
+        - title: For Partners
+          description: ""
+          url: /useful-links/partner-organisations/
+  - resources:
+      title: Announcements
+      button: Click here for announcements!
+  - infopic:
+      title: Students' Life
+      alt: Image alt text
+      image: /images/Studentslife.gif
+  - infopic:
+      title: Contact Us
+      button: Find Out More
+      url: /about-us/contact-us/
+      image: /images/CHSS-MAP2.jpg
+      alt: CHSS map
+  - infopic:
+      title: Partners
+      alt: Image alt text
+      image: /images/Partners.gif
+      url: /useful-links/partner-organisations/
+      button: Find out more
 ---
-

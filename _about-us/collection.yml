@@ -1,0 +1,17 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - School History.md
+      - Mission, Vision, Values.md
+      - Strategic Directions.md
+      - School Crest and Song.md
+      - School Management Committee.md
+      - School Leaders and Key Personnel.md
+      - Form Teachers.md
+      - Achievements/.keep
+      - Achievements/Achievements.md
+      - Achievements/Academic.md
+      - Achievements/Co Curricular Activities.md
+      - Achievements/Student Leadership.md
+      - Contact Us.md

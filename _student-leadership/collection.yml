@@ -1,0 +1,8 @@
+collections:
+  student-leadership:
+    output: true
+    order:
+      - Student Council.md
+      - CCA Leaders.md
+      - Peer Support Leaders.md
+      - Class Leaders.md
