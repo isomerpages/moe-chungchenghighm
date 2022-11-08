@@ -29,8 +29,18 @@ Chung Cheng High School (Main) CLEP is committed to promote Chinese language, Ch
  </body>
 
 2) Learning journeys to Chinese bookstore and cultural escape game
-
-
+<table style="width:100%">
+<tr>
+    <td>
+<img src="/images/clep2.jpg" alt="clep2" style="width:100%;"> 
+</td>
+    <td>
+<img src="/images/clep3.jpg" alt="clep3" style="width:100%;"> 
+</td>
+<td>
+</td>
+</tr>
+</table>
 
 3) Opportunities to organise cultural events such as Mid-Autumn Festival celebration
 
