@@ -170,7 +170,7 @@ Academic
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-un5n"><span style="font-weight:bolder">Events / Awards</span></th>
+    <th class="tg-un5n"><span style="font-weight:bolder">Event / Award</span></th>
     <th class="tg-un5n"><span style="font-weight:bolder">Achievements</span></th>
   </tr>
 </thead>
