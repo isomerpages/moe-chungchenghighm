@@ -37,8 +37,6 @@ Chung Cheng High School (Main) CLEP is committed to promote Chinese language, Ch
     <td>
 <img src="/images/clep3.jpg" alt="clep3" style="width:100%;"> 
 </td>
-<td>
-</td>
 </tr>
 </table>
 
