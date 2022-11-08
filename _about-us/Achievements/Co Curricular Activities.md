@@ -545,8 +545,6 @@ third_nav_title: Achievements
   </tr>
 </tbody>
 </table>
-  </div>
-	</li>
 	 <li>
     <input type="checkbox" id="accordion4">
     <label for="accordion4">Performing Arts Group</label>
