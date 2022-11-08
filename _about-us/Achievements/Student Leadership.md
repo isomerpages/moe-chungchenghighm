@@ -23,7 +23,7 @@ third_nav_title: Achievements
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-un5n"><span style="font-weight:bolder">Events/ Awards</span><br></th>
+    <th class="tg-un5n"><span style="font-weight:bolder">Event/ Award</span><br></th>
     <th class="tg-un5n"><span style="font-weight:bolder">Achievements</span></th>
   </tr>
 </thead>
@@ -50,7 +50,7 @@ third_nav_title: Achievements
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-un5n"><span style="font-weight:bolder">Events/ Awards</span><br></th>
+    <th class="tg-un5n"><span style="font-weight:bolder">Event/ Award</span><br></th>
     <th class="tg-un5n"><span style="font-weight:bolder">Achievements</span></th>
   </tr>
 </thead>
@@ -81,7 +81,7 @@ third_nav_title: Achievements
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-un5n"><span style="font-weight:bolder">Events/ Awards</span><br></th>
+    <th class="tg-un5n"><span style="font-weight:bolder">Event/ Award</span><br></th>
     <th class="tg-un5n"><span style="font-weight:bolder">Achievements</span></th>
   </tr>
 </thead>
