@@ -2,6 +2,7 @@ collections:
   special-programmes:
     output: true
     order:
+      - Chinese Language Elective Programme.md
       - Bicultural Education Programme.md
       - Malay (Special Programme).md
       - Music Special Programme & Enhanced Music Programme.md
