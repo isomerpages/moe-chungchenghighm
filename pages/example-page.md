@@ -47,6 +47,15 @@ permalink: /example-page/
     <td class="tg-cly1">NCC Annual Sports Championships Captain’s Ball (Junior Cadets)</td>
     <td class="tg-cly1">Champion</td>
   </tr>
+<tr>
+    <td class="tg-u1cn" rowspan="4"><span style="background-color:#EEE">National Cadet Corps1</span></td>
+    <td class="tg-u1cn">Unit Recognition 2021</td>
+    <td class="tg-u1cn">Distinction Award</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">NCC Annual Sports Championships Captain’s Ball (Junior Cadets)</td>
+    <td class="tg-cly1">Champion</td>
+  </tr>
  
 </tbody>
 </table>
