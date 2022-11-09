@@ -37,7 +37,6 @@ permalink: /example-page/
   <tr>
     <td class="tg-cly1">Baden Powell Award</td>
     <td class="tg-cly1"></td>
-    <td class="tg-cly1"></td>
   </tr>
   <tr>
     <td class="tg-u1cn" rowspan="3"><span style="background-color:#EEE">National Cadet Corps</span></td>
@@ -47,35 +46,8 @@ permalink: /example-page/
   <tr>
     <td class="tg-cly1">NCC Annual Sports Championships Captain’s Ball (Junior Cadets)</td>
     <td class="tg-cly1">Champion</td>
-    <td class="tg-cly1"></td>
   </tr>
-  <tr>
-    <td class="tg-u1cn" rowspan="4"><span style="background-color:#EEE">National Police Cadet Corps</span></td>
-    <td class="tg-cly1">Unit Overall Proficiency Award 2021</td>
-    <td class="tg-cly1">Gold</td>
-  </tr>
-  <tr>
-    <td class="tg-u1cn">SPF-NPCC Badge 2022</td>
-    <td class="tg-u1cn">2 Awardees</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">NPCC Best Unit Cadet 2022</td>
-    <td class="tg-cly1">2 Awardees</td>
-  </tr>
-  <tr>
-    <td class="tg-u1cn" rowspan="2"><span style="background-color:#EEE">Scouts</span></td>
-    <td class="tg-cly1">Frank Cooper Sands Award 2021</td>
-    <td class="tg-cly1">suspended for year 2021</td>
-  </tr>
-  <tr>
-    <td class="tg-u1cn" rowspan="3"><span style="background-color:#EEE"> </span><br><br><span style="font-weight:400;color:#1E1E1E">St John Brigade</span></td>
-    <td class="tg-cly1">SJB Chief Commissioner’s Badge</td>
-    <td class="tg-cly1">20 Awardees</td>
-  </tr>
-  <tr>
-    <td class="tg-u1cn">Corps Achievement Award 2021</td>
-    <td class="tg-u1cn">suspended for year 2021</td>
-  </tr>
+ 
 </tbody>
 </table>
 			</p>
