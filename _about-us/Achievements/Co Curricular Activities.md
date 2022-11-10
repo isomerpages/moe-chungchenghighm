@@ -320,6 +320,7 @@ third_nav_title: Achievements
 </table>
 			</p>
   </div>
+</li>
 <li>
     <input type="checkbox" id="accordion3">
     <label for="accordion3">Sports Group</label>
@@ -383,6 +384,92 @@ third_nav_title: Achievements
   </tr>
 </tbody>
 </table>
+			</p>
+				<h4 style="color:black" align="left">2020</h4>
+      <p>
+      <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-amwm{color:#1E1E1E;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-u1cn{background-color:#EEE;text-align:left;vertical-align:middle}
+.tg .tg-r5gp{background-color:#EEE;text-align:left;vertical-align:top}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-cly1" rowspan="2">Badminton</th>
+    <th class="tg-amwm" colspan="3"><span style="font-weight:bolder">National School Games Badminton Championships 2020</span></th>
+  </tr>
+  <tr>
+    <th class="tg-u1cn">B Division Boys &amp; Girls<br><br><span style="font-weight:400;color:#1E1E1E">C Division Boys &amp; Girls</span></th>
+    <th class="tg-r5gp" colspan="2">Representation<br><br><span style="font-weight:400;color:#1E1E1E">Representation</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-cly1" rowspan="2">Basketball</td>
+    <td class="tg-amwm" colspan="3"><span style="font-weight:bolder">National School Games Basketball Championships 2020</span></td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">B Division Boys &amp; Girls<br><br><span style="font-weight:400;color:#1E1E1E">C Division Boys &amp; Girls</span></td>
+    <td class="tg-r5gp" colspan="2">Representation<br><br><span style="font-weight:400;color:#1E1E1E">Representation</span></td>
+  </tr>
+  <tr>
+    <td class="tg-zr06" rowspan="2"><span style="background-color:#FFF">Cross Country</span></td>
+    <td class="tg-amwm" colspan="3"><span style="font-weight:bolder">National School Games Cross Country Championships 2020</span></td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">B Division Boys &amp; Girls<br><br><span style="font-weight:400;color:#1E1E1E">C Division Boys &amp; Girls</span></td>
+    <td class="tg-u1cn" colspan="2">Representation<br><br><span style="font-weight:400;color:#1E1E1E">Representation</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1" rowspan="2">Netball</td>
+    <td class="tg-amwm" colspan="3"><span style="font-weight:bolder">National School Games Netball Championships 2020</span></td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">B Division Girls<br><br><span style="font-weight:400;color:#1E1E1E">C Division Girls</span></td>
+    <td class="tg-u1cn" colspan="2">Representation<br><br><span style="font-weight:400;color:#1E1E1E">Representation</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1" rowspan="2">Softball</td>
+    <td class="tg-amwm" colspan="3"><span style="font-weight:bolder">National School Games Softball Championships 2020</span></td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">B Division Girls<br><br><span style="font-weight:400;color:#1E1E1E">C Division Girls</span></td>
+    <td class="tg-u1cn" colspan="2">Representation<br><br><span style="font-weight:400;color:#1E1E1E">Representation</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1" rowspan="2">Table Tennis</td>
+    <td class="tg-amwm" colspan="3"><span style="font-weight:bolder">National School Games Table Tennis Championships 2020</span></td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">B Division Boys &amp; Girls<br><br><span style="font-weight:400;color:#1E1E1E">C Division Boys &amp; Girls</span></td>
+    <td class="tg-u1cn" colspan="2">Representation<br><br><span style="font-weight:400;color:#1E1E1E">Representation</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1" rowspan="2">Volleyball</td>
+    <td class="tg-amwm" colspan="3"><span style="font-weight:bolder">National School Games Volleyball Championships 2020</span></td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn" colspan="2">B Division Boys &amp; Girls<br><br><span style="font-weight:400;color:#1E1E1E">C Division Boys &amp; Girls</span></td>
+    <td class="tg-u1cn">Representation<br><br><span style="font-weight:400;color:#1E1E1E">Representation</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1" rowspan="2">Wushu</td>
+    <td class="tg-amwm" colspan="3"><span style="font-weight:bolder">National School Games Wushu Championships 2020</span></td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">B Division Boys &amp; Girls<br><br><span style="font-weight:400;color:#1E1E1E">C Division Boys &amp; Girls</span></td>
+    <td class="tg-u1cn" colspan="2">Representation<br><br><span style="font-weight:400;color:#1E1E1E">Representation</span></td>
+  </tr>
+</tbody>
+</table>
+			</p>
       <h4 style="color:black" align="left">2019</h4>
       <p>
       <style type="text/css">
