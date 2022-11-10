@@ -5,10 +5,10 @@ permalink: /example-page/
 # Testing Table
 <ul class="jekyllcodex_accordion">
  <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">Uniformed Groups</label>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">Sports Group</label>
     <div>
-                <h4 style="color:black" align="left">2022</h4>
+      <h4 style="color:black" align="left">2021</h4>
       <p>
       <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -17,64 +17,53 @@ permalink: /example-page/
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-un5n{background-color:#CB4B3D;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-88u2{background-color:#EEE;color:#1E1E1E;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-amwm{color:#1E1E1E;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-u1cn{background-color:#EEE;text-align:left;vertical-align:middle}
+.tg .tg-r5gp{background-color:#EEE;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-un5n"><span style="font-weight:bolder">CCA</span></th>
-    <th class="tg-un5n"><span style="font-weight:bolder">Event / Award</span></th>
-    <th class="tg-un5n"><span style="font-weight:bolder">Achievements</span></th>
+    <th class="tg-cly1" rowspan="2">Badminton</th>
+    <th class="tg-amwm" colspan="3"><span style="font-weight:bolder">National School Games Badminton Championships 2021</span></th>
+  </tr>
+  <tr>
+    <th class="tg-u1cn">B Division Boys &amp; Girls<br><br><span style="font-weight:400;color:#1E1E1E">NSG Sportsmanship Award</span></th>
+    <th class="tg-r5gp" colspan="2">Representation<br><br><span style="font-weight:400;color:#1E1E1E">1 boy and 1 girl awardee</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-u1cn" rowspan="2">Girl Guides</td>
-    <td class="tg-u1cn">Puan Noor Aishah (PNA) Award </td>
-    <td class="tg-u1cn">Gold for both 1st & 2nd Companies<br><br><span style="font-weight:400;color:#1E1E1E">2 Awardees</span></td>
+    <td class="tg-cly1">Basketball</td>
+    <td class="tg-cly1">ActiveSG Basketball Academy 3X3 Youth Basketball Challenge 2021</td>
+    <td class="tg-0lax" colspan="2"> <br><br><span style="font-weight:400;color:#1E1E1E">Champions</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1">Baden Powell Award</td>
-    <td class="tg-cly1"></td>
+    <td class="tg-u1cn" rowspan="2">Table Tennis</td>
+    <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">National School Games Table Tennis Championships 2021</span></td>
   </tr>
   <tr>
-    <td class="tg-u1cn" rowspan="2"><span style="background-color:#EEE">National Cadet Corps</span></td>
-    <td class="tg-u1cn">Unit Recognition 2021</td>
-    <td class="tg-u1cn">Distinction Award</td>
+    <td class="tg-cly1">B Division Boys<br><br><span style="font-weight:400;color:#1E1E1E">B Division Girls</span></td>
+    <td class="tg-cly1" colspan="2">East Zone 4th<br><br><span style="font-weight:400;color:#1E1E1E">East Zone 3</span>rd</td>
   </tr>
   <tr>
-    <td class="tg-cly1">NCC Annual Sports Championships Captain’s Ball (Junior Cadets)</td>
-    <td class="tg-cly1">Champion</td>
-  </tr>
-<tr>
-    <td class="tg-u1cn" rowspan="3"><span style="background-color:#EEE">National Police Cadet Corps</span></td>
-    <td class="tg-u1cn">Unit Overall Proficiency Award 2021 </td>
-    <td class="tg-u1cn">Gold</td>
+    <td class="tg-u1cn" rowspan="2">Volleyball</td>
+    <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">National School Games Volleyball Championships 2021</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1">SPF-NPCC Badge 2022</td>
-    <td class="tg-cly1">2 Awardees</td>
-  </tr>
-<tr>
-    <td class="tg-u1cn">NPCC Best Unit Cadet 2022 </td>
-    <td class="tg-u1cn">2 Awardee</td>
-  </tr>
-<tr>
-    <td class="tg-u1cn" rowspan="1"><span style="background-color:#EEE">Scouts</span></td>
-    <td class="tg-cly1">Frank Cooper Sands Award 2021</td>
-    <td class="tg-cly1">suspended for year 2021</td>
-  </tr>
-<tr>
-    <td class="tg-u1cn" rowspan="2"><span style="background-color:#EEE"> </span><br><br><span style="font-weight:400;color:#1E1E1E">St John Brigade</span></td>
-    <td class="tg-u1cn">SJB Chief Commissioner’s Badge</td>
-    <td class="tg-u1cn">20 Awardees</td>
+    <td class="tg-cly1" colspan="2">B Division Boys &amp; Girls<br><br><span style="font-weight:400;color:#1E1E1E">NSG Sportsmanship Award</span></td>
+    <td class="tg-cly1">Representation<br><br><span style="font-weight:400;color:#1E1E1E">1 boy and 1 girl awardee</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1n">Corps Achievement Award 2021</td>
-    <td class="tg-cly1">suspended for year 2021</td>
-  </tr>     
+    <td class="tg-u1cn" rowspan="2">Wushu</td>
+    <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">National School Games Wushu Championships 2021</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">B Division Boys<br><br><span style="font-weight:400;color:#1E1E1E">B Division Girls</span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E">NSG Sportsmanship Award</span><br><span style="font-weight:400;color:#1E1E1E"> </span></td>
+    <td class="tg-cly1" colspan="2">1 Bronze<br><br><span style="font-weight:400;color:#1E1E1E">National 3</span>rd<br><br><span style="font-weight:400;color:#1E1E1E">1 Gold, 3 Silvers, 1 Bronze</span><br><br><span style="font-weight:400;color:#1E1E1E">1 boy and 1 girl awardee</span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span></td>
+  </tr>
 </tbody>
 </table>
 			</p>
-  </div>
