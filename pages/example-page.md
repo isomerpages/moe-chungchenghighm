@@ -60,7 +60,4 @@ permalink: /example-page/
 </tbody>
 </table>
 			</p>
-</tbody>
-</table>
-			</p>
   </div>
