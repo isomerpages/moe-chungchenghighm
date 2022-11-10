@@ -96,6 +96,6 @@ permalink: /example-page/
     <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG Waterpolo Championships 2022</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1">C Division Boys <br>(Combined Team with Singapore Sports School)<br><br></span></td>
-    <td class="tg-cly1" colspan="3">Zonal 4th<br><br></span></td>
+    <td class="tg-cly1">C Division Boys <br>(Combined Team with Singapore Sports School)<br><br></td>
+    <td class="tg-cly1" colspan="3">Zonal 4th<br><br></td>
 </tr>
