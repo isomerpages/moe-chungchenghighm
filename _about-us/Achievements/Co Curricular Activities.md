@@ -315,13 +315,12 @@ third_nav_title: Achievements
   <tr>
     <td class="tg-u1cn">St John Brigade Zone 8 First Aid, Foot Drill and Home Nursing Competition 2019</td>
     <td class="tg-u1cn">Ambulance Adult Category<br><br><span style="font-weight:400;color:#1E1E1E">(Zonal 2</span>nd <span style="font-weight:400;color:#1E1E1E">Placing) Nursing Adult Category</span><br><br><span style="font-weight:400;color:#1E1E1E">(Zonal 2</span>nd <span style="font-weight:400;color:#1E1E1E">Placing) Ambulance Cadet Category</span><br><br><span style="font-weight:400;color:#1E1E1E">(Zonal 2</span>nd <span style="font-weight:400;color:#1E1E1E">Placing) Nursing Cadet Category</span><br><span style="font-weight:400;color:#1E1E1E">(Zonal Champion)</span></td>
-  </tr>
+    </tr>
 </tbody>
 </table>
 			</p>
   </div>
-</li>
-<li>
+	<li>
     <input type="checkbox" id="accordion3">
     <label for="accordion3">Sports Group</label>
     <div>
@@ -343,22 +342,21 @@ third_nav_title: Achievements
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-u1cn" rowspan="2">Badminton</th>
-    <th class="tg-88u2" colspan="3"><span style="font-weight:bolder">National School Games Badminton Championships 2021</span></th>
+    <th class="tg-cly1" rowspan="2">Badminton</th>
+    <th class="tg-amwm" colspan="3"><span style="font-weight:bolder">National School Games Badminton Championships 2021</span></th>
   </tr>
   <tr>
-    <th class="tg-cly1">B Division Boys &amp; Girls<br><br><span style="font-weight:400;color:#1E1E1E">NSG Sportsmanship Award</span></th>
-    <th class="tg-cly1" colspan="2">Representation<br><br><span style="font-weight:400;color:#1E1E1E">1 boy and 1 girl awardee</span></th>
-  </tr>  
-	<tr>
-    <th class="tg-u1cn" rowspan="2">Basketball</th>
-    <th class="tg-88u2" colspan="3"><span style="font-weight:bolder">National School Games Basketball Championships 2021</span></th>
+    <th class="tg-u1cn">B Division Boys &amp; Girls<br><br><span style="font-weight:400;color:#1E1E1E">NSG Sportsmanship Award</span></th>
+    <th class="tg-r5gp" colspan="2">Representation<br><br><span style="font-weight:400;color:#1E1E1E">1 boy and 1 girl awardee</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-cly1">Basketball</td>
+    <td class="tg-cly1">ActiveSG Basketball Academy 3X3 Youth Basketball Challenge 2021</td>
+    <td class="tg-0lax" colspan="2"> <br><br><span style="font-weight:400;color:#1E1E1E">Champions</span></td>
   </tr>
   <tr>
-    <th class="tg-cly1">ActiveSG Basketball Academy 3X3 Youth Basketball Challenge 2021</th>
-    <th class="tg-cly1" colspan="2">Champions</th>
-  </tr>  
-	<tr>
     <td class="tg-u1cn" rowspan="2">Table Tennis</td>
     <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">National School Games Table Tennis Championships 2021</span></td>
   </tr>
@@ -384,7 +382,239 @@ third_nav_title: Achievements
   </tr>
 </tbody>
 </table>
-	 <li>
+			</p>
+				<h4 style="color:black" align="left">2020</h4>
+      <p>
+      <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-amwm{color:#1E1E1E;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-u1cn{background-color:#EEE;text-align:left;vertical-align:middle}
+.tg .tg-r5gp{background-color:#EEE;text-align:left;vertical-align:top}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-cly1" rowspan="2">Badminton</th>
+    <th class="tg-amwm" colspan="3"><span style="font-weight:bolder">National School Games Badminton Championships 2020</span></th>
+  </tr>
+  <tr>
+    <th class="tg-u1cn">B Division Boys &amp; Girls<br><br><span style="font-weight:400;color:#1E1E1E">C Division Boys &amp; Girls</span></th>
+    <th class="tg-r5gp" colspan="2">Representation<br><br><span style="font-weight:400;color:#1E1E1E">Representation</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-cly1" rowspan="2">Basketball</td>
+    <td class="tg-amwm" colspan="3"><span style="font-weight:bolder">National School Games Basketball Championships 2020</span></td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">B Division Boys &amp; Girls<br><br><span style="font-weight:400;color:#1E1E1E">C Division Boys &amp; Girls</span></td>
+    <td class="tg-r5gp" colspan="2">Representation<br><br><span style="font-weight:400;color:#1E1E1E">Representation</span></td>
+  </tr>
+  <tr>
+    <td class="tg-zr06" rowspan="2"><span style="background-color:#FFF">Cross Country</span></td>
+    <td class="tg-amwm" colspan="3"><span style="font-weight:bolder">National School Games Cross Country Championships 2020</span></td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">B Division Boys &amp; Girls<br><br><span style="font-weight:400;color:#1E1E1E">C Division Boys &amp; Girls</span></td>
+    <td class="tg-u1cn" colspan="2">Representation<br><br><span style="font-weight:400;color:#1E1E1E">Representation</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1" rowspan="2">Netball</td>
+    <td class="tg-amwm" colspan="3"><span style="font-weight:bolder">National School Games Netball Championships 2020</span></td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">B Division Girls<br><br><span style="font-weight:400;color:#1E1E1E">C Division Girls</span></td>
+    <td class="tg-u1cn" colspan="2">Representation<br><br><span style="font-weight:400;color:#1E1E1E">Representation</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1" rowspan="2">Softball</td>
+    <td class="tg-amwm" colspan="3"><span style="font-weight:bolder">National School Games Softball Championships 2020</span></td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">B Division Girls<br><br><span style="font-weight:400;color:#1E1E1E">C Division Girls</span></td>
+    <td class="tg-u1cn" colspan="2">Representation<br><br><span style="font-weight:400;color:#1E1E1E">Representation</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1" rowspan="2">Table Tennis</td>
+    <td class="tg-amwm" colspan="3"><span style="font-weight:bolder">National School Games Table Tennis Championships 2020</span></td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">B Division Boys &amp; Girls<br><br><span style="font-weight:400;color:#1E1E1E">C Division Boys &amp; Girls</span></td>
+    <td class="tg-u1cn" colspan="2">Representation<br><br><span style="font-weight:400;color:#1E1E1E">Representation</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1" rowspan="2">Volleyball</td>
+    <td class="tg-amwm" colspan="3"><span style="font-weight:bolder">National School Games Volleyball Championships 2020</span></td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn" colspan="2">B Division Boys &amp; Girls<br><br><span style="font-weight:400;color:#1E1E1E">C Division Boys &amp; Girls</span></td>
+    <td class="tg-u1cn">Representation<br><br><span style="font-weight:400;color:#1E1E1E">Representation</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1" rowspan="2">Wushu</td>
+    <td class="tg-amwm" colspan="3"><span style="font-weight:bolder">National School Games Wushu Championships 2020</span></td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">B Division Boys &amp; Girls<br><br><span style="font-weight:400;color:#1E1E1E">C Division Boys &amp; Girls</span></td>
+    <td class="tg-u1cn" colspan="2">Representation<br><br><span style="font-weight:400;color:#1E1E1E">Representation</span></td>
+  </tr>
+</tbody>
+</table>
+			</p>
+      <h4 style="color:black" align="left">2019</h4>
+      <p>
+      <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-5xw7{background-color:#EEE;color:#1E1E1E;text-align:left;vertical-align:top}
+.tg .tg-88u2{background-color:#EEE;color:#1E1E1E;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-u1cn{background-color:#EEE;text-align:left;vertical-align:middle}
+.tg .tg-r5gp{background-color:#EEE;text-align:left;vertical-align:top}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-cly1" rowspan="2">Badminton</th>
+    <th class="tg-amwm" colspan="3"><span style="font-weight:bolder">National School Games Badminton Championships 2019</span></th>
+  </tr>
+  <tr>
+    <th class="tg-u1cn">B Division Boys &amp; Girls<br><br><span style="font-weight:400;color:#1E1E1E">C Division Boys &amp; Girls</span></th>
+    <th class="tg-r5gp" colspan="2">Representation<br><br><span style="font-weight:400;color:#1E1E1E">Representation</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-cly1" rowspan="6">Basketball</td>
+    <td class="tg-amwm" colspan="3"><span style="font-weight:bolder">National School Games Basketball Championships 2019</span></td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">B Division Boys<br><br><span style="font-weight:400;color:#1E1E1E">B Division Girls</span><br><br><span style="font-weight:400;color:#1E1E1E">C Division Boys</span><br><br><span style="font-weight:400;color:#1E1E1E">C Division Girls</span></td>
+    <td class="tg-5xw7" colspan="2"><span style="font-weight:400;color:#1E1E1E">Representation</span><br><br><span style="font-weight:400;color:#1E1E1E">East Zone 3</span>rd <span style="font-weight:400;color:#1E1E1E">&amp; National 2</span>nd <span style="font-weight:400;color:#1E1E1E">Placing</span><br><br><span style="font-weight:400;color:#1E1E1E">East Zone 2</span>nd <span style="font-weight:400;color:#1E1E1E">&amp; National Top 16</span><br><br><span style="font-weight:400;color:#1E1E1E">East Zone 2</span>nd <span style="font-weight:400;color:#1E1E1E">&amp; National 4</span>th <span style="font-weight:400;color:#1E1E1E">Placing</span></td>
+  </tr>
+  <tr>
+    <td class="tg-amwm" colspan="3"><span style="font-weight:bolder">ActiveSG-BAS Basketball Development League 2019</span></td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">B Division Boys</td>
+    <td class="tg-u1cn" colspan="2">3rd Placing</td>
+  </tr>
+  <tr>
+    <td class="tg-amwm" colspan="3"><span style="font-weight:bolder">Junior NBA Singapore Event</span></td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn" colspan="3">Top 200 (5 players)<br><br><span style="font-weight:400;color:#1E1E1E">Top 20 (3 players)</span><br><br><span style="font-weight:400;color:#1E1E1E">Top 5 (1 player, Junior NBA Singapore All-Stars)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1" rowspan="2">Netball</td>
+    <td class="tg-amwm" colspan="3"><span style="font-weight:bolder">National School Games Netball Championships 2019</span></td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">B Division Girls<br><br><span style="font-weight:400;color:#1E1E1E">C Division Girls</span></td>
+    <td class="tg-u1cn" colspan="2">Representation<br><br><span style="font-weight:400;color:#1E1E1E">Representation</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1" rowspan="4">Softball</td>
+    <td class="tg-amwm" colspan="3"><span style="font-weight:bolder">National School Games Softball Championships 2019</span></td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">B Division Girls<br><br><span style="font-weight:400;color:#1E1E1E">C Division Girls</span></td>
+    <td class="tg-u1cn" colspan="2">Representation<br><br><span style="font-weight:400;color:#1E1E1E">Representation</span></td>
+  </tr>
+  <tr>
+    <td class="tg-amwm" colspan="3"><span style="font-weight:bolder">Bedok Green Secondary School Softball Invitational Games 2019</span></td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">B Division Girls</td>
+    <td class="tg-u1cn" colspan="2">2nd Placing</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1" rowspan="3">Table Tennis</td>
+    <td class="tg-amwm" colspan="3"><span style="font-weight:bolder">National School Games Table Tennis Championships 2019</span></td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">B Division Boys<br><br><span style="font-weight:400;color:#1E1E1E">B Division Girls</span><br><br><span style="font-weight:400;color:#1E1E1E">C Division Boys</span><br><br><span style="font-weight:400;color:#1E1E1E">C Division Girls</span></td>
+    <td class="tg-u1cn" colspan="2">East Zone 4th Placing<br><br><span style="font-weight:400;color:#1E1E1E">Representation</span><br><br><span style="font-weight:400;color:#1E1E1E">East Zone 3</span>rd <span style="font-weight:400;color:#1E1E1E">Placing</span><br><br><span style="font-weight:400;color:#1E1E1E">East Zone 3</span>rd <span style="font-weight:400;color:#1E1E1E">Placing and National Top 8</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">B Division Girls</td>
+    <td class="tg-cly1" colspan="2">Individual – Gold</td>
+  </tr>
+  <tr>
+    <td class="tg-zr06" rowspan="9"><span style="background-color:#FFF">Track and Field</span></td>
+    <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">National School Games Cross Country Championships 2019</span><br><span style="font-weight:bolder">National School Games Track and Field Championships 2019</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">B Division Boys &amp; Girls<br><br><span style="font-weight:400;color:#1E1E1E">C Division Boys &amp; Girls</span></td>
+    <td class="tg-cly1" colspan="2">Representation<br><br><span style="font-weight:400;color:#1E1E1E">Representation</span></td>
+  </tr>
+  <tr>
+    <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">SPH Schools Relay Championship 2019</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1" colspan="3">Representation</td>
+  </tr>
+  <tr>
+    <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">Akira Swift Tan Soo Liat Memorial Age Group Road Relay Championships 2019</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">(U-14)</td>
+    <td class="tg-cly1" colspan="2">4th placing</td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">(U-17)</td>
+    <td class="tg-u1cn" colspan="2">4th placing</td>
+  </tr>
+  <tr>
+    <td class="tg-amwm" colspan="3"><span style="font-weight:bolder">Akira Swift Goh Teck Phuan Memorial Age Group Cross Country Championships 2019</span></td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">(U-17)</td>
+    <td class="tg-u1cn" colspan="2">4th placing</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1" rowspan="2">Volleyball</td>
+    <td class="tg-amwm" colspan="3"><span style="font-weight:bolder">National School Games Volleyball Championships 2019</span></td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn" colspan="2">B Division Boys &amp; Girls<br><br><span style="font-weight:400;color:#1E1E1E">C Division Boys &amp; Girls</span></td>
+    <td class="tg-u1cn">Representation<br><br><span style="font-weight:400;color:#1E1E1E">Representation</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1" rowspan="5">Wushu</td>
+    <td class="tg-amwm" colspan="3"><span style="font-weight:bolder">National School Games Wushu Championships 2019</span></td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">B Division Boys</td>
+    <td class="tg-u1cn" colspan="2">Team – 4th Placing, 3rd Placing<br><br><span style="font-weight:400;color:#1E1E1E">Individual – Silver, 3 Bronze, 4</span>th <span style="font-weight:400;color:#1E1E1E">Placing</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">B Division Girls<br><br><span style="font-weight:400;color:#1E1E1E"> </span></td>
+    <td class="tg-cly1" colspan="2">National 2nd Placing<br><br><span style="font-weight:400;color:#1E1E1E">Team – Two 2</span>nd <span style="font-weight:400;color:#1E1E1E">Placings</span><br><br><span style="font-weight:400;color:#1E1E1E">Individual – 4 Silver, 4 Bronze, Four 4</span>th <span style="font-weight:400;color:#1E1E1E">Placings</span></td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">C Division Boys</td>
+    <td class="tg-u1cn" colspan="2">Individual – Two 4th Placing</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">C Division Girls</td>
+    <td class="tg-cly1" colspan="2">National 3rd Placing<br><br><span style="font-weight:400;color:#1E1E1E">Team – Two 2</span>nd <span style="font-weight:400;color:#1E1E1E">Placings</span><br><br><span style="font-weight:400;color:#1E1E1E">Individual – 2 Gold, 2 Silver, 5 Bronze, Seven 4</span>th <span style="font-weight:400;color:#1E1E1E">Placings</span></td>
+  </tr>
+</tbody>
+</table>
+<li>
     <input type="checkbox" id="accordion4">
     <label for="accordion4">Performing Arts Group</label>
     <div>
