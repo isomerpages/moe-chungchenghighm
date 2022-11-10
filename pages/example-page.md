@@ -39,7 +39,7 @@ permalink: /example-page/
     <td class="tg-cly1"></td>
   </tr>
   <tr>
-    <td class="tg-u1cn" rowspan="3"><span style="background-color:#EEE">National Cadet Corps</span></td>
+    <td class="tg-u1cn" rowspan="2"><span style="background-color:#EEE">National Cadet Corps</span></td>
     <td class="tg-u1cn">Unit Recognition 2021</td>
     <td class="tg-u1cn">Distinction Award</td>
   </tr>
