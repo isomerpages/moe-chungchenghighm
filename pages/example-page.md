@@ -8,7 +8,7 @@ permalink: /example-page/
     <input type="checkbox" id="accordion3">
     <label for="accordion3">Sports Group</label>
     <div>
-      <h4 style="color:black" align="left">2021</h4>
+      <h4 style="color:black" align="left">2022</h4>
       <p>
       <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -27,11 +27,11 @@ permalink: /example-page/
 <thead>
   <tr>
     <th class="tg-cly1" rowspan="2">Badminton</th>
-    <th class="tg-amwm" colspan="3"><span style="font-weight:bolder">National School Games Badminton Championships 2021</span></th>
+    <th class="tg-amwm" colspan="3"><span style="font-weight:bolder">NSG EastZone  Championships 2022</span></th>
   </tr>
-  <tr>
-    <th class="tg-u1cn">B Division Boys &amp; Girls<br><br><span style="font-weight:400;color:#1E1E1E">NSG Sportsmanship Award</span></th>
-    <th class="tg-r5gp" colspan="2">Representation<br><br><span style="font-weight:400;color:#1E1E1E">1 boy and 1 girl awardee</span></th>
+ <tr>
+    <th class="tg-u1cn">C Division Girls</th>
+    <th class="tg-r5gp" colspan="2">Zonal 3rd</th>
   </tr>
 </thead>
 <tbody>
