@@ -70,7 +70,4 @@ permalink: /example-page/
   <tr>
     <td class="tg-cly1">B Division Boys<br><br><span style="font-weight:400;color:#1E1E1E">B Division Girls</span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E">NSG Sportsmanship Award</span><br><span style="font-weight:400;color:#1E1E1E"> </span></td>
     <td class="tg-cly1" colspan="2">1 Bronze<br><br><span style="font-weight:400;color:#1E1E1E">National 3</span>rd<br><br><span style="font-weight:400;color:#1E1E1E">1 Gold, 3 Silvers, 1 Bronze</span><br><br><span style="font-weight:400;color:#1E1E1E">1 boy and 1 girl awardee</span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span></td>
-  </tr>
-</tbody>
-</table>
-			</p>
+</tr>
