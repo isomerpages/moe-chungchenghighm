@@ -26,17 +26,19 @@ permalink: /example-page/
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-cly1" rowspan="2">Badminton</th>
-    <th class="tg-amwm" colspan="3"><span style="font-weight:bolder">NSG EastZone  Championships 2022</span></th>
+    <th class="tg-u1cn" rowspan="2">Badminton</th>
+    <th class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG Badminton EastZone  Championships 2022</span></th>
   </tr>
  <tr>
-    <th class="tg-u1cn">C Division Girls</th>
-    <th class="tg-r5gp" colspan="2">Zonal 3rd</th>
+    <th class="tg-cly1">C Division Girls</th>
+    <th class="tg-cly1" colspan="2">Zonal 3rd</th>
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-cly1">Basketball</td>
+<tr>
+    <th class="tg-u1cn" rowspan="2">Basketball</th>
+    <th class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG Basketball EastZone  Championships 2022</span></th>
+  </tr>
     <td class="tg-cly1">B Division Girls<br><br><span style="font-weight:400;color:#1E1E1E">C Division Girls</span></td>
     <td class="tg-0lax" colspan="2"><span style="font-weight:400;color:#1E1E1E">Zonal 2nd</span><br><br><span style="font-weight:400;color:#1E1E1E">Zonal 3rd</span></td>
   </tr>
