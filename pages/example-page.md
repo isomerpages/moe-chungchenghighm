@@ -58,8 +58,8 @@ permalink: /example-page/
 (4 student representatives)</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1">U15 3x3<br><br><span style="font-weight:400;color:#1E1E1E">U15 5x5</span></td>
-    <td class="tg-cly1" colspan="2">2nd, 3rd<br><br><span style="font-weight:400;color:#1E1E1E">4th</td>
+    <td class="tg-cly1">U15 3x3<br><br><span style="font-weight:400;color:#1E1E1E">U15 5x5</span><br><br><span style="font-weight:400;color:#1E1E1E">U18 5x5</span></td>
+    <td class="tg-cly1" colspan="2">2nd, 3rd<br><br><span style="font-weight:400;color:#1E1E1E">4th</span><br><br><span style="font-weight:400;color:#1E1E1E">3rd</span></td>
   </tr>
     <td class="tg-u1cn" rowspan="2">Table Tennis</td>
     <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">National School Games Table Tennis Championships 2021</span></td>
