@@ -37,8 +37,8 @@ permalink: /example-page/
 <tbody>
   <tr>
     <td class="tg-cly1">Basketball</td>
-    <td class="tg-cly1">ActiveSG Basketball Academy 3X3 Youth Basketball Challenge 2021</td>
-    <td class="tg-0lax" colspan="2"> <br><br><span style="font-weight:400;color:#1E1E1E">Champions</span></td>
+    <td class="tg-cly1">B Division Girls<br><br><span style="font-weight:400;color:#1E1E1E">C Division Girls</span></td>
+    <td class="tg-0lax" colspan="2"><span style="font-weight:400;color:#1E1E1E">Zonal 2nd</span><br><br><span style="font-weight:400;color:#1E1E1E">Zonal 3rd</span></td>
   </tr>
   <tr>
     <td class="tg-u1cn" rowspan="2">Table Tennis</td>
