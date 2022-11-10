@@ -351,11 +351,7 @@ third_nav_title: Achievements
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-cly1">Basketball</td>
-    <td class="tg-cly1">ActiveSG Basketball Academy 3X3 Youth Basketball Challenge 2021</td>
-    <td class="tg-0lax" colspan="2"> <br><br><span style="font-weight:400;color:#1E1E1E">Champions</span></td>
-  </tr>
+
   <tr>
     <td class="tg-u1cn" rowspan="2">Table Tennis</td>
     <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">National School Games Table Tennis Championships 2021</span></td>
