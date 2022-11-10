@@ -70,11 +70,11 @@ permalink: /example-page/
   </tr>
   <tr>
     <td class="tg-u1cn" rowspan="2">Volleyball</td>
-    <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">National School Games Volleyball Championships 2021</span></td>
+    <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG EastZone Volleyball Championships 2022</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1" colspan="2">B Division Boys &amp; Girls<br><br><span style="font-weight:400;color:#1E1E1E">NSG Sportsmanship Award</span></td>
-    <td class="tg-cly1">Representation<br><br><span style="font-weight:400;color:#1E1E1E">1 boy and 1 girl awardee</span></td>
+    <td class="tg-cly1" colspan="2">C Division Girls</td>
+    <td class="tg-cly1">Zonal 4th</td>
   </tr>
   <tr>
     <td class="tg-u1cn" rowspan="2">Wushu</td>
