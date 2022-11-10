@@ -342,12 +342,12 @@ third_nav_title: Achievements
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-cly1" rowspan="2">Badminton</th>
-    <th class="tg-amwm" colspan="3"><span style="font-weight:bolder">National School Games Badminton Championships 2021</span></th>
+    <th class="tg-u1cn" rowspan="2">Badminton</th>
+    <th class="tg-88u2" colspan="3"><span style="font-weight:bolder">National School Games Badminton Championships 2021</span></th>
   </tr>
   <tr>
-    <th class="tg-u1cn">B Division Boys &amp; Girls<br><br><span style="font-weight:400;color:#1E1E1E">NSG Sportsmanship Award</span></th>
-    <th class="tg-r5gp" colspan="2">Representation<br><br><span style="font-weight:400;color:#1E1E1E">1 boy and 1 girl awardee</span></th>
+    <th class="tg-cly1">B Division Boys &amp; Girls<br><br><span style="font-weight:400;color:#1E1E1E">NSG Sportsmanship Award</span></th>
+    <th class="tg-cly1" colspan="2">Representation<br><br><span style="font-weight:400;color:#1E1E1E">1 boy and 1 girl awardee</span></th>
   </tr>
 </thead>
 <tbody>
