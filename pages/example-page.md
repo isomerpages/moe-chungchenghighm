@@ -48,7 +48,7 @@ permalink: /example-page/
     <td class="tg-cly1">Champion</td>
   </tr>
 <tr>
-    <td class="tg-u1cn" rowspan="4"><span style="background-color:#EEE">National Police Cadet Corps</span></td>
+    <td class="tg-u1cn" rowspan="3"><span style="background-color:#EEE">National Police Cadet Corps</span></td>
     <td class="tg-u1cn">Unit Overall Proficiency Award 2021 </td>
     <td class="tg-u1cn">Gold</td>
   </tr>
