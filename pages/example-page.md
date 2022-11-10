@@ -60,7 +60,12 @@ permalink: /example-page/
     <td class="tg-u1cn">NPCC Best Unit Cadet 2022 </td>
     <td class="tg-u1cn">2 Awardee</td>
   </tr>
- 
+<tr>
+    <td class="tg-u1cn" rowspan="2"><span style="background-color:#EEE">Scouts</span></td>
+    <td class="tg-cly1">Frank Cooper Sands Award 2021</td>
+    <td class="tg-cly1">suspended for year 2021</td>
+  </tr>
+   
 </tbody>
 </table>
 			</p>
