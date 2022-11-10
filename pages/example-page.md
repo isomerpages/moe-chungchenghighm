@@ -36,7 +36,7 @@ permalink: /example-page/
 </thead>
 <tbody>
 <tr>
-    <th class="tg-u1cn" rowspan="7">Basketball</th>
+    <th class="tg-u1cn" rowspan="9">Basketball</th>
     <th class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG Basketball EastZone  Championships 2022</span></th>
 	</tr>
     <td class="tg-cly1">B Division Girls<br><br><span style="font-weight:400;color:#1E1E1E">C Division Girls</span><br><br><span style="font-weight:400;color:#1E1E1E">C Division Boys</span></td>
@@ -53,7 +53,6 @@ permalink: /example-page/
     <td class="tg-cly1">Girls</td>
     <td class="tg-0lax" colspan="2"><span style="font-weight:400;color:#1E1E1E">Champion</span></td>
   <tr>
-		<td class="tg-u1cn" rowspan="2">Tabletttt</td>
     <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">State Representation in The 9th Asia Pacific Cup, 2022 
 (4 student representatives)</span></td>
   </tr>
