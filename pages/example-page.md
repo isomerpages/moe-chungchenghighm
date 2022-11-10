@@ -78,9 +78,9 @@ permalink: /example-page/
   </tr>
   <tr>
     <td class="tg-u1cn" rowspan="2">Wushu</td>
-    <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">National School Games Wushu Championships 2021</span></td>
+    <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG EastZone Wushu Championships 2022</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1">B Division Boys<br><br><span style="font-weight:400;color:#1E1E1E">B Division Girls</span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E">NSG Sportsmanship Award</span><br><span style="font-weight:400;color:#1E1E1E"> </span></td>
-    <td class="tg-cly1" colspan="2">1 Bronze<br><br><span style="font-weight:400;color:#1E1E1E">National 3</span>rd<br><br><span style="font-weight:400;color:#1E1E1E">1 Gold, 3 Silvers, 1 Bronze</span><br><br><span style="font-weight:400;color:#1E1E1E">1 boy and 1 girl awardee</span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span></td>
+    <td class="tg-cly1">C Division Girls<br><br><span style="font-weight:400;color:#1E1E1E">B Division Girls</span><br><br><span style="font-weight:400;color:#1E1E1E">B Division Boys</span><br><br><span style="font-weight:400;color:#1E1E1E">C Division Girls</span><br><br><span style="font-weight:400;color:#1E1E1E"> </span><span style="font-weight:400;color:#1E1E1E">C Division Boys</span><br><br><span style="font-weight:400;color:#1E1E1E"> </span></td>
+    <td class="tg-cly1" colspan="2">National 4th<br><br><span style="font-weight:400;color:#1E1E1E">1 Bronze, 1 4th Placing </span><br><br><span style="font-weight:400;color:#1E1E1E">1 Bronze</span><br><br><span style="font-weight:400;color:#1E1E1E">1 boy and 1 girl </span><br><br><span style="font-weight:400;color:#1E1E1E">1 boy and 1 girl </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span></td>
 </tr>
