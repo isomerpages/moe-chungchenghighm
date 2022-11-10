@@ -348,11 +348,16 @@ third_nav_title: Achievements
   <tr>
     <th class="tg-cly1">B Division Boys &amp; Girls<br><br><span style="font-weight:400;color:#1E1E1E">NSG Sportsmanship Award</span></th>
     <th class="tg-cly1" colspan="2">Representation<br><br><span style="font-weight:400;color:#1E1E1E">1 boy and 1 girl awardee</span></th>
+  </tr>  
+	<tr>
+    <th class="tg-u1cn" rowspan="2">Basketball</th>
+    <th class="tg-88u2" colspan="3"><span style="font-weight:bolder">National School Games Basketball Championships 2021</span></th>
   </tr>
-</thead>
-<tbody>
-
   <tr>
+    <th class="tg-cly1">ActiveSG Basketball Academy 3X3 Youth Basketball Challenge 2021</th>
+    <th class="tg-cly1" colspan="2">Champions</th>
+  </tr>  
+	<tr>
     <td class="tg-u1cn" rowspan="2">Table Tennis</td>
     <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">National School Games Table Tennis Championships 2021</span></td>
   </tr>
