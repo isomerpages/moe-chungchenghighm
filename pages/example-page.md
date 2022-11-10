@@ -85,10 +85,17 @@ permalink: /example-page/
     <td class="tg-cly1" colspan="2">National 4th<br><br><span style="font-weight:400;color:#1E1E1E">1 Bronze, 1 4th Placing </span><br><br><span style="font-weight:400;color:#1E1E1E">1 Bronze</span><br><br><span style="font-weight:400;color:#1E1E1E">1 Gold, 1 Silver, 4 Bronze </span><br><br><span style="font-weight:400;color:#1E1E1E">1 Bronze, 1 4th Placing</span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span></td>
 </tr>
 			 <tr>
-    <td class="tg-u1cn" rowspan="2">Other Sports</td>
-    <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG EastZone Taekwondo (Poomsae) Championships 2022</span></td>
+    <td class="tg-u1cn" rowspan="4">Other Sports</td>
+    <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG National Taekwondo (Poomsae) Championships 2022</span></td>
   </tr>
   <tr>
     <td class="tg-cly1">(Team) B Division Boys<br><br><span style="font-weight:400;color:#1E1E1E">(Team) C Division Boy</span><br><br><span style="font-weight:400;color:#1E1E1E">(Individual) B Division Girls</span><br><br><span style="font-weight:400;color:#1E1E1E">(Individual) B Division Boys</span><br><br><span style="font-weight:400;color:#1E1E1E"> </span><span style="font-weight:400;color:#1E1E1E">(Individual) C Division Boys</span><br><br><span style="font-weight:400;color:#1E1E1E"> </span></td>
     <td class="tg-cly1" colspan="3">1 Sliver<br><br><span style="font-weight:400;color:#1E1E1E">1 Bronze, 1 4th Placing </span><br><br><span style="font-weight:400;color:#1E1E1E">1 Gold</span><br><br><span style="font-weight:400;color:#1E1E1E">1 Bronze, 1 4th Placing </span><br><br><span style="font-weight:400;color:#1E1E1E">1 Silver, 1 Bronze, 1 4th Placing</span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span></td>
+</tr>
+			 <tr>
+    <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG Waterpolo Championships 2022</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">C Division Boys <br>(Combined Team with Singapore Sports School)<br><br></span></td>
+    <td class="tg-cly1" colspan="3">Zonal 4th<br><br></span></td>
 </tr>
