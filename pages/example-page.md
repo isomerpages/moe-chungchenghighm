@@ -4,9 +4,9 @@ permalink: /example-page/
 ---
 # Testing Table
 <ul class="jekyllcodex_accordion">
- <li>
-    <input type="checkbox" id="accordion3">
-    <label for="accordion3">Sports Group</label>
+   <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">Academic</label>
     <div>
       <h4 style="color:black" align="left">2022</h4>
       <p>
@@ -17,85 +17,137 @@ permalink: /example-page/
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-88u2{background-color:#EEE;color:#1E1E1E;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-amwm{color:#1E1E1E;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-un5n{background-color:#CB4B3D;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-u1cn{background-color:#EEE;text-align:left;vertical-align:middle}
-.tg .tg-r5gp{background-color:#EEE;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-u1cn" rowspan="2">Badminton</th>
-    <th class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG Badminton EastZone  Championships 2022</span></th>
-  </tr>
- <tr>
-    <th class="tg-cly1">C Division Girls</th>
-    <th class="tg-cly1" colspan="2">Zonal 3rd</th>
+    <th class="tg-un5n"><span style="font-weight:bolder">Event / Award</span></th>
+    <th class="tg-un5n"><span style="font-weight:bolder">Achievements</span></th>
   </tr>
 </thead>
 <tbody>
-<tr>
-    <th class="tg-u1cn" rowspan="9">Basketball</th>
-    <th class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG Basketball EastZone  Championships 2022</span></th>
-	</tr>
-    <td class="tg-cly1">B Division Girls<br><br><span style="font-weight:400;color:#1E1E1E">C Division Girls</span><br><br><span style="font-weight:400;color:#1E1E1E">C Division Boys</span></td>
-    <td class="tg-0lax" colspan="2"><span style="font-weight:400;color:#1E1E1E">Zonal 2nd</span><br><br><span style="font-weight:400;color:#1E1E1E">Zonal 3rd</span><br><br><span style="font-weight:400;color:#1E1E1E">Zonal 3rd</span></td>
   <tr>
-<tr>
-    <th class="tg-88u2" colspan="3"><span style="font-weight:bolder">Whye Nam Sports Association U14 Basketball Tournament 2022</span></th>
-	</tr>
-    <td class="tg-cly1">Girls<br><br><span style="font-weight:400;color:#1E1E1E">Boys</span></td>
-    <td class="tg-0lax" colspan="2"><span style="font-weight:400;color:#1E1E1E">Champion</span><br><br><span style="font-weight:400;color:#1E1E1E">Champion</span></td>
-  <tr>
- <th class="tg-88u2" colspan="3"><span style="font-weight:bolder">ActiveSG Cup 2022 3x3 Basketball U14 </span></th>
-	</tr>
-    <td class="tg-cly1">Girls</td>
-    <td class="tg-0lax" colspan="2"><span style="font-weight:400;color:#1E1E1E">Champion</span></td>
-  <tr>
-    <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">State Representation in The 9th Asia Pacific Cup, 2022 
-(4 student representatives)</span></td>
+    <td class="tg-u1cn">Orator's Trophy</td>
+    <td class="tg-u1cn">3rd in the Senior League</td>
   </tr>
   <tr>
-    <td class="tg-cly1">U15 3x3<br><br><span style="font-weight:400;color:#1E1E1E">U15 5x5</span><br><br><span style="font-weight:400;color:#1E1E1E">U18 5x5</span></td>
-    <td class="tg-cly1" colspan="2">2nd, 3rd<br><br><span style="font-weight:400;color:#1E1E1E">4th</span><br><br><span style="font-weight:400;color:#1E1E1E">3rd</span></td>
-  </tr>
-    <td class="tg-u1cn" rowspan="2">Table Tennis</td>
-    <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG EastZone Table Tennis Championships 2022</span></td>
+    <td class="tg-cly1">2022 Hybrid Speech Arts' Competition & Festival organised by ACJC</td>
+    <td class="tg-cly1">Comic Monologue (Lower Secondary) – 1st and 3rd</td>
   </tr>
   <tr>
-    <td class="tg-cly1">B Division Girls<br><br><span style="font-weight:400;color:#1E1E1E">B Division Boys</span><br><br><span style="font-weight:400;color:#1E1E1E">C Division Girls</span>
-<br><br><span style="font-weight:400;color:#1E1E1E">C Division Boys</span></td>
-    <td class="tg-cly1" colspan="2">Zonal 3rd<br><br><span style="font-weight:400;color:#1E1E1E">Zonal 4th</span><br><br><span style="font-weight:400;color:#1E1E1E">Zonal 4th</span><br><br><span style="font-weight:400;color:#1E1E1E">Zonal 3rd</span></td>
+    <td class="tg-u1cn">34th YMCA Plain English Speaking Award (PESA) Lower Secondary Finals 2021</td>
+    <td class="tg-u1cn">Finalist</td>
   </tr>
   <tr>
-    <td class="tg-u1cn" rowspan="2">Volleyball</td>
-    <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG EastZone Volleyball Championships 2022</span></td>
+    <td class="tg-cly1">Rice x Dialogic Op-Ed Competition 2021</td>
+    <td class="tg-cly1">2nd Place &amp; 3rd Place</td>
   </tr>
   <tr>
-    <td class="tg-cly1" colspan="2">C Division Girls</td>
-    <td class="tg-cly1">Zonal 4th</td>
+    <td class="tg-u1cn">Science Chronicles 2021</td>
+    <td class="tg-u1cn">Top 10 finalist for category A</td>
   </tr>
   <tr>
-    <td class="tg-u1cn" rowspan="2">Wushu</td>
-    <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG EastZone Wushu Championships 2022</span></td>
+    <td class="tg-cly1">Speech Arts Festival 2021</td>
+    <td class="tg-cly1">Comic Speech Results (Lower Sec)<br>3rd Runner-Up<br>Comic Monologue Results (Lower Sec)<br>3rd Runner-Up</td>
   </tr>
   <tr>
-    <td class="tg-cly1">C Division Girls<br><br><span style="font-weight:400;color:#1E1E1E">B Division Girls</span><br><br><span style="font-weight:400;color:#1E1E1E">B Division Boys</span><br><br><span style="font-weight:400;color:#1E1E1E">C Division Girls</span><br><br><span style="font-weight:400;color:#1E1E1E"> </span><span style="font-weight:400;color:#1E1E1E">C Division Boys</span><br><br><span style="font-weight:400;color:#1E1E1E"> </span></td>
-    <td class="tg-cly1" colspan="2">National 4th<br><br><span style="font-weight:400;color:#1E1E1E">1 Bronze, 1 4th Placing </span><br><br><span style="font-weight:400;color:#1E1E1E">1 Bronze</span><br><br><span style="font-weight:400;color:#1E1E1E">1 Gold, 1 Silver, 4 Bronze </span><br><br><span style="font-weight:400;color:#1E1E1E">1 Bronze, 1 4th Placing</span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span></td>
-</tr>
-			 <tr>
-    <td class="tg-u1cn" rowspan="4">Other Sports</td>
-    <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG National Taekwondo (Poomsae) Championships 2022</span></td>
+    <td class="tg-u1cn">Chinese Language Elective Programme Best Improvement Award</td>
+    <td class="tg-u1cn">1 awardee</td>
   </tr>
   <tr>
-    <td class="tg-cly1">(Team) B Division Boys<br><br><span style="font-weight:400;color:#1E1E1E">(Team) C Division Boy</span><br><br><span style="font-weight:400;color:#1E1E1E">(Individual) B Division Girls</span><br><br><span style="font-weight:400;color:#1E1E1E">(Individual) B Division Boys</span><br><br><span style="font-weight:400;color:#1E1E1E"> </span><span style="font-weight:400;color:#1E1E1E">(Individual) C Division Boys</span><br><br><span style="font-weight:400;color:#1E1E1E"> </span></td>
-    <td class="tg-cly1" colspan="3">1 Sliver<br><br><span style="font-weight:400;color:#1E1E1E">1 Bronze, 1 4th Placing </span><br><br><span style="font-weight:400;color:#1E1E1E">1 Gold</span><br><br><span style="font-weight:400;color:#1E1E1E">1 Bronze, 1 4th Placing </span><br><br><span style="font-weight:400;color:#1E1E1E">1 Silver, 1 Bronze, 1 4th Placing</span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span></td>
-</tr>
-			 <tr>
-    <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG Waterpolo Championships 2022</span></td>
+    <td class="tg-cly1">Chinese Language Elective Scholarship</td>
+    <td class="tg-cly1">13 awardees</td>
   </tr>
   <tr>
-    <td class="tg-cly1">C Division Boys <br>(Combined Team with Singapore Sports School)<br><br></td>
-    <td class="tg-cly1" colspan="3">Zonal 4th<br><br></td>
-</tr>
+    <td class="tg-u1cn">Ee Hoe Hean Chinese Book Prize 2021<br>第十三届怡和轩华文书籍奖</td>
+    <td class="tg-u1cn">1 优秀奖, 2 表扬奖</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">2021年全国中学编采比赛<br>2021 Create Your Own Newspaper Competition</td>
+    <td class="tg-cly1">三等奖（高年级组）</td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">Singapore and Asian Schools Math Olympiad (SASMO) 2021</td>
+    <td class="tg-u1cn">10 Gold, 5 Silver, 5 Bronze</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Singapore Mathematical Olympiads Competition 2021 (SMO)</td>
+    <td class="tg-cly1">2 Silver, 6 Bronze, 6 Honourable Mention, 27 Certificates</td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">Australian Mathematics Competition 2021</td>
+    <td class="tg-u1cn">1 Prize, 2 High Distinction, 4 Distinction, 12 credit, 2 Proficiency</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">International Mathematical Modelling Challenge (Singapore) 2001</td>
+    <td class="tg-cly1">4 participants</td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">Singapore Junior Chemistry Olympiad 2021</td>
+    <td class="tg-u1cn">1 Silver, 2 Bronzes, 2 Merit Award, 29 Certificates of Participation</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Singapore Junior Biology Olympiad 2021</td>
+    <td class="tg-cly1">1 Honourable Mention, 3 Certificates of Participation</td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">Bilingual Youth Model United Nations 2021</td>
+    <td class="tg-u1cn">Best Delegate Award</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">NUS Geography Challenge 2021 – Passport to the World: Sustainable Footprints</td>
+    <td class="tg-cly1">Team (Semi-Finals)<br>2 Silvers (Individual Challenge)</td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">Singapore Model United Nations 2021</td>
+    <td class="tg-u1cn">Outstanding Press Delegate</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Sustainable Development Youth Convention 2021</td>
+    <td class="tg-cly1">7 participants</td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">MOE History Challenge 2021</td>
+    <td class="tg-u1cn">4 Certificates of Participation</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Historical Scene Investigation Challenge 2021</td>
+    <td class="tg-cly1">Gold Award</td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">CultureScope (Experiential Virtual Learning Journey)</td>
+    <td class="tg-u1cn">4 participants</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Wisma Geylang Serai Longest Batik Painting</td>
+    <td class="tg-cly1">22 participants</td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">Live On Festival – Design Competition</td>
+    <td class="tg-u1cn">Open Category – Special Mention<br><br><span style="font-weight:400;color:#1E1E1E">School Category – Special Mention</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">MOE Creative Arts Programme</td>
+    <td class="tg-cly1">3 participants</td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">Singapore Youth Festival Online Art Exhibition</td>
+    <td class="tg-u1cn">1 Special Mention, 14 participants</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Our Schools, Our Stories 2021 Photo and Video Contest</td>
+    <td class="tg-cly1">First Prize, Youth Category, Video<br>(Video entitled “Specialty in our Hands”)</td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">IMDA X AWS Deepracer League 2021<br>(by SGCode campus)</td>
+    <td class="tg-u1cn">5 participants</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Food and Beverage Entrepreneurship Competition</td>
+    <td class="tg-cly1">2nd Prize</td>
+  </tr>
+</tbody>
+</table>
+			</p>
