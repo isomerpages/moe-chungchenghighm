@@ -65,7 +65,7 @@ Academic Programme: Design & Technology
   <tr>
     <td class="tg-nrix">Digital Technology</td>
     <td class="tg-nrix">Secondary 1 and 2</td>
-    <td class="tg-ic9l"><span style="font-weight:400;color:#1E1E1E">Students will learn to develop visual-spatial thinking and creativity using computer-aided design softwares to create 3-dimensional models.</span><br><br><span style="font-weight:400;color:#1E1E1E">Students will also learn and apply coding skills to program codeable devices to develop logical thinking.</span></td>
+    <td class="tg-ic9l"><span style="font-weight:400;color:#1E1E1E">Students will learn to develop visual-spatial thinking and creativity using computer-aided design softwares to create 3-dimensional models.</span><br><br><span style="font-weight:400;color:#1E1E1E">Students will also have opportunities to learn and apply relevant skills on various other technological platforms to develop logical thinking.</span></td>
   </tr>
 </tbody>
 </table>
