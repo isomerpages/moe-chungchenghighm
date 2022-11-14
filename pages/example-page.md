@@ -61,8 +61,8 @@ permalink: /example-page/
     <td class="tg-u1cn">3rd Prize (Group)</td>
   </tr>
   <tr>
-    <td class="tg-cly1">Chinese Language Elective Scholarship</td>
-    <td class="tg-cly1">13 awardees</td>
+    <td class="tg-cly1">River Hongbao 2022 Exhibition</td>
+    <td class="tg-cly1">Letter of appreciation from Sun Yat Sen Nanyang Memorial Hall for the 2 student docents </td>
   </tr>
   <tr>
     <td class="tg-u1cn">Ee Hoe Hean Chinese Book Prize 2021<br>第十三届怡和轩华文书籍奖</td>
