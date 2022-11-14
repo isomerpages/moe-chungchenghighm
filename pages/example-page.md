@@ -108,12 +108,12 @@ Team Round<br>5 Bronze,<br>2 Honourable Mention</td>
     <td class="tg-cly1">2nd Prize (Group)</td>
   </tr>
   <tr>
-    <td class="tg-u1cn">Singapore Model United Nations 2021</td>
-    <td class="tg-u1cn">Outstanding Press Delegate</td>
+    <td class="tg-u1cn">Historical Scene Investigation Challenge 2022</td>
+    <td class="tg-u1cn">Gold Award</td>
   </tr>
   <tr>
-    <td class="tg-cly1">Sustainable Development Youth Convention 2021</td>
-    <td class="tg-cly1">7 participants</td>
+    <td class="tg-cly1">A Day in Court Student Seminar</td>
+    <td class="tg-cly1">7th position</td>
   </tr>
   <tr>
     <td class="tg-u1cn">MOE History Challenge 2021</td>
