@@ -104,8 +104,8 @@ Team Round<br>5 Bronze,<br>2 Honourable Mention</td>
     <td class="tg-u1cn">2 Honourable Mention<br>2 Best Position Paper<br>1 Best Representative<br>1 Outstanding Representative</td>
   </tr>
   <tr>
-    <td class="tg-cly1">NUS Geography Challenge 2021 – Passport to the World: Sustainable Footprints</td>
-    <td class="tg-cly1">Team (Semi-Finals)<br>2 Silvers (Individual Challenge)</td>
+    <td class="tg-cly1">Istana Heritage Gallery Challenge</td>
+    <td class="tg-cly1">2nd Prize (Group)</td>
   </tr>
   <tr>
     <td class="tg-u1cn">Singapore Model United Nations 2021</td>
