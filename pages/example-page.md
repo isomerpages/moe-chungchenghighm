@@ -78,8 +78,8 @@ permalink: /example-page/
     <td class="tg-u1cn">1 Silver, 1 Bronze</td>
   </tr>
   <tr>
-    <td class="tg-cly1">Singapore Mathematical Olympiads Competition 2021 (SMO)</td>
-    <td class="tg-cly1">2 Silver, 6 Bronze, 6 Honourable Mention, 27 Certificates</td>
+    <td class="tg-cly1">Singapore Junior Biology Olympiad</td>
+    <td class="tg-cly1">Theory Round<br>2 Silver, 2 Bronze,<br>1 Honourable Mention</td>
   </tr>
   <tr>
     <td class="tg-u1cn">Australian Mathematics Competition 2021</td>
