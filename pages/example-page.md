@@ -88,8 +88,8 @@ permalink: /example-page/
 Team Round<br>5 Bronze,<br>2 Honourable Mention</td>
   </tr>
   <tr>
-    <td class="tg-cly1">International Mathematical Modelling Challenge (Singapore) 2001</td>
-    <td class="tg-cly1">4 participants</td>
+    <td class="tg-cly1">Junior Chemistry Olympiad</td>
+    <td class="tg-cly1">2 Silver, 2 Bronze</td>
   </tr>
   <tr>
     <td class="tg-u1cn">Singapore Junior Chemistry Olympiad 2021</td>
