@@ -41,16 +41,21 @@ permalink: /example-page/
     <td class="tg-u1cn">3rd Prize (Individual)</td>
   </tr>
   <tr>
-    <td class="tg-cly1">Rice x Dialogic Op-Ed Competition 2021</td>
-    <td class="tg-cly1">2nd Place &amp; 3rd Place</td>
+    <td class="tg-cly1">6th Chinese Mini Fiction Creative Writing Competition</td>
+    <td class="tg-cly1">2 Bronze, 2 Merit</td>
   </tr>
   <tr>
-    <td class="tg-u1cn">Science Chronicles 2021</td>
-    <td class="tg-u1cn">Top 10 finalist for category A</td>
+    <td class="tg-u1cn">5th Text Recital Competition for Primary and Secondary schools
+(Preliminary round)
+</td>
+    <td class="tg-u1cn">3 Silver (Individual)<br>1 Silver (Group)</td>
   </tr>
   <tr>
-    <td class="tg-cly1">Speech Arts Festival 2021</td>
-    <td class="tg-cly1">Comic Speech Results (Lower Sec)<br>3rd Runner-Up<br>Comic Monologue Results (Lower Sec)<br>3rd Runner-Up</td>
+    <td class="tg-cly1">Create Your Own Newspaper Competition 2022
+1</td>
+    <td class="tg-cly1">2nd Prize (Group)<br>Honourable Mention (Group)
+
+</td>
   </tr>
   <tr>
     <td class="tg-u1cn">Chinese Language Elective Programme Best Improvement Award</td>
