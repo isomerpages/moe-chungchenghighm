@@ -82,8 +82,10 @@ permalink: /example-page/
     <td class="tg-cly1">Theory Round<br>2 Silver, 2 Bronze,<br>1 Honourable Mention</td>
   </tr>
   <tr>
-    <td class="tg-u1cn">Australian Mathematics Competition 2021</td>
-    <td class="tg-u1cn">1 Prize, 2 High Distinction, 4 Distinction, 12 credit, 2 Proficiency</td>
+    <td class="tg-u1cn">Singapore Junior Physics Olympiad</td>
+    <td class="tg-u1cn">Individual Round<br>4 Silver, 7 Bronze,<br>22 Honourable Mention
+<br><br>
+Team Round<br>5 Bronze,<br>2 Honourable Mention</td>
   </tr>
   <tr>
     <td class="tg-cly1">International Mathematical Modelling Challenge (Singapore) 2001</td>
