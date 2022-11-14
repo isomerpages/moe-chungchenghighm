@@ -34,7 +34,7 @@ permalink: /example-page/
   </tr>
   <tr>
     <td class="tg-cly1">2022 Hybrid Speech Arts' Competition & Festival organised by ACJC</td>
-    <td class="tg-cly1">Comic Monologue (Lower Secondary) – 1st and 3rd</td>
+    <td class="tg-cly1">Comic Monologue (Lower Secondary) – 1st and 3rd<br><br>Comic Speech (Lower Secondary) – 2 3rd Placing</td>
   </tr>
   <tr>
     <td class="tg-u1cn">34th YMCA Plain English Speaking Award (PESA) Lower Secondary Finals 2021</td>
