@@ -65,8 +65,9 @@ permalink: /example-page/
     <td class="tg-cly1">Letter of appreciation from Sun Yat Sen Nanyang Memorial Hall for the 2 student docents </td>
   </tr>
   <tr>
-    <td class="tg-u1cn">Ee Hoe Hean Chinese Book Prize 2021<br>第十三届怡和轩华文书籍奖</td>
-    <td class="tg-u1cn">1 优秀奖, 2 表扬奖</td>
+    <td class="tg-u1cn">Singapore Mathematical Olympiad</td>
+    <td class="tg-u1cn">3 Silver, 3 Bronze,<br>9 Honourable Mention 
+</td>
   </tr>
   <tr>
     <td class="tg-cly1">2021年全国中学编采比赛<br>2021 Create Your Own Newspaper Competition</td>
