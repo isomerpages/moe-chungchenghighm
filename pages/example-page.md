@@ -70,8 +70,8 @@ permalink: /example-page/
 </td>
   </tr>
   <tr>
-    <td class="tg-cly1">2021年全国中学编采比赛<br>2021 Create Your Own Newspaper Competition</td>
-    <td class="tg-cly1">三等奖（高年级组）</td>
+    <td class="tg-cly1">Singapore Asian Schools Math Olympiad (SASMO) 2022</td>
+    <td class="tg-cly1">8 Gold, 5 Silver, 13 Bronze, 4 Honourable Mention<br>Top-ranked individual in Singapore and 3rd globally</td>
   </tr>
   <tr>
     <td class="tg-u1cn">Singapore and Asian Schools Math Olympiad (SASMO) 2021</td>
