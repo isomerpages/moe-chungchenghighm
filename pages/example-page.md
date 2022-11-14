@@ -100,8 +100,8 @@ Team Round<br>5 Bronze,<br>2 Honourable Mention</td>
     <td class="tg-cly1">2 Bronze</td>
   </tr>
   <tr>
-    <td class="tg-u1cn">Bilingual Youth Model United Nations 2021</td>
-    <td class="tg-u1cn">Best Delegate Award</td>
+    <td class="tg-u1cn">Victoria Junior College Singapore Model Cabinet</td>
+    <td class="tg-u1cn">2 Honourable Mention<br>2 Best Position Paper<br>1 Best Representative<br>1 Outstanding Representative</td>
   </tr>
   <tr>
     <td class="tg-cly1">NUS Geography Challenge 2021 – Passport to the World: Sustainable Footprints</td>
