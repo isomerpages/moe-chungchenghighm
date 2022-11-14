@@ -92,8 +92,8 @@ Team Round<br>5 Bronze,<br>2 Honourable Mention</td>
     <td class="tg-cly1">2 Silver, 2 Bronze</td>
   </tr>
   <tr>
-    <td class="tg-u1cn">Singapore Junior Chemistry Olympiad 2021</td>
-    <td class="tg-u1cn">1 Silver, 2 Bronzes, 2 Merit Award, 29 Certificates of Participation</td>
+    <td class="tg-u1cn">Amazing Eco-STEM Race 2022</td>
+    <td class="tg-u1cn">Third Position</td>
   </tr>
   <tr>
     <td class="tg-cly1">Singapore Junior Biology Olympiad 2021</td>
