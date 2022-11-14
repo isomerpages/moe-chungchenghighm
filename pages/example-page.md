@@ -96,8 +96,8 @@ Team Round<br>5 Bronze,<br>2 Honourable Mention</td>
     <td class="tg-u1cn">Third Position</td>
   </tr>
   <tr>
-    <td class="tg-cly1">Singapore Junior Biology Olympiad 2021</td>
-    <td class="tg-cly1">1 Honourable Mention, 3 Certificates of Participation</td>
+    <td class="tg-cly1">NUS Geography Challenge</td>
+    <td class="tg-cly1">2 Bronze</td>
   </tr>
   <tr>
     <td class="tg-u1cn">Bilingual Youth Model United Nations 2021</td>
