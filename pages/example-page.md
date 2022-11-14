@@ -74,8 +74,8 @@ permalink: /example-page/
     <td class="tg-cly1">8 Gold, 5 Silver, 13 Bronze, 4 Honourable Mention<br>Top-ranked individual in Singapore and 3rd globally</td>
   </tr>
   <tr>
-    <td class="tg-u1cn">Singapore and Asian Schools Math Olympiad (SASMO) 2021</td>
-    <td class="tg-u1cn">10 Gold, 5 Silver, 5 Bronze</td>
+    <td class="tg-u1cn">Temasek Poly Engineering Olympiad 2022</td>
+    <td class="tg-u1cn">1 Silver, 1 Bronze</td>
   </tr>
   <tr>
     <td class="tg-cly1">Singapore Mathematical Olympiads Competition 2021 (SMO)</td>
