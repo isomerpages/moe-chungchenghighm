@@ -57,8 +57,8 @@ permalink: /example-page/
 </td>
   </tr>
   <tr>
-    <td class="tg-u1cn">Chinese Language Elective Programme Best Improvement Award</td>
-    <td class="tg-u1cn">1 awardee</td>
+    <td class="tg-u1cn">Cultural Translation Competition 2022</td>
+    <td class="tg-u1cn">3rd Prize (Group)</td>
   </tr>
   <tr>
     <td class="tg-cly1">Chinese Language Elective Scholarship</td>
