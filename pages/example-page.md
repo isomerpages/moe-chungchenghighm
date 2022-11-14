@@ -37,8 +37,8 @@ permalink: /example-page/
     <td class="tg-cly1">Comic Monologue (Lower Secondary) – 1st and 3rd<br><br>Comic Speech (Lower Secondary) – 2 3rd Placing</td>
   </tr>
   <tr>
-    <td class="tg-u1cn">34th YMCA Plain English Speaking Award (PESA) Lower Secondary Finals 2021</td>
-    <td class="tg-u1cn">Finalist</td>
+    <td class="tg-u1cn">20th National Secondary Schools Chinese Creative Writing Competition</td>
+    <td class="tg-u1cn">3rd Prize (Individual)</td>
   </tr>
   <tr>
     <td class="tg-cly1">Rice x Dialogic Op-Ed Competition 2021</td>
