@@ -52,9 +52,8 @@ permalink: /example-page/
   </tr>
   <tr>
     <td class="tg-cly1">Create Your Own Newspaper Competition 2022
-1</td>
+</td>
     <td class="tg-cly1">2nd Prize (Group)<br>Honourable Mention (Group)
-
 </td>
   </tr>
   <tr>
