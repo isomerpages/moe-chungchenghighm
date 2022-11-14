@@ -116,44 +116,17 @@ Team Round<br>5 Bronze,<br>2 Honourable Mention</td>
     <td class="tg-cly1">7th position</td>
   </tr>
   <tr>
-    <td class="tg-u1cn">MOE History Challenge 2021</td>
-    <td class="tg-u1cn">4 Certificates of Participation</td>
+    <td class="tg-u1cn">Dunman High ASEAN Plus	
+</td>
+    <td class="tg-u1cn">Best Delegate<br>Most Improved Delegate<br>Honourable Mention</td>
   </tr>
   <tr>
-    <td class="tg-cly1">Historical Scene Investigation Challenge 2021</td>
-    <td class="tg-cly1">Gold Award</td>
+    <td class="tg-cly1">Youth Model ASEAN Experience</td>
+    <td class="tg-cly1">Outstanding Delegate<br>Honourable Mention</td>
   </tr>
   <tr>
-    <td class="tg-u1cn">CultureScope (Experiential Virtual Learning Journey)</td>
-    <td class="tg-u1cn">4 participants</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Wisma Geylang Serai Longest Batik Painting</td>
-    <td class="tg-cly1">22 participants</td>
-  </tr>
-  <tr>
-    <td class="tg-u1cn">Live On Festival – Design Competition</td>
-    <td class="tg-u1cn">Open Category – Special Mention<br><br><span style="font-weight:400;color:#1E1E1E">School Category – Special Mention</span></td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">MOE Creative Arts Programme</td>
-    <td class="tg-cly1">3 participants</td>
-  </tr>
-  <tr>
-    <td class="tg-u1cn">Singapore Youth Festival Online Art Exhibition</td>
-    <td class="tg-u1cn">1 Special Mention, 14 participants</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Our Schools, Our Stories 2021 Photo and Video Contest</td>
-    <td class="tg-cly1">First Prize, Youth Category, Video<br>(Video entitled “Specialty in our Hands”)</td>
-  </tr>
-  <tr>
-    <td class="tg-u1cn">IMDA X AWS Deepracer League 2021<br>(by SGCode campus)</td>
-    <td class="tg-u1cn">5 participants</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Food and Beverage Entrepreneurship Competition</td>
-    <td class="tg-cly1">2nd Prize</td>
+    <td class="tg-u1cn">National Xinyao Competition </td>
+    <td class="tg-u1cn">Merit Award (Individual)<br>3rd Prize (Group)</td>
   </tr>
 </tbody>
 </table>
