@@ -260,7 +260,7 @@ third_nav_title: Student Development
     <td class="tg-x413"><span style="font-weight:400;color:#1E1E1E">Calligraphy Room</span></td>
   </tr>
   <tr>
-    <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Chinese Chess Club</span></td>
+    <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Chinese Chess</span></td>
     <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Zhuopu Building Level 2 #02-01</span></td>
   </tr>
   <tr>
