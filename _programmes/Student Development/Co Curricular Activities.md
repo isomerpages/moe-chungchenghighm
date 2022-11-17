@@ -80,16 +80,9 @@ third_nav_title: Student Development
 </thead>
 <tbody>
  <tr>
-    <td><a href="/programmes/student-development/co-curricular-activities/softball/" target="_blank" rel="noopener noreferrer"><img src="/images/softball-square1.jpg" alt="SOFTBALL" width="106" height="17"></a></td>
     <td><a href="/programmes/student-development/co-curricular-activities/table-tennis/" target="_blank" rel="noopener noreferrer"><img src="/images/table-tennis-square1.jpg" alt="TABLE TENNIS" width="74" height="17"></a></td>
     <td><a href="/programmes/student-development/co-curricular-activities/volleyball/" target="_blank" rel="noopener noreferrer"><img src="/images/volleyball-square1.jpg" alt="VOLLEYBALL" width="74" height="17"></a></td>
-  </tr>
-</tbody>
-<tbody>
-  <tr>
-    <td><a href="/programmes/student-development/co-curricular-activities/cross-country-track/" target="_blank" rel="noopener noreferrer"><img src="/images/Track_Field-square1.jpg" alt="CROSS COUNTRY" width="106" height="17"></a></td>
     <td><a href="/programmes/student-development/co-curricular-activities/wushu/" target="_blank" rel="noopener noreferrer"><img src="/images/wushu-square1.jpg" alt="WUSHU" width="106" height="17"></a></td>
-    <td></td>
   </tr>
 </tbody>
 </table>
