@@ -162,7 +162,53 @@ third_nav_title: Student Development
   </tr>
 </tbody>
 </table>
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-43yd{background-color:#CB4B3D;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-3mbt{background-color:#EEE;color:#1E1E1E;text-align:center;vertical-align:top}
+.tg .tg-x413{color:#1E1E1E;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-43yd"><span style="color:#FFF;background-color:#CB4B3D">CCA</span></th>
+    <th class="tg-43yd"><span style="color:#FFF;background-color:#CB4B3D">Day/Time</span></th>
+    <th class="tg-43yd"><span style="color:#FFF;background-color:#CB4B3D">Venue</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Chinese Drama</span></td>
+    <td class="tg-3mbt" rowspan="5"><span style="font-weight:400;color:#1E1E1E">Monday, Wednesday &amp; Friday</span><br><span style="font-weight:400;color:#1E1E1E">3.15pm – 6.15pm</span></td>
+    <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Innosphere Drama Studio Level 3</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x413"><span style="font-weight:400;color:#1E1E1E">Chinese Orchestra</span></td>
+    <td class="tg-x413"><span style="font-weight:400;color:#1E1E1E">Innosphere Chinese Orchestra Room Level 2</span></td>
+  </tr>
+  <tr>
+    <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Choir</span></td>
+    <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Innosphere Choir Room Level 3</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x413"><span style="font-weight:400;color:#1E1E1E">Concert band</span></td>
+    <td class="tg-x413"><span style="font-weight:400;color:#1E1E1E">Innosphere Band Room Level 2</span></td>
+  </tr>
+  <tr>
+    <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">English Drama</span></td>
+    <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Innosphere Dance Studio Level 2 / Lecture Hall 2</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x413"><span style="font-weight:400;color:#1E1E1E">Modern Dance</span></td>
+    <td class="tg-3mbt" rowspan="2"><span style="font-weight:400;color:#1E1E1E">3.15pm – 6.15pm</span></td>
+    <td class="tg-x413"><span style="font-weight:400;color:#1E1E1E">Innosphere Dance Studio Level 2</span></td>
+  </tr>
+ </tbody>
+</table>
 <h5 style="color:black" align="left">Visual & Cultural Arts Groups</h5>
 
 <table>
