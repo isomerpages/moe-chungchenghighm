@@ -183,7 +183,7 @@ third_nav_title: Student Development
 <tbody>
   <tr>
     <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Chinese Drama</span></td>
-    <td class="tg-3mbt" rowspan="5"><span style="font-weight:400;color:#1E1E1E">Monday, Wednesday &amp; Friday</span><br><span style="font-weight:400;color:#1E1E1E">3.15pm – 6.15pm</span></td>
+    <td class="tg-3mbt" rowspan="5"><span style="font-weight:400;color:#1E1E1E">Wednesday &amp; Friday</span><br><span style="font-weight:400;color:#1E1E1E">3.15pm – 6.15pm</span></td>
     <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Innosphere Drama Studio Level 3</span></td>
   </tr>
   <tr>
