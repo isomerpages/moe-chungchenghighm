@@ -129,12 +129,12 @@ third_nav_title: Student Development
     <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Netball Courts</span></td>
   </tr>
   <tr>
-    <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Table Tennis</span></td>
-    <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Table Tennis Room (Grand Auditorium Basement)</span></td>
+    <td class="tg-x413"><span style="font-weight:400;color:#1E1E1E">Table Tennis</span></td>
+    <td class="tg-x413"><span style="font-weight:400;color:#1E1E1E">Table Tennis Room (Grand Auditorium Basement)</span></td>
   </tr>
   <tr>
-    <td class="tg-x413"><span style="font-weight:400;color:#1E1E1E">Volleyball</span></td>
-    <td class="tg-x413"><span style="font-weight:400;color:#1E1E1E">Indoor Sports Hall Level 2/ Outdoor Volleyball Courts</span></td>
+    <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Volleyball</span></td>
+    <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Indoor Sports Hall Level 2/ Outdoor Volleyball Courts</span></td>
   </tr>
   <tr>
     <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Cross Country*</span></td>
