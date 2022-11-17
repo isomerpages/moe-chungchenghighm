@@ -141,8 +141,7 @@ third_nav_title: Student Development
     <td class="tg-3mbt" rowspan="2"><span style="font-weight:400;color:#1E1E1E">3.15pm – 6.15pm</span></td>
     <td class="tg-x413"><span style="font-weight:400;color:#1E1E1E">School Hall</span></td>
   </tr>
-  
-</tbody>
+ </tbody>
 </table>
 
 <h5 style="color:black" align="left">Performing Arts Groups</h5>
