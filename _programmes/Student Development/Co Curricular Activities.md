@@ -151,22 +151,15 @@ third_nav_title: Student Development
 <thead>
   <tr>
     <th><a href="/programmes/student-development/co-curricular-activities/chinese-drama-society/" target="_blank" rel="noopener noreferrer"><img src="/images/chinese_drama_club-square1.jpg" alt="CHINESE DRAMA" width="106" height="17"></a></th>
+    <th><a href="/programmes/student-development/co-curricular-activities/chinese-orchestra/" target="_blank" rel="noopener noreferrer"><img src="/images/chinese_orchestra-square1.jpg" alt="CHINESE ORCHESTRA" width="106" height="17"></a></hd>
     <th><a href="/programmes/student-development/co-curricular-activities/choir/" target="_blank" rel="noopener noreferrer"><img src="/images/choir-square1.jpg" alt="CHOIR" width="106" height="17"></a></th>
-    <th><a href="/programmes/student-development/co-curricular-activities/concert-band/" target="_blank" rel="noopener noreferrer"><img src="/images/concert-band-square1.jpg" alt="CONCERT BAND" width="106" height="17"></a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td><a href="/programmes/student-development/co-curricular-activities/dance-club/" target="_blank" rel="noopener noreferrer"><img src="/images/dance-club-square1.jpg" alt="MODERN DANCE" width="106" height="17"></a></td>
+    <td><a href="/programmes/student-development/co-curricular-activities/concert-band/" target="_blank" rel="noopener noreferrer"><img src="/images/concert-band-square1.jpg" alt="CONCERT BAND" width="106" height="17"></a></td>
     <td><a href="/programmes/student-development/co-curricular-activities/english-drama-society/" target="_blank" rel="noopener noreferrer"><img src="/images/English-Drama-square1.jpg" alt="ENGLISH DRAMA" width="74" height="17"></a></td>
-    <td><a href="/programmes/student-development/co-curricular-activities/guzheng-ensemble/" target="_blank" rel="noopener noreferrer"><img src="/images/guzheng-square1.jpg" alt="GUZHENG ENSEMBLE" width="74" height="17"></a></td>
-  </tr>
-</tbody>
-<tbody>
-  <tr>
-    <td><a href="/programmes/student-development/co-curricular-activities/chinese-orchestra/" target="_blank" rel="noopener noreferrer"><img src="/images/chinese_orchestra-square1.jpg" alt="CHINESE ORCHESTRA" width="106" height="17"></a></td>
-    <td></td>
-    <td></td>
+    <td><a href="/programmes/student-development/co-curricular-activities/dance-club/" target="_blank" rel="noopener noreferrer"><img src="/images/dance-club-square1.jpg" alt="MODERN DANCE" width="106" height="17"></a></td>
   </tr>
 </tbody>
 </table>
