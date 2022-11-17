@@ -216,7 +216,7 @@ third_nav_title: Student Development
   <tr>
     <th><a href="/programmes/student-development/co-curricular-activities/art-club/" target="_blank" rel="noopener noreferrer"><img src="/images/Art-Club-square1.jpg" alt="ART & CRAFTS" width="106" height="17"></a></th>
     <th><a href="/programmes/student-development/co-curricular-activities/calligraphy-chinese-painting-club/" target="_blank" rel="noopener noreferrer"><img src="/images/calligraphy-square1.jpg" alt="CHINESE CALLIGRAPHY & BRUSH PAINTING" width="106" height="17"></a></th>
-    <th><a href="/programmes/student-development/co-curricular-activities/chinese-chess-club/" target="_blank" rel="noopener noreferrer"><img src="/images/chess-club-square1.jpg" alt="CHINESE CHESS CLUB" width="106" height="17"></a></th>
+    <th><a href="/programmes/student-development/co-curricular-activities/chinese-chess/" target="_blank" rel="noopener noreferrer"><img src="/images/chess-club-square1.jpg" alt="CHINESE CHESS" width="106" height="17"></a></th>
   </tr>
 </thead>
 <tbody>
