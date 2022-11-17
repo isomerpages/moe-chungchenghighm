@@ -137,14 +137,11 @@ third_nav_title: Student Development
     <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Indoor Sports Hall Level 2/ Outdoor Volleyball Courts</span></td>
   </tr>
   <tr>
-    <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Cross Country*</span></td>
-    <td class="tg-3mbt" rowspan="2"><span style="font-weight:400;color:#1E1E1E">3.15pm – 6.15pm</span></td>
-    <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">School Field/ Kallang Practice Track</span></td>
-  </tr>
-  <tr>
     <td class="tg-x413"><span style="font-weight:400;color:#1E1E1E">Wushu</span></td>
+    <td class="tg-3mbt" rowspan="2"><span style="font-weight:400;color:#1E1E1E">3.15pm – 6.15pm</span></td>
     <td class="tg-x413"><span style="font-weight:400;color:#1E1E1E">School Hall</span></td>
   </tr>
+  
 </tbody>
 </table>
 
