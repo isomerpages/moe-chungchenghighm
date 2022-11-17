@@ -150,7 +150,7 @@ third_nav_title: Student Development
 <thead>
   <tr>
     <th><a href="/programmes/student-development/co-curricular-activities/chinese-drama-society/" target="_blank" rel="noopener noreferrer"><img src="/images/chinese_drama_club-square1.jpg" alt="CHINESE DRAMA" width="106" height="17"></a></th>
-    <th><a href="/programmes/student-development/co-curricular-activities/chinese-orchestra/" target="_blank" rel="noopener noreferrer"><img src="/images/chinese_orchestra-square1.jpg" alt="CHINESE ORCHESTRA" width="106" height="17"></a></hd>
+    <th><a href="/programmes/student-development/co-curricular-activities/chinese-orchestra/" target="_blank" rel="noopener noreferrer"><img src="/images/chinese_orchestra-square1.jpg" alt="CHINESE ORCHESTRA" width="106" height="17"></a></th>
     <th><a href="/programmes/student-development/co-curricular-activities/choir/" target="_blank" rel="noopener noreferrer"><img src="/images/choir-square1.jpg" alt="CHOIR" width="106" height="17"></a></th>
   </tr>
 </thead>
