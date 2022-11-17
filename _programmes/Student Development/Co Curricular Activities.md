@@ -117,7 +117,7 @@ third_nav_title: Student Development
 <tbody>
   <tr>
     <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Badminton</span></td>
-    <td class="tg-3mbt" rowspan="6"><span style="font-weight:400;color:#1E1E1E">Monday, Wednesday &amp; Friday</span><br><span style="font-weight:400;color:#1E1E1E">3.15pm – 6.15pm</span></td>
+    <td class="tg-3mbt" rowspan="5"><span style="font-weight:400;color:#1E1E1E">Monday, Wednesday &amp; Friday</span><br><span style="font-weight:400;color:#1E1E1E">3.15pm – 6.15pm</span></td>
     <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Indoor Sports hall Level 2/ School Hall</span></td>
   </tr>
   <tr>
@@ -128,10 +128,7 @@ third_nav_title: Student Development
     <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Netball</span></td>
     <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Netball Courts</span></td>
   </tr>
-  <tr>
-    <td class="tg-x413"><span style="font-weight:400;color:#1E1E1E">Softball*</span></td>
-    <td class="tg-x413"><span style="font-weight:400;color:#1E1E1E">School Field</span></td>
-  </tr>
+  
   <tr>
     <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Table Tennis</span></td>
     <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Table Tennis Room (Grand Auditorium Basement)</span></td>
