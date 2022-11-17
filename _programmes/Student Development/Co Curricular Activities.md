@@ -118,7 +118,7 @@ third_nav_title: Student Development
   <tr>
     <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Badminton</span></td>
     <td class="tg-3mbt" rowspan="6"><span style="font-weight:400;color:#1E1E1E">Monday, Wednesday &amp; Friday</span><br><span style="font-weight:400;color:#1E1E1E">3.15pm – 6.15pm</span></td>
-    <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Grand Auditorium/ School Hall</span></td>
+    <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Indoor Sports hall Level 2/ School Hall</span></td>
   </tr>
   <tr>
     <td class="tg-x413"><span style="font-weight:400;color:#1E1E1E">Basketball</span></td>
