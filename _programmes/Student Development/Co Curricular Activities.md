@@ -214,7 +214,7 @@ third_nav_title: Student Development
 <table>
 <thead>
   <tr>
-    <th><a href="/programmes/student-development/co-curricular-activities/art-club/" target="_blank" rel="noopener noreferrer"><img src="/images/Art-Club-square1.jpg" alt="ART & CRAFT" width="106" height="17"></a></th>
+    <th><a href="/programmes/student-development/co-curricular-activities/art-club/" target="_blank" rel="noopener noreferrer"><img src="/images/Art-Club-square1.jpg" alt="ART & CRAFTS" width="106" height="17"></a></th>
     <th><a href="/programmes/student-development/co-curricular-activities/calligraphy-chinese-painting-club/" target="_blank" rel="noopener noreferrer"><img src="/images/calligraphy-square1.jpg" alt="CHINESE CALLIGRAPHY & BRUSH PAINTING" width="106" height="17"></a></th>
     <th><a href="/programmes/student-development/co-curricular-activities/chinese-chess-club/" target="_blank" rel="noopener noreferrer"><img src="/images/chess-club-square1.jpg" alt="CHINESE CHESS CLUB" width="106" height="17"></a></th>
   </tr>
@@ -251,7 +251,7 @@ third_nav_title: Student Development
 </thead>
 <tbody>
   <tr>
-    <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Art &amp; Craft</span></td>
+    <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Art &amp; Crafts</span></td>
     <td class="tg-3mbt" rowspan="5"><span style="font-weight:400;color:#1E1E1E">Wednesday &amp; Friday</span><br><span style="font-weight:400;color:#1E1E1E">3.15pm – 6.15pm</span><br></td>
     <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Art Room</span></td>
   </tr>
