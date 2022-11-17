@@ -1,8 +1,10 @@
 ---
 title: Softball (Girls)
-permalink: /programmes/student-development/co-curricular-activities/softball/
+permalink: /softball/
 description: ""
 ---
+
+
 <style>  
 img {  
   display: block;  

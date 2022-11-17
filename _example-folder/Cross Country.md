@@ -1,8 +1,10 @@
 ---
 title: Cross Country
-permalink: /programmes/student-development/co-curricular-activities/cross-country-track/
+permalink: /cross-country-track/
 description: ""
 ---
+
+
 <style>  
 img {  
   display: block;  

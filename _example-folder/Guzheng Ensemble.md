@@ -1,8 +1,10 @@
 ---
 title: Guzheng Ensemble
-permalink: /programmes/student-development/co-curricular-activities/guzheng-ensemble/
+permalink: /guzheng-ensemble/
 description: ""
 ---
+
+
 <style>  
 img {  
   display: block;  

@@ -2,6 +2,9 @@ collections:
   example-folder:
     output: true
     order:
+      - Cross Country.md
+      - Softball (Girls).md
+      - Guzheng Ensemble.md
       - folder-page.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md

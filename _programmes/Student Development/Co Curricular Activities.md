@@ -80,16 +80,9 @@ third_nav_title: Student Development
 </thead>
 <tbody>
  <tr>
-    <td><a href="/programmes/student-development/co-curricular-activities/softball/" target="_blank" rel="noopener noreferrer"><img src="/images/softball-square1.jpg" alt="SOFTBALL" width="106" height="17"></a></td>
     <td><a href="/programmes/student-development/co-curricular-activities/table-tennis/" target="_blank" rel="noopener noreferrer"><img src="/images/table-tennis-square1.jpg" alt="TABLE TENNIS" width="74" height="17"></a></td>
     <td><a href="/programmes/student-development/co-curricular-activities/volleyball/" target="_blank" rel="noopener noreferrer"><img src="/images/volleyball-square1.jpg" alt="VOLLEYBALL" width="74" height="17"></a></td>
-  </tr>
-</tbody>
-<tbody>
-  <tr>
-    <td><a href="/programmes/student-development/co-curricular-activities/cross-country-track/" target="_blank" rel="noopener noreferrer"><img src="/images/Track_Field-square1.jpg" alt="CROSS COUNTRY" width="106" height="17"></a></td>
     <td><a href="/programmes/student-development/co-curricular-activities/wushu/" target="_blank" rel="noopener noreferrer"><img src="/images/wushu-square1.jpg" alt="WUSHU" width="106" height="17"></a></td>
-    <td></td>
   </tr>
 </tbody>
 </table>
@@ -117,8 +110,8 @@ third_nav_title: Student Development
 <tbody>
   <tr>
     <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Badminton</span></td>
-    <td class="tg-3mbt" rowspan="6"><span style="font-weight:400;color:#1E1E1E">Monday, Wednesday &amp; Friday</span><br><span style="font-weight:400;color:#1E1E1E">3.15pm – 6.15pm</span></td>
-    <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Grand Auditorium/ School Hall</span></td>
+    <td class="tg-3mbt" rowspan="5"><span style="font-weight:400;color:#1E1E1E">Monday, Wednesday &amp; Friday</span><br><span style="font-weight:400;color:#1E1E1E">3.15pm – 6.15pm</span></td>
+    <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Indoor Sports hall Level 2/ School Hall</span></td>
   </tr>
   <tr>
     <td class="tg-x413"><span style="font-weight:400;color:#1E1E1E">Basketball</span></td>
@@ -129,27 +122,19 @@ third_nav_title: Student Development
     <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Netball Courts</span></td>
   </tr>
   <tr>
-    <td class="tg-x413"><span style="font-weight:400;color:#1E1E1E">Softball*</span></td>
-    <td class="tg-x413"><span style="font-weight:400;color:#1E1E1E">School Field</span></td>
+    <td class="tg-x413"><span style="font-weight:400;color:#1E1E1E">Table Tennis</span></td>
+    <td class="tg-x413"><span style="font-weight:400;color:#1E1E1E">Table Tennis Room (Grand Auditorium Basement)</span></td>
   </tr>
   <tr>
-    <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Table Tennis</span></td>
-    <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Table Tennis Room (Grand Auditorium Basement)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-x413"><span style="font-weight:400;color:#1E1E1E">Volleyball</span></td>
-    <td class="tg-x413"><span style="font-weight:400;color:#1E1E1E">Indoor Sports Hall Level 2/ Outdoor Volleyball Courts</span></td>
-  </tr>
-  <tr>
-    <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Cross Country*</span></td>
-    <td class="tg-3mbt" rowspan="2"><span style="font-weight:400;color:#1E1E1E">Wednesday &amp; Friday</span><br><span style="font-weight:400;color:#1E1E1E">3.15pm – 6.15pm</span></td>
-    <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">School Field/ Kallang Practice Track</span></td>
+    <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Volleyball</span></td>
+    <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Indoor Sports Hall Level 2/ Outdoor Volleyball Courts</span></td>
   </tr>
   <tr>
     <td class="tg-x413"><span style="font-weight:400;color:#1E1E1E">Wushu</span></td>
+    <td class="tg-3mbt" rowspan="2"><span style="font-weight:400;color:#1E1E1E">3.15pm – 6.15pm</span></td>
     <td class="tg-x413"><span style="font-weight:400;color:#1E1E1E">School Hall</span></td>
   </tr>
-</tbody>
+ </tbody>
 </table>
 
 <h5 style="color:black" align="left">Performing Arts Groups</h5>
@@ -158,34 +143,73 @@ third_nav_title: Student Development
 <thead>
   <tr>
     <th><a href="/programmes/student-development/co-curricular-activities/chinese-drama-society/" target="_blank" rel="noopener noreferrer"><img src="/images/chinese_drama_club-square1.jpg" alt="CHINESE DRAMA" width="106" height="17"></a></th>
+    <th><a href="/programmes/student-development/co-curricular-activities/chinese-orchestra/" target="_blank" rel="noopener noreferrer"><img src="/images/chinese_orchestra-square1.jpg" alt="CHINESE ORCHESTRA" width="106" height="17"></a></th>
     <th><a href="/programmes/student-development/co-curricular-activities/choir/" target="_blank" rel="noopener noreferrer"><img src="/images/choir-square1.jpg" alt="CHOIR" width="106" height="17"></a></th>
-    <th><a href="/programmes/student-development/co-curricular-activities/concert-band/" target="_blank" rel="noopener noreferrer"><img src="/images/concert-band-square1.jpg" alt="CONCERT BAND" width="106" height="17"></a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td><a href="/programmes/student-development/co-curricular-activities/dance-club/" target="_blank" rel="noopener noreferrer"><img src="/images/dance-club-square1.jpg" alt="MODERN DANCE" width="106" height="17"></a></td>
+    <td><a href="/programmes/student-development/co-curricular-activities/concert-band/" target="_blank" rel="noopener noreferrer"><img src="/images/concert-band-square1.jpg" alt="CONCERT BAND" width="106" height="17"></a></td>
     <td><a href="/programmes/student-development/co-curricular-activities/english-drama-society/" target="_blank" rel="noopener noreferrer"><img src="/images/English-Drama-square1.jpg" alt="ENGLISH DRAMA" width="74" height="17"></a></td>
-    <td><a href="/programmes/student-development/co-curricular-activities/guzheng-ensemble/" target="_blank" rel="noopener noreferrer"><img src="/images/guzheng-square1.jpg" alt="GUZHENG ENSEMBLE" width="74" height="17"></a></td>
-  </tr>
-</tbody>
-<tbody>
-  <tr>
-    <td><a href="/programmes/student-development/co-curricular-activities/chinese-orchestra/" target="_blank" rel="noopener noreferrer"><img src="/images/chinese_orchestra-square1.jpg" alt="CHINESE ORCHESTRA" width="106" height="17"></a></td>
-    <td></td>
-    <td></td>
+    <td><a href="/programmes/student-development/co-curricular-activities/dance-club/" target="_blank" rel="noopener noreferrer"><img src="/images/dance-club-square1.jpg" alt="MODERN DANCE" width="106" height="17"></a></td>
   </tr>
 </tbody>
 </table>
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-43yd{background-color:#CB4B3D;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-3mbt{background-color:#EEE;color:#1E1E1E;text-align:center;vertical-align:top}
+.tg .tg-x413{color:#1E1E1E;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-43yd"><span style="color:#FFF;background-color:#CB4B3D">CCA</span></th>
+    <th class="tg-43yd"><span style="color:#FFF;background-color:#CB4B3D">Day/Time</span></th>
+    <th class="tg-43yd"><span style="color:#FFF;background-color:#CB4B3D">Venue</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Chinese Drama</span></td>
+    <td class="tg-3mbt" rowspan="5"><span style="font-weight:400;color:#1E1E1E">Wednesday &amp; Friday</span><br><span style="font-weight:400;color:#1E1E1E">3.15pm – 6.15pm</span></td>
+    <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Innosphere Drama Studio Level 3</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x413"><span style="font-weight:400;color:#1E1E1E">Chinese Orchestra</span></td>
+    <td class="tg-x413"><span style="font-weight:400;color:#1E1E1E">Innosphere Chinese Orchestra Room Level 2</span></td>
+  </tr>
+  <tr>
+    <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Choir</span></td>
+    <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Innosphere Choir Room Level 3</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x413"><span style="font-weight:400;color:#1E1E1E">Concert band</span></td>
+    <td class="tg-x413"><span style="font-weight:400;color:#1E1E1E">Innosphere Band Room Level 2</span></td>
+  </tr>
+  <tr>
+    <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">English Drama</span></td>
+    <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Innosphere Dance Studio Level 2 / Lecture Hall 2</span></td>
+  </tr>
+  <tr>
+    <td class="tg-x413"><span style="font-weight:400;color:#1E1E1E">Modern Dance</span></td>
+    <td class="tg-3mbt" rowspan="2"><span style="font-weight:400;color:#1E1E1E">3.15pm – 6.15pm</span></td>
+    <td class="tg-x413"><span style="font-weight:400;color:#1E1E1E">Innosphere Dance Studio Level 2</span></td>
+  </tr>
+ </tbody>
+</table>
 <h5 style="color:black" align="left">Visual & Cultural Arts Groups</h5>
 
 <table>
 <thead>
   <tr>
-    <th><a href="/programmes/student-development/co-curricular-activities/art-club/" target="_blank" rel="noopener noreferrer"><img src="/images/Art-Club-square1.jpg" alt="ART & CRAFT" width="106" height="17"></a></th>
+    <th><a href="/programmes/student-development/co-curricular-activities/art-club/" target="_blank" rel="noopener noreferrer"><img src="/images/Art-Club-square2.jpg" alt="ART & CRAFTS" width="106" height="17"></a></th>
     <th><a href="/programmes/student-development/co-curricular-activities/calligraphy-chinese-painting-club/" target="_blank" rel="noopener noreferrer"><img src="/images/calligraphy-square1.jpg" alt="CHINESE CALLIGRAPHY & BRUSH PAINTING" width="106" height="17"></a></th>
-    <th><a href="/programmes/student-development/co-curricular-activities/chinese-chess-club/" target="_blank" rel="noopener noreferrer"><img src="/images/chess-club-square1.jpg" alt="CHINESE CHESS CLUB" width="106" height="17"></a></th>
+    <th><a href="/programmes/student-development/co-curricular-activities/chinese-chess/" target="_blank" rel="noopener noreferrer"><img src="/images/chess-club-square2.jpg" alt="CHINESE CHESS" width="106" height="17"></a></th>
   </tr>
 </thead>
 <tbody>
@@ -220,7 +244,7 @@ third_nav_title: Student Development
 </thead>
 <tbody>
   <tr>
-    <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Art &amp; Craft</span></td>
+    <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Art &amp; Crafts</span></td>
     <td class="tg-3mbt" rowspan="5"><span style="font-weight:400;color:#1E1E1E">Wednesday &amp; Friday</span><br><span style="font-weight:400;color:#1E1E1E">3.15pm – 6.15pm</span><br></td>
     <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Art Room</span></td>
   </tr>
@@ -229,8 +253,8 @@ third_nav_title: Student Development
     <td class="tg-x413"><span style="font-weight:400;color:#1E1E1E">Calligraphy Room</span></td>
   </tr>
   <tr>
-    <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Chinese Chess Club</span></td>
-    <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Zhuopu Building Level 2 #02-01</span></td>
+    <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Chinese Chess</span></td>
+    <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Chess Room</span></td>
   </tr>
   <tr>
     <td class="tg-x413"><span style="font-weight:400;color:#1E1E1E">Lion &amp; Dragon Dance</span></td>
