@@ -34,7 +34,7 @@ sections:
   - infopic:
       title: Students' Life
       alt: Image alt text
-      image: /images/Studentslife.gif
+      image: /images/Studentslifev2.gif
   - infopic:
       title: Contact Us
       button: Find Out More
