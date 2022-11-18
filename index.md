@@ -29,6 +29,7 @@ sections:
       button: Click here to view the video
       url: https://www.youtube.com/watch?v=PJz9jYCd14c
       alt: Image alt text
+      image: /images/Welcome-Speech-by-CCHM-Principal-2022.jpg
   - infopic:
       title: Students' Life
       alt: Image alt text
