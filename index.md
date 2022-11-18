@@ -25,6 +25,11 @@ sections:
       title: Announcements
       button: Click here for announcements!
   - infopic:
+      description: Welcome Speech by CCHM Principal Mr Yao
+      button: Click here to view the video
+      url: https://www.youtube.com/watch?v=PJz9jYCd14c
+      alt: Image alt text
+  - infopic:
       title: Students' Life
       alt: Image alt text
       image: /images/Studentslife.gif
