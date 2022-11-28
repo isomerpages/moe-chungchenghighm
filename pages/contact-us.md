@@ -4,29 +4,23 @@ title: Contact Us
 permalink: /contact-us/
 agency_name: Agency Name
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - 50 Goodman Road
+      - Singapore 439012
+      - ""
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
+        time: 7.30am - 4.30pm
         description: Closed on Public Holidays
       - days: Sat
         time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+        description: ""
+    maps_link: https://www.google.com/maps?ll=1.305412,103.89155&z=16&t=m&hl=en&gl=SG&mapclient=embed&cid=12285969876655959894
+    title: Address
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6344 1393
+      - email: cchms@moe.edu.sg
+      - other: ""
+    title: General Enquiries & Feedback
 ---
