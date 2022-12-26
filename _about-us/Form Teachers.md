@@ -90,45 +90,55 @@ Secondary 2 Form Teachers
 <thead>
   <tr>
     <th class="tg-un5n"><span style="font-weight:bolder">Class</span></th>
-    <th class="tg-un5n"><span style="font-weight:bolder">Form Teacher</span></th>
+    <th class="tg-un5n"><span style="font-weight:bolder">Form Teacher 1</span></th>
+    <th class="tg-un5n"><span style="font-weight:bolder">Form Teacher 2</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-mgsp">2BN</td>
-    <td class="tg-mgsp">Soh Guat Ee (Ms)</td>
+    <td class="tg-mgsp">Jalaluddin Bin Hezan (Mr)</td>
+    <td class="tg-mgsp">Ng Siow Siong (Mr)</td>
   </tr>
   <tr>
     <td class="tg-nrix">2CR</td>
-    <td class="tg-nrix">Farhana Begum Bte V S Mohamed Ibrahim (Ms)</td>
+    <td class="tg-nrix">Wong Jing Xian Adeline (Ms)</td>
+    <td class="tg-nrix"></td>
   </tr>
   <tr>
     <td class="tg-mgsp">2DL</td>
-    <td class="tg-mgsp">Loo Li-Lin Katherine (Ms)</td>
+    <td class="tg-mgsp">Loh Siew Hua (Ms)</td>
+    <td class="tg-mgsp"></td>
   </tr>
   <tr>
     <td class="tg-nrix">2EP</td>
-    <td class="tg-nrix">Png Wee Kwang Melvin (Mr)</td>
+    <td class="tg-nrix">Choy Cheng Mun (Ms)</td>
+    <td class="tg-nrix">Mohamed Almie Bin Mohamed Mazlan (Mr)</td>
   </tr>
   <tr>
     <td class="tg-mgsp">2FG</td>
-    <td class="tg-mgsp">Tze Hui Yi (Ms)</td>
+    <td class="tg-mgsp">Chan Chow Syan (Ms)</td>
+    <td class="tg-mgsp"></td>
   </tr>
   <tr>
     <td class="tg-nrix">2GR</td>
-    <td class="tg-nrix">Fan Lijun (Ms)</td>
+    <td class="tg-nrix">Chia Jun Ru (Ms)</td>
+    <td class="tg-nrix"></td>
   </tr>
   <tr>
     <td class="tg-mgsp">2HM</td>
-    <td class="tg-mgsp">Ong Shiau Chuen (Ms)</td>
+    <td class="tg-mgsp">Fu Chunyu Esther (Ms)</td>
+    <td class="tg-mgsp">Wang Yu Fen (Ms)</td>
   </tr>
   <tr>
     <td class="tg-nrix">2IT</td>
-    <td class="tg-nrix">Tan Sek Jiau (Ms)</td>
+    <td class="tg-nrix">Maglina Bte Ismail (Mdm)</td>
+    <td class="tg-nrix"></td>
   </tr>
   <tr>
     <td class="tg-mgsp">2JT</td>
-    <td class="tg-mgsp">Loh Lai Yeow (Mr)</td>
+    <td class="tg-mgsp">Nurashikin Bte Mohamed Said (Mdm)</td>
+    <td class="tg-mgsp">Chia Yee Teng (Mrs)</td>
   </tr>
 </tbody>
 </table>
