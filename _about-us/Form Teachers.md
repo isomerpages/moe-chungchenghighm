@@ -274,7 +274,7 @@ Secondary 4 Form Teachers
   <tr>
     <td class="tg-nrix">4IT</td>
     <td class="tg-nrix">Tay Han Tseng Clement (Mr)</td>
-    <td class="tg-nrix">Surayah Bte Mohamed Anwar (Ms)</td>
+    <td class="tg-nrix">Surayah Bte Mohamed Anwar (Mdm)</td>
   </tr>
   <tr>
     <td class="tg-mgsp">4JT</td>
@@ -283,7 +283,7 @@ Secondary 4 Form Teachers
   </tr>
 	 <tr>
     <td class="tg-nrix">4LY</td>
-    <td class="tg-nrix">Tan Veronica (Ms)</td>
+    <td class="tg-nrix">Tan Veronica (Mrs Tan)</td>
     <td class="tg-nrix">Nurashikin Bte Hanafi (Ms)</td>
   </tr>
 </tbody>
