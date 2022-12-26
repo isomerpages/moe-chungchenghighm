@@ -20,45 +20,60 @@ Secondary 1 Form Teachers
 <thead>
   <tr>
     <th class="tg-un5n"><span style="font-weight:bolder">Class</span></th>
-    <th class="tg-un5n"><span style="font-weight:bolder">Form Teacher</span></th>
+    <th class="tg-un5n"><span style="font-weight:bolder">Form Teacher 1</span></th>
+    <th class="tg-un5n"><span style="font-weight:bolder">Form Teacher 2</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-mgsp">1BN</td>
-    <td class="tg-mgsp">Jalaluddin Bin Hezan (Mr)</td>
+    <td class="tg-mgsp">Tze Hui Yi</td>
+    <td class="tg-mgsp">Shang Nannan (Mr)</td>
   </tr>
   <tr>
     <td class="tg-nrix">1CR</td>
-    <td class="tg-nrix">Wong Jing Xian Adeline (Ms)</td>
+    <td class="tg-nrix">Koh Rui Ling (Ms)</td>
+    <td class="tg-nrix">Nurdiyana Binte Hamzah Lee (Ms)</td>
   </tr>
   <tr>
     <td class="tg-mgsp">1DL</td>
-    <td class="tg-mgsp">Loh Siew Hua (Ms)</td>
+    <td class="tg-mgsp">Mohamed Ibrahim Bin Aris (Dr)</td>
+    <td class="tg-mgsp">Ong Xin Hui (Ms)</td>
   </tr>
   <tr>
     <td class="tg-nrix">1EP</td>
-    <td class="tg-nrix">Choy Cheng Mun (Mdm)</td>
+    <td class="tg-nrix">Ang Joo Seng Jason (Mr)</td>
+    <td class="tg-nrix">Nurul ‘ain Binte Supingi (Ms)</td>
   </tr>
   <tr>
     <td class="tg-mgsp">1FG</td>
-    <td class="tg-mgsp">Chan Chow Syan (Mrs Lim)</td>
+    <td class="tg-mgsp">Lim Lymin Joel (Mr)</td>
+    <td class="tg-mgsp">Char Wai Han Cassandra (Ms)</td>
   </tr>
   <tr>
     <td class="tg-nrix">1GR</td>
-    <td class="tg-nrix">Chia Jun Ru (Ms)</td>
+    <td class="tg-nrix">Khoo Sin Min Ambert (Mr)</td>
+    <td class="tg-nrix">Lee Su-Ern Joanna (Mrs Tan)</td>
   </tr>
   <tr>
     <td class="tg-mgsp">1HM</td>
-    <td class="tg-mgsp">Fu Chunyu Esther (Ms)</td>
+    <td class="tg-mgsp">Azmi Bin Abdul Wahid (Mr)</td>
+    <td class="tg-mgsp">Lim Chuan Sang (Ms)</td>
   </tr>
   <tr>
     <td class="tg-nrix">1IT</td>
-    <td class="tg-nrix">S N Muraledharan Naidu (Mr)</td>
+    <td class="tg-nrix">Tay Han Tseng Clement (Mr)</td>
+    <td class="tg-nrix">Surayah Bte Mohamed Anwar (Ms)</td>
   </tr>
   <tr>
     <td class="tg-mgsp">1JT</td>
-    <td class="tg-mgsp">Nurashikin Bte Mohamed Said (Ms)</td>
+    <td class="tg-mgsp">Ng Yi Ling Sharon (Ms)</td>
+    <td class="tg-mgsp">Han Huayi (Ms)</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">1LY</td>
+    <td class="tg-nrix">Tan Veronica (Mrs)</td>
+    <td class="tg-nrix">Nurashikin Bte Hanafi (Ms)</td>
   </tr>
 </tbody>
 </table>
