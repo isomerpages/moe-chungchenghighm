@@ -52,7 +52,7 @@ Secondary 1 Form Teachers
   </tr>
   <tr>
     <td class="tg-nrix">1GR</td>
-    <td class="tg-nrix">Nurdiyana Binte Hamzah Lee (Ms)</td>
+    <td class="tg-nrix">Nurdiyana Binte Hamzah Lee (Mdm)</td>
     <td class="tg-nrix">Teo Jo Hsuan (Mrs Tan)</td>
   </tr>
   <tr>
