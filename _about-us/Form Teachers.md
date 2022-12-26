@@ -27,53 +27,48 @@ Secondary 1 Form Teachers
 <tbody>
   <tr>
     <td class="tg-mgsp">1BN</td>
-    <td class="tg-mgsp">Tze Hui Yi</td>
-    <td class="tg-mgsp">Shang Nannan (Mr)</td>
+    <td class="tg-mgsp">Tze Hui Yi (Ms)</td>
+    <td class="tg-mgsp">Loo Li-Lin Katherine (Ms)</td>
   </tr>
   <tr>
     <td class="tg-nrix">1CR</td>
-    <td class="tg-nrix">Koh Rui Ling (Ms)</td>
-    <td class="tg-nrix">Nurdiyana Binte Hamzah Lee (Ms)</td>
+    <td class="tg-nrix">Claudia Chew Han Ngee (Ms)</td>
+    <td class="tg-nrix">Tan Jian Leung Eddie (Mr)</td>
   </tr>
   <tr>
     <td class="tg-mgsp">1DL</td>
-    <td class="tg-mgsp">Mohamed Ibrahim Bin Aris (Dr)</td>
-    <td class="tg-mgsp">Ong Xin Hui (Ms)</td>
+    <td class="tg-mgsp">Tan Sek Jiau (Ms)</td>
+    <td class="tg-mgsp">Liew Pok Ming Marcus (Mr)</td>
   </tr>
   <tr>
     <td class="tg-nrix">1EP</td>
-    <td class="tg-nrix">Ang Joo Seng Jason (Mr)</td>
-    <td class="tg-nrix">Nurul ‘ain Binte Supingi (Ms)</td>
+    <td class="tg-nrix">Ong Shiau Chuen (Ms)</td>
+    <td class="tg-nrix">Loh Lai Yeow Daniel (Mr)</td>
   </tr>
   <tr>
     <td class="tg-mgsp">1FG</td>
-    <td class="tg-mgsp">Lim Lymin Joel (Mr)</td>
-    <td class="tg-mgsp">Char Wai Han Cassandra (Ms)</td>
+    <td class="tg-mgsp">Seah Ming Qi Alexandria (Ms)</td>
+    <td class="tg-mgsp">See Sze Ping (Mr)</td>
   </tr>
   <tr>
     <td class="tg-nrix">1GR</td>
-    <td class="tg-nrix">Khoo Sin Min Ambert (Mr)</td>
-    <td class="tg-nrix">Lee Su-Ern Joanna (Mrs Tan)</td>
+    <td class="tg-nrix">Nurdiyana Binte Hamzah Lee (Ms)</td>
+    <td class="tg-nrix">Teo Jo Hsuan (Mrs Tan)</td>
   </tr>
   <tr>
     <td class="tg-mgsp">1HM</td>
-    <td class="tg-mgsp">Azmi Bin Abdul Wahid (Mr)</td>
-    <td class="tg-mgsp">Lim Chuan Sang (Ms)</td>
+    <td class="tg-mgsp">Soh Guat Ee (Ms)</td>
+    <td class="tg-mgsp">S N Muraledharan Naidu (Mr)</td>
   </tr>
   <tr>
     <td class="tg-nrix">1IT</td>
-    <td class="tg-nrix">Tay Han Tseng Clement (Mr)</td>
-    <td class="tg-nrix">Surayah Bte Mohamed Anwar (Ms)</td>
+    <td class="tg-nrix">Teo Tan Li Jaclyn (Ms)</td>
+    <td class="tg-nrix">Png Wee Kwang Melvin (Mr)</td>
   </tr>
   <tr>
     <td class="tg-mgsp">1JT</td>
-    <td class="tg-mgsp">Ng Yi Ling Sharon (Ms)</td>
-    <td class="tg-mgsp">Han Huayi (Ms)</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">1LY</td>
-    <td class="tg-nrix">Tan Veronica (Mrs)</td>
-    <td class="tg-nrix">Nurashikin Bte Hanafi (Ms)</td>
+    <td class="tg-mgsp">Farhana Begum Bte V S Mohamed Ibrahim (Ms)</td>
+    <td class="tg-mgsp">Lim Wen Xi Alvin (Mr)</td>
   </tr>
 </tbody>
 </table>
