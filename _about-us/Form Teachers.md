@@ -183,7 +183,7 @@ Secondary 3 Form Teachers
   </tr>
   <tr>
     <td class="tg-nrix">3EP</td>
-    <td class="tg-nrix">Su Airong (Ms)</td>
+    <td class="tg-nrix">Su Airong (Mdm)</td>
     <td class="tg-nrix">Ponni d/o Agoram (Ms)</td>
   </tr>
   <tr>
@@ -198,8 +198,8 @@ Secondary 3 Form Teachers
   </tr>
   <tr>
     <td class="tg-mgsp">3HM</td>
-    <td class="tg-mgsp">Yeoh Kwee Suan Angela (Ms)</td>
-    <td class="tg-mgsp">Jankibai Naraindas Nandwani (Mrs)</td>
+    <td class="tg-mgsp">Yeoh Kwee Suan Angela (Mrs Yap)</td>
+    <td class="tg-mgsp">Jankibai Naraindas Nandwani (Ms)</td>
   </tr>
   <tr>
     <td class="tg-nrix">3IT</td>
