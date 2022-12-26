@@ -61,12 +61,8 @@ Key Personnel
 </thead>
 <tbody>
   <tr>
-    <td class="tg-u1cn">Gan Poh Lian Charmaine (Ms)</td>
-    <td class="tg-u1cn">School Staff Developer (SSD)</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Sarah Chia Hui’e (Ms)</td>
-    <td class="tg-cly1">HOD/English Language</td>
+    <td class="tg-cly1">Gan Poh Lian Charmaine (Ms)</td>
+    <td class="tg-cly1">School Staff Developer (SSD)</td>
   </tr>
   <tr>
     <td class="tg-u1cn">Wu I-Hsuan (Ms)</td>
@@ -104,17 +100,17 @@ Key Personnel
     <td class="tg-u1cn">Mong Lian Zhi Jasmine (Ms)</td>
     <td class="tg-u1cn">HOD/CCE</td>
   </tr>
-  <tr>
-    <td class="tg-cly1">Yeoh Zheng Sheng Alexandre Paul (Mr)</td>
-    <td class="tg-cly1">Upper Sec Year Head</td>
+	 <tr>
+    <td class="tg-cly1">Tan Mei Hui (Ms)</td>
+    <td class="tg-cly1">HOD/Aesthetics & Craft</td>
   </tr>
   <tr>
-    <td class="tg-u1cn">Tan Pei Lin Jasmine (Mrs Lee)</td>
-    <td class="tg-u1cn">Lower Sec Year Head</td>
+    <td class="tg-u1cn">Yeoh Zheng Sheng Alexandre Paul (Mr)</td>
+    <td class="tg-u1cn">Upper Sec Year Head</td>
   </tr>
   <tr>
-    <td class="tg-cly1">Nurul’ain Binte Supingi (Ms)</td>
-    <td class="tg-cly1">SH/English Language</td>
+    <td class="tg-cly1">Tan Pei Lin Jasmine (Mrs Lee)</td>
+    <td class="tg-cly1">Lower Sec Year Head</td>
   </tr>
   <tr>
     <td class="tg-u1cn">Chan Xin Min (Ms)</td>
@@ -124,9 +120,9 @@ Key Personnel
     <td class="tg-cly1">Woo Ching Nee Christine (Mrs Pang)</td>
     <td class="tg-cly1">SH/Mathematics</td>
   </tr>
-  <tr>
-    <td class="tg-u1cn">Ong Xin Hui (Ms)</td>
-    <td class="tg-u1cn">SH/Science</td>
+	 <tr>
+    <td class="tg-u1cn">Tan Qin Shan Bertrand (Mr)</td>
+    <td class="tg-u1cn">SH/Applied Learning</td>
   </tr>
   <tr>
     <td class="tg-cly1">Koh Rui Ling (Ms)</td>
