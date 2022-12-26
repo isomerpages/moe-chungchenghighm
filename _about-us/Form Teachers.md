@@ -112,12 +112,12 @@ Secondary 2 Form Teachers
   </tr>
   <tr>
     <td class="tg-nrix">2EP</td>
-    <td class="tg-nrix">Choy Cheng Mun (Ms)</td>
+    <td class="tg-nrix">Choy Cheng Mun (Mdm)</td>
     <td class="tg-nrix">Mohamed Almie Bin Mohamed Mazlan (Mr)</td>
   </tr>
   <tr>
     <td class="tg-mgsp">2FG</td>
-    <td class="tg-mgsp">Chan Chow Syan (Ms)</td>
+    <td class="tg-mgsp">Chan Chow Syan (Mrs Lim)</td>
     <td class="tg-mgsp"></td>
   </tr>
   <tr>
