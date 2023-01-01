@@ -21,7 +21,7 @@ third_nav_title: School History
 2019年，为庆祝80周年校庆，学校举办了一系列的返校活动。教育部长王乙康于2019年4月13日，于中正湖畔为一座新的中正人塑像揭幕。
 
 
-Principals
+Principals 校长
 ----------
 
 <style type="text/css">
@@ -43,27 +43,27 @@ Principals
 </thead>
 <tbody>
   <tr>
-    <td class="tg-mgsp">Dr Chuang Chu Lin</td>
+    <td class="tg-mgsp">Dr Chuang Chu Lin 庄竹林博士</td>
     <td class="tg-mgsp">1939 to 1957</td>
   </tr>
   <tr>
-    <td class="tg-nrix">Mr Shen Weilin</td>
+    <td class="tg-nrix">Mr Shen Weilin 沈为霖</td>
     <td class="tg-nrix">1957</td>
   </tr>
   <tr>
-    <td class="tg-mgsp">Mr Wang Changzhi</td>
+    <td class="tg-mgsp">Mr Wang Changzhi 王昌稚</td>
     <td class="tg-mgsp">1958 to 1959</td>
   </tr>
   <tr>
-    <td class="tg-nrix">Mr Liu Yuji</td>
+    <td class="tg-nrix">Mr Liu Yuji 刘豫吉</td>
     <td class="tg-nrix">1960</td>
   </tr>
   <tr>
-    <td class="tg-mgsp">Mr Lin Qi-yuan</td>
+    <td class="tg-mgsp">Mr Lin Qi-yuan 林淇源</td>
     <td class="tg-mgsp">1960</td>
   </tr>
   <tr>
-    <td class="tg-nrix">Mr Huang Fangkui</td>
+    <td class="tg-nrix">Mr Huang Fangkui 黄芳奎</td>
     <td class="tg-nrix">1961 to 1967</td>
   </tr>
   <tr>
@@ -71,15 +71,15 @@ Principals
     <td class="tg-mgsp">1967</td>
   </tr>
   <tr>
-    <td class="tg-nrix">Mr Qiu Xinmin</td>
+    <td class="tg-nrix">Mr Qiu Xinmin 邱新民</td>
     <td class="tg-nrix">1967 to 1974</td>
   </tr>
   <tr>
-    <td class="tg-mgsp">Mr Xie Tian Shun</td>
+    <td class="tg-mgsp">Mr Xie Tian Shun 谢添顺</td>
     <td class="tg-mgsp">1974 to 1981</td>
   </tr>
   <tr>
-    <td class="tg-nrix">Mr Goh Seow Chew</td>
+    <td class="tg-nrix">Mr Goh Seow Chew 吴绍洲</td>
     <td class="tg-nrix">1981 to 1995</td>
   </tr>
   <tr>
@@ -87,23 +87,24 @@ Principals
     <td class="tg-mgsp">1995 to 2000</td>
   </tr>
   <tr>
-    <td class="tg-nrix">Mr Yue Lip Sin</td>
+    <td class="tg-nrix">Mr Yue Lip Sin 余立信</td>
     <td class="tg-nrix">2000 to 2005</td>
   </tr>
   <tr>
-    <td class="tg-mgsp">Mr Lo Chee Lin</td>
+    <td class="tg-mgsp">Mr Lo Chee Lin 罗志凌</td>
     <td class="tg-mgsp">2005 to 2011</td>
   </tr>
   <tr>
-    <td class="tg-nrix">Mr Pang Choon How</td>
+    <td class="tg-nrix">Mr Pang Choon How 彭俊豪</td>
     <td class="tg-nrix">2011 to 2015</td>
   </tr>
   <tr>
-    <td class="tg-mgsp">Mr Chan Ying Yin</td>
+    <td class="tg-mgsp">
+Mr Chan Ying Yin 陈英贤</td>
     <td class="tg-mgsp">2015 to 2021</td>
   </tr>
   <tr>
-    <td class="tg-nrix">Mr Yao Zhixuan, Terence</td>
+    <td class="tg-nrix">Mr Yao Zhixuan, Terence 姚至轩</td>
     <td class="tg-nrix">2021 to present</td>
   </tr>
 </tbody>
