@@ -1,8 +1,12 @@
 ---
 title: School History
-permalink: /about-us/history/
+permalink: /about-us/school-history/
 description: ""
+third_nav_title: School History
 ---
+
+
+
 Chung Cheng High School was founded in 1939 as an all-boys’ school at 60 Kim Yam Road. The school was guided by its philosophy “Excellence in Education for All” and admitted students from different strata of society. With the Japanese invasion of Singapore in 1942, the school was forced to cease operation. The school resumed in 1945 after the Second World War and began to enrol female students.
 
 The school achieved top honours among Singapore schools in the first National Examination in 1947. To accommodate the increase in student population, a 14-acre plot of land at Goodman Road was purchased for a new campus. This new campus became home to Chung Cheng High School (Main) while the original campus at Kim Yam Road housed Chung Cheng High School (Branch).

@@ -160,5 +160,13 @@ Key Personnel
     <td class="tg-cly1">Ong Lai Wei (Ms)</td>
     <td class="tg-cly1">Lower Sec Asst Year Head</td>
   </tr>
+	<tr>
+    <td class="tg-u1cn">Siti Nurdiyana Binte Johar (Mrs Diana)</td>
+    <td class="tg-u1cn">SH/English Language (Acting)</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Tay Han Tseng Clement (Mr)</td>
+    <td class="tg-cly1">SH/Science (Acting)</td>
+  </tr>
 </tbody>
 </table>

@@ -2,7 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - School History.md
+      - School History/.keep
+      - School History/School History.md
+      - School History/School History (Chinese).md
       - Mission, Vision, Values.md
       - Strategic Directions.md
       - School Crest and Song.md
