@@ -33,3 +33,22 @@ The school will determine DMA settings for in-school use. As a default, these se
 *	MOE and the school will set the level of web content filtering, including filtering out objectionable content or content that may not be conducive to teaching and learning (e.g. social media, pornography, gambling, or websites containing extremist content).
 *	Students will be able to use the device from 5.00 a.m. to 12.00 a.m. daily.
 *	The school will determine the apps and programs to be installed to support teaching and learning.
+
+Parents may choose to modify or disable DMA settings after school hours. More information will be provided during the Sec 1 Parent Briefing.
+
+To support parents and guardians in guiding their children using the PLD at home, please see these MOE toolkits:
+
+*   *   [Parent Handbook (I)](/files/Parent-Handbook-I-on-Learning-with-a-PLD.pdf)
+    *   [Parent Handbook (II)](/files/Parent-Handbook-II-on-Learning-with-a-Personal-Learning-Device.pdf)
+    *   [Parent Kit on Cyber Wellness for Your Child](https://go.gov.sg/moe-cyber-wellness)
+
+Our school also has a microsite: [https://go.gov.sg/cchmcw](https://go.gov.sg/cchmcw) to help parents and guardians better understand the latest trends and school policies so that we can work together to educate our students in building up positive cyberwellness habits.
+
+For more information on our  
+PDLP Device information Kit, [click here.](/files/Student-Device-Information-Kit-for-CCHM-_updJan22.pdf)  
+Acceptable Use Policy (AUP) for Personal Learning Device (PLD) & School ICT Resources, [click here](/files/CCHM-AUP.pdf).
+
+**Contact Information**
+
+For technical and procurement queries about PLDs, please leave a request via the form [here](https://go.gov.sg/cchm-dma-pld-enquiry).  
+For financial support for PLD, please email [cchms@moe.edu.sg](mailto:cchms@moe.edu.sg) and specify “Attn: AM (PLD Support)” as the subject.
