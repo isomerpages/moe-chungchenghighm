@@ -23,4 +23,5 @@ The PLD will come with an Enhanced Device Bundle, which includes a 3-year warran
 
 Students can draw upon their Edusave funds to pay for the PLD. Permanent residents (PR) and international students (IS) will make cash payment for the PLD. Subsidies are available to students who require financial assistance.
 
-PLD procurement in our school will take place from 14 to 26 Jan 2023 More information will be provided during the Sec 1 Parent Briefing.
+PLD procurement in our school will take place from **14 to 26 Jan 2023** More information will be provided during the Sec 1 Parent Briefing.
+
