@@ -45,10 +45,12 @@ To support parents and guardians in guiding their children using the PLD at home
 Our school also has a microsite: [https://go.gov.sg/cchmcw](https://go.gov.sg/cchmcw) to help parents and guardians better understand the latest trends and school policies so that we can work together to educate our students in building up positive cyberwellness habits.
 
 For more information on 
+
 -the Personal Learning Device (PLD), [click here.](/files/Student-Device-Information-Kit-for-CCHM-_updJan22.pdf)  
 -Acceptable Use Policy (AUP) for Personal Learning Device (PLD) & School ICT Resources, [click here](/files/CCHM-AUP.pdf).
 
 **Contact Information**
 
 For technical and procurement queries about PLDs, please leave a request via the form [here](https://go.gov.sg/cchm-dma-pld-enquiry).  
+
 For financial support for PLD, please email [cchms@moe.edu.sg](mailto:cchms@moe.edu.sg) and specify “Attn: AM (PLD Support)” as the subject.
