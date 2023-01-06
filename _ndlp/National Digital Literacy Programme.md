@@ -45,6 +45,7 @@ To support parents and guardians in guiding their children using the PLD at home
 Our school also has a microsite: [https://go.gov.sg/cchmcw](https://go.gov.sg/cchmcw) to help parents and guardians better understand the latest trends and school policies so that we can work together to educate our students in building up positive cyberwellness habits.
 
 For more information on 
+
 -the Personal Learning Device (PLD), [click here.](/files/Student-Device-Information-Kit-for-CCHM-_updJan22.pdf)  
 -Acceptable Use Policy (AUP) for Personal Learning Device (PLD) & School ICT Resources, [click here](/files/CCHM-AUP.pdf).
 
