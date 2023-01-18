@@ -3,7 +3,7 @@ title: Mission, Vision, Values
 permalink: /about-us/mission-vision-values/
 description: ""
 ---
-Our Philosophy 教育理念
+Our Philosophy 办学理念
 -------------------
 
 Excellence in Education For All
