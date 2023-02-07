@@ -56,7 +56,7 @@ You may click [here](http://www.moe.gov.sg/education/programmes/social-emotiona
 8.  _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.
 9.  Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
 
-**At Chung Cheng High School (Main), the _eTeens_ programme will be implemented as follows in 2022:**
+**At Chung Cheng High School (Main), the _eTeens_ programme will be implemented as follows in 2023:**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -80,12 +80,12 @@ You may click [here](http://www.moe.gov.sg/education/programmes/social-emotiona
   <tr>
     <td class="tg-cly1">Mass Talk by HPB appointed vendor</td>
     <td class="tg-cly1">·       Awareness of the different STIs and HIV/AIDS<br><br><span style="color:#1E1E1E">·       Modes of transmission</span><br><br><br><span style="font-weight:400;color:#1E1E1E">·       Modes of protection, specifically on how the condom is used</span><br><br><span style="font-weight:400;color:#1E1E1E">·       Consequences and impact of STIs/HIV</span></td>
-    <td class="tg-cly1">Term 3 Week 8</td>
+    <td class="tg-cly1">Term 2 Week 5</td>
   </tr>
   <tr>
     <td class="tg-u1cn">Classroom-based Lesson</td>
     <td class="tg-u1cn">·       Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</td>
-    <td class="tg-u1cn">Term 3 Week 9</td>
+    <td class="tg-u1cn">Term 2 Week 6</td>
   </tr>
 </tbody>
 </table>
@@ -93,7 +93,6 @@ You may click [here](http://www.moe.gov.sg/education/programmes/social-emotiona
 **Information for Parents**
 
 10.  Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
-11.  Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be made available to parents via Parents Gateway and is also downloadable [here (Annex A SEd Opt Out Form](/files/Annex-A-SEd-Opt-Out-Form.pdf) [Annex B eTeens Opt Out Form)](/files/Annex-B-eTeens-Opt-Out-Form.pdf). The completed form is to be submitted by 04/02/2022.
-12.  Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be made available to parents via Parents Gateway and is also downloadable [here (Annex B eTeens Opt Out Form)](/files/Annex-B-eTeens-Opt-Out-Form%20(1).pdf). The completed form is to be submitted by 04/02/2022.
-13.  Parents can contact the school at [cchms@moe.edu.sg](mailto:cchms@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
-14.  Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
+11.  Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be made available to parents via Parents Gateway and is also downloadable [here (Annex A SEd Opt Out Form](/files/Annex-A-SEd-Opt-Out-Form.pdf) [Annex B eTeens Opt Out Form)](/files/Annex-B-eTeens-Opt-Out-Form.pdf). The completed form is to be submitted by 17/03/2023.
+12.  Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be made available to parents via Parents Gateway and is also downloadable [here (Annex B eTeens Opt Out Form)](/files/Annex-B-eTeens-Opt-Out-Form%20(1).pdf). The completed form is to be submitted by 17/03/2023.
+13.  Parents can contact the school at 6344 1393 or [cchms@moe.edu.sg](mailto:cchms@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
