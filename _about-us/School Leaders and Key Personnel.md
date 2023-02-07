@@ -161,7 +161,7 @@ Key Personnel
     <td class="tg-cly1">Lower Sec Asst Year Head</td>
   </tr>
 	<tr>
-    <td class="tg-u1cn">Siti Nurdiana Binte Johar (Mrs Diana)</td>
+    <td class="tg-u1cn">Siti Nurdiana Binte Johar (Mrs Diana Angullia)</td>
     <td class="tg-u1cn">SH/English Language (Acting)</td>
   </tr>
   <tr>
