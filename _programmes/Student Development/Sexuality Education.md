@@ -40,17 +40,16 @@ You may click [here](http://www.moe.gov.sg/education/programmes/social-emotiona
 **At Chung Cheng High School (Main), the following Sexuality Education lessons will be taught in <u>2023</u>:**
 
 **Secondary 1**
-
-
+<img src="/images/Sec1_SeD.jpg" alt="Sec1 SeD Table1" style="width:1080px">
 
 **Secondary 2**
-
+<img src="/images/Sec2_SeD.jpg" alt="Sec2 SeD Table1" style="width:1080px">
 
 **Secondary 3**
-
+<img src="/images/Sec3_SeD.jpg" alt="Sec3 SeD Table1" style="width:1080px">
 
 **Secondary 4** 
-
+<img src="/images/Sec4_SeD.jpg" alt="Sec4 SeD Table1" style="width:1080px">
 
 **<u><em>eTeens</em> Programme</u>**:
 
