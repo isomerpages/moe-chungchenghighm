@@ -85,7 +85,7 @@ You may click [here](http://www.moe.gov.sg/education/programmes/social-emotiona
   <tr>
     <td class="tg-u1cn">Classroom-based Lesson</td>
     <td class="tg-u1cn">·       Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</td>
-    <td class="tg-u1cn">Term 2 Week 6</td>
+    <td class="tg-u1cn">Term 2 Week 5</td>
   </tr>
 </tbody>
 </table>
