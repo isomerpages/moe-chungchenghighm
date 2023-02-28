@@ -348,3 +348,7 @@ ul.jekyllcodex_accordion > li > label::before {content: "+"; font-weight: normal
 ul.jekyllcodex_accordion > li > input:checked + label::before {transform: rotate(-45deg);}
 ul.jekyllcodex_accordion > li > div > ul > li { list-style-type: disc; border-top: 0; }
 ul.jekyllcodex_accordion > li > div > ol > li { list-style-type: decimal; border-top: 0; }
+
+.bp-hero-body {
+	background: unset;
+}
