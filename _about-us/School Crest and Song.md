@@ -25,7 +25,7 @@ School Song
 
 <h4 style="color:black" align="center">校歌</h4>
 
-<p style="text-align:center;">曰吾中正 &nbsp&nbsp&nbsp&nbsp 至大至刚<br>矗立星洲&nbsp&nbsp&nbsp&nbsp 巍巍昂昂<br>华夏声教&nbsp&nbsp&nbsp&nbsp 广披炎荒<br>欧印文明&nbsp&nbsp&nbsp&nbsp 他山之长<br>好学力行&nbsp&nbsp&nbsp&nbsp 知耻是倡<br>日新月异&nbsp&nbsp&nbsp&nbsp 不息自强<br>止於至善&nbsp&nbsp&nbsp&nbsp 万国同光<br>大哉中正&nbsp&nbsp&nbsp&nbsp 悠久无疆<br></p>
+<p style="text-align:center;">曰吾中正 &nbsp;&nbsp;&nbsp;&nbsp; 至大至刚<br>矗立星洲&nbsp;&nbsp;&nbsp;&nbsp; 巍巍昂昂<br>华夏声教&nbsp;&nbsp;&nbsp;&nbsp; 广披炎荒<br>欧印文明&nbsp;&nbsp;&nbsp;&nbsp; 他山之长<br>好学力行&nbsp;&nbsp;&nbsp;&nbsp; 知耻是倡<br>日新月异&nbsp;&nbsp;&nbsp;&nbsp; 不息自强<br>止於至善&nbsp&nbsp&nbsp&nbsp; 万国同光<br>大哉中正&nbsp;&nbsp;&nbsp;&nbsp; 悠久无疆<br></p>
 
 <h4 style="color:black" align="center">Our School Song (Translation)</h4>
 
