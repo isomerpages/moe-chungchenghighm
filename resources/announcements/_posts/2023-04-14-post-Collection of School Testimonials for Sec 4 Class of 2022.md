@@ -6,3 +6,10 @@ layout: post
 description: ""
 image: ""
 ---
+##### The School Testimonials are ready for collection. Collection details are as follows:
+
+**Where?**<br> 
+CCHMS General Office
+
+**When?** <br>
+Starting from 17 Apr 2023, Mondays to Fridays, 9am-4:30pm
