@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-##### The School Testimonials are ready for collection. Collection details are as follows:
+**The School Testimonials are ready for collection. Collection details are as follows:**
 
 **Where?**<br> 
 CCHMS General Office
