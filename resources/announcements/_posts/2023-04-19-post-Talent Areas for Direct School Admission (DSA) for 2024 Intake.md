@@ -47,4 +47,4 @@ image: ""
 </table>
 
 More information will be released on this website after MOE’s press release.<br><br>
-For more information regarding DSA for Secondary Schools, please visit MOE DSA-Sec website at [www.moe.gov.sg/dsa-sec](www.moe.gov.sg/dsa-sec).<br><br>For further queries about DSA to our school, please email [cchms@moe.edu.sg](mailto:cchms@moe.edu.sg)with a Subject Header starting with “DSA 2023”.
+For more information regarding DSA for Secondary Schools, please visit MOE DSA-Sec website at [www.moe.gov.sg/dsa-sec](www.moe.gov.sg/dsa-sec).<br><br>For further queries about DSA to our school, please email [cchms@moe.edu.sg](mailto:cchms@moe.edu.sg)
