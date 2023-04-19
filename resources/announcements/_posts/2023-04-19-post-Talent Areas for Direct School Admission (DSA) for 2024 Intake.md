@@ -25,8 +25,8 @@ image: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-43yd"><span style="color:#FFF;background-color:#CB4B3D">Level</span></th>
-    <th class="tg-43yd"><span style="color:#FFF;background-color:#CB4B3D">Subjects</span></th>
+    <th class="tg-43yd"><span style="color:#FFF;background-color:#CB4B3D">Categories</span></th>
+    <th class="tg-43yd"><span style="color:#FFF;background-color:#CB4B3D">Talent Areas</span></th>
   </tr>
 </thead>
 <tbody>
