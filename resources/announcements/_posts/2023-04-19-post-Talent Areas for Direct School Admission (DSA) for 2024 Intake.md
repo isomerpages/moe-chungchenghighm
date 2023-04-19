@@ -8,3 +8,35 @@ image: ""
 ---
 **Our school will be having the following talent areas open to all current Primary Six students (or equivalent) to apply for admission to our school for the academic year of 2024, through the Direct School Admission (DSA) exercise:**
 
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-43yd{background-color:#CB4B3D;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-mgsp{background-color:#EEE;text-align:center;vertical-align:middle}
+.tg .tg-r5gp{background-color:#EEE;text-align:left;vertical-align:top}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-43yd"><span style="color:#FFF;background-color:#CB4B3D">Level</span></th>
+    <th class="tg-43yd"><span style="color:#FFF;background-color:#CB4B3D">Subjects</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-mgsp">Lower Secondary</td>
+    <td class="tg-r5gp"><span style="font-weight:400;font-style:normal">• </span>General Art Programme</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">Upper Secondary</td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">• </span>Art<br><span style="font-weight:400;font-style:normal">• </span>Higher Art</td>
+  </tr>
+</tbody>
+</table>
