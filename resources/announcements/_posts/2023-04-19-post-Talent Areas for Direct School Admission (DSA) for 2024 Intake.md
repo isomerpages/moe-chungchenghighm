@@ -32,7 +32,7 @@ image: ""
 <tbody>
   <tr>
     <td class="tg-mgsp">Sports &amp; Games</td>
-    <td class="tg-r5gp"><span style="font-weight:400;font-style:normal">• </span>Badminton<br><span style="font-weight:400;font-style:normal">•</span> Basketball</td>
+    <td class="tg-r5gp"><span style="font-weight:400;font-style:normal">• </span>Badminton<br><span style="font-weight:400;font-style:normal">•</span> Basketball<br><span style="font-weight:400;font-style:normal">•</span> Netball (Girls only)<br><span style="font-weight:400;font-style:normal">•</span> Table Tennis<br><span style="font-weight:400;font-style:normal">•</span> Volleyball</td>
   </tr>
   <tr>
     <td class="tg-nrix">Upper Secondary</td>
