@@ -31,8 +31,8 @@ image: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-mgsp">Lower Secondary</td>
-    <td class="tg-r5gp"><span style="font-weight:400;font-style:normal">• </span>General Art Programme</td>
+    <td class="tg-mgsp">Sports &amp; Games</td>
+    <td class="tg-r5gp"><span style="font-weight:400;font-style:normal">• </span>Badminton<br><span style="font-weight:400;font-style:normal">•</span> Basketball</td>
   </tr>
   <tr>
     <td class="tg-nrix">Upper Secondary</td>
