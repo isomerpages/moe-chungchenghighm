@@ -36,7 +36,7 @@ image: ""
   </tr>
   <tr>
     <td class="tg-nrix">Performing Arts</td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">• </span>Chinese Orchestra<br>*(Only Gaohu, Zhonghu, Erhu, Da Ruan, Zhong Ruan, Liuqin, Pipa, Dizi, Sheng, Suona, Yangqin, Cello, Double Bass, Percussion)*<br><br><span style="font-weight:400;font-style:normal">• </span>Concert Band<br>*(Only Flute, Oboe, Clarinet, Bass Clarinet, Bassoon, Saxophone (Alto/Tenor/Baritone), French Horn, Trumpet, Trombone, Euphonium, Tuba, Double Bass, Percussion)*
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">• </span>Chinese Orchestra<br><i>(Only Gaohu, Zhonghu, Erhu, Da Ruan, Zhong Ruan, Liuqin, Pipa, Dizi, Sheng, Suona, Yangqin, Cello, Double Bass, Percussion)</i><br><br><span style="font-weight:400;font-style:normal">• </span>Concert Band<br><i>(Only Flute, Oboe, Clarinet, Bass Clarinet, Bassoon, Saxophone (Alto/Tenor/Baritone), French Horn, Trumpet, Trombone, Euphonium, Tuba, Double Bass, Percussion)</i>
 	</td>
   </tr>
 	<tr>
