@@ -38,5 +38,9 @@ image: ""
     <td class="tg-nrix">Upper Secondary</td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">• </span>Art<br><span style="font-weight:400;font-style:normal">• </span>Higher Art</td>
   </tr>
+	<tr>
+    <td class="tg-mgsp">Lower Secondary</td>
+    <td class="tg-r5gp"><span style="font-weight:400;font-style:normal">• </span>General Art Programme</td>
+  </tr>
 </tbody>
 </table>
