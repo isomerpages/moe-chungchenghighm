@@ -23,13 +23,13 @@ The following 3 categories are open for DSA application for the 2024 intake:
 
 <p id="link2"><strong>B.&nbsp;PROGRAMMES FOR DSA TALENTS</strong></p>
 
-All DSA talents admitted to the school will be integrated into our system and culture like any other students, with equal opportunities to participate in the many programmes available. They will also be mentored and supported continuously by our key personnel and teachers throughout their four years in the school. In addition, they will have access to the multi-faceted programmes and activities organised for their respective CCA or talent areas.
+All DSA talents admitted to the school will be integrated into our system and culture like any other students, with equal opportunities to participate in the abundant programmes available.<br><br> They will also be mentored and supported continuously by our key personnel and teachers throughout their four years in the school.<br><br> In addition, they will have access to the multi-faceted programmes and activities organised for their respective CCA or talent areas.
 
 <a href="https://www.moe.gov.sg/programmes/clep-sec" rel="nofollow"><img src="/images/dsa_table4_23.png" alt="DSA Table4" style="width:1080px"></a>
 
 <p id="link3"><strong>C.&nbsp;DSA SELECTION PROCESS</strong></p>
 
-##### All DSA selection processes will be customised and updated to align with the prevailing COVID-19 safe management measures (SMMs) as advised by MOE.
+##### All DSA selection processes might be  updated to align with the prevailing COVID-19 safe management measures (SMMs) as advised by MOE.
 
 A DSA selection panel, including school leaders, will be formed to administer and oversee the DSA selection process, to ensure that it is transparent, objective, talent-specific, inclusive and student-centric.
 
@@ -43,7 +43,7 @@ All applicants who satisfy our criteria may apply for DSA to our school in&nbsp;
 
 **STEP 2: ATTEND TRIAL OR AUDITION&nbsp;_(ONLY IF SHORTLISTED)_**
 
-*   All registered applicants will be assessed and considered by the school based on the records and information provided and made available, in alignment with our criteria listed in Section A.&nbsp;_(Please note that meeting the criteria does not guarantee that the student will be shortlisted or given an offer.)_
+*   All registered applicants will be assessed and considered by the school based on the records and information provided or made available, in alignment with our criteria listed in Section A.&nbsp;_(Please note that meeting the criteria does not guarantee that the student will be shortlisted or given an offer.)_
 *   For&nbsp;**Sports and Performing Arts talent areas**, potential candidates will be shortlisted to attend an&nbsp;**in-person trial/ audition**&nbsp;at our school,&nbsp;starting from 24 June 2023.&nbsp;They will be notified of the confirmed date and time of the trial/ audition via email provided during application.
 *   For&nbsp;**Chinese Language talent areas**, potential candidates will be shortlisted directly for an interview, and a performance task will be conducted on the day of the interview.
 *   The trial/ audition schedule will also be made available here by end of june, and the performance task requirements are for the various talent areas are listed as follows:
