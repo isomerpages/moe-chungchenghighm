@@ -28,7 +28,7 @@ All DSA talents admitted to the school will be integrated into our system and cu
 
 <p id="link3"><strong>C.&nbsp;DSA SELECTION PROCESS</strong></p>
 
-All DSA selection processes will be customised and updated to align with the prevailing COVID-19 safe management measures (SMMs) as advised by MOE.
+All DSA selection processes might be updated to align with the prevailing COVID-19 safe management measures (SMMs) as advised by MOE.
 
 A DSA selection panel, including school leaders, will be formed to administer and oversee the DSA selection process, to ensure that it is transparent, objective, talent-specific, inclusive and student-centric.
 
