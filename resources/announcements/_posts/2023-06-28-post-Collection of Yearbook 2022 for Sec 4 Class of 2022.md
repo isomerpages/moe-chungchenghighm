@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-<img src="/images/Yearbook-2022-Collection.jpeg" alt="Yearbook 2022" style="width:400px">
+<img src="/images/yearbook-2022-collection.png" alt="Yearbook 2022" style="width:600px">
 
 
 To the Class of 2022, if you have not collected your Yearbook 2022, you can collect it from the school’s General Office, on Monday, Tuesday and Thursday, 9am to 4.00pm (no collection on Wednesdays &amp; Fridays), from 29 June 2023 onwards. Thank you.
