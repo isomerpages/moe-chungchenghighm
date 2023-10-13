@@ -98,7 +98,7 @@ Secondary 2 Form Teachers
   <tr>
     <td class="tg-mgsp">2BN</td>
     <td class="tg-mgsp">Jalaluddin Bin Hezan (Mr)</td>
-    <td class="tg-mgsp">Ng Siow Siong (Mr)</td>
+    <td class="tg-mgsp"></td>
   </tr>
   <tr>
     <td class="tg-nrix">2CR</td>
