@@ -18,7 +18,7 @@ image: ""
 6. Tea Appreciation at our Chung Cheng Tea Room beside our Scenic Chung Cheng Lake
 7. Special Prize Redemption from collecting stickers visiting the various stations!
 
-Further details can be found on our Open House Microsite via this link: [https://go.gov.sg/cchmopenhouse2023](https://go.gov.sg/cchmopenhouse2023)
+Further details can be found on our Open House Microsite via this link: [https://go.gov.sg/cchmopenhouse2023](https://go.gov.sg/cchmopenhouse2023).
 We look forward to seeing you on 18th November 2023! 😊
 
 QR Code for Microsite
