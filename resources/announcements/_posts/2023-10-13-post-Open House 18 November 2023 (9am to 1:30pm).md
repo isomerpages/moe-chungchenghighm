@@ -22,4 +22,5 @@ Further details can be found on our Open House Microsite via this link: [https:/
 We look forward to seeing you on 18th November 2023! 😊
 
 QR Code for Microsite
+
 <img src="/images/qrcodeopenhouse2023.png" alt="Open House 2023" style="width:300px; float: left;">
