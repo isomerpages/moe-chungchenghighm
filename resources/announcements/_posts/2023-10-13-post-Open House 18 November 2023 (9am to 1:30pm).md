@@ -21,6 +21,5 @@ image: ""
 Further details can be found on our Open House Microsite via this link: [https://go.gov.sg/cchmopenhouse2023](https://go.gov.sg/cchmopenhouse2023).
 We look forward to seeing you on 18th November 2023! 😊
 
-QR Code for Microsite
-
+QR Code for Microsite <br>
 <img src="/images/qrcodeopenhouse2023.png" alt="Open House 2023" style="width:300px; float: left;">
