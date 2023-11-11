@@ -2,6 +2,7 @@
 title: Mission, Vision, Values
 permalink: /about-us/mission-vision-values/
 description: ""
+variant: markdown
 ---
 Our Philosophy 办学理念
 -------------------
@@ -31,7 +32,7 @@ Empowering our students to be Role Models of Learning, Leaders of Society and Pi
 Our Values 校训
 -------------
 
-With Passion We Learn                            好学  
-With Perseverance We Strive                 力行  
-With Integrity We Live                             知耻  
+With Passion We Learn                              好学  
+With Perseverance We Strive                力行  
+With Integrity We Live                              知耻  
 With Commitment We Progress          自强
