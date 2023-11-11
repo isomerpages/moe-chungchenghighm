@@ -22,7 +22,7 @@ variant: markdown
     <td></td>
   </tr>		
   <tr>
-    <td colspan="2"><a href="https://sites.google.com/cchm.edu.sg/cyberwellnesscchm/home" target="_blank" rel="noopener noreferrer"><img src="/images/cyberwellness.jpeg" alt="Cyberwellness" width="106" height="17"></a></td>
+    <td colspan="2"><a href="https://sites.google.com/moe.edu.sg/cyberwellnesscchm/home" target="_blank" rel="noopener noreferrer"><img src="/images/cyberwellness.jpeg" alt="Cyberwellness" width="106" height="17"></a></td>
   </tr>
 </tbody>
 </table>
