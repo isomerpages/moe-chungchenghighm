@@ -32,7 +32,7 @@ Empowering our students to be Role Models of Learning, Leaders of Society and Pi
 Our Values 校训
 -------------
 
-With Passion We Learn                                                ||好学  
-With Perseverance We Strive                力行  
-With Integrity We Live                                               |知耻  
-With Commitment We Progress          自强
+With Passion We Learn&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                     <font color="#FFFFFF">||</font>好学  
+With Perseverance We Strive&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;力行  
+With Integrity We Live&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                  <font color="#FFFFFF">|</font>知耻  
+With Commitment We Progress&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 自强
