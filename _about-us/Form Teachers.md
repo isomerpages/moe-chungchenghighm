@@ -58,7 +58,7 @@ Secondary 1 Form Teachers
   </tr>
   <tr>
     <td class="tg-mgsp">1HM</td>
-    <td class="tg-mgsp">Nurashikin Bte Mohamed Said(Mdm)</td>
+    <td class="tg-mgsp">Nurashikin Bte Mohamed Said (Mdm)</td>
     <td class="tg-mgsp">Lim Wee (Mr)</td>
   </tr>
   <tr>
