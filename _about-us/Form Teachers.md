@@ -239,8 +239,8 @@ Secondary 4 Form Teachers
 <tbody>
   <tr>
     <td class="tg-mgsp">4BN</td>
-    <td class="tg-mgsp">Woo Ching Nee Christine (Mrs Pang)</td>
-    <td class="tg-mgsp">Shang Nannan (Mr)</td>
+    <td class="tg-mgsp">Tan Qin Shan Bertrand (Mr)</td>
+    <td class="tg-mgsp">Yee Ren Ping Robbie (Mr)</td>
   </tr>
   <tr>
     <td class="tg-nrix">4CR</td>
