@@ -204,7 +204,7 @@ Secondary 3 Form Teachers
   </tr>
   <tr>
     <td class="tg-nrix">3IT</td>
-    <td class="tg-nrix">Tan Veronica (Mrs)</td>
+    <td class="tg-nrix">Tan Veronica (Mrs Tan)</td>
     <td class="tg-nrix">Ang Weili (Ms)</td>
   </tr>
   <tr>
