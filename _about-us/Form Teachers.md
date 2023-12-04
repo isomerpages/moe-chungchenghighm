@@ -249,12 +249,12 @@ Secondary 4 Form Teachers
   </tr>
   <tr>
     <td class="tg-mgsp">4DL</td>
-    <td class="tg-mgsp">Adlin Binte Idris (Ms)</td>
+    <td class="tg-mgsp">Adlin Binte Idris (Mdm)</td>
     <td class="tg-mgsp">Wang Feng (Mr)</td>
   </tr>
   <tr>
     <td class="tg-nrix">4EP</td>
-    <td class="tg-nrix">Su Airong (Ms)</td>
+    <td class="tg-nrix">Su Airong (Mdm)</td>
     <td class="tg-nrix">Ho Yihan (Ms)</td>
   </tr>
   <tr>
@@ -269,7 +269,7 @@ Secondary 4 Form Teachers
   </tr>
   <tr>
     <td class="tg-mgsp">4HM</td>
-    <td class="tg-mgsp">Yeoh Kwee Suan Angela (Ms)</td>
+    <td class="tg-mgsp">Yeoh Kwee Suan Angela (Mrs Yap)</td>
     <td class="tg-mgsp">Jankibai Naraindas Nandwani (Ms)</td>
   </tr>
   <tr>
@@ -280,7 +280,7 @@ Secondary 4 Form Teachers
   <tr>
     <td class="tg-mgsp">4JT</td>
     <td class="tg-mgsp">Azmi Bin Abdul Wahid (Mr)</td>
-    <td class="tg-mgsp">Lee Su-Ern Joanna (Ms)</td>
+    <td class="tg-mgsp">Lee Su-Ern Joanna (Mrs Tan)</td>
   </tr>
 </tbody>
 </table>
