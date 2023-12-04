@@ -244,48 +244,43 @@ Secondary 4 Form Teachers
   </tr>
   <tr>
     <td class="tg-nrix">4CR</td>
-    <td class="tg-nrix">Koh Rui Ling (Ms)</td>
-    <td class="tg-nrix">Chia Choong Kwok Kelvin (Mr)</td>
+    <td class="tg-nrix">Ng Wei Kee Ricky (Mr)</td>
+    <td class="tg-nrix">Tan Seow Lan (Ms)</td>
   </tr>
   <tr>
     <td class="tg-mgsp">4DL</td>
-    <td class="tg-mgsp">Gan Choon Ming Lawrence (Mr)</td>
-    <td class="tg-mgsp">Yee Ren Ping Robbie (Mr)</td>
+    <td class="tg-mgsp">Adlin Binte Idris (Ms)</td>
+    <td class="tg-mgsp">Wang Feng (Mr)</td>
   </tr>
   <tr>
     <td class="tg-nrix">4EP</td>
-    <td class="tg-nrix">Ang Joo Seng Jason (Mr)</td>
-    <td class="tg-nrix">Yong Lai Yee Michelle (Mrs Chew)</td>
+    <td class="tg-nrix">Su Airong (Ms)</td>
+    <td class="tg-nrix">Ho Yihan (Ms)</td>
   </tr>
   <tr>
     <td class="tg-mgsp">4FG</td>
-    <td class="tg-mgsp">Lim Lymin Joel (Mr)</td>
-    <td class="tg-mgsp">Char Wai Han Cassandra (Ms)</td>
+    <td class="tg-mgsp">Juni Liyana Binte Amin (Ms)</td>
+    <td class="tg-mgsp">Yong Lai Yee Michelle (Mrs Chew)</td>
   </tr>
   <tr>
     <td class="tg-nrix">4GR</td>
-    <td class="tg-nrix">Khoo Sin Min Ambert (Mr)</td>
-    <td class="tg-nrix">Lee Su-Ern Joanna (Mrs Tan)</td>
+    <td class="tg-nrix">Fan Lijun (Ms)</td>
+    <td class="tg-nrix">Gan Choon Ming Lawrence (Mr)</td>
   </tr>
   <tr>
     <td class="tg-mgsp">4HM</td>
-    <td class="tg-mgsp">Nurrul Ezzah Bte Mohd Zulkefly (Ms)</td>
-    <td class="tg-mgsp">Lim Chuan Sang (Ms)</td>
+    <td class="tg-mgsp">Yeoh Kwee Suan Angela (Ms)</td>
+    <td class="tg-mgsp">Jankibai Naraindas Nandwani (Ms)</td>
   </tr>
   <tr>
     <td class="tg-nrix">4IT</td>
-    <td class="tg-nrix">Tay Han Tseng Clement (Mr)</td>
-    <td class="tg-nrix">Surayah Bte Mohamed Anwar (Mdm)</td>
+    <td class="tg-nrix">Ang Ban Leong Alvin (Mr)</td>
+    <td class="tg-nrix">Om Wen Jie (Ms)</td>
   </tr>
   <tr>
     <td class="tg-mgsp">4JT</td>
-    <td class="tg-mgsp">Ng Yi Ling Sharon (Ms)</td>
-    <td class="tg-mgsp">Han Huayi (Ms)</td>
-  </tr>
-	 <tr>
-    <td class="tg-nrix">4LY</td>
-    <td class="tg-nrix">Tan Veronica (Mrs Tan)</td>
-    <td class="tg-nrix">Nurashikin Bte Hanafi (Ms)</td>
+    <td class="tg-mgsp">Azmi Bin Abdul Wahid (Mr)</td>
+    <td class="tg-mgsp">Lee Su-Ern Joanna (Ms)</td>
   </tr>
 </tbody>
 </table>
