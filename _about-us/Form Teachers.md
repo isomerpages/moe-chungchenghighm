@@ -199,18 +199,18 @@ Secondary 3 Form Teachers
   </tr>
   <tr>
     <td class="tg-mgsp">3HM</td>
-    <td class="tg-mgsp">Yeoh Kwee Suan Angela (Mrs Yap)</td>
-    <td class="tg-mgsp">Jankibai Naraindas Nandwani (Ms)</td>
+    <td class="tg-mgsp">Surayah Bte Mohammed Anwar (Mdm)</td>
+    <td class="tg-mgsp">Koh Rui Ling (Ms)</td>
   </tr>
   <tr>
     <td class="tg-nrix">3IT</td>
-    <td class="tg-nrix">Ang Ban Leong Alvin (Mr)</td>
-    <td class="tg-nrix">Om Wen Jie (Ms)</td>
+    <td class="tg-nrix">Tan Veronica (Mrs)</td>
+    <td class="tg-nrix">Ang Weili (Ms)</td>
   </tr>
   <tr>
     <td class="tg-mgsp">3JT</td>
-    <td class="tg-mgsp">Azmi Bin Abdul Wahid (Mr)</td>
-    <td class="tg-mgsp"></td>
+    <td class="tg-mgsp">Lim Lymin Joel (Mr)</td>
+    <td class="tg-mgsp">Nurashikin Bte Hanafi</td>
   </tr>
 </tbody>
 </table>
