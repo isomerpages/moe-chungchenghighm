@@ -98,48 +98,48 @@ Secondary 2 Form Teachers
 <tbody>
   <tr>
     <td class="tg-mgsp">2BN</td>
-    <td class="tg-mgsp">Jalaluddin Bin Hezan (Mr)</td>
-    <td class="tg-mgsp"></td>
+    <td class="tg-mgsp">Nurdiyana Binte Hamzah Lee (Ms)</td>
+    <td class="tg-mgsp">Loo Li-Lin Katherine (Ms)</td>
   </tr>
   <tr>
     <td class="tg-nrix">2CR</td>
-    <td class="tg-nrix">Wong Jing Xian Adeline (Ms)</td>
-    <td class="tg-nrix"></td>
+    <td class="tg-nrix">Tan Jian Leung Eddie (Mr)</td>
+    <td class="tg-nrix">Zhu Mei (Ms)</td>
   </tr>
   <tr>
     <td class="tg-mgsp">2DL</td>
-    <td class="tg-mgsp">Loh Siew Hua (Ms)</td>
-    <td class="tg-mgsp"></td>
+    <td class="tg-mgsp">Tan Sek Jiau (Ms)</td>
+    <td class="tg-mgsp">Liew pok Ming Marcus (Mr)</td>
   </tr>
   <tr>
     <td class="tg-nrix">2EP</td>
-    <td class="tg-nrix">Choy Cheng Mun (Mdm)</td>
-    <td class="tg-nrix">Mohamed Almie Bin Mohamed Mazlan (Mr)</td>
+    <td class="tg-nrix">Loh Lai Yeow Daniel (Mr)</td>
+    <td class="tg-nrix">Ong Shiau Chuen (Ms)</td>
   </tr>
   <tr>
     <td class="tg-mgsp">2FG</td>
-    <td class="tg-mgsp">Chan Chow Syan (Mrs Lim)</td>
-    <td class="tg-mgsp"></td>
+    <td class="tg-mgsp">Seah Ming Qi Alexandria (Ms)</td>
+    <td class="tg-mgsp">See Sze Ping (Mr)</td>
   </tr>
   <tr>
     <td class="tg-nrix">2GR</td>
-    <td class="tg-nrix">Chia Jun Ru (Ms)</td>
-    <td class="tg-nrix"></td>
+    <td class="tg-nrix">Teo Jo Hsuan (Ms)</td>
+    <td class="tg-nrix">Muhammad Bin Ismail (Mr)</td>
   </tr>
   <tr>
     <td class="tg-mgsp">2HM</td>
-    <td class="tg-mgsp">Fu Chunyu Esther (Ms)</td>
-    <td class="tg-mgsp">Wang Yu Fen (Ms)</td>
+    <td class="tg-mgsp">S N Muraledharen Naidu (Mr)</td>
+    <td class="tg-mgsp"></td>
   </tr>
   <tr>
     <td class="tg-nrix">2IT</td>
-    <td class="tg-nrix">Maglina Bte Ismail (Mdm)</td>
+    <td class="tg-nrix">Teo Tan Li Jaclyn (Ms)</td>
     <td class="tg-nrix"></td>
   </tr>
   <tr>
     <td class="tg-mgsp">2JT</td>
-    <td class="tg-mgsp">Nurashikin Bte Mohamed Said (Mdm)</td>
-    <td class="tg-mgsp">Chia Yee Teng (Mrs Chow)</td>
+    <td class="tg-mgsp">Lim Wen Xi Alvin (Mr)</td>
+    <td class="tg-mgsp">Ponni d/o Agoram (Ms)</td>
   </tr>
 </tbody>
 </table>
