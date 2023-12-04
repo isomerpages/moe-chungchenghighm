@@ -33,12 +33,12 @@ Secondary 1 Form Teachers
   </tr>
   <tr>
     <td class="tg-nrix">1CR</td>
-    <td class="tg-nrix">Maglina Bte Ismail (Ms)</td>
+    <td class="tg-nrix">Maglina Bte Ismail (Mdm)</td>
     <td class="tg-nrix">Li Yangping (Ms)</td>
   </tr>
   <tr>
     <td class="tg-mgsp">1DL</td>
-    <td class="tg-mgsp">Chan Chow Syan (Ms)</td>
+    <td class="tg-mgsp">Chan Chow Syan (Mrs Lim)</td>
     <td class="tg-mgsp">Khoo Sin Min Ambert (Mr)</td>
   </tr>
   <tr>
@@ -58,7 +58,7 @@ Secondary 1 Form Teachers
   </tr>
   <tr>
     <td class="tg-mgsp">1HM</td>
-    <td class="tg-mgsp">Nurashikin Bte Mohamed Said(Ms)</td>
+    <td class="tg-mgsp">Nurashikin Bte Mohamed Said(Mdm)</td>
     <td class="tg-mgsp">Lim Wee (Mr)</td>
   </tr>
   <tr>
@@ -98,7 +98,7 @@ Secondary 2 Form Teachers
 <tbody>
   <tr>
     <td class="tg-mgsp">2BN</td>
-    <td class="tg-mgsp">Nurdiyana Binte Hamzah Lee (Ms)</td>
+    <td class="tg-mgsp">Nurdiyana Binte Hamzah Lee (Mdm)</td>
     <td class="tg-mgsp">Loo Li-Lin Katherine (Ms)</td>
   </tr>
   <tr>
@@ -123,7 +123,7 @@ Secondary 2 Form Teachers
   </tr>
   <tr>
     <td class="tg-nrix">2GR</td>
-    <td class="tg-nrix">Teo Jo Hsuan (Ms)</td>
+    <td class="tg-nrix">Teo Jo Hsuan (Mrs Tan)</td>
     <td class="tg-nrix">Muhammad Bin Ismail (Mr)</td>
   </tr>
   <tr>
