@@ -2,6 +2,7 @@
 title: School Leaders and Key Personnel
 permalink: /about-us/school-leaders-and-key-personnel/
 description: ""
+variant: markdown
 ---
 School Leaders
 --------------
@@ -32,9 +33,13 @@ School Leaders
     <td class="tg-cly1">Ng Bee Ling (Ms)</td>
     <td class="tg-cly1">Vice-Principal (EO)</td>
   </tr>
+	 <tr>
+    <td class="tg-u1cn">Chong Teng Yuan Kenneth (Mr)</td>
+    <td class="tg-u1cn">Vice-Principal (EO)</td>
+  </tr>
   <tr>
-    <td class="tg-u1cn">Serene Ong (Ms)</td>
-    <td class="tg-u1cn">Vice-Principal (A)</td>
+    <td class="tg-cly1">Serene Ong (Ms)</td>
+    <td class="tg-cly1">Vice-Principal (A)</td>
   </tr>
 </tbody>
 	</table>
@@ -102,7 +107,7 @@ Key Personnel
   </tr>
 	 <tr>
     <td class="tg-cly1">Tan Mei Hui (Ms)</td>
-    <td class="tg-cly1">HOD/Aesthetics & Craft</td>
+    <td class="tg-cly1">HOD/Aesthetics &amp; Craft</td>
   </tr>
   <tr>
     <td class="tg-u1cn">Yeoh Zheng Sheng Alexandre Paul (Mr)</td>
