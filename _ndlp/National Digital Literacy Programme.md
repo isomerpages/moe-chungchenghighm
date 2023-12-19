@@ -2,6 +2,7 @@
 title: National Digital Literacy Programme
 permalink: /ndlp/
 description: ""
+variant: markdown
 ---
 The National Digital Literacy Programme (NDLP) was launched in March 2020 to make digital learning inclusive. It seeks to equip students with the digital skills to be future-ready. 
 
@@ -23,7 +24,7 @@ The PLD will come with an Enhanced Device Bundle, which includes a 3-year warran
 
 Students can draw upon their Edusave funds to pay for the PLD. Permanent residents (PR) and international students (IS) will make cash payment for the PLD. Subsidies are available to students who require financial assistance.
 
-PLD procurement in our school will take place from **14 to 26 Jan 2023** More information will be provided during the Sec 1 Parent Briefing.
+PLD procurement in our school will take place from **12 to 19 Jan 2024** More information will be provided during the Sec 1 Parent Briefing.
 
 **Supporting Students in the Safe and Effective Use of PLDs**
 
