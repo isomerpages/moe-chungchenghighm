@@ -184,18 +184,18 @@ Secondary 3 Form Teachers
   </tr>
   <tr>
     <td class="tg-nrix">3EP</td>
-    <td class="tg-nrix">Char Wai Han Cassandra (Ms)</td>
-    <td class="tg-nrix"></td>
+    <td class="tg-nrix">Ng Yi Ling Sharon (Ms)</td>
+    <td class="tg-nrix">Ang Joo Seng Jason (Mr)</td>
   </tr>
   <tr>
     <td class="tg-mgsp">3FG</td>
-    <td class="tg-mgsp">Han Huayi (Ms)</td>
-    <td class="tg-mgsp">Christilda Grace Ponniah (Ms)</td>
+    <td class="tg-mgsp">Char Wai Han Cassandra (Ms)</td>
+    <td class="tg-mgsp"></td>
   </tr>
   <tr>
     <td class="tg-nrix">3GR</td>
-    <td class="tg-nrix">Ng Yi Ling Sharon (Ms)</td>
-    <td class="tg-nrix">Ang Joo Seng Jason (Mr)</td>
+    <td class="tg-nrix">Han Huayi (Ms)</td>
+    <td class="tg-nrix">Christilda Grace Ponniah (Ms)</td>
   </tr>
   <tr>
     <td class="tg-mgsp">3HM</td>
