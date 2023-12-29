@@ -117,13 +117,20 @@ Key Personnel
     <td class="tg-cly1">Tan Pei Lin Jasmine (Mrs Lee)</td>
     <td class="tg-cly1">Lower Sec Year Head</td>
   </tr>
-  <tr>
-    <td class="tg-u1cn">Chan Xin Min (Ms)</td>
-    <td class="tg-u1cn">SH/Chinese Language</td>
+	<tr>
+    <td class="tg-u1cn">Siti Nurdiana Binte Johar (Mrs Diana Angullia)</td>
+    <td class="tg-u1cn">SH/English Language</td>
+  </tr><tr>
+    <td class="tg-cly1">Chan Xin Min (Ms)</td>
+    <td class="tg-cly1">SH/Chinese Language</td>
   </tr>
   <tr>
-    <td class="tg-cly1">Woo Ching Nee Christine (Mrs Pang)</td>
-    <td class="tg-cly1">SH/Mathematics</td>
+    <td class="tg-u1cn">Woo Ching Nee Christine (Mrs Pang)</td>
+    <td class="tg-u1cn">SH/Mathematics</td>
+  </tr>
+	<tr>
+    <td class="tg-cly1">Tay Han Tseng Clement (Mr)</td>
+    <td class="tg-cly1">SH/Science</td>
   </tr>
 	 <tr>
     <td class="tg-u1cn">Tan Qin Shan Bertrand (Mr)</td>
@@ -165,13 +172,8 @@ Key Personnel
     <td class="tg-cly1">Ong Lai Wei (Ms)</td>
     <td class="tg-cly1">Lower Sec Asst Year Head</td>
   </tr>
-	<tr>
-    <td class="tg-u1cn">Siti Nurdiana Binte Johar (Mrs Diana Angullia)</td>
-    <td class="tg-u1cn">SH/English Language (Acting)</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Tay Han Tseng Clement (Mr)</td>
-    <td class="tg-cly1">SH/Science (Acting)</td>
-  </tr>
+	
+  
+  
 </tbody>
 </table>
