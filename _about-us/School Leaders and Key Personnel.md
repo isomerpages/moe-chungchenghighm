@@ -140,37 +140,34 @@ Key Personnel
     <td class="tg-cly1">Koh Rui Ling (Ms)</td>
     <td class="tg-cly1">SH/Humanities</td>
   </tr>
-  <tr>
-    <td class="tg-u1cn"></td>
-    <td class="tg-u1cn"></td>
-  </tr>
+
   <tr>
     <td class="tg-u1cn">Shobitha d/o Vasudevan (Ms)</td>
     <td class="tg-u1cn">SH/CCE</td>
   </tr>
   <tr>
-    <td class="tg-u1cn">Loh Lai Yeow Daniel (Mr)</td>
-    <td class="tg-u1cn">SH/Information &amp; Communications Technology</td>
+    <td class="tg-cly1">Loh Lai Yeow Daniel (Mr)</td>
+    <td class="tg-cly1">SH/Information &amp; Communications Technology</td>
   </tr>
   <tr>
-    <td class="tg-cly1">Khoo Sin Min Ambert (Mr)</td>
-    <td class="tg-cly1">SH/Physical Education &amp; CCA</td>
+    <td class="tg-u1cn">Khoo Sin Min Ambert (Mr)</td>
+    <td class="tg-u1cn">SH/Physical Education &amp; CCA</td>
   </tr>
   <tr>
-    <td class="tg-u1cn">Ng Sin Wee Benny (Mr)</td>
-    <td class="tg-u1cn">SH/Student Wellbeing</td>
+    <td class="tg-cly1">Ng Sin Wee Benny (Mr)</td>
+    <td class="tg-cly1">SH/Student Wellbeing</td>
   </tr>
   <tr>
-    <td class="tg-cly1">Ng See Khee Valerie (Ms)</td>
-    <td class="tg-cly1">SH/Student Recognition</td>
+    <td class="tg-u1cn">Ng See Khee Valerie (Ms)</td>
+    <td class="tg-u1cn">SH/Student Recognition</td>
   </tr>
   <tr>
-    <td class="tg-u1cn">Wang Xiao (Ms)</td>
-    <td class="tg-u1cn">Upper Sec Asst Year Head</td>
+    <td class="tg-cly1">Wang Xiao (Ms)</td>
+    <td class="tg-cly1">Upper Sec Asst Year Head</td>
   </tr>
   <tr>
-    <td class="tg-cly1">Ong Lai Wei (Ms)</td>
-    <td class="tg-cly1">Lower Sec Asst Year Head</td>
+    <td class="tg-u1cn">Ong Lai Wei (Ms)</td>
+    <td class="tg-u1cn">Lower Sec Asst Year Head</td>
   </tr>
 	
   
