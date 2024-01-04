@@ -141,12 +141,12 @@ Key Personnel
     <td class="tg-cly1">SH/Humanities</td>
   </tr>
   <tr>
-    <td class="tg-u1cn">Ang Weili Michelle (Mrs Foo)</td>
-    <td class="tg-u1cn">SH/Aesthetics &amp; Craft</td>
+    <td class="tg-u1cn"></td>
+    <td class="tg-u1cn"></td>
   </tr>
   <tr>
-    <td class="tg-cly1">Shobitha d/o Vasudevan (Ms)</td>
-    <td class="tg-cly1">SH/CCE</td>
+    <td class="tg-u1cn">Shobitha d/o Vasudevan (Ms)</td>
+    <td class="tg-u1cn">SH/CCE</td>
   </tr>
   <tr>
     <td class="tg-u1cn">Loh Lai Yeow Daniel (Mr)</td>
