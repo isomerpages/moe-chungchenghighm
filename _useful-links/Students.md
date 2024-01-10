@@ -7,7 +7,7 @@ variant: markdown
 <table>
 <thead>
 	<tr>
-    <th><br><br><a href="https://www.chungchenghighmain.moe.edu.sg" target="_blank" rel="noopener noreferrer"><img src="/images/HBL_Logo.jpg" alt="Home-based learning" width="106" height="17"></a></th>
+    <th><br><br><a href="https://docs.google.com/spreadsheets/d/1v_b9t97VuamjNhitNwy7UacGlbziDW8ZMqhE0Cu_Szw/edit#gid=0" target="_blank" rel="noopener noreferrer"><img src="/images/HBL_Logo.jpg" alt="Home-based learning" width="106" height="17"></a></th>
     <th><br><br><a href="https://vle.learning.moe.edu.sg/login" target="_blank" rel="noopener noreferrer"><img src="/images/SLSLogo-e1661422248124.png" alt="Student Learning Space" width="106" height="17"></a></th>
     <th><br><br><a href="https://workspace.google.com/dashboard" target="_blank" rel="noopener noreferrer"><img src="/images/studenticon-logo.jpg" alt="Students Icon" width="106" height="17"></a></th>
   </tr>
