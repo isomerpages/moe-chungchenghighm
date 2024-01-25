@@ -1,0 +1,26 @@
+collections:
+  co-curricular-activities:
+    output: true
+    order:
+      - Girl Guides.md
+      - National Police Cadet Corps.md
+      - National Cadet Corps (NCC) (Land).md
+      - St John Brigade.md
+      - Scouts.md
+      - Badminton.md
+      - Basketball.md
+      - Netball.md
+      - Table Tennis.md
+      - Volleyball.md
+      - Wushu.md
+      - Chinese Orchestra.md
+      - Choir.md
+      - Concert Band.md
+      - English Drama.md
+      - Modern Dance.md
+      - Digital Media.md
+      - Art & Crafts.md
+      - Chinese Calligraphy & Brush Painting.md
+      - Chinese Chess.md
+      - Chinese Drama.md
+      - Lion & Dragon Dance.md
