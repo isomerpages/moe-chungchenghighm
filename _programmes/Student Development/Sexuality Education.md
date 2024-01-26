@@ -17,7 +17,7 @@ variant: markdown
 *   Guide students to make wise, informed and responsible decisions on sexuality matters. 
 *   Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society.
 
-3.  The **Key Messages** of Sexuality Education are:
+3) The **Key Messages** of Sexuality Education are:
 
 *   Love and respect yourself as you love and respect others;
 *   Build positive relationships based on love and respect (which are the foundation for strong families);
