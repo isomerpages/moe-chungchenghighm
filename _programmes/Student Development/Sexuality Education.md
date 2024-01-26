@@ -94,6 +94,9 @@ You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for mo
 **Information for Parents**
 
 10) Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers. 
+
 11) Parents who wish to opt their children out of the&nbsp;**Sexuality Education lessons**&nbsp;need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](go.gov.sg/cchm-sed-opt-out). The completed form is to be submitted by 01/03/2024.
+
 12) Parents who wish to opt their children out of the&nbsp;**_eTeens_**&nbsp;**programme**&nbsp;need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](go.gov.sg/cchm-eteens-opt-out). The completed form is to be submitted by 01/03/2024.
+
 13) Parents can contact the school at 6344 1393 or&nbsp;[cchms@moe.edu.sg](mailto:cchms@moe.edu.sg)&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.
