@@ -16,4 +16,4 @@ The alumni association has initiated the sale of tickets for our much-anticipate
 
 Details for booking of tables and the pricing tiers can be found on the [order form.](https://drive.google.com/file/d/1l7XJDDS5s2CP2oc7R8xa1l_kQenie95w/view)
 
-More updates will be available on our [Facebook page.](facebook.com/chungchenghighmain).
+More updates will be available on our [Facebook page.](https://www.facebook.com/chungchenghighmain).
