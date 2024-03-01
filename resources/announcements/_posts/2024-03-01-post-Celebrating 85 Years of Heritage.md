@@ -19,6 +19,6 @@ It promises to be a year filled with events that unite the broader Chung Cheng F
 
 Tune in to our social media platforms for more details on our celebratory activities!
 
-[facebook.com/chungchenghighmain](facebook.com/chungchenghighmain)
+[facebook.com/chungchenghighmain](https://www.facebook.com/chungchenghighmain)
 
 **Instagram ID: **@cchms_official
