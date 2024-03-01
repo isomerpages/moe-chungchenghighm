@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/chss homepage03.gif
+      background: /images/CC85Banner.gif
       key_highlights:
         - title: For Students
           description: ""
