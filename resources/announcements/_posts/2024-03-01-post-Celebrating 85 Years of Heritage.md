@@ -21,4 +21,4 @@ Tune in to our social media platforms for more details on our celebratory activi
 
 [facebook.com/chungchenghighmain](https://www.facebook.com/chungchenghighmain)
 
-**Instagram ID: **@cchms_official
+[CCHMS Instagram](https://www.instagram.com/cchms_official/)
