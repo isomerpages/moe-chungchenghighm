@@ -3,8 +3,9 @@ title: Character and Citizenship Education (CCE)
 permalink: /programmes/student-development/character-and-citizenship-education-cce/
 description: ""
 third_nav_title: Student Development
+variant: markdown
 ---
-<iframe allowfullscreen="true" height="569" width="768" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRBEEm8R_9xsalcJJsLU9UM81oPe01mdMdOBRy-L8faJ0T0dTe47-JvcuOEl35c_ejIM-5Y2GVBRiGP/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
+<iframe allowfullscreen="true" height="569" width="768" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSlmK8qwJZy2cayZyhanKaOA1AjXvLnHWW3q6MRahkqrsCDQ0GB-SAvTg0MA4RxvT4sN0XgQUzX0viJ/embed?start=true&amp;loop=true&amp;delayms=10000"></iframe>
 
 -------
 
