@@ -1,5 +1,5 @@
 ---
-title: Bazaar By The Lake
+title: Bazaar By The Lake 25 May 2024
 permalink: /bazaar-by-the-lake/
 date: 2024-04-30
 layout: post
