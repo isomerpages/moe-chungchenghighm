@@ -1,14 +1,15 @@
 ---
-title: Direct School Admission (DSA) Exercise for 2024 Intake
-permalink: /resources/announcements/dsaexercise2024intake/
-date: 2023-05-03
+title: Direct School Admission (DSA) Exercise for 2025 Intake
+permalink: /direct-school-admission-dsa-exercise-for-2025-intake/
+date: 2024-05-06
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 <img src="/images/dsa_table1_23.png" alt="DSA Table1" style="width:1080px">
 
-**We would like to invite all current Primary Six students (or equivalent) to apply for admission to our school in the academic year of 2024 through the Direct School Admission (DSA) exercise.**
+**We would like to invite all current Primary Six students (or equivalent) to apply for admission to our school in the academic year of 2025 through the Direct School Admission (DSA) exercise.**
 
 <img src="/images/dsa_table2_23.png" alt="DSA Table2" style="width:1080px">
 
@@ -17,7 +18,7 @@ image: ""
 
 <p id="link1"><strong>A.&nbsp;DSA CATEGORIES &amp; CRITERIA</strong></p>
 
-The following 3 categories are open for DSA application for the 2024 intake:
+The following 3 categories are open for DSA application for the 2025 intake:
 
 <img src="/images/dsa_table3_23.jpg" alt="DSA Table3" style="width:1080px">
 
@@ -38,13 +39,13 @@ All applicants who satisfy our criteria may apply for DSA to our school in&nbsp;
 **STEP 1: APPLICATION**
 
 *   Apply for DSA-Sec to our school through the centralised MOE online DSA-Sec Portal.
-*   The application is free-of-charge and will be open from&nbsp;4 May 2023, 11am to 31 May 2023, 3pm.
+*   The application is free-of-charge and will be open from&nbsp;07 May 2024, 11am to 03 June 2024, 3pm.
 *   For more details and instructions, please refer to&nbsp;**MOE DSA-Sec website –**&nbsp;[http://www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec)
 
 **STEP 2: ATTEND TRIAL OR AUDITION&nbsp;_(ONLY IF SHORTLISTED)_**
 
 *   All registered applicants will be assessed and considered by the school based on the records and information provided or made available, in alignment with our criteria listed in Section A.&nbsp;_(Please note that meeting the criteria does not guarantee that the student will be shortlisted or given an offer.)_
-*   For&nbsp;**Sports and Performing Arts talent areas**, potential candidates will be shortlisted to attend an&nbsp;**in-person trial/ audition**&nbsp;at our school,&nbsp;starting from 24 June 2023.&nbsp;They will be notified of the confirmed date and time of the trial/ audition via email provided during application.
+*   For&nbsp;**Sports and Performing Arts talent areas**, potential candidates will be shortlisted to attend an&nbsp;**in-person trial/ audition**&nbsp;at our school,&nbsp;starting from 24 June 2024.&nbsp;They will be notified of the confirmed date and time of the trial/ audition via email provided during application.
 *   For&nbsp;**Chinese Language talent areas**, potential candidates will be shortlisted directly for an interview, and a performance task will be conducted on the day of the interview.
 *   The trial/ audition schedule will also be made available here by end of june, and the performance task requirements are for the various talent areas are listed as follows:
 
@@ -60,9 +61,9 @@ All applicants who satisfy our criteria may apply for DSA to our school in&nbsp;
 
 The key dates to note for your DSA application are as follows:
 
-<a href="https://www.moe.gov.sg/dsa-sec" rel="nofollow"><img src="/images/dsa_table6_23.jpg" alt="DSA Table6" style="width:1080px"></a>
+<a href="https://www.moe.gov.sg/dsa-sec" rel="nofollow"><img src="/images/DSA_Table6_24.jpg" alt="DSA Table6" style="width:1080px"></a>
 
 <p id="link5"><strong>E.&nbsp;ADDITIONAL INFORMATION</strong></p>
 
 For more information regarding DSA for Secondary Schools, please visit&nbsp;**MOE DSA-Sec website**&nbsp;at&nbsp;[www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).  
-For further queries about DSA to our school, please email&nbsp;[cchms@moe.edu.sg](mailto:cchms@moe.edu.sg)&nbsp;with a Subject Header starting with “DSA 2023”.
+For further queries about DSA to our school, please email&nbsp;[cchms@moe.edu.sg](mailto:cchms@moe.edu.sg)&nbsp;with a Subject Header starting with “DSA 2024”.
