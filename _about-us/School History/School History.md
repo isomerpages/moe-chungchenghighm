@@ -3,6 +3,7 @@ title: School History
 permalink: /about-us/school-history/
 description: ""
 third_nav_title: School History
+variant: markdown
 ---
 Chung Cheng High School was founded in 1939 as an all-boys’ school at 60 Kim Yam Road. The school was guided by its philosophy “Excellence in Education for All” and admitted students from different strata of society. With the Japanese invasion of Singapore in 1942, the school was forced to cease operation. The school resumed in 1945 after the Second World War and began to enrol female students.
 
@@ -16,7 +17,9 @@ Between 2010 and 2012, the school embarked on the MOE Programme for Rebuilding a
 
 In 2014, the school celebrated its 75th school anniversary. In the same year, the school’s Entrance Arch and Administration Building (Zhulin Building) were gazetted as national monuments and officiated at a ceremony by then Prime Minister, Mr Lee Hsien Loong.
 
-In 2019 , the school celebrated her 80th anniversary with a series of homecoming events. A new 中正人 statue was also unveiled by the school lake in a ceremony officiated by Minister for Education, Mr Ong Ye Kung, on 13 April 2019.
+In 2019&nbsp;, the school celebrated her 80th&nbsp;anniversary with a series of homecoming events. A new 中正人 statue was also unveiled by the school lake in a ceremony officiated by Minister for Education, Mr Ong Ye Kung, on 13 April 2019.
+
+In 2023&nbsp;, the school embarked on an upgrading project for the Administration Building (Zhulin Building) and Grand Auditorium.
 
 Principals
 ----------
