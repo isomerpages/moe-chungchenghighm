@@ -7,3 +7,12 @@ description: ""
 image: ""
 variant: markdown
 ---
+Dear 2023 Graduates, 
+
+Your School Graduation Certificate is ready for collection from today onward. Students are able to collect it from the General Office from **Mon-Fri, 9.00am to 4.00pm**. Do collect them by **30 Aug 2024**.
+
+Do note that the General Office is located on the Ground Floor of Zhulin Building. Please bring a valid Student Card for identification, such as your **NRIC** or **Student EZ Link Card.** 
+
+The Yearbook will be released later this year. 
+
+Thank you .
