@@ -3,6 +3,7 @@ title: The Lim Tze Peng Art Gallery
 permalink: /useful-links/partner-organisations/the-lim-tze-peng-art-gallery/
 description: ""
 third_nav_title: Partner Organisations
+variant: markdown
 ---
 <style>  
 img {  
@@ -19,17 +20,10 @@ The Lim Tze Peng Art Gallery (林子平艺术馆) was first opened on 10 July 20
 
 <img src="/images/Art-Gallery-Lim-Tze-Peng-2.jpeg" style="width:270px;height:200px;margin-left:15px;" align="right">
 
-Mr Lim is currently one of the most well-known Chinese ink painters in Singapore. His works are exhibited in many major institutions such as the Singapore Art Museum and the Nanyang Academy of Fine Arts. Mr Lim is very much known for his ink drawings of Chinatown, Singapore River and other Singapore scenes. In his drawings he has sought to capture as much of the disappearing street scenes of Singapore in face of the rapid urbanizing developments of our country. The Lim Tze Peng Art Gallery collection holds his works spanning his entire career including, oil paintings, Chinese Calligraphy and ink paintings. They are all found in a catalogue produced by the school and the book is on sale to the public.
+Mr Lim is currently one of the most well-known Chinese ink painters in Singapore. His works are exhibited in many major institutions such as the Singapore Art Museum and the Nanyang Academy of Fine Arts. Mr Lim is very much known for his ink drawings of Chinatown, Singapore River and other Singapore scenes. In his drawings he has sought to capture as much of the disappearing street scenes of Singapore in face of the rapid urbanizing developments of our country. The Lim Tze Peng Art Gallery collection holds his works spanning his entire career including, oil paintings, Chinese Calligraphy and ink paintings.
 
-The Lim Tze Peng Art Gallery is now featuring the “Poems from the Heart” Exhibition.
 
 Visit our microsite:&nbsp;[**https://go.gov.sg/limtzepeng-artgallery**](https://go.gov.sg/limtzepeng-artgallery)
-
-**Opening hours to public:**
-
-Every Thursday and Friday 1-5pm except public and school holidays.
-
-Queries can be directed to&nbsp;[cchms@moe.edu.sg](mailto:cchms@moe.edu.sg)&nbsp;or Tel: 6344 1393.
 
 
 <style>  
