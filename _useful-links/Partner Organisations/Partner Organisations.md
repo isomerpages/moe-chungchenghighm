@@ -16,8 +16,8 @@ variant: markdown
 <tbody>
   <tr>
     <td><br><br><a href="/useful-links/partner-organisations/the-lim-tze-peng-art-gallery/" target="_blank" rel="noopener noreferrer"><img src="/images/LimTzePeng.png" alt="Lim Tze Peng" width="106" height="17"></a></td>
-    <td><br><br><a href="https://almaarif.edu.sg/" target="_blank" rel="noopener noreferrer"><img src="/images/Madrasah_Al_Maarif_Al_Islamiah.png" alt="Madrasah AI Maarif" width="80" height="10"></a></td>
-    <td><br><br><a href="https://mwti.edu.sg/" target="_blank" rel="noopener noreferrer"><img src="/images/Madrasah_Wak_Tanjong_Al_Islamiah.png" alt="Madrasah Wak Tanjong" width="80" height="10"></a></td>
+    <td><br><br><a href="https://almaarif.edu.sg/" target="_blank" rel="noopener noreferrer"><img src="/images/Madrasah_Al_Maarif_Al_Islamiah.jpg" alt="Madrasah AI Maarif" width="106" height="17"></a></td>
+    <td><br><br><a href="https://mwti.edu.sg/" target="_blank" rel="noopener noreferrer"><img src="/images/Madrasah_Wak_Tanjong_Al_Islamiah.jpg" alt="Madrasah Wak Tanjong" width="106" height="17"></a></td>
   </tr>
 </tbody>
 </table>
