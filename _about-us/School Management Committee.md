@@ -6,7 +6,7 @@ variant: markdown
 ---
 Directors 董事
 ------------
-<img src="/images/CCHM_SMC_0a.jpg" alt="SMC0" style="width:1080px">
+<img src="/images/CCHM_SMC_0.jpg" alt="SMC0" style="width:1080px">
 
 Honorary Directors 名誉董事
 -----------------------
