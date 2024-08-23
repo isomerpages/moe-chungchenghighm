@@ -3,6 +3,7 @@ title: Traffic Advisory for Parents and Students 2019
 permalink: /useful-links/parents/traffic-advisory-for-parents-and-students-2019/
 description: ""
 third_nav_title: Parents
+variant: markdown
 ---
 Dear Parents / Guardians
 
@@ -23,29 +24,29 @@ As there is very heavy flow of traffic in and around the school in the early mor
 **B. Drop-off Points Around the School**
 
 *   Kindly make all necessary arrangements with your child/ward before arriving at the drop-off points, e.g. giving your child pocket money, fixing the time to fetch your child after school etc.  
-    You can drop your child/ward off at any of the following locations (Refer to **Map 1**).
+    You can drop your child/ward off at any of the following locations (Refer to&nbsp;**Map 1**).
 
-– **Side Gates (SG1 & SG2)** along Goodman Road and Broadrick Road respectively  
-– **Back Gate** along Crescent Road  
-– **Main Gate** at Goodman Road  
+–&nbsp;**Side Gates (SG1 &amp; SG2)**&nbsp;along Goodman Road and Broadrick Road respectively  
+–&nbsp;**Back Gate**&nbsp;along Crescent Road  
+–&nbsp;**Main Gate**&nbsp;at Goodman Road  
 – Inside the School’s Compound (Refer to Section C below)  
-– **T-junctions or cross roads (T1-T3, T4-T5, T6)** along Goodman Road, Crescent-Poole Road junction and Crescent Road
+–&nbsp;**T-junctions or cross roads (T1-T3, T4-T5, T6)**&nbsp;along Goodman Road, Crescent-Poole Road junction and Crescent Road
 
 Your child/ward will need to walk for a short distance on the walkways to the gates.
 
-**C. Drop-off and Pick-up Points <u>Inside</u> the School’s Compound (Refer to Map 1)**
+**C. Drop-off and Pick-up Points&nbsp;<u>Inside</u>&nbsp;the School’s Compound (Refer to Map 1)**
 
 – You can drop your child/ward off at the porch of either Zhuopu Building (**DP1**) or Zhulin Building (**DP2**)  
-– In the event of traffic build-up behind drop-off point **DP1**, you may allow your child/ward to drop-off along the <u>drop-off zone</u> between **DP1** and **DP2** when you have ascertained it is safe to do so.
+– In the event of traffic build-up behind drop-off point&nbsp;**DP1**, you may allow your child/ward to drop-off along the&nbsp;<u>drop-off zone</u>&nbsp;between&nbsp;**DP1**&nbsp;and&nbsp;**DP2**&nbsp;when you have ascertained it is safe to do so.
 
-*   Remind your child to **exit only from the left side of your car carefully**.
+*   Remind your child to&nbsp;**exit only from the left side of your car carefully**.
 *   While waiting to pick up your child/ward, kindly park your car in a considerate manner so as to avoid obstructing the flow of traffic. Our security personnel will be there to assist you if necessary.
 *   Please do not leave your car engine idling while waiting to pick up your child/ward. Under the Environment Protection and Management (Vehicular Emissions) regulations, it is an offence to leave the engine of a motor vehicle running when it is stationary for reasons other than traffic conditions. Those breaching the law can be fined up to $5,000 by NEA.
 
 We thank you for adopting our guidelines to ensure the safe passage of yourself, your child/ward and other road users, including pupil-pedestrians while in the school compound. Every effort from you plays an important role in making the school a safer place for every student and staff.
 
 Your Partner-in-Education,  
-Mr Chan Ying Yin  
+Mr Terence Yao  
 Principal
 
 <br>
@@ -57,9 +58,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Main-Layout-of-School.jpeg" alt="Main Layout Of School" style="width:90%;">  
+<img src="/images/Main-Layout-of-School.jpeg" alt="Main Layout Of School" style="width:90%;">  
   
-</body>
+
 
 <style>  
 img {  
@@ -68,6 +69,4 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/Location-Plan.jpeg" alt="Location Plan" style="width:90%;">  
-  
-</body>
+<img src="/images/Location-Plan.jpeg" alt="Location Plan" style="width:90%;">
