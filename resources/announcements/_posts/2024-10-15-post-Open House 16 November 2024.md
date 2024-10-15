@@ -7,6 +7,9 @@ description: ""
 image: ""
 variant: markdown
 ---
+<img src="/images/2024_CCHM_Open_House_Poster.jpg" alt="OpenHouse 2024" style="width:600px">
+
+
 ##### Join us at Chung Cheng High School (Main) Open House this year on 16 November 2024, Saturday, 8.30am to 12.30pm!
 
 **Key Highlights for the Day include:**
