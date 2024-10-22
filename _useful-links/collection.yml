@@ -4,9 +4,9 @@ collections:
     order:
       - Students.md
       - Teachers.md
-      - Parents/Financial Support Scheme (FAS).md
       - Parents/.keep
       - Parents/Parents.md
+      - Parents/Financial Support Scheme (FAS).md
       - Parents/Family Matters at School (FMS).md
       - Parents/Traffic Advisory for Parents and Students 2019.md
       - Parent Support Group (PSG).md
