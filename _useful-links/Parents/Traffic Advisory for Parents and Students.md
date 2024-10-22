@@ -1,6 +1,6 @@
 ---
-title: Traffic Advisory for Parents and Students 2019
-permalink: /useful-links/parents/traffic-advisory-for-parents-and-students-2019/
+title: Traffic Advisory for Parents and Students
+permalink: /useful-links/parents/traffic-advisory-for-parents-and-students/
 description: ""
 third_nav_title: Parents
 variant: markdown
