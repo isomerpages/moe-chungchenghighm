@@ -21,6 +21,18 @@ In 2019&nbsp;, the school celebrated her 80th&nbsp;anniversary with a series of 
 
 In 2023&nbsp;, the school embarked on an upgrading project for the Administration Building (Zhulin Building) and Grand Auditorium.
 
+In 2024&nbsp;, the school celebrated her 85th anniversary with the broader Chung Cheng Family. Together with Chung Cheng High School (Yishun), and joined by Nanyang Junior College, we reaffirmed our shared heritage and collectively set our sights on Soaring to Greater Heights Together. 
+
+The key events included:
+
+-	Homecoming Lunch, attended by 1000 alumni and guests with Minister for Education Chan Chun Sing as Guest of Honour
+
+-	Speech Day, as we affirmed the contributions and celebrated the achievements of our staff, students and partners
+
+-	Bazaar by the Lake, where students organised food stalls and activity booths to raise funds for the schools’ upgrading projects
+
+-	Combined Schools Concert, where our distinguished alumni Gao Meigui and Jarrell Ng joined our Performing Arts Groups for a night of reverie celebrating the sch
+
 Principals
 ----------
 
