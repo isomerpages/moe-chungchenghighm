@@ -66,16 +66,12 @@ Key Personnel
 </thead>
 <tbody>
   <tr>
-    <td class="tg-cly1">Gan Poh Lian Charmaine (Ms)</td>
-    <td class="tg-cly1">School Staff Developer (SSD)</td>
+    <td class="tg-u1cn">Pang Shi Hua (Ms)</td>
+    <td class="tg-u1cn">HOD/English Language</td>
   </tr>
   <tr>
-    <td class="tg-u1cn">Wu I-Hsuan (Ms)</td>
-    <td class="tg-u1cn">HOD/Chinese Language</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Wu Derui (Mr)</td>
-    <td class="tg-cly1">HOD/Mathematics</td>
+    <td class="tg-cly1">Wu I-Hsuan (Ms)</td>
+    <td class="tg-cly1">HOD/Chinese Language</td>
   </tr>
   <tr>
     <td class="tg-u1cn">Foo Kok Wei (Mr)</td>
@@ -117,10 +113,11 @@ Key Personnel
     <td class="tg-cly1">Tan Pei Lin Jasmine (Mrs Lee)</td>
     <td class="tg-cly1">Lower Sec Year Head</td>
   </tr>
-	<tr>
+  <tr>
     <td class="tg-u1cn">Siti Nurdiana Binte Johar (Mrs Diana Angullia)</td>
     <td class="tg-u1cn">SH/English Language</td>
-  </tr><tr>
+  </tr>
+  <tr>
     <td class="tg-cly1">Chan Xin Min (Ms)</td>
     <td class="tg-cly1">SH/Chinese Language</td>
   </tr>
@@ -128,7 +125,7 @@ Key Personnel
     <td class="tg-u1cn">Woo Ching Nee Christine (Mrs Pang)</td>
     <td class="tg-u1cn">SH/Mathematics</td>
   </tr>
-	<tr>
+  <tr>
     <td class="tg-cly1">Tay Han Tseng Clement (Mr)</td>
     <td class="tg-cly1">SH/Science</td>
   </tr>
@@ -140,7 +137,6 @@ Key Personnel
     <td class="tg-cly1">Koh Rui Ling (Ms)</td>
     <td class="tg-cly1">SH/Humanities</td>
   </tr>
-
   <tr>
     <td class="tg-u1cn">Shobitha d/o Vasudevan (Ms)</td>
     <td class="tg-u1cn">SH/CCE</td>
@@ -169,8 +165,5 @@ Key Personnel
     <td class="tg-u1cn">Ong Lai Wei (Ms)</td>
     <td class="tg-u1cn">Lower Sec Asst Year Head</td>
   </tr>
-	
-  
-  
 </tbody>
 </table>

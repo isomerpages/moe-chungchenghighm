@@ -24,7 +24,7 @@ The PLD will come with an Enhanced Device Bundle, which includes a 3-year warran
 
 Students can draw upon their Edusave funds to pay for the PLD. Permanent residents (PR) and international students (IS) will make cash payment for the PLD. Subsidies are available to students who require financial assistance.
 
-PLD procurement in our school will take place from **12 to 19 Jan 2024** More information will be provided during the Sec 1 Parent Briefing.
+PLD procurement in our school will take place between **13 to 20 Jan 2025** More information will be provided through Parents Gateway.
 
 **Supporting Students in the Safe and Effective Use of PLDs**
 
@@ -32,16 +32,16 @@ All PLDs will be installed with a Device Management Application (DMA) to provide
  
 The school will determine DMA settings for in-school use. As a default, these settings will continue to be in place after school as well:
 *	MOE and the school will set the level of web content filtering, including filtering out objectionable content or content that may not be conducive to teaching and learning (e.g. social media, pornography, gambling, or websites containing extremist content).
-*	Students will be able to use the device from 5.00 a.m. to 12.00 a.m. daily.
+*	Students will be able to use the device from 5.00 a.m. to 11.00 p.m. daily.
 *	The school will determine the apps and programs to be installed to support teaching and learning.
 
-Parents may choose to modify or disable DMA settings after school hours. More information will be provided during the Sec 1 Parent Briefing.
+Parents may choose to modify or disable DMA settings after school hours. More information will be provided through Parents Gateway.
 
 To support parents and guardians in guiding their children using the PLD at home, please see these MOE toolkits:
 
-*   [Parent Handbook (I)](/files/IP2_Parent_Handbook_I_2024.pdf)
-*  [Parent Handbook (II)](/files/IP3_Parent_Handbook_II_2024.pdf) 
-*   [Parent Kit on Cyber Wellness for Your Child](https://go.gov.sg/moe-cyber-wellness)
+*   [Parent Handbook (I)](/files/IP2_Parent_Handbook_I_2025.pdf)
+*  [Parent Handbook (II)](/files/IP3_Parent_Handbook_II_2025.pdf) 
+*   [Parent Kit](https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf)
 
 Our school also has a microsite: [https://go.gov.sg/cchmcw](https://go.gov.sg/cchmcw) to help parents and guardians better understand the latest trends and school policies so that we can work together to educate our students in building up positive cyberwellness habits.
 
@@ -52,6 +52,6 @@ For more information on
 
 **Contact Information**
 
-For technical and procurement queries about PLDs, please leave a request via the form [here](https://go.gov.sg/cchm-dma-pld-enquiry).  
+For technical and procurement queries about PLDs, and technical queries about DMA,  please leave a request via the form [here](https://go.gov.sg/cchm-dma-pld-enquiry).  
 
 For financial support for PLD, please email [cchms@moe.edu.sg](mailto:cchms@moe.edu.sg) and specify “Attn: AM (PLD Support)” as the subject.
