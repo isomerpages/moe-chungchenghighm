@@ -133,6 +133,6 @@ School Milestones
 	
 * 月眠湖集市：各课外活动的学生同心协力，组织食品和活动摊位，吸引了许多校友、学生亲友等前来参加，在一片欢声笑语中为学校的翻新计划筹款。<br><br>
 	
-中正艺术节联合公演：知名歌手校友高美贵和黄俊融、两校的表演艺术团体、武术和节令鼓学员同台演出，呈献精彩的文娱表演，让观众沉浸于深厚的文化底蕴，共享艺术飨宴。
+* 中正艺术节联合公演：知名歌手校友高美贵和黄俊融、两校的表演艺术团体、武术和节令鼓学员同台演出，呈献精彩的文娱表演，让观众沉浸于深厚的文化底蕴，共享艺术飨宴。
 	
 </td><td style="box-sizing: border-box; background: rgb(238, 238, 238); padding: 10px; border: 1px solid rgb(204, 204, 204);"><img class="aligncenter wp-image-1658 size-medium" src="/images/CC85_Homecoming_Lunch_Concert.jpg" alt="HomecomingLunchConcert" width="300" height="200" style="box-sizing: border-box; border-style: none; max-width: 100%; display: block; margin: auto; clear: both;"></td></tr></tbody></table>
