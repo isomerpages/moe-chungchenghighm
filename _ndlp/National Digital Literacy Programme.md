@@ -41,7 +41,7 @@ To support parents and guardians in guiding their children using the PLD at home
 
 *   [Parent Handbook (I)](/files/IP2_Parent_Handbook_I_2025.pdf)
 *  [Parent Handbook (II)](/files/IP3_Parent_Handbook_II_2025.pdf) 
-*   [Parent Kit](https://go.gov.sg/moe-cyber-wellness)
+*   [Parent Kit](https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf)
 
 Our school also has a microsite: [https://go.gov.sg/cchmcw](https://go.gov.sg/cchmcw) to help parents and guardians better understand the latest trends and school policies so that we can work together to educate our students in building up positive cyberwellness habits.
 
