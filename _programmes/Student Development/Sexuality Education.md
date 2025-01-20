@@ -29,6 +29,7 @@ You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for mo
 **Overview of Chung Cheng High School (Main)’s Sexuality Education Programme for 2025**
 
 4) Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education-scope)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
+
 5) The subjects that incorporate topics on sexuality include:
     1.  Science
     2.  Character and Citizenship Education (CCE)
@@ -42,16 +43,16 @@ You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for mo
 **At Chung Cheng High School (Main), the following Sexuality Education lessons will be taught in&nbsp;<u>2025</u>:**
 
 **Secondary 1**
-<img style="width:1080px" alt="Sec1 SeD Table1" src="/images/Sec1_SeD_2024.jpg">
+<img style="width:1080px" alt="Sec1 SeD Table1" src="/images/Sec1_SeD_2025.jpg">
 
 **Secondary 2**
-<img style="width:1080px" alt="Sec2 SeD Table1" src="/images/Sec2_SeD_2024.jpg">
+<img style="width:1080px" alt="Sec2 SeD Table1" src="/images/Sec2_SeD_2025.jpg">
 
 **Secondary 3**
-<img style="width:1080px" alt="Sec3 SeD Table1" src="/images/Sec3_SeD_2024.jpg">
+<img style="width:1080px" alt="Sec3 SeD Table1" src="/images/Sec3_SeD_2025.jpg">
 
 **Secondary 4**&nbsp;
-<img style="width:1080px" alt="Sec4 SeD Table1" src="/images/Sec4_SeD_2024.jpg">
+<img style="width:1080px" alt="Sec4 SeD Table1" src="/images/Sec4_SeD_2025.jpg">
 
 **<u><em>eTeens</em> Programme</u>**:
 
