@@ -51,4 +51,4 @@ In their graduating year, students will have a chance to CREATE to give back to 
 Students have done this through mounting advocacy projects in the community, participated in job-internships and shadowing, and done their own research projects to improve the school experience.
 
 
-For additional queries, please contact Mr. Bertrand Tan (SH/Applied Learning) at [cchms@moe.edu.sg](mailto:cchms@moe.edu.sg).
+For additional queries, please contact Mr Bertrand Tan (SH/Applied Learning) at [cchms@moe.edu.sg](mailto:cchms@moe.edu.sg).
