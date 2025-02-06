@@ -2,9 +2,8 @@ collections:
   programmes:
     output: true
     order:
-      - Curriculum/Applied Learning Programmes (ALP).md
-      - Curriculum/Curriculum.md
       - Curriculum/.keep
+      - Curriculum/Curriculum.md
       - Curriculum/English Language and Literature.md
       - Curriculum/Chinese Language.md
       - Curriculum/Mathematics.md
@@ -15,6 +14,7 @@ collections:
       - Curriculum/Art.md
       - Curriculum/Music.md
       - Curriculum/Physical Education.md
+      - Curriculum/Applied Learning Programmes (ALP).md
       - Student Development/.keep
       - Student Development/Student Development.md
       - Student Development/Character and Citizenship Education (CCE).md
