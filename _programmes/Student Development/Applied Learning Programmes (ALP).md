@@ -28,7 +28,7 @@ Over two years, our Upper Secondary students demonstrate their knowledge and und
 * Empathising with the unique context and needs of different groups in Singapore and Asia;
 * Generating solutions to meet the needs of society.
 
-<p style="text-align:center;"><iframe allowfullscreen="true" height="569" width="768" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRZM2NriJra5fGGclu-oJBnv0VaG6gU0Z6QQgyGLFG9mpdiAuHCYgqi9wUjn9-BDuVG11xMiycRGEec/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<p style="text-align:center;"><iframe allowfullscreen="true" height="569" width="768" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRZM2NriJra5fGGclu-oJBnv0VaG6gU0Z6QQgyGLFG9mpdiAuHCYgqi9wUjn9-BDuVG11xMiycRGEec/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe></p>
 
 #### **Taught Component – Communication &amp; Problem-Solving**
 
@@ -37,7 +37,7 @@ Students in the ALP choose content that excites and challenges them to grow in t
 <img src="/images/ALP_Table_2025.png" alt="Applied Learning Programmes (ALP)" style="width:100%;">  
  
 	
-</p><p style="text-align:center;"><iframe allowfullscreen="true" height="569" width="768" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSidwzN3pM_YXvOBnFZcne424_3VIn5Z6EvNR1Uu7NX_6oMOr7E01L3nEWsMxXA7DvHo4npftAonPP_/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<p></p><p style="text-align:center;"><iframe allowfullscreen="true" height="569" width="768" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSidwzN3pM_YXvOBnFZcne424_3VIn5Z6EvNR1Uu7NX_6oMOr7E01L3nEWsMxXA7DvHo4npftAonPP_/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe></p>
 	
 #### **Taught Component – Empathy**
 
@@ -49,4 +49,4 @@ In their graduating year, students will have a chance to CREATE to give back to 
 Students have done this through mounting advocacy projects in the community, participated in job-internships and shadowing, and done their own research projects to improve the school experience. 
 
 
-For additional queries, please contact Mr. Bertrand Tan (SH/Applied Learning) at [cchms@moe.edu.sg](mailto:cchms@moe.edu.sg).</p>
+For additional queries, please contact Mr. Bertrand Tan (SH/Applied Learning) at [cchms@moe.edu.sg](mailto:cchms@moe.edu.sg).<p></p>
