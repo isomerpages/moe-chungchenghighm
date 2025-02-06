@@ -13,6 +13,8 @@ img {
 }  
 </style>  
 
+<img src="/images/ALP_INTRODUCTION.jpg" alt="Applied Learning Programmes (ALP)" style="width:100%;">  
+
 #### **Introduction** 
 
 Beginning in 2019, the school has put its signature twist to MOE’s Applied Learning Programme. A timetabled but non-examinable subject, the ALP aims to explicitly develop students’ 21st Century Competencies, prepare students for the future of work, and raise concerned and active citizens. 
@@ -30,7 +32,7 @@ Over two years, our Upper Secondary students demonstrate their knowledge and und
 
 Students in the ALP choose content that excites and challenges them to grow in their Communication and Problem-Solving skills. For example, in 2025, our students will learn: 
 
-<img src="/images/ALP_New23.png" alt="Applied Learning Programmes (ALP)" style="width:100%;">  
+<img src="/images/ALP_Table_2025.png" alt="Applied Learning Programmes (ALP)" style="width:100%;">  
  
 #### **Taught Component – Empathy**
 
