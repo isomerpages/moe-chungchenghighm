@@ -28,6 +28,8 @@ Over two years, our Upper Secondary students demonstrate their knowledge and und
 * Empathising with the unique context and needs of different groups in Singapore and Asia;
 * Generating solutions to meet the needs of society.
 
+<p style="text-align:center;"><iframe allowfullscreen="true" height="569" width="768" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRZM2NriJra5fGGclu-oJBnv0VaG6gU0Z6QQgyGLFG9mpdiAuHCYgqi9wUjn9-BDuVG11xMiycRGEec/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+
 #### **Taught Component – Communication &amp; Problem-Solving**
 
 Students in the ALP choose content that excites and challenges them to grow in their Communication and Problem-Solving skills. For example, in 2025, our students will learn: 
@@ -44,4 +46,4 @@ In their graduating year, students will have a chance to CREATE to give back to 
 Students have done this through mounting advocacy projects in the community, participated in job-internships and shadowing, and done their own research projects to improve the school experience. 
 
 
-For additional queries, please contact Mr. Bertrand Tan (SH/Applied Learning) at [cchms@moe.edu.sg](mailto:cchms@moe.edu.sg).
+For additional queries, please contact Mr. Bertrand Tan (SH/Applied Learning) at [cchms@moe.edu.sg](mailto:cchms@moe.edu.sg).</p>
