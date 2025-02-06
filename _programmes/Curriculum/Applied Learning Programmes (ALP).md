@@ -48,7 +48,7 @@ Students will experience a variety of learning journeys for them to empathise wi
 #### **Self-Directed Component – CREATE**
 
 In their graduating year, students will have a chance to CREATE to give back to society! 
-Students have done this through mounting advocacy projects in the community, participated in job-internships and shadowing, and done their own research projects to improve the school experience. 
+Students have done this through mounting advocacy projects in the community, participated in job-internships and shadowing, and done their own research projects to improve the school experience.
 
 
 For additional queries, please contact Mr. Bertrand Tan (SH/Applied Learning) at [cchms@moe.edu.sg](mailto:cchms@moe.edu.sg).
