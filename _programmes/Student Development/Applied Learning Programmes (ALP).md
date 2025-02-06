@@ -28,7 +28,7 @@ Over two years, our Upper Secondary students demonstrate their knowledge and und
 * Empathising with the unique context and needs of different groups in Singapore and Asia;
 * Generating solutions to meet the needs of society.
 
-<p style="text-align:center;"><iframe allowfullscreen="true" height="569" width="768" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRZM2NriJra5fGGclu-oJBnv0VaG6gU0Z6QQgyGLFG9mpdiAuHCYgqi9wUjn9-BDuVG11xMiycRGEec/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe></p>
+<p style="text-align:center;"><iframe allowfullscreen="true" height="569" width="768" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRZM2NriJra5fGGclu-oJBnv0VaG6gU0Z6QQgyGLFG9mpdiAuHCYgqi9wUjn9-BDuVG11xMiycRGEec/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe></p>
 
 #### **Taught Component – Communication &amp; Problem-Solving**
 
