@@ -43,6 +43,8 @@ Students in the ALP choose content that excites and challenges them to grow in t
 
 Students will experience a variety of learning journeys for them to empathise with the problems in Singapore and Asia. They will interact with industry professionals through a variety of authentic tasks, to learn how they apply communication and problem-solving skills, to add value to society. 
 
+<p style="text-align:center;"><iframe allowfullscreen="true" height="569" width="768" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTBseI_1DotRQvDbZO9YLb3R8J1eYy_jxf5kx9EARLpJbDenqjFH_4nm6HlIZqZPYD7v9NZHs9C1ljK/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe></p>
+
 #### **Self-Directed Component – CREATE**
 
 In their graduating year, students will have a chance to CREATE to give back to society! 
