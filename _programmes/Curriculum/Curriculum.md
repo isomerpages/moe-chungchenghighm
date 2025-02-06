@@ -3,6 +3,7 @@ title: Curriculum
 permalink: /programmes/curriculum/
 description: ""
 third_nav_title: Curriculum
+variant: markdown
 ---
 <style>
 table, th, td {
@@ -11,11 +12,11 @@ table, th, td {
 }
 </style>
 
-<body>
+
 
 <table style="width:100%">
   
-  <tr>
+  <tbody><tr>
     <td>
 <a href="/programmes/curriculum/english-language-and-literature/" target="_blank" rel="noopener noreferrer"><img src="/images/english-squarepic1.jpg" alt="English Language And Literature" width="100" height="17"></a>
 </td>
@@ -34,7 +35,7 @@ table, th, td {
 <a href="/programmes/curriculum/humanities/" target="_blank" rel="noopener noreferrer"><img src="/images/humanities-squarepic1.jpg" alt="Humanities" width="100" height="17"></a>
 </td>
 		<td>
-<a href="/programmes/curriculum/food-and-consumer-education/" target="_blank" rel="noopener noreferrer"><img src="/images/tn_FCE-squarepic1.jpg" alt="Food And Consumer Education"  width="100" height="17"></a>
+<a href="/programmes/curriculum/food-and-consumer-education/" target="_blank" rel="noopener noreferrer"><img src="/images/tn_FCE-squarepic1.jpg" alt="Food And Consumer Education" width="100" height="17"></a>
 </td>
   </tr>
 <tr>
@@ -45,7 +46,7 @@ table, th, td {
 <a href="/programmes/curriculum/art/" target="_blank" rel="noopener noreferrer"><img src="/images/art-squarepic1.jpg" alt="ART" width="100" height="17"></a>
 </td>
 		<td>
-<a href="/programmes/curriculum/music/" target="_blank" rel="noopener noreferrer"><img src="/images/tn_MEP-squarepic1.jpg" alt="Music"  width="100" height="17"></a>
+<a href="/programmes/curriculum/music/" target="_blank" rel="noopener noreferrer"><img src="/images/tn_MEP-squarepic1.jpg" alt="Music" width="100" height="17"></a>
 </td>
   </tr>
 <tr>
@@ -53,11 +54,10 @@ table, th, td {
 <a href="/programmes/curriculum/physical-education/" target="_blank" rel="noopener noreferrer"><img src="/images/PE-squarepic1.jpg" alt="Physical Education" width="100" height="17"></a>
 </td>
 <td>
+<a href="/programmes/student-development/applied-learning-programmes-alp" target="_blank" rel="noopener noreferrer"><img src="/images/ALP-squarepic1.jpg" alt="APPLIED LEARNING PROGRAMMES (ALP)" width="100" height="17"></a>
 </td>
 <td>
 </td>
   </tr>
   
-</table>
-
-</body>
+</tbody></table>
