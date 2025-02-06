@@ -37,7 +37,7 @@ Students in the ALP choose content that excites and challenges them to grow in t
 <img src="/images/ALP_Table_2025.png" alt="Applied Learning Programmes (ALP)" style="width:100%;">  
  
 	
-<p></p><p style="text-align:center;"><iframe allowfullscreen="true" height="569" width="768" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSidwzN3pM_YXvOBnFZcne424_3VIn5Z6EvNR1Uu7NX_6oMOr7E01L3nEWsMxXA7DvHo4npftAonPP_/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe></p>
+<p style="text-align:center;"><iframe allowfullscreen="true" height="569" width="768" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSidwzN3pM_YXvOBnFZcne424_3VIn5Z6EvNR1Uu7NX_6oMOr7E01L3nEWsMxXA7DvHo4npftAonPP_/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe></p>
 	
 #### **Taught Component – Empathy**
 
