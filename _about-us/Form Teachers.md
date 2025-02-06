@@ -104,7 +104,7 @@ Secondary 2 Form Teachers
   <tr>
     <td class="tg-nrix">2CR</td>
     <td class="tg-nrix">Li Yangping (Ms)</td>
-    <td class="tg-nrix">Nurdiyana Binte Hamazah Lee (Mdm)</td>
+    <td class="tg-nrix">Nurdiyana Binte Hamzah Lee (Mdm)</td>
   </tr>
   <tr>
     <td class="tg-mgsp">2DL</td>
