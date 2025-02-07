@@ -54,7 +54,7 @@ table, th, td {
 <a href="/programmes/curriculum/physical-education/" target="_blank" rel="noopener noreferrer"><img src="/images/PE-squarepic1.jpg" alt="Physical Education" width="100" height="17"></a>
 </td>
 <td>
-<a href="/programmes/student-development/applied-learning-programmes-alp" target="_blank" rel="noopener noreferrer"><img src="/images/ALP-squarepic1.jpg" alt="APPLIED LEARNING PROGRAMMES (ALP)" width="100" height="17"></a>
+<a href="/programmes/student-development/applied-learning-programmes-alp" target="_blank" rel="noopener noreferrer"><img src="/images/ALP_squarepic1.jpg" alt="APPLIED LEARNING PROGRAMME (ALP)" width="100" height="17"></a>
 </td>
 <td>
 </td>
