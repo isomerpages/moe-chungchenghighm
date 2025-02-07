@@ -1,0 +1,24 @@
+collections:
+  programmes:
+    output: true
+    order:
+      - Curriculum/.keep
+      - Curriculum/Curriculum.md
+      - Curriculum/English Language and Literature.md
+      - Curriculum/Chinese Language.md
+      - Curriculum/Mathematics.md
+      - Curriculum/Science.md
+      - Curriculum/Humanities.md
+      - Curriculum/Food and Consumer Education.md
+      - Curriculum/Design and Technology.md
+      - Curriculum/Art.md
+      - Curriculum/Music.md
+      - Curriculum/Physical Education.md
+      - Curriculum/Applied Learning Programmes (ALP).md
+      - Student Development/.keep
+      - Student Development/Student Development.md
+      - Student Development/Character and Citizenship Education (CCE).md
+      - Student Development/Sexuality Education.md
+      - Student Development/Student Leadership.md
+      - Student Development/Co Curricular Activities.md
+      - Student Development/Special Programmes.md

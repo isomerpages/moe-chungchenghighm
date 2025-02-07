@@ -1,0 +1,10 @@
+---
+title: Release of 2023 O Level Results
+permalink: /resources/announcements/releaseof2023olevelresults/
+date: 2024-01-05
+layout: post
+description: ""
+image: ""
+variant: tiptap
+---
+<p>Dear 2023 Graduates, </p><p>The school will be releasing your O-Level results on <strong>11 January 2024, 2pm</strong> in school. </p><p><u>Please do not come to school earlier than 1.30pm.</u> Parents are welcomed to wait at the back of the School Hall or in the Canteen that day.</p><p>You will need to note the following as you return to school to collect your results:</p><ul data-tight="true" class="tight"><li><p>Please enter through the Front Gate. Entry via the other gates is not allowed to avoid congestion.</p></li><li><p>You will be receiving your results in the School Hall.</p></li><li><p>You are to be attired in school uniform.</p></li><li><p>Please bring along your NRIC or EZ Link Card for identification purposes.</p></li></ul><p>School candidates who are unwell should seek medical attention and not return to school to collect their results. School candidates who are unable to collect their results in person can also appoint a proxy to collect a physical copy of their results on their behalf from the school. Proxies are required to produce the relevant documents for the school's verification when collecting the results. </p><p>Please call the General Office at 6344 1393 if you need assistance. </p><p>More information is available here.</p><p><a href="https://www.moe.gov.sg/news/press-releases/20240104-release-of-2023-singapore-cambridge-gce-o-level-examination-results-and-2024-joint-admissions-exercise#:~:text=Results%20Release%20for%20School%20Candidates&amp;text=Arrangements%20have%20been%20made%20for,on%20Thursday%2C%2011%20January%202024" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/news/press-releases/20240104-release-of-2023-singapore-cambridge-gce-o-level-examination-results-and-2024-joint-admissions-exercise#:~:text=Results%20Release%20for%20School%20Candidates&amp;text=Arrangements%20have%20been%20made%20for,on%20Thursday%2C%2011%20January%202024</a></p><p></p><p>We look forward to seeing you soon!</p>
