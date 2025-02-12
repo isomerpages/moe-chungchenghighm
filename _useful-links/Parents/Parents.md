@@ -18,7 +18,7 @@ variant: markdown
     <td><a href="http://dadsforlife.sg/" target="_blank" rel="noopener noreferrer"><img src="/images/DadsforLife-logo.jpg" alt="Dads for Life" width="106" height="17"></a></td>
   </tr>
   <tr>
-    <td><a href="/files/Group-Personal-Accident-Product-Fact-Sheet-Feb-2025.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/GPA-Insurance-logo.jpg" alt="GPA Insurance" width="106" height="17"></a></td>
+    <td><a href="/files/Group_Personal_Accident_Product_Fact_Sheet_Feb_2025.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/GPA-Insurance-logo.jpg" alt="GPA Insurance" width="106" height="17"></a></td>
     <td></td>
   </tr>		
   <tr>
