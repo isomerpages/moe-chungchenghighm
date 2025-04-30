@@ -113,7 +113,7 @@ Secondary 2 Form Teachers
   </tr>
   <tr>
     <td class="tg-nrix">2EP</td>
-    <td class="tg-nrix">Nurrul Ezzah Bte Mohd Zulkefly (Ms)</td>
+    <td class="tg-nrix">Nuurul Ezzah Bte Mohd Zulkefly (Ms)</td>
     <td class="tg-nrix"></td>
   </tr>
   <tr>
