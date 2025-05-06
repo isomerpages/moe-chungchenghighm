@@ -66,6 +66,6 @@ The key dates to note for your DSA application are as follows:
 <p id="link5"><strong>E.&nbsp;ADDITIONAL INFORMATION</strong></p>
 
 For more information regarding DSA for Secondary Schools, please visit&nbsp;**MOE DSA-Sec website**&nbsp;at&nbsp;[www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).  
-For further queries about DSA to our school, please email&nbsp;[cchms@moe.edu.sg](mailto:cchms@moe.edu.sg)&nbsp;with a Subject Header starting with “DSA 2025”.
+For further queries about DSA to our school, please email&nbsp;[cchms@moe.edu.sg](mailto:cchms@moe.edu.sg)&nbsp;with a Subject Header starting with “**DSA 2025**”.
 
 We look forward to your application.
