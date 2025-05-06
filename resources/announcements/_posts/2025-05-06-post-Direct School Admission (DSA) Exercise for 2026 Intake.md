@@ -26,7 +26,7 @@ The following 3 categories are open for DSA application for the 2025 intake:
 
 All DSA talents admitted to the school will be integrated into our system and culture like any other students, with equal opportunities to participate in the abundant programmes available.<br><br> They will also be mentored and supported continuously by our key personnel and teachers throughout their four years in the school.<br><br> In addition, they will have access to the multi-faceted programmes and activities organised for their respective CCA or talent areas.
 
-<a href="https://www.moe.gov.sg/programmes/clep-sec" rel="nofollow"><img src="/images/dsa_table4_23.png" alt="DSA Table4" style="width:1080px"></a>
+<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/clep-sec" rel="nofollow"><img src="/images/dsa_table4_23.png" alt="DSA Table4" style="width:1080px"></a>
 
 <p id="link3"><strong>C.&nbsp;DSA SELECTION PROCESS</strong></p>
 
