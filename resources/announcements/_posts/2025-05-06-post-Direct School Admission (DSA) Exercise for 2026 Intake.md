@@ -11,7 +11,7 @@ variant: markdown
 
 **We would like to invite all current Primary Six students (or equivalent) to apply for admission to our school in the academic year of 2026 through the Direct School Admission (DSA) exercise.**
 
-<img src="/images/dsa_table2_23.png" alt="DSA Table2" style="width:1080px">
+<img src="/images/DSA_Table2_25.jpg" alt="DSA Table2" style="width:1080px">
 
 **MAIN MENU**  
 <p><strong>A. <a href="#link1">DSA CATEGORIES &amp; CRITERIA</a></strong><br><strong>B. <a href="#link2">PROGRAMMES FOR DSA TALENTS</a></strong><br><strong>C. <a href="#link3">DSA SELECTION PROCESS</a></strong><br><strong>D. <a href="#link4">KEY DATES</a></strong><br><strong>E. <a href="#link5">ADDITIONAL INFORMATION</a></strong></p> 
@@ -30,7 +30,6 @@ All DSA talents admitted to the school will be integrated into our system and cu
 
 <p id="link3"><strong>C.&nbsp;DSA SELECTION PROCESS</strong></p>
 
-##### All DSA selection processes might be  updated to align with the prevailing COVID-19 safe management measures (SMMs) as advised by MOE.
 
 A DSA selection panel, including school leaders, will be formed to administer and oversee the DSA selection process, to ensure that it is transparent, objective, talent-specific, inclusive and student-centric.
 
