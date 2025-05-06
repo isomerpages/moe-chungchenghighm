@@ -45,7 +45,7 @@ All applicants who satisfy our criteria may apply for DSA to our school in&nbsp;
 **STEP 2: ATTEND TRIAL OR AUDITION&nbsp;_(ONLY IF SHORTLISTED)_**
 
 *   All registered applicants will be assessed and considered by the school based on the records and information provided or made available, in alignment with our criteria listed in Section A.&nbsp;_(Please note that meeting the criteria does not guarantee that the student will be shortlisted or given an offer.)_
-*   For&nbsp;**Sports and Performing Arts talent areas**, potential candidates will be shortlisted to attend an&nbsp;**in-person trial/ audition**&nbsp;at our school,&nbsp;starting from 4 July 2025.&nbsp;They will be notified of the confirmed date and time of the trial/ audition via email provided during application.
+*   For&nbsp;**Sports and Performing Arts talent areas**, potential candidates will be shortlisted to attend an&nbsp;**in-person trial/ audition**&nbsp;at our school,&nbsp;starting **from 4 July 2025**.&nbsp;They will be notified of the confirmed date and time of the trial/ audition via email provided during application.
 *   For&nbsp;**Chinese Language talent areas**, potential candidates will be shortlisted directly for an interview, and a performance task will be conducted on the day of the interview.
 *   The trial/ audition schedule will also be made available here by end of june, and the performance task requirements are for the various talent areas are listed as follows:
 
