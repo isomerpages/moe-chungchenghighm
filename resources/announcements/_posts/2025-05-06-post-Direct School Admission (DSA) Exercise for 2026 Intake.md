@@ -20,7 +20,7 @@ variant: markdown
 
 The following 3 categories are open for DSA application for the 2025 intake:
 
-<img src="/images/dsa_table3_23.jpg" alt="DSA Table3" style="width:1080px">
+<img src="/images/DSA_Table3_25.jpg" alt="DSA Table3" style="width:1080px">
 
 <p id="link2"><strong>B.&nbsp;PROGRAMMES FOR DSA TALENTS</strong></p>
 
