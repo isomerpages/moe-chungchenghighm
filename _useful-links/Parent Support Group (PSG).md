@@ -11,7 +11,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img src="/images/PSGPicture01.jpg" alt="Parent Support Group (PSG)" style="width:100%;">  
+<img src="/images/PSGPicture01.jpg" alt="Parent Support Group (PSG)" style="width:70%;">  
   
 The Chung Cheng High School (Main) PSG has been a dedicated partner in supporting our students and school community.
 
