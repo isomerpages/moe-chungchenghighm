@@ -52,8 +52,8 @@ Stay updated and connected via our social media channels. Scan the QR codes and 
 
 <img src="/images/PSGPicture04.jpg" alt="Parent Support Group (PSG)" style="width:100%;">
 
-
-**Photo Gallery of Our Events**
+&nbsp;
+### **Photo Gallery of Our Events**
 
 ##### Recess Programme
 Offering engaging and structured activities for students during recess.
