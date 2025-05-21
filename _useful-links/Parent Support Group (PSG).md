@@ -34,7 +34,7 @@ All parents of CCHM students are warmly invited to join us in our activities and
 
 **CCHM PSG EXCO 2025**
 
-<img src="/images/PSGPicture03.jpg" alt="Parent Support Group (PSG)" style="width:60%;">  
+<img src="/images/PSGPicture03.jpg" alt="Parent Support Group (PSG)" style="width:50%;">  
 
 *Top Row (L to R): Ms. Lennie Hong (Member), Ms. Serena Tai (Member), and Ms. Jacqueline Huang (Member) 
 Bottom Row (L to R): Mr. Han Fook Kwang (Member), Mr. Shum Chee Wai (Vice-Treasurer), Ms. Chng Bee Wee (Member), Ms. Catalina Takafuku (Chairperson), Ms. Joleyn Leo (Vice-Chairperson), Ms. Han Li Ann (Treasurer), Ms. Selina Leung (Member), Ms. Loh Ilin (Member), Ms. Cindy Tan (Secretary)*
