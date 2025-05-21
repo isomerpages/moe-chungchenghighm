@@ -46,4 +46,10 @@ We have lined up an exciting series of events for 2025, and we can’t wait for 
 <img src="/images/PSGPicture10.jpg" alt="Parent Support Group (PSG)" style="width:100%;">
 
 
+**Connect with us through Facebook and Instagram**
+
+Stay updated and connected via our social media channels. Scan the QR codes and follow us on [Facebook](tinyurl.com/facebookpsgcchm ) and [Instagram](instagram.com/cchms_psg ).
+
+<img src="/images/PSGPicture04.jpg" alt="Parent Support Group (PSG)" style="width:100%;">
+
 
