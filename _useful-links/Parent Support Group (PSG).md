@@ -53,3 +53,25 @@ Stay updated and connected via our social media channels. Scan the QR codes and 
 <img src="/images/PSGPicture04.jpg" alt="Parent Support Group (PSG)" style="width:100%;">
 
 
+**Photo Gallery of Our Events**
+
+##### Recess Programme
+Offering engaging and structured activities for students during recess.
+<img src="/images/PSGPicture05.jpg" alt="Parent Support Group (PSG)" style="width:100%;">
+
+##### Stretch Week
+Now that Mid-Year exams are no longer part of the schedule, our upper secondary students dive into hands-on workshops to explore and 
+<img src="/images/PSGPicture06.jpg" alt="Parent Support Group (PSG)" style="width:100%;">
+
+##### Annual Mid-Autumn Festival event
+The Mid-Autumn Festival is a signature event, where students immerse themselves in rich cultural experiences like mooncake making and tasting, tea appreciation, and lantern riddle challenges.
+<img src="/images/PSGPicture07.jpg" alt="Parent Support Group (PSG)" style="width:100%;">
+
+##### PSLE Marking Days Support
+The PSG ran a PSLE daycare for teachers’ children during the marking days — a thoughtful initiative that was greatly appreciated by both the teachers and their little ones.
+<img src="/images/PSGPicture08.jpg" alt="Parent Support Group (PSG)" style="width:100%;">
+
+
+##### Annual CCHM Open House
+An annual event where the school welcomes the public—especially prospective and current students and their families—to explore the campus, meet our teachers and staff, and gain insight into our programmes and school culture.
+<img src="/images/PSGPicture09.jpg" alt="Parent Support Group (PSG)" style="width:100%;">
