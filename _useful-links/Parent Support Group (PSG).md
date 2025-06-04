@@ -60,7 +60,7 @@ Offering engaging and structured activities for students during recess.
 <img src="/images/PSGPicture05.jpg" alt="Parent Support Group (PSG)" style="width:100%;">
 
 ##### Stretch Week
-Now that Mid-Year exams are no longer part of the schedule, our upper secondary students dive into hands-on workshops to explore and 
+Now that Mid-Year exams are no longer part of the schedule, our upper secondary students dive into hands-on workshops to explore and develop new skills.
 <img src="/images/PSGPicture06.jpg" alt="Parent Support Group (PSG)" style="width:100%;">
 
 ##### Annual Mid-Autumn Festival event
