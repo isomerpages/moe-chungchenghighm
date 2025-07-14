@@ -24,7 +24,7 @@ The following 3 categories are open for DSA application for the 2025 intake:
 
 <p id="link2"><strong>B.&nbsp;PROGRAMMES FOR DSA TALENTS</strong></p>
 
-All DSA talents admitted to the school will be integrated into our system and culture like any other students, with equal opportunities to participate in the abundant programmes available.<br><br> They will also be mentored and supported continuously by our key personnel and teachers throughout their four years in the school.<br><br> In addition, they will have access to the multi-faceted programmes and activities organised for their respective CCA or talent areas.
+All DSA talents admitted to the school will be integrated into our system and culture like any other students, with equal opportunities to participate in the school programmes available.<br><br> They will also be mentored and supported continuously by our key personnel and teachers throughout their four years in the school.<br><br> In addition, they will have access to the multi-faceted programmes and activities organised for their respective CCA or talent area.
 
 <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/clep-sec" rel="nofollow"><img src="/images/dsa_table4_23.png" alt="DSA Table4" style="width:1080px"></a>
 
@@ -44,9 +44,9 @@ All applicants who satisfy our criteria may apply for DSA to our school in&nbsp;
 **STEP 2: ATTEND TRIAL OR AUDITION&nbsp;_(ONLY IF SHORTLISTED)_**
 
 *   All registered applicants will be assessed and considered by the school based on the records and information provided or made available, in alignment with our criteria listed in Section A.&nbsp;_(Please note that meeting the criteria does not guarantee that the student will be shortlisted or given an offer.)_
-*   For&nbsp;**Sports and Performing Arts talent areas**, potential candidates will be shortlisted to attend an&nbsp;**in-person trial/ audition**&nbsp;at our school,&nbsp;starting **from 4 July 2025**.&nbsp;They will be notified of the confirmed date and time of the trial/ audition via email provided during application.
+*   For&nbsp;**Sports and Performing Arts talent areas**, potential candidates will be shortlisted to attend an&nbsp;**in-person trial/ audition**&nbsp;at our school,&nbsp;starting **from 11 July 2025**.&nbsp;They will be notified of the confirmed date and time of the trial/ audition via email provided during application.
 *   For&nbsp;**Chinese Language talent areas**, potential candidates will be shortlisted directly for an interview, and a performance task will be conducted on the day of the interview.
-*   The trial/ audition schedule will also be made available here by end of june, and the performance task requirements are for the various talent areas are listed as follows:
+*   The trial/ audition schedule will also be made available here by mid jul, and the performance task requirements are for the various talent areas are listed as follows:
 
 <img src="/images/dsa_table5_23.png" alt="DSA Table5" style="width:1080px">
 

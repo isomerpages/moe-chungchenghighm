@@ -77,93 +77,97 @@ Key Personnel
     <td class="tg-u1cn">Foo Kok Wei (Mr)</td>
     <td class="tg-u1cn">HOD/Science</td>
   </tr>
-  <tr>
-    <td class="tg-cly1">Chan Ann Chin Valerie (Ms)</td>
-    <td class="tg-cly1">HOD/Humanities</td>
+	<tr>
+    <td class="tg-cly1">Wan Chee Wai Thomas (Mr)</td>
+    <td class="tg-cly1">HOD/Mathematics</td>
   </tr>
   <tr>
-    <td class="tg-u1cn">Ho Si Ye Tammie (Ms)</td>
-    <td class="tg-u1cn">HOD/Physical Education &amp; CCA</td>
+    <td class="tg-u1cn">Chan Ann Chin Valerie (Ms)</td>
+    <td class="tg-u1cn">HOD/Humanities</td>
   </tr>
   <tr>
-    <td class="tg-cly1">Wan Li Khoon Elizabeth (Mrs So)</td>
-    <td class="tg-cly1">HOD/Information &amp; Communications Technology</td>
+    <td class="tg-cly1">Tan Victor (Mr)</td>
+    <td class="tg-cly1">HOD/Physical Education &amp; CCA</td>
   </tr>
   <tr>
-    <td class="tg-u1cn">Chua Chor Loon (Mr)</td>
-    <td class="tg-u1cn">HOD/Discipline</td>
+    <td class="tg-u1cn">Wan Li Khoon Elizabeth (Mrs So)</td>
+    <td class="tg-u1cn">HOD/Information &amp; Communications Technology</td>
   </tr>
   <tr>
-    <td class="tg-cly1">Sim Yan Jun (Ms)</td>
-    <td class="tg-cly1">HOD/SAP</td>
+    <td class="tg-cly1">Chua Chor Loon (Mr)</td>
+    <td class="tg-cly1">HOD/Discipline</td>
   </tr>
   <tr>
-    <td class="tg-u1cn">Mong Lian Zhi Jasmine (Ms)</td>
-    <td class="tg-u1cn">HOD/CCE</td>
+    <td class="tg-u1cn">Sim Yan Jun (Ms)</td>
+    <td class="tg-u1cn">HOD/SAP</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Mong Lian Zhi Jasmine (Ms)</td>
+    <td class="tg-cly1">HOD/CCE</td>
   </tr>
 	 <tr>
-    <td class="tg-cly1">Tan Mei Hui (Ms)</td>
-    <td class="tg-cly1">HOD/Aesthetics &amp; Craft</td>
+    <td class="tg-u1cn">Tan Mei Hui (Ms)</td>
+    <td class="tg-u1cn">HOD/Aesthetics &amp; Craft</td>
   </tr>
   <tr>
-    <td class="tg-u1cn">Yeoh Zheng Sheng Alexandre Paul (Mr)</td>
-    <td class="tg-u1cn">Upper Sec Year Head</td>
+    <td class="tg-cly1">Yeoh Zheng Sheng Alexandre Paul (Mr)</td>
+    <td class="tg-cly1">Upper Sec Year Head</td>
   </tr>
   <tr>
-    <td class="tg-cly1">Tan Pei Lin Jasmine (Mrs Lee)</td>
-    <td class="tg-cly1">Lower Sec Year Head</td>
+    <td class="tg-u1cn">Tan Pei Lin Jasmine (Mrs Lee)</td>
+    <td class="tg-u1cn">Lower Sec Year Head</td>
   </tr>
   <tr>
-    <td class="tg-u1cn">Siti Nurdiana Binte Johar (Mrs Diana Angullia)</td>
-    <td class="tg-u1cn">SH/English Language</td>
+    <td class="tg-cly1">Siti Nurdiana Binte Johar (Mrs Diana Angullia)</td>
+    <td class="tg-cly1">SH/English Language</td>
   </tr>
   <tr>
-    <td class="tg-cly1">Chan Xin Min (Ms)</td>
-    <td class="tg-cly1">SH/Chinese Language</td>
+    <td class="tg-u1cn">Chan Xin Min (Ms)</td>
+    <td class="tg-u1cn">SH/Chinese Language</td>
   </tr>
   <tr>
-    <td class="tg-u1cn">Woo Ching Nee Christine (Mrs Pang)</td>
-    <td class="tg-u1cn">SH/Mathematics</td>
+    <td class="tg-cly1">Woo Ching Nee Christine (Mrs Pang)</td>
+    <td class="tg-cly1">SH/Mathematics</td>
   </tr>
   <tr>
-    <td class="tg-cly1">Tay Han Tseng Clement (Mr)</td>
-    <td class="tg-cly1">SH/Science</td>
+    <td class="tg-u1cn">Tay Han Tseng Clement (Mr)</td>
+    <td class="tg-u1cn">SH/Science</td>
   </tr>
 	 <tr>
-    <td class="tg-u1cn">Tan Qin Shan Bertrand (Mr)</td>
-    <td class="tg-u1cn">SH/Applied Learning</td>
+    <td class="tg-cly1">Tan Qin Shan Bertrand (Mr)</td>
+    <td class="tg-cly1">SH/Applied Learning</td>
   </tr>
   <tr>
-    <td class="tg-cly1">Koh Rui Ling (Ms)</td>
-    <td class="tg-cly1">SH/Humanities</td>
+    <td class="tg-u1cn">Koh Rui Ling (Ms)</td>
+    <td class="tg-u1cn">SH/Humanities</td>
   </tr>
   <tr>
-    <td class="tg-u1cn">Shobitha d/o Vasudevan (Ms)</td>
-    <td class="tg-u1cn">SH/CCE</td>
+    <td class="tg-cly1">Shobitha d/o Vasudevan (Ms)</td>
+    <td class="tg-cly1">SH/CCE</td>
   </tr>
   <tr>
-    <td class="tg-cly1">Loh Lai Yeow Daniel (Mr)</td>
-    <td class="tg-cly1">SH/Information &amp; Communications Technology</td>
+    <td class="tg-u1cn">Loh Lai Yeow Daniel (Mr)</td>
+    <td class="tg-u1cn">SH/Information &amp; Communications Technology</td>
   </tr>
   <tr>
-    <td class="tg-u1cn">Khoo Sin Min Ambert (Mr)</td>
-    <td class="tg-u1cn">SH/Physical Education &amp; CCA</td>
+    <td class="tg-cly1">Khoo Sin Min Ambert (Mr)</td>
+    <td class="tg-cly1">SH/Physical Education &amp; CCA</td>
   </tr>
   <tr>
-    <td class="tg-cly1">Ng Sin Wee Benny (Mr)</td>
-    <td class="tg-cly1">SH/Student Wellbeing</td>
+    <td class="tg-u1cn">Ng Sin Wee Benny (Mr)</td>
+    <td class="tg-u1cn">SH/Student Wellbeing</td>
   </tr>
   <tr>
-    <td class="tg-u1cn">Ng See Khee Valerie (Ms)</td>
-    <td class="tg-u1cn">SH/Student Recognition</td>
+    <td class="tg-cly1">Ng See Khee Valerie (Ms)</td>
+    <td class="tg-cly1">SH/Student Recognition</td>
   </tr>
   <tr>
-    <td class="tg-cly1">Wang Xiao (Ms)</td>
-    <td class="tg-cly1">Upper Sec Asst Year Head</td>
+    <td class="tg-u1cn">Wang Xiao (Ms)</td>
+    <td class="tg-u1cn">Upper Sec Asst Year Head</td>
   </tr>
   <tr>
-    <td class="tg-u1cn">Ong Lai Wei (Ms)</td>
-    <td class="tg-u1cn">Lower Sec Asst Year Head</td>
+    <td class="tg-cly1">Ong Lai Wei (Ms)</td>
+    <td class="tg-cly1">Lower Sec Asst Year Head</td>
   </tr>
 </tbody>
 </table>
