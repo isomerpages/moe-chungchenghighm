@@ -11,7 +11,7 @@ variant: markdown
 
 **We would like to invite all current Primary Six students (or equivalent) to apply for admission to our school in the academic year of 2026 through the Direct School Admission (DSA) exercise.**
 
-<img src="/images/DSA_Table2_25.jpg" alt="DSA Table2" style="width:1080px">
+<img src="/images/DSA_Table2_25_a.png" alt="DSA Table2" style="width:1080px">
 
 **MAIN MENU**  
 <p><strong>A. <a href="#link1">DSA CATEGORIES &amp; CRITERIA</a></strong><br><strong>B. <a href="#link2">PROGRAMMES FOR DSA TALENTS</a></strong><br><strong>C. <a href="#link3">DSA SELECTION PROCESS</a></strong><br><strong>D. <a href="#link4">KEY DATES</a></strong><br><strong>E. <a href="#link5">ADDITIONAL INFORMATION</a></strong></p> 
@@ -20,13 +20,13 @@ variant: markdown
 
 The following 3 categories are open for DSA application for the 2025 intake:
 
-<img src="/images/DSA_Table3_25.jpg" alt="DSA Table3" style="width:1080px">
+<img src="/images/DSA_Table3_25_a.jpg" alt="DSA Table3" style="width:1080px">
 
 <p id="link2"><strong>B.&nbsp;PROGRAMMES FOR DSA TALENTS</strong></p>
 
 All DSA talents admitted to the school will be integrated into our system and culture like any other students, with equal opportunities to participate in the school programmes available.<br><br> They will also be mentored and supported continuously by our key personnel and teachers throughout their four years in the school.<br><br> In addition, they will have access to the multi-faceted programmes and activities organised for their respective CCA or talent area.
 
-<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/clep-sec" rel="nofollow"><img src="/images/dsa_table4_23.png" alt="DSA Table4" style="width:1080px"></a>
+<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/clep-sec" rel="nofollow"><img src="/images/DSA_Table4_25_a.jpg" alt="DSA Table4" style="width:1080px"></a>
 
 <p id="link3"><strong>C.&nbsp;DSA SELECTION PROCESS</strong></p>
 
@@ -60,7 +60,7 @@ All applicants who satisfy our criteria may apply for DSA to our school in&nbsp;
 
 The key dates to note for your DSA application are as follows:
 
-<a href="https://www.moe.gov.sg/dsa-sec" rel="nofollow"><img src="/images/DSA_Table6_25.jpg" alt="DSA Table6" style="width:1080px"></a>
+<a href="https://www.moe.gov.sg/dsa-sec" rel="nofollow"><img src="/images/DSA_Table6_25_a.jpg" alt="DSA Table6" style="width:1080px"></a>
 
 <p id="link5"><strong>E.&nbsp;ADDITIONAL INFORMATION</strong></p>
 
