@@ -82,7 +82,7 @@ Key Personnel
     <td class="tg-cly1">HOD/Humanities</td>
   </tr>
   <tr>
-    <td class="tg-u1cn">Ho Si Ye Tammie (Ms)</td>
+    <td class="tg-u1cn">Tan Victor (Mr)</td>
     <td class="tg-u1cn">HOD/Physical Education &amp; CCA</td>
   </tr>
   <tr>
