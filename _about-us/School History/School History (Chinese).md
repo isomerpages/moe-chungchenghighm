@@ -77,7 +77,7 @@ Principals 校长
     <td class="tg-nrix">1961 to 1967</td>
   </tr>
   <tr>
-    <td class="tg-mgsp">Mr Yao Fusen</td>
+    <td class="tg-mgsp">Mr Yao Fuh Sheng 姚服森</td>
     <td class="tg-mgsp">1967</td>
   </tr>
   <tr>
