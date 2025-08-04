@@ -77,7 +77,7 @@ Principals
     <td class="tg-nrix">1961 to 1967</td>
   </tr>
   <tr>
-    <td class="tg-mgsp">Mr Yao Fusen</td>
+    <td class="tg-mgsp">Mr Yao Fuh Sheng</td>
     <td class="tg-mgsp">1967</td>
   </tr>
   <tr>
