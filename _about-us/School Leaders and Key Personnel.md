@@ -118,24 +118,24 @@ Key Personnel
     <td class="tg-u1cn">Lower Sec Year Head</td>
   </tr>
   <tr>
-    <td class="tg-cly1">Chan Xin Min (Ms)</td>
-    <td class="tg-cly1">SH/Chinese Language</td>
+    <td class="tg-cly1">Koh Rui Ling (Ms)</td>
+    <td class="tg-cly1">School Staff Developer (SSD) </td>
   </tr>
   <tr>
     <td class="tg-u1cn">Woo Ching Nee Christine (Mrs Pang)</td>
     <td class="tg-u1cn">SH/Mathematics</td>
   </tr>
   <tr>
-    <td class="tg-cly1">Tay Han Tseng Clement (Mr)</td>
-    <td class="tg-cly1">SH/Science</td>
+    <td class="tg-cly1">Chan Xin Min (Ms)</td>
+    <td class="tg-cly1">SH/Chinese Language</td>
   </tr>
 	 <tr>
     <td class="tg-u1cn">Tan Qin Shan Bertrand (Mr)</td>
     <td class="tg-u1cn">SH/Applied Learning</td>
   </tr>
   <tr>
-    <td class="tg-cly1">Koh Rui Ling (Ms)</td>
-    <td class="tg-cly1">SH/Humanities</td>
+    <td class="tg-cly1">Tay Han Tseng Clement (Mr)</td>
+    <td class="tg-cly1">SH/Science</td>
   </tr>
   <tr>
     <td class="tg-u1cn">Shobitha d/o Vasudevan (Ms)</td>
