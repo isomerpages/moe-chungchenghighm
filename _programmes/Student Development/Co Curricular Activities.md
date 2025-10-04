@@ -3,8 +3,9 @@ title: Co Curricular Activities
 permalink: /programmes/student-development/co-curricular-activities/
 description: ""
 third_nav_title: Student Development
+variant: markdown
 ---
-**Co-Curricular Activities (CCAs)** are an integral part of our students’ holistic education. Through **CCA**, our students discover their interests and talents while developing values and competencies to prepare for a rapidly changing world.
+**Co-Curricular Activities (CCAs)**&nbsp;are an integral part of our students’ holistic education. Through&nbsp;**CCA**, our students discover their interests and talents while developing values and competencies to prepare for a rapidly changing world.
 
 <h5 style="color:black" align="left">Uniformed Groups</h5>
 
@@ -87,7 +88,7 @@ third_nav_title: Student Development
 </tbody>
 </table>
 
-**CCAs with asterisk \* will not be admitting Sec 1 students from 2020 onwards.**
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -202,19 +203,19 @@ third_nav_title: Student Development
   </tr>
  </tbody>
 </table>
-<h5 style="color:black" align="left">Visual & Cultural Arts Groups</h5>
+<h5 style="color:black" align="left">Visual &amp; Cultural Arts Groups</h5>
 
 <table>
 <thead>
   <tr>
-    <th><a href="/programmes/student-development/co-curricular-activities/art-club/" target="_blank" rel="noopener noreferrer"><img src="/images/Art-Club-square2.jpg" alt="ART & CRAFTS" width="106" height="17"></a></th>
-    <th><a href="/programmes/student-development/co-curricular-activities/calligraphy-chinese-painting-club/" target="_blank" rel="noopener noreferrer"><img src="/images/calligraphy-square1.jpg" alt="CHINESE CALLIGRAPHY & BRUSH PAINTING" width="106" height="17"></a></th>
+    <th><a href="/programmes/student-development/co-curricular-activities/art-club/" target="_blank" rel="noopener noreferrer"><img src="/images/Art-Club-square2.jpg" alt="ART &amp; CRAFTS" width="106" height="17"></a></th>
+    <th><a href="/programmes/student-development/co-curricular-activities/calligraphy-chinese-painting-club/" target="_blank" rel="noopener noreferrer"><img src="/images/calligraphy-square1.jpg" alt="CHINESE CALLIGRAPHY &amp; BRUSH PAINTING" width="106" height="17"></a></th>
     <th><a href="/programmes/student-development/co-curricular-activities/chinese-chess/" target="_blank" rel="noopener noreferrer"><img src="/images/chess-club-square2.jpg" alt="CHINESE CHESS" width="106" height="17"></a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td><a href="/programmes/student-development/co-curricular-activities/lion-dance-club/" target="_blank" rel="noopener noreferrer"><img src="/images/lion_dance-square1.jpg" alt="LION & DRAGON DANCE" width="106" height="17"></a></td>
+    <td><a href="/programmes/student-development/co-curricular-activities/lion-dance-club/" target="_blank" rel="noopener noreferrer"><img src="/images/lion_dance-square1.jpg" alt="LION &amp; DRAGON DANCE" width="106" height="17"></a></td>
     <td><a href="/programmes/student-development/co-curricular-activities/media-technology-club/" target="_blank" rel="noopener noreferrer"><img src="/images/media_club_square1.jpg" alt="DIGITAL MEDIA" width="106" height="17"></a></td>
     <td></td>
   </tr>
@@ -222,7 +223,7 @@ third_nav_title: Student Development
 </table>
 
 
-**CCAs with asterisk \* will not be admitting Sec 1 students from 2020 onwards.**
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
