@@ -25,12 +25,12 @@ sections:
       title: Announcements
       button: Click here for announcements!
   - infopic:
-      description: Welcome Address by Principal
+      description: Introductory Address by Principal
       button: Click here to view the video
       url: https://www.youtube.com/watch?v=PJz9jYCd14c
       alt: Image alt text
       image: /images/Welcome-Speech-by-CCHM-Principal-2022.jpg
-      title: CCHM Open House 2022
+      title: Welcome to Chung Cheng!
   - infopic:
       title: Students' Life
       alt: Image alt text
