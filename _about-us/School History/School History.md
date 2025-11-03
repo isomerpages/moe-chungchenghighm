@@ -31,6 +31,13 @@ In 2024&nbsp;, the school celebrated her 85th anniversary with the broader Chung
 
 -	Combined Schools Concert, where our distinguished alumni Gao Meigui and Jarrell Ng joined our Performing Arts Groups for a night of reverie celebrating the sch
 
+In 2025, the school's iconic administrative building (Zhulin Building) upgrading project was successfully completed after much anticipation, with the Grand Auditorium taking on a refreshed new appearance following its refurbishment. This upgrading project was overseen and guided by the "Grand Auditorium Upgrading Project" Executive Committee, led by then Vice-Chairman Dr Jimmy Koh.
+
+The Chung Cheng High School Zhulin Building Grand Auditorium Reopening Ceremony and CCHS-NYJC Combined Anniversary Celebrations were jointly organised by the School Management Committee and the three schools, held on Saturday morning, 5 July 2025, under the theme "Honouring our Roots, Soaring into the Future".
+
+The ceremony invited the newly appointed Minister for Education, Mr Desmond Lee, as the Guest of Honour, who joined nearly 2,000 students, parents and alumni on this momentous occasion to commemorate the shared memories and pride of generations of Chung Cheng students whilst looking forward to future aspirations.
+
+
 Principals
 ----------
 
