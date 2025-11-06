@@ -41,7 +41,7 @@ variant: markdown
     <td class="tg-cly1">9 Awardees</td>
   </tr>
   <tr>
-    <td class="tg-u1cn" rowspan="3"><span style="background-color:#EEE">National Cadet Corps</span></td>
+    <td class="tg-u1cn" rowspan="3"><span style="background-color:#EEE">National Cadet Corps (Land)</span></td>
     <td class="tg-u1cn">Unit Recognition Award 2025</td>
     <td class="tg-u1cn">Distinction [24 years of consecutive top award]</td>
   </tr>
