@@ -33,12 +33,12 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-u1cn" rowspan="2">Girl Guides</td>
-    <td class="tg-u1cn">Puan Noor Aishah (PNA) Award </td>
-    <td class="tg-u1cn">Gold for both 1st &amp; 2nd Companies<br><br><span style="font-weight:400;color:#1E1E1E">2 Awardees</span></td>
+    <td class="tg-u1cn">Puan Noor Aishah Award 2024</td>
+    <td class="tg-u1cn">2 Gold <br><br><span style="font-weight:400;color:#1E1E1E"></span></td>
   </tr>
   <tr>
     <td class="tg-cly1">Baden Powell Award</td>
-    <td class="tg-cly1"></td>
+    <td class="tg-cly1">9 Awardees</td>
   </tr>
   <tr>
     <td class="tg-u1cn" rowspan="2"><span style="background-color:#EEE">National Cadet Corps</span></td>
