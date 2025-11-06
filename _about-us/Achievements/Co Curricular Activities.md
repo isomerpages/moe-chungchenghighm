@@ -80,13 +80,17 @@ variant: markdown
     <td class="tg-u1cn">5 Awardees</td>
   </tr>
 <tr>
-    <td class="tg-u1cn" rowspan="2"><span style="background-color:#EEE"> </span><br><br><span style="font-weight:400;color:#1E1E1E">St John Brigade</span></td>
-    <td class="tg-u1cn">SJB Chief Commissioner’s Badge</td>
-    <td class="tg-u1cn">20 Awardees</td>
+    <td class="tg-u1cn" rowspan="3"><span style="background-color:#EEE"> </span><br><br><span style="font-weight:400;color:#1E1E1E">St John Brigade</span></td>
+    <td class="tg-u1cn">Corps Achievement Award 2024</td>
+    <td class="tg-u1cn">Gold Award</td>
   </tr>
   <tr>
-    <td class="tg-cly1n">Corps Achievement Award 2021</td>
-    <td class="tg-cly1">suspended for year 2021</td>
+    <td class="tg-cly1n">Chief Commissioner's Badge</td>
+    <td class="tg-cly1">19 Awardees</td>
+  </tr>
+	<tr>
+    <td class="tg-cly1n">Commissioner's Badge 22 Sec Three students awarded <br> <br>Singapore-Malaysia First Aid and Home Nursing Competition 2025 Participation in Ambulance Cadet category</td>
+    <td class="tg-cly1"></td>
   </tr>     
 </tbody>
 </table>
