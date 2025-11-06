@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/chss homepage03.gif
+      background: /images/OpenHouseBanner2025v1.gif
       key_highlights:
         - title: For Students
           description: ""
