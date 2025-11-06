@@ -54,17 +54,21 @@ variant: markdown
     <td class="tg-u1cn">- East District Champion <br> - Nationals 4th</td>
   </tr>
 <tr>
-    <td class="tg-u1cn" rowspan="3"><span style="background-color:#EEE">National Police Cadet Corps</span></td>
-    <td class="tg-u1cn">Unit Overall Proficiency Award 2021 </td>
-    <td class="tg-u1cn">Gold</td>
+    <td class="tg-u1cn" rowspan="4"><span style="background-color:#EEE">National Police Cadet Corps</span></td>
+    <td class="tg-u1cn">NPCC Unit Overall Proficiency Award (UOPA) 2024 </td>
+    <td class="tg-u1cn">Distinction</td>
   </tr>
   <tr>
-    <td class="tg-cly1">SPF-NPCC Badge 2022</td>
-    <td class="tg-cly1">2 Awardees</td>
+    <td class="tg-cly1">SPF-NPCC Badge 2025</td>
+    <td class="tg-cly1">1 Awardee</td>
   </tr>
 <tr>
-    <td class="tg-u1cn">NPCC Best Unit Cadet 2022 </td>
-    <td class="tg-u1cn">2 Awardee</td>
+    <td class="tg-u1cn">Best Unit Cadet Badge 2025 </td>
+    <td class="tg-u1cn">2 Awardees</td>
+  </tr>
+	<tr>
+    <td class="tg-u1cn">NPCC Inter-Unit 22 Revolver Shooting Competition 2025 (Girls Team) - 8th <br> <br> UG Social Media Competition 2025 - Honourable Mention </td>
+    <td class="tg-u1cn"></td>
   </tr>
 <tr>
     <td class="tg-u1cn" rowspan="1"><span style="background-color:#EEE">Scouts</span></td>
