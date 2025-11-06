@@ -71,9 +71,13 @@ variant: markdown
     <td class="tg-u1cn"></td>
   </tr>
 <tr>
-    <td class="tg-u1cn" rowspan="1"><span style="background-color:#EEE">Scouts</span></td>
-    <td class="tg-cly1">Frank Cooper Sands Award 2021</td>
-    <td class="tg-cly1">suspended for year 2021</td>
+    <td class="tg-u1cn" rowspan="2"><span style="background-color:#EEE">Scouts</span></td>
+    <td class="tg-cly1">Frank Cooper Sands Award 2025</td>
+    <td class="tg-cly1">Awarded</td>
+  </tr>
+	<tr>
+    <td class="tg-u1cn">Chief Scout Award </td>
+    <td class="tg-u1cn">5 Awardees</td>
   </tr>
 <tr>
     <td class="tg-u1cn" rowspan="2"><span style="background-color:#EEE"> </span><br><br><span style="font-weight:400;color:#1E1E1E">St John Brigade</span></td>
