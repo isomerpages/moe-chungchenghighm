@@ -41,13 +41,17 @@ variant: markdown
     <td class="tg-cly1">9 Awardees</td>
   </tr>
   <tr>
-    <td class="tg-u1cn" rowspan="2"><span style="background-color:#EEE">National Cadet Corps</span></td>
-    <td class="tg-u1cn">Unit Recognition 2021</td>
-    <td class="tg-u1cn">Distinction Award</td>
+    <td class="tg-u1cn" rowspan="3"><span style="background-color:#EEE">National Cadet Corps</span></td>
+    <td class="tg-u1cn">Unit Recognition Award 2025</td>
+    <td class="tg-u1cn">Distinction [24 years of consecutive top award]</td>
   </tr>
   <tr>
-    <td class="tg-cly1">NCC Annual Sports Championships Captain’s Ball (Junior Cadets)</td>
-    <td class="tg-cly1">Champion</td>
+    <td class="tg-cly1">Outstanding Cadet Award</td>
+    <td class="tg-cly1">2 Awardees</td>
+  </tr>
+	<tr>
+    <td class="tg-u1cn">Freestyle Drill Competition</td>
+    <td class="tg-u1cn">- East District Champion <br> - Nationals 4th</td>
   </tr>
 <tr>
     <td class="tg-u1cn" rowspan="3"><span style="background-color:#EEE">National Police Cadet Corps</span></td>
