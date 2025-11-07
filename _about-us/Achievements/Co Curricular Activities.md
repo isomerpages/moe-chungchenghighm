@@ -478,8 +478,8 @@ variant: markdown
 	<tr><td class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG Taekwondo Championships 2025</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1">C Division Girls (League 1)<br><br><span style="font-weight:400;color:#1E1E1E">C Division Boys (League 1)</span></td>
-    <td class="tg-cly1" colspan="2">Top 16<br><br><span style="font-weight:400;color:#1E1E1E">Top 12</span></td>
+    <td class="tg-cly1">C Division Girls<br><br><span style="font-weight:400;color:#1E1E1E">C Division Boys</span></td>
+    <td class="tg-cly1" colspan="2">Kyorugi (Individual)<br>Poom Belt Under 54 kg - 1 Silver<br><br><span style="font-weight:400;color:#1E1E1E">Poomsae (Individual)<br>Yellow 8 - 4th<br><br>Poomsae (Team)<br>Yellow 8 - 4th<br>Yellow 7 - 4th</span></td>
   </tr>
   <tr>
     <td class="tg-u1cn" rowspan="2">Volleyball</td>
