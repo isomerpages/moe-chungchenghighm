@@ -445,8 +445,8 @@ variant: markdown
     <td class="tg-0lax" colspan="2"><span style="font-weight:400;color:#1E1E1E">1st Runner Up</span><br><br><span style="font-weight:400;color:#1E1E1E">Top 8</span><br><br><span style="font-weight:400;color:#1E1E1E">1st Runner Up</span></td>
   </tr><tr>
 </tr>
-    <tr><td class="tg-cly1">Girls<br><br><span style="font-weight:400;color:#1E1E1E">Boys</span></td>
-    <td class="tg-0lax" colspan="2"><span style="font-weight:400;color:#1E1E1E">Champion</span><br><br><span style="font-weight:400;color:#1E1E1E">Champion</span></td>
+    <tr><td class="tg-cly1">BAS Youth Cup 2025<br>U14 Boys &amp; Girls<br><br></td>
+    <td class="tg-0lax" colspan="1"><span style="font-weight:400;color:#1E1E1E">Participation</span><br><br></td>
   </tr>
     <tr><td class="tg-cly1">Girls</td>
     <td class="tg-0lax" colspan="2"><span style="font-weight:400;color:#1E1E1E">Champion</span></td>
