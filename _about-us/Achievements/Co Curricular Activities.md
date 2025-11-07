@@ -455,7 +455,7 @@ variant: markdown
     <td class="tg-cly1">Whye Nam U16 Basketball Cup 2025<br><br><span style="font-weight:400;color:#1E1E1E">Raffles U17 Pioneers Cup 2025</span><br><br><span style="font-weight:400;color:#1E1E1E">B Division Boys &amp; Girls </span></td>
     <td class="tg-cly1" colspan="2">Participation (TBC)<br><br><span style="font-weight:400;color:#1E1E1E"></span><br><br><span style="font-weight:400;color:#1E1E1E">Participation (TBC)</span></td>
   </tr>
-    <tr><td class="tg-u1cn" rowspan="4">Table Tennis</td>
+	<tr><td class="tg-u1cn" rowspan="4">Table Tennis</td>
     <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG Table Tennis East Zone Championships 2025</span></td>
   </tr>
   <tr>
@@ -463,6 +463,19 @@ variant: markdown
     </td><td class="tg-cly1" colspan="2">East Zone 2nd<br><br><span style="font-weight:400;color:#1E1E1E">East Zone 4th</span></td>
   </tr>
 	<tr><td class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG Table Tennis Championships 2025</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">C Division Girls (League 1)<br><br><span style="font-weight:400;color:#1E1E1E">C Division Boys (League 1)</span></td>
+    <td class="tg-cly1" colspan="2">Top 16<br><br><span style="font-weight:400;color:#1E1E1E">Top 12</span></td>
+  </tr>
+    <tr><td class="tg-u1cn" rowspan="4">NCC-Taekwondo</td>
+    <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG Taekwondo Championships 2025</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">B Division Girls<br><br><span style="font-weight:400;color:#1E1E1E"></span>
+    </td><td class="tg-cly1" colspan="2">Poomsae Individual<br>Poom/Black 2 - 4th Position<br><br><span style="font-weight:400;color:#1E1E1E">Kyorugi (Individual)<br>Poom/Black Belt Under 60 kg - 1 Gold</span></td>
+  </tr>
+	<tr><td class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG Taekwondo Championships 2025</span></td>
   </tr>
   <tr>
     <td class="tg-cly1">C Division Girls (League 1)<br><br><span style="font-weight:400;color:#1E1E1E">C Division Boys (League 1)</span></td>
