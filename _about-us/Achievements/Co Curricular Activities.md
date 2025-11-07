@@ -504,11 +504,11 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-u1cn" rowspan="2">Wushu</td>
-    <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG EastZone Wushu Championships 2022</span></td>
+    <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG EastZone Wushu Championships 2025</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1">C Division Girls<br><br><span style="font-weight:400;color:#1E1E1E">B Division Girls</span><br><br><span style="font-weight:400;color:#1E1E1E">B Division Boys</span><br><br><span style="font-weight:400;color:#1E1E1E">C Division Girls</span><br><br><span style="font-weight:400;color:#1E1E1E"> </span><span style="font-weight:400;color:#1E1E1E">C Division Boys</span><br><br><span style="font-weight:400;color:#1E1E1E"> </span></td>
-    <td class="tg-cly1" colspan="2">National 4th<br><br><span style="font-weight:400;color:#1E1E1E">1 Bronze, 1 4th Placing </span><br><br><span style="font-weight:400;color:#1E1E1E">1 Bronze</span><br><br><span style="font-weight:400;color:#1E1E1E">1 Gold, 1 Silver, 4 Bronze </span><br><br><span style="font-weight:400;color:#1E1E1E">1 Bronze, 1 4th Placing</span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span></td>
+    <td class="tg-cly1">B Division Girls<br><br><span style="font-weight:400;color:#1E1E1E">C Division Girls</span></td>
+    <td class="tg-cly1" colspan="2">National 4th<br><br><span style="font-weight:400;color:#1E1E1E">National 2nd</span></td>
 </tr>
 			 <tr>
     <td class="tg-u1cn" rowspan="4">Other Sports</td>
