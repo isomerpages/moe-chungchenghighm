@@ -452,8 +452,8 @@ variant: markdown
     <td class="tg-0lax" colspan="2"><span style="font-weight:400;color:#1E1E1E">Participation (TBC)</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1">U15 3x3<br><br><span style="font-weight:400;color:#1E1E1E">U15 5x5</span><br><br><span style="font-weight:400;color:#1E1E1E">U18 5x5</span></td>
-    <td class="tg-cly1" colspan="2">2nd, 3rd<br><br><span style="font-weight:400;color:#1E1E1E">4th</span><br><br><span style="font-weight:400;color:#1E1E1E">3rd</span></td>
+    <td class="tg-cly1">Whye Nam U16 Basketball Cup 2025<br><br><span style="font-weight:400;color:#1E1E1E">Raffles U17 Pioneers Cup 2025</span><br><br><span style="font-weight:400;color:#1E1E1E">U18 5x5</span></td>
+    <td class="tg-cly1" colspan="2">Participation (TBC)<br><br><span style="font-weight:400;color:#1E1E1E">Participation (TBC)</span><br><br><span style="font-weight:400;color:#1E1E1E">3rd</span></td>
   </tr>
 	<tr>
     <td class="tg-cly1">U15 3x3<br><br><span style="font-weight:400;color:#1E1E1E">U15 5x5</span><br><br><span style="font-weight:400;color:#1E1E1E">U18 5x5</span></td>
