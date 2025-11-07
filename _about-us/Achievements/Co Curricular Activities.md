@@ -526,21 +526,30 @@ variant: markdown
     <td class="tg-cly1" colspan="2">He Qiaoyi Zoey 1BN</td>
     <td class="tg-cly1">Li Bowen 1EP</td>
   </tr>
-			 <tr>
-    <td class="tg-u1cn" rowspan="4">Other Sports</td>
-    <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">Other Sports</span></td>
+<tr>
+    <td class="tg-u1cn" rowspan="2">Water Polo</td>
+    <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">47th SEA Aquatics Age Group Championships 2025 </span></td>
   </tr>
   <tr>
-    <td class="tg-cly1">(Team) B Division Boys<br><br><span style="font-weight:400;color:#1E1E1E">(Team) C Division Boy</span><br><br><span style="font-weight:400;color:#1E1E1E">(Individual) B Division Girls</span><br><br><span style="font-weight:400;color:#1E1E1E">(Individual) B Division Boys</span><br><br><span style="font-weight:400;color:#1E1E1E"> </span><span style="font-weight:400;color:#1E1E1E">(Individual) C Division Boys</span><br><br><span style="font-weight:400;color:#1E1E1E"> </span></td>
-    <td class="tg-cly1" colspan="3">1 Sliver<br><br><span style="font-weight:400;color:#1E1E1E">1 Bronze, 1 4th Placing </span><br><br><span style="font-weight:400;color:#1E1E1E">1 Gold</span><br><br><span style="font-weight:400;color:#1E1E1E">1 Bronze, 1 4th Placing </span><br><br><span style="font-weight:400;color:#1E1E1E">1 Silver, 1 Bronze, 1 4th Placing</span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span></td>
-</tr>
-			 <tr>
-    <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG Waterpolo Championships 2022</span></td>
+    <td class="tg-cly1" colspan="2">Teo Zhi Rong Jeroy 4EP</td>
+    <td class="tg-cly1"></td>
+  </tr>
+	<tr>
+    <td class="tg-u1cn" rowspan="2">Cycling</td>
+    <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">Siol International MTB Challenge</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1">C Division Boys <br>(Combined Team with Singapore Sports School)<br><br></td>
-    <td class="tg-cly1" colspan="3">Zonal 4th<br><br></td>
-</tr>
+    <td class="tg-cly1" colspan="2">Lim Qi En Ryan 2BN</td>
+    <td class="tg-cly1"></td>
+  </tr>
+	<tr>
+    <td class="tg-u1cn" rowspan="2">Sport Climbing</td>
+    <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">ASEAN Climbing Championship<br>IFSC Asian Youth Championship<br>IFSC World Youth Championship<br></span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1" colspan="2">Ho Yan Rui, Andrea 3CR</td>
+    <td class="tg-cly1"></td>
+  </tr>
 </tbody>
 </table>
 	</p>
