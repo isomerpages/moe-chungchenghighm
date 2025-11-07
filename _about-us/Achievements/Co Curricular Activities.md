@@ -482,12 +482,12 @@ variant: markdown
     <td class="tg-cly1" colspan="2">Kyorugi (Individual)<br>Poom Belt Under 54 kg - 1 Silver<br><br><span style="font-weight:400;color:#1E1E1E">Poomsae (Individual)<br>Yellow 8 - 4th<br><br>Poomsae (Team)<br>Yellow 8 - 4th<br>Yellow 7 - 4th</span></td>
   </tr>
   <tr>
-    <td class="tg-u1cn" rowspan="2">Volleyball</td>
-    <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG EastZone Volleyball Championships 2022</span></td>
+    <td class="tg-u1cn" rowspan="2">Netball</td>
+    <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG Netball Championships 2025</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1" colspan="2">C Division Girls</td>
-    <td class="tg-cly1">Zonal 4th</td>
+    <td class="tg-cly1" colspan="2">C Division Girls (League 2)</td>
+    <td class="tg-cly1">Top 8</td>
   </tr>
   <tr>
     <td class="tg-u1cn" rowspan="2">Wushu</td>
