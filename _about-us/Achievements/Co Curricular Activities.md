@@ -438,25 +438,18 @@ variant: markdown
 </thead>
 <tbody>
 <tr>
-    <td class="tg-u1cn" rowspan="9">Basketball</td>
+    <td class="tg-u1cn" rowspan="6">Basketball</td>
     <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG Basketball EastZone  Championships 2025</span></td>
 	</tr>
     <tr><td class="tg-cly1">B Division Boys (East Zone)<br><br><span style="font-weight:400;color:#1E1E1E">C Division Boys (League 1)</span><br><br><span style="font-weight:400;color:#1E1E1E">C Division Girls (League 2)</span></td>
     <td class="tg-0lax" colspan="2"><span style="font-weight:400;color:#1E1E1E">1st Runner Up</span><br><br><span style="font-weight:400;color:#1E1E1E">Top 8</span><br><br><span style="font-weight:400;color:#1E1E1E">1st Runner Up</span></td>
   </tr><tr>
-</tr><tr>
-    <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">Whye Nam Sports Association U14 Basketball Tournament 2022</span></td>
-	</tr>
+</tr>
     <tr><td class="tg-cly1">Girls<br><br><span style="font-weight:400;color:#1E1E1E">Boys</span></td>
     <td class="tg-0lax" colspan="2"><span style="font-weight:400;color:#1E1E1E">Champion</span><br><br><span style="font-weight:400;color:#1E1E1E">Champion</span></td>
-  </tr><tr>
- <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">ActiveSG Cup 2022 3x3 Basketball U14 </span></td>
-	</tr>
+  </tr>
     <tr><td class="tg-cly1">Girls</td>
     <td class="tg-0lax" colspan="2"><span style="font-weight:400;color:#1E1E1E">Champion</span></td>
-  </tr><tr>
-    <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">State Representation in The 9th Asia Pacific Cup, 2022 
-(4 student representatives)</span></td>
   </tr>
   <tr>
     <td class="tg-cly1">U15 3x3<br><br><span style="font-weight:400;color:#1E1E1E">U15 5x5</span><br><br><span style="font-weight:400;color:#1E1E1E">U18 5x5</span></td>
