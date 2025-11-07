@@ -512,7 +512,7 @@ variant: markdown
 </tr>
 	<tr>
     <td class="tg-u1cn" rowspan="2">Swimming</td>
-    <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG Swimming Championships 2025</span></td>
+    <td class="tg-88u2" colspan="4"><span style="font-weight:bolder">NSG Swimming Championships 2025</span></td>
   </tr>
   <tr>
     <td class="tg-cly1">(Nationals) 'C' Division Girls<br><br><span style="font-weight:400;color:#1E1E1E"></span></td>
