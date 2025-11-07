@@ -515,7 +515,7 @@ variant: markdown
     <td class="tg-88u2" colspan="4"><span style="font-weight:bolder">NSG Swimming Championships 2025</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1">(Nationals) 'C' Division Girls<br><br><span style="font-weight:400;color:#1E1E1E"></span></td>
+    <td class="tg-cly1">(Nationals) 'C' Division Girls<br><br><span style="font-weight:400;color:#1E1E1E">1234</span><br><br><span style="font-weight:400;color:#1E1E1E">1234</span><br><br><span style="font-weight:400;color:#1E1E1E">1234</span><br><br><span style="font-weight:400;color:#1E1E1E">1234</span><br><br><span style="font-weight:400;color:#1E1E1E">1234</span></td>
     <td class="tg-cly1" colspan="6">100 m Butterfly<br>Finals - Low Ka Yen, 1JT<br><br><span style="font-weight:400;color:#1E1E1E">200 m Individual Medley<br>Finals - Low Ka Yen, 1JT</span><br><br><span style="font-weight:400;color:#1E1E1E">50 m Breaststroke<br>Finals - Brigitte Si-Han Rusli, 2HM</span><br><br><span style="font-weight:400;color:#1E1E1E">100 m Breaststroke<br>Finals - Brigitte Si-Han Rusli, 2HM</span><br><br><span style="font-weight:400;color:#1E1E1E">4 x 50 m Individual Medley<br>Relay - Finals, 6th place</span><br><br><span style="font-weight:400;color:#1E1E1E">4 x 50 m Freestyle Medley<br>Relay - Finals, 6th place</span></td>
 </tr>
 	<tr>
