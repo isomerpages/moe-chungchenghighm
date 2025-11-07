@@ -438,7 +438,7 @@ variant: markdown
 </thead>
 <tbody>
 <tr>
-    <td class="tg-u1cn" rowspan="7">Basketball</td>
+    <td class="tg-u1cn" rowspan="6">Basketball</td>
     <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG Basketball EastZone  Championships 2025</span></td>
 	</tr>
     <tr><td class="tg-cly1">B Division Boys (East Zone)<br><br><span style="font-weight:400;color:#1E1E1E">C Division Boys (League 1)</span><br><br><span style="font-weight:400;color:#1E1E1E">C Division Girls (League 2)</span></td>
@@ -454,10 +454,6 @@ variant: markdown
   <tr>
     <td class="tg-cly1">Whye Nam U16 Basketball Cup 2025<br><br><span style="font-weight:400;color:#1E1E1E">Raffles U17 Pioneers Cup 2025</span><br><br><span style="font-weight:400;color:#1E1E1E">B Division Boys &amp; Girls </span></td>
     <td class="tg-cly1" colspan="2">Participation (TBC)<br><br><span style="font-weight:400;color:#1E1E1E"></span><br><br><span style="font-weight:400;color:#1E1E1E">Participation (TBC)</span></td>
-  </tr>
-	<tr>
-    <td class="tg-cly1">U15 3x3<br><br><span style="font-weight:400;color:#1E1E1E">U15 5x5</span><br><br><span style="font-weight:400;color:#1E1E1E">U18 5x5</span></td>
-    <td class="tg-cly1" colspan="2">2nd, 3rd<br><br><span style="font-weight:400;color:#1E1E1E">4th</span><br><br><span style="font-weight:400;color:#1E1E1E">3rd</span></td>
   </tr>
     <tr><td class="tg-u1cn" rowspan="2">Table Tennis</td>
     <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG EastZone Table Tennis Championships 2022</span></td>
