@@ -446,7 +446,7 @@ variant: markdown
   </tr><tr>
 </tr>
     <tr><td class="tg-cly1">BAS Youth Cup 2025<br>U14 Boys &amp; Girls</td>
-    <td class="tg-0lax" colspan="1"><span style="font-weight:400;color:#1E1E1E">Participation</span></td>
+    <td class="tg-0lax" colspan="2"><span style="font-weight:400;color:#1E1E1E">Participation</span></td>
   </tr>
     <tr><td class="tg-cly1">Girls</td>
     <td class="tg-0lax" colspan="2"><span style="font-weight:400;color:#1E1E1E">Champion</span></td>
