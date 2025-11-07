@@ -510,6 +510,14 @@ variant: markdown
     <td class="tg-cly1">B Division Girls<br><br><span style="font-weight:400;color:#1E1E1E">C Division Girls</span></td>
     <td class="tg-cly1" colspan="2">National 4th<br><br><span style="font-weight:400;color:#1E1E1E">National 2nd</span></td>
 </tr>
+	<tr>
+    <td class="tg-u1cn" rowspan="2">Swimming</td>
+    <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG Swimming Championships 2025</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">(Nationals) 'C' Division Girls<br><br><span style="font-weight:400;color:#1E1E1E"></span></td>
+    <td class="tg-cly1" colspan="6">100 m Butterfly<br>Finals - Low Ka Yen, 1JT<br><br><span style="font-weight:400;color:#1E1E1E">200 m Individual Medley<br>Finals - Low Ka Yen, 1JT</span><br><br><span style="font-weight:400;color:#1E1E1E">50 m Breaststroke<br>Finals - Brigitte Si-Han Rusli, 2HM</span><br><br><span style="font-weight:400;color:#1E1E1E">National 2nd</span><br><br><span style="font-weight:400;color:#1E1E1E">National 2nd</span><br><br><span style="font-weight:400;color:#1E1E1E">National 2nd</span></td>
+</tr>
 			 <tr>
     <td class="tg-u1cn" rowspan="4">Other Sports</td>
     <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG National Taekwondo (Poomsae) Championships 2022</span></td>
