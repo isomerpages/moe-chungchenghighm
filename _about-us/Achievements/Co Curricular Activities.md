@@ -429,17 +429,17 @@ variant: markdown
 <thead>
   <tr>
     <th class="tg-u1cn" rowspan="2">Badminton</th>
-    <th class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG Badminton EastZone  Championships 2022</span></th>
+    <th class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG Badminton Championships 2025</span></th>
   </tr>
  <tr>
-    <th class="tg-cly1">C Division Girls</th>
-    <th class="tg-cly1" colspan="2">Zonal 3rd</th>
+    <th class="tg-cly1">B Division Boys (East Zone) <br><br> C Division Boys (League 2)</th>
+    <th class="tg-cly1" colspan="2">Top 8 <br><br> Champions</th>
   </tr>
 </thead>
 <tbody>
 <tr>
     <td class="tg-u1cn" rowspan="9">Basketball</td>
-    <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG Basketball EastZone  Championships 2022</span></td>
+    <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG Basketball EastZone  Championships 2025</span></td>
 	</tr>
     <tr><td class="tg-cly1">B Division Girls<br><br><span style="font-weight:400;color:#1E1E1E">C Division Girls</span><br><br><span style="font-weight:400;color:#1E1E1E">C Division Boys</span></td>
     <td class="tg-0lax" colspan="2"><span style="font-weight:400;color:#1E1E1E">Zonal 2nd</span><br><br><span style="font-weight:400;color:#1E1E1E">Zonal 3rd</span><br><br><span style="font-weight:400;color:#1E1E1E">Zonal 3rd</span></td>
