@@ -456,14 +456,14 @@ variant: markdown
     <td class="tg-cly1" colspan="2">Participation (TBC)<br><br><span style="font-weight:400;color:#1E1E1E"></span><br><br><span style="font-weight:400;color:#1E1E1E">Participation (TBC)</span></td>
   </tr>
     <tr><td class="tg-u1cn" rowspan="4">Table Tennis</td>
-    <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG EastZone Table Tennis Championships 2022</span></td>
+    <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG Table Tennis East Zone Championships 2025</span></td>
   </tr>
   <tr>
     <td class="tg-cly1">B Division Girls<br><br><span style="font-weight:400;color:#1E1E1E">B Division Boys</span><br><br><span style="font-weight:400;color:#1E1E1E">C Division Girls</span>
 <br><br><span style="font-weight:400;color:#1E1E1E">C Division Boys</span></td>
     <td class="tg-cly1" colspan="2">Zonal 3rd<br><br><span style="font-weight:400;color:#1E1E1E">Zonal 4th</span><br><br><span style="font-weight:400;color:#1E1E1E">Zonal 4th</span><br><br><span style="font-weight:400;color:#1E1E1E">Zonal 3rd</span></td>
   </tr>
-	<tr><td class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG EastZone Table Tennis Championships 2022</span></td>
+	<tr><td class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG Table Tennis Championships 2025</span></td>
   </tr>
   <tr>
     <td class="tg-cly1">B Division Girls<br><br><span style="font-weight:400;color:#1E1E1E">B Division Boys</span><br><br><span style="font-weight:400;color:#1E1E1E">C Division Girls</span>
