@@ -1149,11 +1149,22 @@ variant: markdown
     <td class="tg-cly1">Fo Guang Shan National Pen Calligraphy Competition 2025</td>
     <td class="tg-cly1">2 Merit Awards</td>
   </tr>
-  
   <tr>
-    <td class="tg-u1cn">Digital Media<br>Art &amp; Crafts</td>
-    <td class="tg-u1cn">NE Mation 2021 – Smexy-Waxy</td>
-    <td class="tg-u1cn">1st Runner-up</td>
+    <td class="tg-mgsp" rowspan="4"> <br><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E">Chinese Calligraphy &amp; Brush Painting</span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span></td>
+    <td class="tg-u1cn">2025 The 28th World Calligraphy Itinerant Grand Exhibition</td>
+    <td class="tg-u1cn">3 Gold Awards<br><span style="font-weight:400;color:#1E1E1E">7 Sliver Awards</span><br><span style="font-weight:400;color:#1E1E1E">7 Bronze Awards</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Ngee Ann National Students' Calligraphy Competition 2025</td>
+    <td class="tg-cly1">1 Merit Award<br>5 Commendation Awards</td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">14th National Primary &amp; Secondary School Chinese Calligraphy Competition</td>
+    <td class="tg-u1cn">1 Merit Awards<br>5 Commendation Awards</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Fo Guang Shan National Pen Calligraphy Competition 2025</td>
+    <td class="tg-cly1">2 Merit Awards</td>
   </tr>
 </tbody>
 </table>
