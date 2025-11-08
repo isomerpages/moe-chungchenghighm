@@ -1138,16 +1138,16 @@ variant: markdown
     <td class="tg-u1cn">3 Gold Awards<br><span style="font-weight:400;color:#1E1E1E">7 Sliver Awards</span><br><span style="font-weight:400;color:#1E1E1E">7 Bronze Awards</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1">2021年威德智海全国硬笔书法比赛<br><br><span style="font-weight:400;color:#1E1E1E">2021 National Ballpoint Pen Calligraphy Competition</span></td>
-    <td class="tg-cly1">Winning Award</td>
+    <td class="tg-cly1">Ngee Ann National Students' Calligraphy Competition 2025</td>
+    <td class="tg-cly1">1 Merit Award<br>5 Commendation Awards</td>
   </tr>
   <tr>
-    <td class="tg-u1cn">N Cube National Chinese Calligraphy Competition 2021</td>
-    <td class="tg-u1cn">2 Consolation Prize</td>
+    <td class="tg-u1cn">14th National Primary &amp; Secondary School Chinese Calligraphy Competition</td>
+    <td class="tg-u1cn">1 Merit Awards<br>5 Commendation Awards</td>
   </tr>
   <tr>
-    <td class="tg-cly1">Ngee Ann National Students’ Calligraphy Competition 2021</td>
-    <td class="tg-cly1">Calligraphy and Chinese Painting Club-Active Participating Award (College Category)</td>
+    <td class="tg-cly1">Fo Guang Shan National Pen Calligraphy Competition 2025</td>
+    <td class="tg-cly1">2 Merit Awards</td>
   </tr>
   <tr>
     <td class="tg-u1cn">第十届全国中、小学书法比赛<br>(福清会馆与培青学校联合主办）</td>
