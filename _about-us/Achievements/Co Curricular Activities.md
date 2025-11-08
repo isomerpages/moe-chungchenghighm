@@ -1150,7 +1150,7 @@ variant: markdown
     <td class="tg-cly1">2 Merit Awards</td>
   </tr>
   <tr>
-    <td class="tg-mgsp" rowspan="4"> <br><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E">Chinese Chess</span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span></td>
+    <td class="tg-mgsp" rowspan="3"> <br><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E">Chinese Chess</span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span></td>
     <td class="tg-u1cn">27th "Char Yong Cup" Students Xiangqi Championships</td>
     <td class="tg-u1cn">Women's Open Category<br>1st - Celest Lim En Qi (4CR)<br>2nd - Janice Lim Zi Xuan (4GR)<br><br><span style="font-weight:400;color:#1E1E1E">Men's U14 Category<br>2nd - Zhang Qishuo (2FG)<br>7th - Khoo Kai Hng Dylan (2BN)</span><br><br><span style="font-weight:400;color:#1E1E1E">U16 Category<br>4th - Chan Hong Qi (4BN)</span></td>
   </tr>
