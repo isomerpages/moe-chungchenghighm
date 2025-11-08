@@ -1155,8 +1155,8 @@ variant: markdown
     <td class="tg-u1cn">Women's Open Category<br>1st - Celest Lim En Qi (4CR)<br>2nd - Janice Lim Zi Xuan (4GR)<br><br><span style="font-weight:400;color:#1E1E1E">Men's U14 Category<br>2nd - Zhang Qishuo (2FG)<br>7th - Khoo Kai Hng Dylan (2BN)</span><br><br><span style="font-weight:400;color:#1E1E1E">U16 Category<br>4th - Chan Hong Qi (4BN)</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1">Ngee Ann National Students' Calligraphy Competition 2025</td>
-    <td class="tg-cly1">1 Merit Award<br>5 Commendation Awards</td>
+    <td class="tg-cly1">Victoria Cup Chinese Chess Tournament 2025</td>
+    <td class="tg-cly1">7th place - Wong Yip Fung (4DL)<br>6th place - Chan Hong Qi (4BN)<br>5th place - Lim Jia Yu<br>2nd place - Zhang Qishuo (2FG)</td>
   </tr>
   <tr>
     <td class="tg-u1cn">14th National Primary &amp; Secondary School Chinese Calligraphy Competition</td>
