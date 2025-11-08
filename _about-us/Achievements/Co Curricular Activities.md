@@ -1159,13 +1159,10 @@ variant: markdown
     <td class="tg-cly1">7th place - Wong Yip Fung (4DL)<br>6th place - Chan Hong Qi (4BN)<br>5th place - Lim Jia Yu<br>2nd place - Zhang Qishuo (2FG)</td>
   </tr>
   <tr>
-    <td class="tg-u1cn">14th National Primary &amp; Secondary School Chinese Calligraphy Competition</td>
-    <td class="tg-u1cn">1 Merit Awards<br>5 Commendation Awards</td>
+    <td class="tg-u1cn">World Xiangqi Championship in Shanghai</td>
+    <td class="tg-u1cn">Zhang Qishuo (2FG)<br>Finished 18th out of 31 competitors worldwide</td>
   </tr>
-  <tr>
-    <td class="tg-cly1">Fo Guang Shan National Pen Calligraphy Competition 2025</td>
-    <td class="tg-cly1">2 Merit Awards</td>
-  </tr>
+ 
 </tbody>
 </table>
 			</p>
