@@ -1162,6 +1162,11 @@ variant: markdown
     <td class="tg-u1cn">World Xiangqi Championship in Shanghai</td>
     <td class="tg-u1cn">Zhang Qishuo (2FG)<br>Finished 18th out of 31 competitors worldwide</td>
   </tr>
+	  <tr>
+    <td class="tg-mgsp" rowspan="3"> <br><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E">Lion and Dragon Dance</span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span></td>
+    <td class="tg-cly1">18th NTU Institutional Lion Dance Competition 2025</td>
+    <td class="tg-cly1">1 Silver &amp; 2 Bronze</td>
+  </tr>
 </tbody>
 </table>
 			</p>
