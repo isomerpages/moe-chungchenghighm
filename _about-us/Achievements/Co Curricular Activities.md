@@ -1162,7 +1162,6 @@ variant: markdown
     <td class="tg-u1cn">World Xiangqi Championship in Shanghai</td>
     <td class="tg-u1cn">Zhang Qishuo (2FG)<br>Finished 18th out of 31 competitors worldwide</td>
   </tr>
-
 </tbody>
 </table>
 			</p>
