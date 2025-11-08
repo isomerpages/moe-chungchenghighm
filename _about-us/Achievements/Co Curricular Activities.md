@@ -519,7 +519,7 @@ variant: markdown
     <td class="tg-cly1" colspan="6">100 m Butterfly<br>Finals - Low Ka Yen, 1JT<br><br><span style="font-weight:400;color:#1E1E1E">200 m Individual Medley<br>Finals - Low Ka Yen, 1JT</span><br><br><span style="font-weight:400;color:#1E1E1E">50 m Breaststroke<br>Finals - Brigitte Si-Han Rusli, 2HM</span><br><br><span style="font-weight:400;color:#1E1E1E">100 m Breaststroke<br>Finals - Brigitte Si-Han Rusli, 2HM</span><br><br><span style="font-weight:400;color:#1E1E1E">4 x 50 m Individual Medley<br>Relay - Finals, 6th place</span><br><br><span style="font-weight:400;color:#1E1E1E">4 x 50 m Freestyle Medley<br>Relay - Finals, 6th place</span></td>
 </tr>
 	<tr>
-    <td class="tg-u1cn" rowspan="2">Singapore Schools Representation (Wushu)</td>
+    <td class="tg-u1cn" rowspan="2">Singapore<br>Schools<br> Representation<br>(Wushu)</td>
     <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">14th ASEAN Schools Games (Brunei) 20-29 Nov 2025</span></td>
   </tr>
   <tr>
