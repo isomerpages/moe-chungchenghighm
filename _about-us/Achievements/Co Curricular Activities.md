@@ -1316,6 +1316,6 @@ variant: markdown
   </tr>
 </tbody>
 </table>
-			</p>-
+			</p>
   </div>
 	</li></ul>
