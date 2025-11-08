@@ -436,6 +436,91 @@ Co-Curricular Activites
     <input type="checkbox" id="accordion2">
     <label for="accordion2">Uniformed Groups</label>
        <div>
+				 <h4 style="color:black" align="left">2025</h4>
+      <p>
+      <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-un5n{background-color:#CB4B3D;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-u1cn{background-color:#EEE;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-un5n"><span style="font-weight:bolder">CCA</span></th>
+    <th class="tg-un5n"><span style="font-weight:bolder">Event / Award</span></th>
+    <th class="tg-un5n"><span style="font-weight:bolder">Achievements</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-u1cn" rowspan="2">Girl Guides</td>
+    <td class="tg-u1cn">Puan Noor Aishah Award 2024</td>
+    <td class="tg-u1cn">2 Gold <br><br><span style="font-weight:400;color:#1E1E1E"></span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Baden Powell Award</td>
+    <td class="tg-cly1">9 Awardees</td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn" rowspan="3"><span style="background-color:#EEE">National Cadet Corps (Land)</span></td>
+    <td class="tg-u1cn">Unit Recognition Award 2025</td>
+    <td class="tg-u1cn">Distinction [24 years of consecutive top award]</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Outstanding Cadet Award</td>
+    <td class="tg-cly1">2 Awardees</td>
+  </tr>
+	<tr>
+    <td class="tg-u1cn">Freestyle Drill Competition</td>
+    <td class="tg-u1cn">- East District Champion <br> - Nationals 4th</td>
+  </tr>
+<tr>
+    <td class="tg-u1cn" rowspan="4"><span style="background-color:#EEE">National Police Cadet Corps</span></td>
+    <td class="tg-u1cn">NPCC Unit Overall Proficiency Award (UOPA) 2024 </td>
+    <td class="tg-u1cn">Distinction</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">SPF-NPCC Badge 2025</td>
+    <td class="tg-cly1">1 Awardee</td>
+  </tr>
+<tr>
+    <td class="tg-u1cn">Best Unit Cadet Badge 2025 </td>
+    <td class="tg-u1cn">2 Awardees</td>
+  </tr>
+	<tr>
+    <td class="tg-u1cn">NPCC Inter-Unit 22 Revolver Shooting Competition 2025 (Girls Team) - 8th <br> <br> UG Social Media Competition 2025 - Honourable Mention </td>
+    <td class="tg-u1cn"></td>
+  </tr>
+<tr>
+    <td class="tg-u1cn" rowspan="2"><span style="background-color:#EEE">Scouts</span></td>
+    <td class="tg-cly1">Frank Cooper Sands Award 2025</td>
+    <td class="tg-cly1">Awarded</td>
+  </tr>
+	<tr>
+    <td class="tg-u1cn">Chief Scout Award </td>
+    <td class="tg-u1cn">5 Awardees</td>
+  </tr>
+<tr>
+    <td class="tg-u1cn" rowspan="3"><span style="background-color:#EEE"> </span><br><br><span style="font-weight:400;color:#1E1E1E">St John Brigade</span></td>
+    <td class="tg-u1cn">Corps Achievement Award 2024</td>
+    <td class="tg-u1cn">Gold Award</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1n">Chief Commissioner's Badge</td>
+    <td class="tg-cly1">19 Awardees</td>
+  </tr>
+	<tr>
+    <td class="tg-cly1n">Commissioner's Badge 22 Sec Three students awarded <br> <br>Singapore-Malaysia First Aid and Home Nursing Competition 2025 Participation in Ambulance Cadet category</td>
+    <td class="tg-cly1"></td>
+  </tr>     
+</tbody>
+</table>
+			</p>
 			                <h4 style="color:black" align="left">2022</h4>
       <p>
       <style type="text/css">
