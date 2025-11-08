@@ -944,6 +944,58 @@ variant: markdown
     <input type="checkbox" id="accordion4">
     <label for="accordion4">Performing Arts Group</label>
     <div>
+			<h4 style="color:black" align="left">2025</h4>
+      <p>
+      <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-43yd{background-color:#CB4B3D;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-p2di{background-color:#EEE;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+.tg .tg-mgsp{background-color:#EEE;text-align:center;vertical-align:middle}
+.tg .tg-x413{color:#1E1E1E;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-43yd" colspan="2"><span style="color:#FFF;background-color:#CB4B3D">Singapore Youth Festival (SYF) 2025</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-p2di"><span style="font-weight:bolder">CCA</span></td>
+    <td class="tg-p2di"><span style="font-weight:bolder">Achievements</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">Chinese Orchestra</td>
+    <td class="tg-nrix">Certificate of Distinction</td>
+  </tr>
+  <tr>
+    <td class="tg-mgsp">Choir</td>
+    <td class="tg-mgsp">Certificate of Distinction</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">Concert Band</td>
+    <td class="tg-x413">Certificate of Distinction</td>
+  </tr>
+  <tr>
+    <td class="tg-mgsp">Modern Dance</td>
+    <td class="tg-mgsp">Certificate of Accomplishment</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">Chinese Drama</td>
+    <td class="tg-nrix">Certificate of Accomplishment</td>
+  </tr>
+  <tr>
+    <td class="tg-mgsp">English Drama</td>
+    <td class="tg-mgsp">Certificate of Accomplishment</td>
+  </tr>
+</tbody>
+</table>
+			</p>
       <h4 style="color:black" align="left">2021</h4>
       <p>
       <style type="text/css">
