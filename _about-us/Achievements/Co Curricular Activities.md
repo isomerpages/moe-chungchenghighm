@@ -1133,7 +1133,7 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-mgsp" rowspan="6"> <br><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E">Chinese Calligraphy &amp; Brush Painting</span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span></td>
+    <td class="tg-mgsp" rowspan="4"> <br><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E">Chinese Calligraphy &amp; Brush Painting</span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span></td>
     <td class="tg-u1cn">2025 The 28th World Calligraphy Itinerant Grand Exhibition</td>
     <td class="tg-u1cn">3 Gold Awards<br><span style="font-weight:400;color:#1E1E1E">7 Sliver Awards</span><br><span style="font-weight:400;color:#1E1E1E">7 Bronze Awards</span></td>
   </tr>
@@ -1149,14 +1149,7 @@ variant: markdown
     <td class="tg-cly1">Fo Guang Shan National Pen Calligraphy Competition 2025</td>
     <td class="tg-cly1">2 Merit Awards</td>
   </tr>
-  <tr>
-    <td class="tg-u1cn">第十届全国中、小学书法比赛<br>(福清会馆与培青学校联合主办）</td>
-    <td class="tg-u1cn">Participation<br>(3 students)</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">义安全国学生书法比赛</td>
-    <td class="tg-cly1">2021学校组-积极参与奖（中学组）</td>
-  </tr>
+  
   <tr>
     <td class="tg-u1cn">Digital Media<br>Art &amp; Crafts</td>
     <td class="tg-u1cn">NE Mation 2021 – Smexy-Waxy</td>
