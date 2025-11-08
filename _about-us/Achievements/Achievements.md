@@ -1612,9 +1612,9 @@ Co-Curricular Activites
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-amwm"><span style="font-weight:bolder">CCA</span></th>
-    <th class="tg-amwm"><span style="font-weight:bolder">Event / Award</span></th>
-    <th class="tg-amwm"><span style="font-weight:bolder">Achievements</span></th>
+    <th class="tg-un5n"><span style="font-weight:bolder">CCA</span></th>
+    <th class="tg-un5n"><span style="font-weight:bolder">Event / Award</span></th>
+    <th class="tg-un5n"><span style="font-weight:bolder">Achievements</span></th>
   </tr>
 </thead>
 <tbody>
