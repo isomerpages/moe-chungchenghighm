@@ -1110,6 +1110,61 @@ variant: markdown
     <input type="checkbox" id="accordion5">
     <label for="accordion5">Visual and Cultural Arts Group</label>
     <div>
+			<h4 style="color:black" align="left">2025</h4>
+      <p>
+      <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-mgsp{background-color:#EEE;text-align:center;vertical-align:middle}
+.tg .tg-u1cn{background-color:#EEE;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-amwm"><span style="font-weight:bolder">CCA</span></th>
+    <th class="tg-amwm"><span style="font-weight:bolder">Event / Award</span></th>
+    <th class="tg-amwm"><span style="font-weight:bolder">Achievements</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-mgsp" rowspan="6"> <br><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E">Chinese Calligraphy &amp; Brush Painting</span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span></td>
+    <td class="tg-u1cn">2025 The 28th World Calligraphy Itinerant Grand Exhibition</td>
+    <td class="tg-u1cn">3 Gold Awards<br><span style="font-weight:400;color:#1E1E1E">7 Sliver Awards</span><br><span style="font-weight:400;color:#1E1E1E">7 Bronze Awards</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">2021年威德智海全国硬笔书法比赛<br><br><span style="font-weight:400;color:#1E1E1E">2021 National Ballpoint Pen Calligraphy Competition</span></td>
+    <td class="tg-cly1">Winning Award</td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">N Cube National Chinese Calligraphy Competition 2021</td>
+    <td class="tg-u1cn">2 Consolation Prize</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Ngee Ann National Students’ Calligraphy Competition 2021</td>
+    <td class="tg-cly1">Calligraphy and Chinese Painting Club-Active Participating Award (College Category)</td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">第十届全国中、小学书法比赛<br>(福清会馆与培青学校联合主办）</td>
+    <td class="tg-u1cn">Participation<br>(3 students)</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">义安全国学生书法比赛</td>
+    <td class="tg-cly1">2021学校组-积极参与奖（中学组）</td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">Digital Media<br>Art &amp; Crafts</td>
+    <td class="tg-u1cn">NE Mation 2021 – Smexy-Waxy</td>
+    <td class="tg-u1cn">1st Runner-up</td>
+  </tr>
+</tbody>
+</table>
+			</p>
       <h4 style="color:black" align="left">2021</h4>
       <p>
       <style type="text/css">
