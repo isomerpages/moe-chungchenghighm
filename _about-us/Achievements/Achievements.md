@@ -3,6 +3,7 @@ title: Achievements
 permalink: /about-us/achievements/
 description: ""
 third_nav_title: Achievements
+variant: markdown
 ---
 Academic
 --------
@@ -37,7 +38,7 @@ Academic
     <td class="tg-u1cn">3rd in the Senior League</td>
   </tr>
   <tr>
-    <td class="tg-cly1">2022 Hybrid Speech Arts' Competition & Festival organised by ACJC</td>
+    <td class="tg-cly1">2022 Hybrid Speech Arts' Competition &amp; Festival organised by ACJC</td>
     <td class="tg-cly1">Comic Monologue (Lower Secondary) – 1st and 3rd<br><br>Comic Speech (Lower Secondary) – 2 3rd Placing</td>
   </tr>
   <tr>
@@ -435,6 +436,91 @@ Co-Curricular Activites
     <input type="checkbox" id="accordion2">
     <label for="accordion2">Uniformed Groups</label>
        <div>
+				 <h4 style="color:black" align="left">2025</h4>
+      <p>
+      <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-un5n{background-color:#CB4B3D;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-u1cn{background-color:#EEE;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-un5n"><span style="font-weight:bolder">CCA</span></th>
+    <th class="tg-un5n"><span style="font-weight:bolder">Event / Award</span></th>
+    <th class="tg-un5n"><span style="font-weight:bolder">Achievements</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-u1cn" rowspan="2">Girl Guides</td>
+    <td class="tg-u1cn">Puan Noor Aishah Award 2024</td>
+    <td class="tg-u1cn">2 Gold <br><br><span style="font-weight:400;color:#1E1E1E"></span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Baden Powell Award</td>
+    <td class="tg-cly1">9 Awardees</td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn" rowspan="3"><span style="background-color:#EEE">National Cadet Corps (Land)</span></td>
+    <td class="tg-u1cn">Unit Recognition Award 2025</td>
+    <td class="tg-u1cn">Distinction [24 years of consecutive top award]</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Outstanding Cadet Award</td>
+    <td class="tg-cly1">2 Awardees</td>
+  </tr>
+	<tr>
+    <td class="tg-u1cn">Freestyle Drill Competition</td>
+    <td class="tg-u1cn">- East District Champion <br> - Nationals 4th</td>
+  </tr>
+<tr>
+    <td class="tg-u1cn" rowspan="4"><span style="background-color:#EEE">National Police Cadet Corps</span></td>
+    <td class="tg-u1cn">NPCC Unit Overall Proficiency Award (UOPA) 2024 </td>
+    <td class="tg-u1cn">Distinction</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">SPF-NPCC Badge 2025</td>
+    <td class="tg-cly1">1 Awardee</td>
+  </tr>
+<tr>
+    <td class="tg-u1cn">Best Unit Cadet Badge 2025 </td>
+    <td class="tg-u1cn">2 Awardees</td>
+  </tr>
+	<tr>
+    <td class="tg-u1cn">NPCC Inter-Unit 22 Revolver Shooting Competition 2025 (Girls Team) - 8th <br> <br> UG Social Media Competition 2025 - Honourable Mention </td>
+    <td class="tg-u1cn"></td>
+  </tr>
+<tr>
+    <td class="tg-u1cn" rowspan="2"><span style="background-color:#EEE">Scouts</span></td>
+    <td class="tg-cly1">Frank Cooper Sands Award 2025</td>
+    <td class="tg-cly1">Awarded</td>
+  </tr>
+	<tr>
+    <td class="tg-u1cn">Chief Scout Award </td>
+    <td class="tg-u1cn">5 Awardees</td>
+  </tr>
+<tr>
+    <td class="tg-u1cn" rowspan="3"><span style="background-color:#EEE"> </span><br><br><span style="font-weight:400;color:#1E1E1E">St John Brigade</span></td>
+    <td class="tg-u1cn">Corps Achievement Award 2024</td>
+    <td class="tg-u1cn">Gold Award</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1n">Chief Commissioner's Badge</td>
+    <td class="tg-cly1">19 Awardees</td>
+  </tr>
+	<tr>
+    <td class="tg-cly1n">Commissioner's Badge 22 Sec Three students awarded <br> <br>Singapore-Malaysia First Aid and Home Nursing Competition 2025 Participation in Ambulance Cadet category</td>
+    <td class="tg-cly1"></td>
+  </tr>     
+</tbody>
+</table>
+			</p>
 			                <h4 style="color:black" align="left">2022</h4>
       <p>
       <style type="text/css">
@@ -459,7 +545,7 @@ Co-Curricular Activites
   <tr>
     <td class="tg-u1cn" rowspan="2">Girl Guides</td>
     <td class="tg-u1cn">Puan Noor Aishah (PNA) Award </td>
-    <td class="tg-u1cn">Gold for both 1st & 2nd Companies<br><br><span style="font-weight:400;color:#1E1E1E">2 Awardees</span></td>
+    <td class="tg-u1cn">Gold for both 1st &amp; 2nd Companies<br><br><span style="font-weight:400;color:#1E1E1E">2 Awardees</span></td>
   </tr>
   <tr>
     <td class="tg-cly1">Baden Powell Award</td>
@@ -746,10 +832,153 @@ Co-Curricular Activites
 </table>
 			</p>
   </div>
-	<li>
+	</div></li><li>
     <input type="checkbox" id="accordion3">
     <label for="accordion3">Sports Group</label>
     <div>
+			<h4 style="color:black" align="left">2025</h4>
+      <p>
+      <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-88u2{background-color:#EEE;color:#1E1E1E;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-amwm{color:#1E1E1E;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-u1cn{background-color:#EEE;text-align:left;vertical-align:middle}
+.tg .tg-r5gp{background-color:#EEE;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-u1cn" rowspan="2">Badminton</th>
+    <th class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG Badminton Championships 2025</span></th>
+  </tr>
+ <tr>
+    <th class="tg-cly1">B Division Boys (East Zone) <br><br> C Division Boys (League 2)</th>
+    <th class="tg-cly1" colspan="2">Top 8 <br><br> Champions</th>
+  </tr>
+</thead>
+<tbody>
+<tr>
+    <td class="tg-u1cn" rowspan="6">Basketball</td>
+    <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG Basketball EastZone  Championships 2025</span></td>
+	</tr>
+    <tr><td class="tg-cly1">B Division Boys (East Zone)<br><br><span style="font-weight:400;color:#1E1E1E">C Division Boys (League 1)</span><br><br><span style="font-weight:400;color:#1E1E1E">C Division Girls (League 2)</span></td>
+    <td class="tg-0lax" colspan="2"><span style="font-weight:400;color:#1E1E1E">1st Runner Up</span><br><br><span style="font-weight:400;color:#1E1E1E">Top 8</span><br><br><span style="font-weight:400;color:#1E1E1E">1st Runner Up</span></td>
+  </tr><tr>
+</tr>
+    <tr><td class="tg-cly1">BAS Youth Cup 2025<br>U14 Boys &amp; Girls</td>
+    <td class="tg-0lax" colspan="2"><span style="font-weight:400;color:#1E1E1E">Participation</span></td>
+  </tr>
+    <tr><td class="tg-cly1">ASRJC U16 B Boys Invitational (TBC)</td>
+    <td class="tg-0lax" colspan="2"><span style="font-weight:400;color:#1E1E1E">Participation (TBC)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Whye Nam U16 Basketball Cup 2025<br><br><span style="font-weight:400;color:#1E1E1E">Raffles U17 Pioneers Cup 2025</span><br><br><span style="font-weight:400;color:#1E1E1E">B Division Boys &amp; Girls </span></td>
+    <td class="tg-cly1" colspan="2">Participation (TBC)<br><br><span style="font-weight:400;color:#1E1E1E"></span><br><br><span style="font-weight:400;color:#1E1E1E">Participation (TBC)</span></td>
+  </tr>
+	<tr><td class="tg-u1cn" rowspan="4">Table Tennis</td>
+    <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG Table Tennis East Zone Championships 2025</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">B Division Girls<br><br><span style="font-weight:400;color:#1E1E1E">B Division Boys</span>
+    </td><td class="tg-cly1" colspan="2">East Zone 2nd<br><br><span style="font-weight:400;color:#1E1E1E">East Zone 4th</span></td>
+  </tr>
+	<tr><td class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG Table Tennis Championships 2025</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">C Division Girls (League 1)<br><br><span style="font-weight:400;color:#1E1E1E">C Division Boys (League 1)</span></td>
+    <td class="tg-cly1" colspan="2">Top 16<br><br><span style="font-weight:400;color:#1E1E1E">Top 12</span></td>
+  </tr>
+    <tr><td class="tg-u1cn" rowspan="4">NCC-Taekwondo</td>
+    <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG Taekwondo Championships 2025</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">B Division Girls<br><br><span style="font-weight:400;color:#1E1E1E"></span>
+    </td><td class="tg-cly1" colspan="2">Poomsae Individual<br>Poom/Black 2 - 4th Position<br><br><span style="font-weight:400;color:#1E1E1E">Kyorugi (Individual)<br>Poom/Black Belt Under 60 kg - 1 Gold</span></td>
+  </tr>
+	<tr><td class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG Taekwondo Championships 2025</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">C Division Girls<br><br><span style="font-weight:400;color:#1E1E1E">C Division Boys</span></td>
+    <td class="tg-cly1" colspan="2">Kyorugi (Individual)<br>Poom Belt Under 54 kg - 1 Silver<br><br><span style="font-weight:400;color:#1E1E1E">Poomsae (Individual)<br>Yellow 8 - 4th<br><br>Poomsae (Team)<br>Yellow 8 - 4th<br>Yellow 7 - 4th</span></td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn" rowspan="2">Netball</td>
+    <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG Netball Championships 2025</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1" colspan="2">C Division Girls (League 2)</td>
+    <td class="tg-cly1">Top 8</td>
+  </tr>
+	<tr><td class="tg-u1cn" rowspan="4">Volleyball</td>
+    <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG Volleyball East Zone Championships 2025</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">B Division Girls
+    </td><td class="tg-cly1" colspan="2">East Zone 2nd<br><br><span style="font-weight:400;color:#1E1E1E">National Top 8</span></td>
+  </tr>
+	<tr><td class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG Volleyball Championships 2025</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">C Division Girls (League 1)</td>
+    <td class="tg-cly1" colspan="2">National Top 8</td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn" rowspan="2">Wushu</td>
+    <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG EastZone Wushu Championships 2025</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">B Division Girls<br><br><span style="font-weight:400;color:#1E1E1E">C Division Girls</span></td>
+    <td class="tg-cly1" colspan="2">National 4th<br><br><span style="font-weight:400;color:#1E1E1E">National 2nd</span></td>
+</tr>
+	<tr>
+    <td class="tg-u1cn" rowspan="2">Swimming</td>
+    <td class="tg-88u2" colspan="4"><span style="font-weight:bolder">NSG Swimming Championships 2025</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">(Nationals) 'C' Division Girls<br><br><span style="font-weight:400;color:#1E1E1E"></span></td>
+    <td class="tg-cly1" colspan="6">100 m Butterfly<br>Finals - Low Ka Yen, 1JT<br><br><span style="font-weight:400;color:#1E1E1E">200 m Individual Medley<br>Finals - Low Ka Yen, 1JT</span><br><br><span style="font-weight:400;color:#1E1E1E">50 m Breaststroke<br>Finals - Brigitte Si-Han Rusli, 2HM</span><br><br><span style="font-weight:400;color:#1E1E1E">100 m Breaststroke<br>Finals - Brigitte Si-Han Rusli, 2HM</span><br><br><span style="font-weight:400;color:#1E1E1E">4 x 50 m Individual Medley<br>Relay - Finals, 6th place</span><br><br><span style="font-weight:400;color:#1E1E1E">4 x 50 m Freestyle Medley<br>Relay - Finals, 6th place</span></td>
+</tr>
+	<tr>
+    <td class="tg-u1cn" rowspan="2">Singapore<br>Schools<br> Representation<br>(Wushu)</td>
+    <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">14th ASEAN Schools Games (Brunei) 20-29 Nov 2025</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1" colspan="2">He Qiaoyi Zoey 1BN</td>
+    <td class="tg-cly1">Li Bowen 1EP</td>
+  </tr>
+<tr>
+    <td class="tg-u1cn" rowspan="2">Water Polo</td>
+    <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">47th SEA Aquatics Age Group Championships 2025 </span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1" colspan="2">Teo Zhi Rong Jeroy 4EP</td>
+    <td class="tg-cly1"></td>
+  </tr>
+	<tr>
+    <td class="tg-u1cn" rowspan="2">Cycling</td>
+    <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">Siol International MTB Challenge</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1" colspan="2">Lim Qi En Ryan 2BN</td>
+    <td class="tg-cly1"></td>
+  </tr>
+	<tr>
+    <td class="tg-u1cn" rowspan="2">Sport Climbing</td>
+    <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">ASEAN Climbing Championship<br>IFSC Asian Youth Championship<br>IFSC World Youth Championship<br></span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1" colspan="2">Ho Yan Rui, Andrea 3CR</td>
+    <td class="tg-cly1"></td>
+  </tr>
+</tbody>
+</table>
+	</p>
     <h4 style="color:black" align="left">2022</h4>
       <p>
       <style type="text/css">
@@ -781,20 +1010,20 @@ Co-Curricular Activites
     <td class="tg-u1cn" rowspan="9">Basketball</td>
     <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG Basketball EastZone  Championships 2022</span></td>
 	</tr>
-    <td class="tg-cly1">B Division Girls<br><br><span style="font-weight:400;color:#1E1E1E">C Division Girls</span><br><br><span style="font-weight:400;color:#1E1E1E">C Division Boys</span></td>
+    <tr><td class="tg-cly1">B Division Girls<br><br><span style="font-weight:400;color:#1E1E1E">C Division Girls</span><br><br><span style="font-weight:400;color:#1E1E1E">C Division Boys</span></td>
     <td class="tg-0lax" colspan="2"><span style="font-weight:400;color:#1E1E1E">Zonal 2nd</span><br><br><span style="font-weight:400;color:#1E1E1E">Zonal 3rd</span><br><br><span style="font-weight:400;color:#1E1E1E">Zonal 3rd</span></td>
-  <tr>
-<tr>
+  </tr><tr>
+</tr><tr>
     <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">Whye Nam Sports Association U14 Basketball Tournament 2022</span></td>
 	</tr>
-    <td class="tg-cly1">Girls<br><br><span style="font-weight:400;color:#1E1E1E">Boys</span></td>
+    <tr><td class="tg-cly1">Girls<br><br><span style="font-weight:400;color:#1E1E1E">Boys</span></td>
     <td class="tg-0lax" colspan="2"><span style="font-weight:400;color:#1E1E1E">Champion</span><br><br><span style="font-weight:400;color:#1E1E1E">Champion</span></td>
-  <tr>
+  </tr><tr>
  <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">ActiveSG Cup 2022 3x3 Basketball U14 </span></td>
 	</tr>
-    <td class="tg-cly1">Girls</td>
+    <tr><td class="tg-cly1">Girls</td>
     <td class="tg-0lax" colspan="2"><span style="font-weight:400;color:#1E1E1E">Champion</span></td>
-  <tr>
+  </tr><tr>
     <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">State Representation in The 9th Asia Pacific Cup, 2022 
 (4 student representatives)</span></td>
   </tr>
@@ -802,7 +1031,7 @@ Co-Curricular Activites
     <td class="tg-cly1">U15 3x3<br><br><span style="font-weight:400;color:#1E1E1E">U15 5x5</span><br><br><span style="font-weight:400;color:#1E1E1E">U18 5x5</span></td>
     <td class="tg-cly1" colspan="2">2nd, 3rd<br><br><span style="font-weight:400;color:#1E1E1E">4th</span><br><br><span style="font-weight:400;color:#1E1E1E">3rd</span></td>
   </tr>
-    <td class="tg-u1cn" rowspan="2">Table Tennis</td>
+    <tr><td class="tg-u1cn" rowspan="2">Table Tennis</td>
     <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG EastZone Table Tennis Championships 2022</span></td>
   </tr>
   <tr>
@@ -1137,10 +1366,62 @@ Co-Curricular Activites
   </tr>
 </tbody>
 </table>
-	 <li>
+	 </p></div></li><li>
     <input type="checkbox" id="accordion4">
     <label for="accordion4">Performing Arts Group</label>
     <div>
+			<h4 style="color:black" align="left">2025</h4>
+      <p>
+      <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-43yd{background-color:#CB4B3D;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-p2di{background-color:#EEE;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+.tg .tg-mgsp{background-color:#EEE;text-align:center;vertical-align:middle}
+.tg .tg-x413{color:#1E1E1E;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-43yd" colspan="2"><span style="color:#FFF;background-color:#CB4B3D">Singapore Youth Festival (SYF) 2025</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-p2di"><span style="font-weight:bolder">CCA</span></td>
+    <td class="tg-p2di"><span style="font-weight:bolder">Achievements</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">Chinese Orchestra</td>
+    <td class="tg-nrix">Certificate of Distinction</td>
+  </tr>
+  <tr>
+    <td class="tg-mgsp">Choir</td>
+    <td class="tg-mgsp">Certificate of Distinction</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">Concert Band</td>
+    <td class="tg-x413">Certificate of Distinction</td>
+  </tr>
+  <tr>
+    <td class="tg-mgsp">Modern Dance</td>
+    <td class="tg-mgsp">Certificate of Accomplishment</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">Chinese Drama</td>
+    <td class="tg-nrix">Certificate of Accomplishment</td>
+  </tr>
+  <tr>
+    <td class="tg-mgsp">English Drama</td>
+    <td class="tg-mgsp">Certificate of Accomplishment</td>
+  </tr>
+</tbody>
+</table>
+			</p>
       <h4 style="color:black" align="left">2021</h4>
       <p>
       <style type="text/css">
@@ -1255,6 +1536,66 @@ Co-Curricular Activites
     <input type="checkbox" id="accordion5">
     <label for="accordion5">Visual and Cultural Arts Group</label>
     <div>
+			<h4 style="color:black" align="left">2025</h4>
+      <p>
+      <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-mgsp{background-color:#EEE;text-align:center;vertical-align:middle}
+.tg .tg-u1cn{background-color:#EEE;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-un5n"><span style="font-weight:bolder">CCA</span></th>
+    <th class="tg-un5n"><span style="font-weight:bolder">Event / Award</span></th>
+    <th class="tg-un5n"><span style="font-weight:bolder">Achievements</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-mgsp" rowspan="4"> <br><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E">Chinese Calligraphy &amp; Brush Painting</span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span></td>
+    <td class="tg-u1cn">2025 The 28th World Calligraphy Itinerant Grand Exhibition</td>
+    <td class="tg-u1cn">3 Gold Awards<br><span style="font-weight:400;color:#1E1E1E">7 Sliver Awards</span><br><span style="font-weight:400;color:#1E1E1E">7 Bronze Awards</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Ngee Ann National Students' Calligraphy Competition 2025</td>
+    <td class="tg-cly1">1 Merit Award<br>5 Commendation Awards</td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">14th National Primary &amp; Secondary School Chinese Calligraphy Competition</td>
+    <td class="tg-u1cn">1 Merit Awards<br>5 Commendation Awards</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Fo Guang Shan National Pen Calligraphy Competition 2025</td>
+    <td class="tg-cly1">2 Merit Awards</td>
+  </tr>
+  <tr>
+    <td class="tg-mgsp" rowspan="3"> <br><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E">Chinese Chess</span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span></td>
+    <td class="tg-u1cn">27th "Char Yong Cup" Students Xiangqi Championships</td>
+    <td class="tg-u1cn">Women's Open Category<br>1st - Celest Lim En Qi (4CR)<br>2nd - Janice Lim Zi Xuan (4GR)<br><br><span style="font-weight:400;color:#1E1E1E">Men's U14 Category<br>2nd - Zhang Qishuo (2FG)<br>7th - Khoo Kai Hng Dylan (2BN)</span><br><br><span style="font-weight:400;color:#1E1E1E">U16 Category<br>4th - Chan Hong Qi (4BN)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Victoria Cup Chinese Chess Tournament 2025</td>
+    <td class="tg-cly1">7th place - Wong Yip Fung (4DL)<br>6th place - Chan Hong Qi (4BN)<br>5th place - Lim Jia Yu<br>2nd place - Zhang Qishuo (2FG)</td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">World Xiangqi Championship in Shanghai</td>
+    <td class="tg-u1cn">Zhang Qishuo (2FG)<br>Finished 18th out of 31 competitors worldwide</td>
+  </tr>
+	  <tr>
+    <td class="tg-mgsp" rowspan="3"> <br><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E">Lion and Dragon Dance</span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span></td>
+    <td class="tg-cly1">18th NTU Institutional Lion Dance Competition 2025</td>
+    <td class="tg-cly1">1 Silver &amp; 2 Bronze</td>
+  </tr>
+</tbody>
+</table>
+			</p>
       <h4 style="color:black" align="left">2021</h4>
       <p>
       <style type="text/css">
@@ -1271,9 +1612,9 @@ Co-Curricular Activites
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-amwm"><span style="font-weight:bolder">CCA</span></th>
-    <th class="tg-amwm"><span style="font-weight:bolder">Event / Award</span></th>
-    <th class="tg-amwm"><span style="font-weight:bolder">Achievements</span></th>
+    <th class="tg-un5n"><span style="font-weight:bolder">CCA</span></th>
+    <th class="tg-un5n"><span style="font-weight:bolder">Event / Award</span></th>
+    <th class="tg-un5n"><span style="font-weight:bolder">Achievements</span></th>
   </tr>
 </thead>
 <tbody>
@@ -1535,4 +1876,4 @@ Co-Curricular Activites
   </tr>
 </tbody>
 </table>
-</p>
+</p></div></li></ul></ul>
