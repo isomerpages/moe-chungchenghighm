@@ -1370,6 +1370,58 @@ Co-Curricular Activites
     <input type="checkbox" id="accordion4">
     <label for="accordion4">Performing Arts Group</label>
     <div>
+			<h4 style="color:black" align="left">2025</h4>
+      <p>
+      <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-43yd{background-color:#CB4B3D;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-p2di{background-color:#EEE;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+.tg .tg-mgsp{background-color:#EEE;text-align:center;vertical-align:middle}
+.tg .tg-x413{color:#1E1E1E;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-43yd" colspan="2"><span style="color:#FFF;background-color:#CB4B3D">Singapore Youth Festival (SYF) 2025</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-p2di"><span style="font-weight:bolder">CCA</span></td>
+    <td class="tg-p2di"><span style="font-weight:bolder">Achievements</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">Chinese Orchestra</td>
+    <td class="tg-nrix">Certificate of Distinction</td>
+  </tr>
+  <tr>
+    <td class="tg-mgsp">Choir</td>
+    <td class="tg-mgsp">Certificate of Distinction</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">Concert Band</td>
+    <td class="tg-x413">Certificate of Distinction</td>
+  </tr>
+  <tr>
+    <td class="tg-mgsp">Modern Dance</td>
+    <td class="tg-mgsp">Certificate of Accomplishment</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">Chinese Drama</td>
+    <td class="tg-nrix">Certificate of Accomplishment</td>
+  </tr>
+  <tr>
+    <td class="tg-mgsp">English Drama</td>
+    <td class="tg-mgsp">Certificate of Accomplishment</td>
+  </tr>
+</tbody>
+</table>
+			</p>
       <h4 style="color:black" align="left">2021</h4>
       <p>
       <style type="text/css">
@@ -1484,6 +1536,66 @@ Co-Curricular Activites
     <input type="checkbox" id="accordion5">
     <label for="accordion5">Visual and Cultural Arts Group</label>
     <div>
+			<h4 style="color:black" align="left">2025</h4>
+      <p>
+      <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-mgsp{background-color:#EEE;text-align:center;vertical-align:middle}
+.tg .tg-u1cn{background-color:#EEE;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-un5n"><span style="font-weight:bolder">CCA</span></th>
+    <th class="tg-un5n"><span style="font-weight:bolder">Event / Award</span></th>
+    <th class="tg-un5n"><span style="font-weight:bolder">Achievements</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-mgsp" rowspan="4"> <br><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E">Chinese Calligraphy &amp; Brush Painting</span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span></td>
+    <td class="tg-u1cn">2025 The 28th World Calligraphy Itinerant Grand Exhibition</td>
+    <td class="tg-u1cn">3 Gold Awards<br><span style="font-weight:400;color:#1E1E1E">7 Sliver Awards</span><br><span style="font-weight:400;color:#1E1E1E">7 Bronze Awards</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Ngee Ann National Students' Calligraphy Competition 2025</td>
+    <td class="tg-cly1">1 Merit Award<br>5 Commendation Awards</td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">14th National Primary &amp; Secondary School Chinese Calligraphy Competition</td>
+    <td class="tg-u1cn">1 Merit Awards<br>5 Commendation Awards</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Fo Guang Shan National Pen Calligraphy Competition 2025</td>
+    <td class="tg-cly1">2 Merit Awards</td>
+  </tr>
+  <tr>
+    <td class="tg-mgsp" rowspan="3"> <br><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E">Chinese Chess</span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span></td>
+    <td class="tg-u1cn">27th "Char Yong Cup" Students Xiangqi Championships</td>
+    <td class="tg-u1cn">Women's Open Category<br>1st - Celest Lim En Qi (4CR)<br>2nd - Janice Lim Zi Xuan (4GR)<br><br><span style="font-weight:400;color:#1E1E1E">Men's U14 Category<br>2nd - Zhang Qishuo (2FG)<br>7th - Khoo Kai Hng Dylan (2BN)</span><br><br><span style="font-weight:400;color:#1E1E1E">U16 Category<br>4th - Chan Hong Qi (4BN)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Victoria Cup Chinese Chess Tournament 2025</td>
+    <td class="tg-cly1">7th place - Wong Yip Fung (4DL)<br>6th place - Chan Hong Qi (4BN)<br>5th place - Lim Jia Yu<br>2nd place - Zhang Qishuo (2FG)</td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">World Xiangqi Championship in Shanghai</td>
+    <td class="tg-u1cn">Zhang Qishuo (2FG)<br>Finished 18th out of 31 competitors worldwide</td>
+  </tr>
+	  <tr>
+    <td class="tg-mgsp" rowspan="3"> <br><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E">Lion and Dragon Dance</span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span><br><span style="font-weight:400;color:#1E1E1E"> </span></td>
+    <td class="tg-cly1">18th NTU Institutional Lion Dance Competition 2025</td>
+    <td class="tg-cly1">1 Silver &amp; 2 Bronze</td>
+  </tr>
+</tbody>
+</table>
+			</p>
       <h4 style="color:black" align="left">2021</h4>
       <p>
       <style type="text/css">
