@@ -3,6 +3,7 @@ title: Achievements
 permalink: /about-us/achievements/
 description: ""
 third_nav_title: Achievements
+variant: markdown
 ---
 Academic
 --------
@@ -12,6 +13,91 @@ Academic
     <input type="checkbox" id="accordion1">
     <label for="accordion1">Academic</label>
 <div>
+	<h4 style="color:black" align="left">2025</h4>
+      <p>
+      <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-un5n{background-color:#CB4B3D;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-u1cn{background-color:#EEE;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-un5n"><span style="font-weight:bolder">CCA</span></th>
+    <th class="tg-un5n"><span style="font-weight:bolder">Event / Award</span></th>
+    <th class="tg-un5n"><span style="font-weight:bolder">Achievements</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-u1cn" rowspan="2">Girl Guides</td>
+    <td class="tg-u1cn">Puan Noor Aishah Award 2024</td>
+    <td class="tg-u1cn">2 Gold <br><br><span style="font-weight:400;color:#1E1E1E"></span></td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Baden Powell Award</td>
+    <td class="tg-cly1">9 Awardees</td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn" rowspan="3"><span style="background-color:#EEE">National Cadet Corps (Land)</span></td>
+    <td class="tg-u1cn">Unit Recognition Award 2025</td>
+    <td class="tg-u1cn">Distinction [24 years of consecutive top award]</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Outstanding Cadet Award</td>
+    <td class="tg-cly1">2 Awardees</td>
+  </tr>
+	<tr>
+    <td class="tg-u1cn">Freestyle Drill Competition</td>
+    <td class="tg-u1cn">- East District Champion <br> - Nationals 4th</td>
+  </tr>
+<tr>
+    <td class="tg-u1cn" rowspan="4"><span style="background-color:#EEE">National Police Cadet Corps</span></td>
+    <td class="tg-u1cn">NPCC Unit Overall Proficiency Award (UOPA) 2024 </td>
+    <td class="tg-u1cn">Distinction</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">SPF-NPCC Badge 2025</td>
+    <td class="tg-cly1">1 Awardee</td>
+  </tr>
+<tr>
+    <td class="tg-u1cn">Best Unit Cadet Badge 2025 </td>
+    <td class="tg-u1cn">2 Awardees</td>
+  </tr>
+	<tr>
+    <td class="tg-u1cn">NPCC Inter-Unit 22 Revolver Shooting Competition 2025 (Girls Team) - 8th <br> <br> UG Social Media Competition 2025 - Honourable Mention </td>
+    <td class="tg-u1cn"></td>
+  </tr>
+<tr>
+    <td class="tg-u1cn" rowspan="2"><span style="background-color:#EEE">Scouts</span></td>
+    <td class="tg-cly1">Frank Cooper Sands Award 2025</td>
+    <td class="tg-cly1">Awarded</td>
+  </tr>
+	<tr>
+    <td class="tg-u1cn">Chief Scout Award </td>
+    <td class="tg-u1cn">5 Awardees</td>
+  </tr>
+<tr>
+    <td class="tg-u1cn" rowspan="3"><span style="background-color:#EEE"> </span><br><br><span style="font-weight:400;color:#1E1E1E">St John Brigade</span></td>
+    <td class="tg-u1cn">Corps Achievement Award 2024</td>
+    <td class="tg-u1cn">Gold Award</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1n">Chief Commissioner's Badge</td>
+    <td class="tg-cly1">19 Awardees</td>
+  </tr>
+	<tr>
+    <td class="tg-cly1n">Commissioner's Badge 22 Sec Three students awarded <br> <br>Singapore-Malaysia First Aid and Home Nursing Competition 2025 Participation in Ambulance Cadet category</td>
+    <td class="tg-cly1"></td>
+  </tr>     
+</tbody>
+</table>
+			</p>
       <h4 style="color:black" align="left">2022</h4>
       <p>
       <style type="text/css">
@@ -37,7 +123,7 @@ Academic
     <td class="tg-u1cn">3rd in the Senior League</td>
   </tr>
   <tr>
-    <td class="tg-cly1">2022 Hybrid Speech Arts' Competition & Festival organised by ACJC</td>
+    <td class="tg-cly1">2022 Hybrid Speech Arts' Competition &amp; Festival organised by ACJC</td>
     <td class="tg-cly1">Comic Monologue (Lower Secondary) – 1st and 3rd<br><br>Comic Speech (Lower Secondary) – 2 3rd Placing</td>
   </tr>
   <tr>
@@ -459,7 +545,7 @@ Co-Curricular Activites
   <tr>
     <td class="tg-u1cn" rowspan="2">Girl Guides</td>
     <td class="tg-u1cn">Puan Noor Aishah (PNA) Award </td>
-    <td class="tg-u1cn">Gold for both 1st & 2nd Companies<br><br><span style="font-weight:400;color:#1E1E1E">2 Awardees</span></td>
+    <td class="tg-u1cn">Gold for both 1st &amp; 2nd Companies<br><br><span style="font-weight:400;color:#1E1E1E">2 Awardees</span></td>
   </tr>
   <tr>
     <td class="tg-cly1">Baden Powell Award</td>
@@ -746,7 +832,7 @@ Co-Curricular Activites
 </table>
 			</p>
   </div>
-	<li>
+	</div></li><li>
     <input type="checkbox" id="accordion3">
     <label for="accordion3">Sports Group</label>
     <div>
@@ -781,20 +867,20 @@ Co-Curricular Activites
     <td class="tg-u1cn" rowspan="9">Basketball</td>
     <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG Basketball EastZone  Championships 2022</span></td>
 	</tr>
-    <td class="tg-cly1">B Division Girls<br><br><span style="font-weight:400;color:#1E1E1E">C Division Girls</span><br><br><span style="font-weight:400;color:#1E1E1E">C Division Boys</span></td>
+    <tr><td class="tg-cly1">B Division Girls<br><br><span style="font-weight:400;color:#1E1E1E">C Division Girls</span><br><br><span style="font-weight:400;color:#1E1E1E">C Division Boys</span></td>
     <td class="tg-0lax" colspan="2"><span style="font-weight:400;color:#1E1E1E">Zonal 2nd</span><br><br><span style="font-weight:400;color:#1E1E1E">Zonal 3rd</span><br><br><span style="font-weight:400;color:#1E1E1E">Zonal 3rd</span></td>
-  <tr>
-<tr>
+  </tr><tr>
+</tr><tr>
     <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">Whye Nam Sports Association U14 Basketball Tournament 2022</span></td>
 	</tr>
-    <td class="tg-cly1">Girls<br><br><span style="font-weight:400;color:#1E1E1E">Boys</span></td>
+    <tr><td class="tg-cly1">Girls<br><br><span style="font-weight:400;color:#1E1E1E">Boys</span></td>
     <td class="tg-0lax" colspan="2"><span style="font-weight:400;color:#1E1E1E">Champion</span><br><br><span style="font-weight:400;color:#1E1E1E">Champion</span></td>
-  <tr>
+  </tr><tr>
  <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">ActiveSG Cup 2022 3x3 Basketball U14 </span></td>
 	</tr>
-    <td class="tg-cly1">Girls</td>
+    <tr><td class="tg-cly1">Girls</td>
     <td class="tg-0lax" colspan="2"><span style="font-weight:400;color:#1E1E1E">Champion</span></td>
-  <tr>
+  </tr><tr>
     <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">State Representation in The 9th Asia Pacific Cup, 2022 
 (4 student representatives)</span></td>
   </tr>
@@ -802,7 +888,7 @@ Co-Curricular Activites
     <td class="tg-cly1">U15 3x3<br><br><span style="font-weight:400;color:#1E1E1E">U15 5x5</span><br><br><span style="font-weight:400;color:#1E1E1E">U18 5x5</span></td>
     <td class="tg-cly1" colspan="2">2nd, 3rd<br><br><span style="font-weight:400;color:#1E1E1E">4th</span><br><br><span style="font-weight:400;color:#1E1E1E">3rd</span></td>
   </tr>
-    <td class="tg-u1cn" rowspan="2">Table Tennis</td>
+    <tr><td class="tg-u1cn" rowspan="2">Table Tennis</td>
     <td class="tg-88u2" colspan="3"><span style="font-weight:bolder">NSG EastZone Table Tennis Championships 2022</span></td>
   </tr>
   <tr>
@@ -1137,7 +1223,7 @@ Co-Curricular Activites
   </tr>
 </tbody>
 </table>
-	 <li>
+	 </p></div></li><li>
     <input type="checkbox" id="accordion4">
     <label for="accordion4">Performing Arts Group</label>
     <div>
@@ -1535,4 +1621,4 @@ Co-Curricular Activites
   </tr>
 </tbody>
 </table>
-</p>
+</p></div></li></ul></ul>
