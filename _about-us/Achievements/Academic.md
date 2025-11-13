@@ -87,8 +87,8 @@ variant: markdown
     <td class="tg-u1cn">Junior Category<br>1 Silver Award<br>2 Bronze Award<br>7 Honourable Mention<br><br>Senior Category<br>1 Silver Award<br>1 Bronze Award<br>1 Honourable Mention</td>
   </tr>
   <tr>
-    <td class="tg-cly1">Junior Chemistry Olympiad</td>
-    <td class="tg-cly1">2 Silver, 2 Bronze</td>
+    <td class="tg-cly1">51st National Schools Translation Competition<br>2025年第51届“全国学生中英文互译比赛”</td>
+    <td class="tg-cly1">3 Certificate of Participation:<br>Chen Zining (3 Grace)<br>Chen Yutong (3 Iintegrity)<br>Mabel Ang Yan Zi ((3 Justice)</td>
   </tr>
   <tr>
     <td class="tg-u1cn">Amazing Eco-STEM Race 2022</td>
