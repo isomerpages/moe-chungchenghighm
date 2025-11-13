@@ -47,10 +47,8 @@ variant: markdown
     <td class="tg-cly1">2  Certificate of Participation<br>1 Finalist</td>
   </tr>
   <tr>
-    <td class="tg-u1cn">5th Text Recital Competition for Primary and Secondary schools
-(Preliminary round)
-</td>
-    <td class="tg-u1cn">3 Silver (Individual)<br>1 Silver (Group)</td>
+    <td class="tg-u1cn">National Olympiad in Informatics (NOI)</td>
+    <td class="tg-u1cn">1 Certificate of Participation</td>
   </tr>
   <tr>
     <td class="tg-cly1">Create Your Own Newspaper Competition 2022
