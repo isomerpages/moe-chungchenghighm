@@ -103,8 +103,8 @@ variant: markdown
     <td class="tg-u1cn">“鲜新闻”金奖<br>Chen Zining (3 Grace)<br>Wang Zixuan (3 Benevolence)<br>Jovine Lum Kar Xun (3 Harmony)<br><br>“鲜新闻”银奖<br>Melody Lim Yi Xuan (3 Grace)<br>Koo Zi Han (3 Justice)<br>Ng Dingjie, Darren (3 Grace) </td>
   </tr>
   <tr>
-    <td class="tg-cly1">Istana Heritage Gallery Challenge</td>
-    <td class="tg-cly1">2nd Prize (Group)</td>
+    <td class="tg-cly1">Chinese Text Recital Competition<br>课文朗诵比赛</td>
+    <td class="tg-cly1">Gold Award<br>Liu Xinyu (1 Diligence)<br><br>Silver Award<br>Goh Wee-Ann  (2 Forgiveness)<br><br>Bronze Award<br>Lee Xin Lei Chryselle (3 Integrity)<br>Lim Yee Chiu (3 Integrity)<br><br>7 Certificate of Participantion<br>Li Zihan (3 Harmony)<br>Lee Yang (4 Courage)<br>Chen Yutong (3 Integrity)<br>Zhou Yuexi (3 Integrity)<br>Cerise Sierra Chen (1 Diligence)<br>Gao Xindi (1 Diligence)<br>Lim Yang Yun (1 Diligence)</td>
   </tr>
   <tr>
     <td class="tg-u1cn">Historical Scene Investigation Challenge 2022</td>
