@@ -61,8 +61,9 @@ variant: markdown
     <td class="tg-u1cn">6 Silver Awards<br>6 Bronze Awards<br>9 Honourable Mention</td>
   </tr>
   <tr>
-    <td class="tg-cly1">River Hongbao 2022 Exhibition</td>
-    <td class="tg-cly1">Letter of appreciation from Sun Yat Sen Nanyang Memorial Hall for the 2 student docents </td>
+    <td class="tg-cly1">Singapore Youth STEM Fair (SYSF)</td>
+    <td class="tg-cly1">Project title: Investigating the best design for a solar cooker<br>based on the principles of reflection and emissivity<br><br>Certificate of Participation: 20 projects<br>Certificate of Commendation: 23 projects<br>Certificate of Accomplishment: 19 projects<br>Certificate of Distinction: 9 projects
+ </td>
   </tr>
   <tr>
     <td class="tg-u1cn">Singapore Mathematical Olympiad</td>
