@@ -43,8 +43,8 @@ variant: markdown
     <td class="tg-u1cn">Top 20 - Individual award<br>Team - Certificate of Participation</td>
   </tr>
   <tr>
-    <td class="tg-cly1">6th Chinese Mini Fiction Creative Writing Competition</td>
-    <td class="tg-cly1">2 Bronze, 2 Merit</td>
+    <td class="tg-cly1">Secondary School Interpreting<br>Invitational Competition 2025<br>2025年 中学生中英口译工作坊暨邀请赛</td>
+    <td class="tg-cly1">2  Certificate of Participation<br>1 Finalist</td>
   </tr>
   <tr>
     <td class="tg-u1cn">5th Text Recital Competition for Primary and Secondary schools
