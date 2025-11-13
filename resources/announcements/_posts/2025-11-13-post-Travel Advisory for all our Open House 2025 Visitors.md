@@ -7,11 +7,13 @@ description: ""
 image: ""
 variant: markdown
 ---
+<img src="/images/Travel_Advisory_Open_House_2025.jpg" alt="TravelAdvisoryOpenHouse2025Visitors" style="width:600px">
+
 We can’t wait to welcome you to our Open House 2025! 
 
 Before you make your way down, do take note that MRT Circle Line services will start later at 9am on 15 Nov (Sat).
 
-No worries though — Shuttle 36 & 37 will be running early between 5am–9am to bring you here smoothly.
+No worries though — Shuttle 36 &amp; 37 will be running early between 5am–9am to bring you here smoothly.
 
 Scan the QR code or visit the SMRT website for more information: https://www.smrt.com.sg/news-publications/newsroom/service-announcements/service-announcement-shuttle-bus-services-for-circle-line-service-adjustments/
 
