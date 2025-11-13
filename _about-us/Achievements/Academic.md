@@ -115,17 +115,9 @@ variant: markdown
     <td class="tg-cly1">Live Song Feature &amp; Performance at SCAPE<br>Chan Shiying Cleo (1Empathy)<br><br>Selected Feature on Singapore Youth Festival's <br>YouTube Page<br>Lower Secondary<br>Ayzac Ng Tian Shun (2 Benevolence)<br><br>Open Category<br>Alison Sheo Chiong Rui (4 Benevolence)<br>Leow Xun Ci Lucas (4 Benevolence)<br>Tay Xinhui (4 Benevolence)<br>Peh Yu Jie (4 Grace)</td>
   </tr>
   <tr>
-    <td class="tg-u1cn">Dunman High ASEAN Plus	
+    <td class="tg-u1cn">National Junior Cybersecurity Olympiad 2025
 </td>
-    <td class="tg-u1cn">Best Delegate<br>Most Improved Delegate<br>Honourable Mention</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Youth Model ASEAN Experience</td>
-    <td class="tg-cly1">Outstanding Delegate<br>Honourable Mention</td>
-  </tr>
-  <tr>
-    <td class="tg-u1cn">National Xinyao Competition </td>
-    <td class="tg-u1cn">Merit Award (Individual)<br>3rd Prize (Group)</td>
+    <td class="tg-u1cn">Caleb Koh Guangzhen (2 Harmony) has been awarded Gold<br>in the National Junior Cybersecurity Olympiad 2025.<br>He came in 7th at national level and obtained 44th placing globally.</td>
   </tr>
 </tbody>
 </table>
