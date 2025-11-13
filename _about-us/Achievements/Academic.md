@@ -3,12 +3,125 @@ title: Academic
 permalink: /about-us/achievements/academic/
 description: ""
 third_nav_title: Achievements
+variant: markdown
 ---
 <ul class="jekyllcodex_accordion">
    <li>
     <input type="checkbox" id="accordion1">
     <label for="accordion1">Academic</label>
     <div>
+			 <h4 style="color:black" align="left">2025</h4>
+      <p>
+      <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-un5n{background-color:#CB4B3D;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-u1cn{background-color:#EEE;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-un5n"><span style="font-weight:bolder">Event / Award</span></th>
+    <th class="tg-un5n"><span style="font-weight:bolder">Achievements</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-u1cn">NUS Geography Challenge 2025</td>
+    <td class="tg-u1cn">1 Silver Award<br>1 Bronze Award<br>2 Certificate of Participation</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">River Valley High Model United Nations</td>
+    <td class="tg-cly1">Best Delegate<br>Chan Yu Yan Elise (4 Justice)<br>Cao Peixuan (4 Justice)<br><br>Most Improved Delegate<br>Meng Mate (4 Empathy)<br>Cherry Wong Hong Hui (4 Justice)<br><br>Honourable Mention<br>Aye Pyae Sone Win (4 Harmony)<br>Low Cheng Xin Ryan (4 Courage)</td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">18th National Secondary Schools<br>Translation Competition 2025<br>2025年 第十八届全国中学现场翻译比赛</td>
+    <td class="tg-u1cn">Top 20 - Individual award<br>Team - Certificate of Participation</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Secondary School Interpreting<br>Invitational Competition 2025<br>2025年 中学生中英口译工作坊暨邀请赛</td>
+    <td class="tg-cly1">2  Certificate of Participation<br>1 Finalist</td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">National Olympiad in Informatics (NOI)</td>
+    <td class="tg-u1cn">1 Certificate of Participation</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">2025年“读乐众乐”儿童绘本导读活动<br>Collaboration with NLB-Chinese<br>Guided Reading Activity<br>for Young Children at Tampines Regional Library
+</td>
+    <td class="tg-cly1">A total of 23 children participated in this activity with their parents.<br>Our students took great efforts preparing for this activity, doing up PPT slides, <br>planning for interactive activities, prepared props and acted well to guide the <br>young children to better understand the two Chinese storybooks.
+</td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">Singapore Junior Biology Olympiad (SJBO</td>
+    <td class="tg-u1cn">6 Silver Awards<br>6 Bronze Awards<br>9 Honourable Mention</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Singapore Youth STEM Fair (SYSF)</td>
+    <td class="tg-cly1">Project title: Investigating the best design for a solar cooker<br>based on the principles of reflection and emissivity<br><br>Certificate of Participation: 20 projects<br>Certificate of Commendation: 23 projects<br>Certificate of Accomplishment: 19 projects<br>Certificate of Distinction: 9 projects
+ </td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">Singapore Junior Physics Olympiad (SJPO)</td>
+    <td class="tg-u1cn">4 Bronze Awards<br>3 Honourable Mention 
+</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Singapore Junior Chemistry Olympiad (SJChO)</td>
+    <td class="tg-cly1">2 Bronze awards<br>2 Merit</td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">Cultural Translation Competition<br>2025年“译彩纷呈”翻译比赛</td>
+    <td class="tg-u1cn">Commendation Prize 优胜奖</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">SAP Mentorship Programme 2025<br>特选中学学术幼苗计划</td>
+    <td class="tg-cly1">Best Presentation Award 最佳呈现奖</td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">Singapore Mathematical Olympiad Competition (SMO)</td>
+    <td class="tg-u1cn">Junior Category<br>1 Silver Award<br>2 Bronze Award<br>7 Honourable Mention<br><br>Senior Category<br>1 Silver Award<br>1 Bronze Award<br>1 Honourable Mention</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">51st National Schools Translation Competition<br>2025年第51届“全国学生中英文互译比赛”</td>
+    <td class="tg-cly1">3 Certificate of Participation:<br>Chen Zining (3 Grace)<br>Chen Yutong (3 Iintegrity)<br>Mabel Ang Yan Zi ((3 Justice)</td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">2026地理人才培养计划邀请茶会<br>Geography Talent Development<br>Programme Invitation Tea</td>
+    <td class="tg-u1cn">Cedrick Teo Kai Xiang (4 Dilgence)<br>Ong Cai Hong Jamie (4 Harmony)</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">2025人文科奖学金获奖名单<br>Humanities Scholarship Award List</td>
+    <td class="tg-cly1">Charlotte Chong Qing Yu (4 Empathy)<br>Liu Shanglin (4 Harmony)<br>Tan Yin Le (4 Harmony)<br>Aysha Binte Farouq (4 Forgiveness)<br>Chloe Choon Jia Ying (4 Harmony)<br>Liu Aibai (4 Harmony)</td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">Young Reporter Challenge<br>我来报新闻挑战赛</td>
+    <td class="tg-u1cn">“鲜新闻”金奖<br>Chen Zining (3 Grace)<br>Wang Zixuan (3 Benevolence)<br>Jovine Lum Kar Xun (3 Harmony)<br><br>“鲜新闻”银奖<br>Melody Lim Yi Xuan (3 Grace)<br>Koo Zi Han (3 Justice)<br>Ng Dingjie, Darren (3 Grace) </td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Chinese Text Recital Competition<br>课文朗诵比赛</td>
+    <td class="tg-cly1">Gold Award<br>Liu Xinyu (1 Diligence)<br><br>Silver Award<br>Goh Wee-Ann  (2 Forgiveness)<br><br>Bronze Award<br>Lee Xin Lei Chryselle (3 Integrity)<br>Lim Yee Chiu (3 Integrity)<br><br>7 Certificate of Participantion<br>Li Zihan (3 Harmony)<br>Lee Yang (4 Courage)<br>Chen Yutong (3 Integrity)<br>Zhou Yuexi (3 Integrity)<br>Cerise Sierra Chen (1 Diligence)<br>Gao Xindi (1 Diligence)<br>Lim Yang Yun (1 Diligence)</td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">Make Your Own Newspaper Competition<br>编采比赛</td>
+    <td class="tg-u1cn">3rd Place 三等奖<br>Cerise Sierra Chen (1 Diligence)<br>Isabella Lexi Koh Estrada (1 Diligence)<br>Liu Xinyu (1 Diligence)<br>Qiu Xiangkun (1 Diligence)<br>Xing Junming (1Diligence)</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">2025 Singapore Youth Festival<br>Youth Station Project<br>新加坡青年节青年交流站计划</td>
+    <td class="tg-cly1">Live Song Feature &amp; Performance at SCAPE<br>Chan Shiying Cleo (1Empathy)<br><br>Selected Feature on Singapore Youth Festival's <br>YouTube Page<br>Lower Secondary<br>Ayzac Ng Tian Shun (2 Benevolence)<br><br>Open Category<br>Alison Sheo Chiong Rui (4 Benevolence)<br>Leow Xun Ci Lucas (4 Benevolence)<br>Tay Xinhui (4 Benevolence)<br>Peh Yu Jie (4 Grace)</td>
+  </tr>
+  <tr>
+    <td class="tg-u1cn">National Junior Cybersecurity Olympiad 2025
+</td>
+    <td class="tg-u1cn">Caleb Koh Guangzhen (2 Harmony) has been awarded Gold<br>in the National Junior Cybersecurity Olympiad 2025.<br>He came in 7th at national level and obtained 44th placing globally.</td>
+  </tr>
+</tbody>
+</table>
+			</p>
       <h4 style="color:black" align="left">2022</h4>
       <p>
       <style type="text/css">
@@ -34,7 +147,7 @@ third_nav_title: Achievements
     <td class="tg-u1cn">3rd in the Senior League</td>
   </tr>
   <tr>
-    <td class="tg-cly1">2022 Hybrid Speech Arts' Competition & Festival organised by ACJC</td>
+    <td class="tg-cly1">2022 Hybrid Speech Arts' Competition &amp; Festival organised by ACJC</td>
     <td class="tg-cly1">Comic Monologue (Lower Secondary) – 1st and 3rd<br><br>Comic Speech (Lower Secondary) – 2 3rd Placing</td>
   </tr>
   <tr>
