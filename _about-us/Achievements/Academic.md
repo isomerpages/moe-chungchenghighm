@@ -75,8 +75,8 @@ variant: markdown
     <td class="tg-cly1">2 Bronze awards<br>2 Merit</td>
   </tr>
   <tr>
-    <td class="tg-u1cn">Temasek Poly Engineering Olympiad 2022</td>
-    <td class="tg-u1cn">1 Silver, 1 Bronze</td>
+    <td class="tg-u1cn">Cultural Translation Competition<br>2025年“译彩纷呈”翻译比赛</td>
+    <td class="tg-u1cn">Commendation Prize 优胜奖</td>
   </tr>
   <tr>
     <td class="tg-cly1">Singapore Junior Biology Olympiad</td>
