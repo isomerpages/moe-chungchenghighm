@@ -111,8 +111,8 @@ variant: markdown
     <td class="tg-u1cn">3rd Place 三等奖<br>Cerise Sierra Chen (1 Diligence)<br>Isabella Lexi Koh Estrada (1 Diligence)<br>Liu Xinyu (1 Diligence)<br>Qiu Xiangkun (1 Diligence)<br>Xing Junming (1Diligence)</td>
   </tr>
   <tr>
-    <td class="tg-cly1">A Day in Court Student Seminar</td>
-    <td class="tg-cly1">7th position</td>
+    <td class="tg-cly1">2025 Singapore Youth Festival<br>Youth Station Project<br>新加坡青年节青年交流站计划</td>
+    <td class="tg-cly1">Live Song Feature &amp; Performance at SCAPE<br>Chan Shiying Cleo (1Empathy)<br><br>Selected Feature on Singapore Youth Festival's <br>YouTube Page<br>Lower Secondary<br>Ayzac Ng Tian Shun (2 Benevolence)<br><br>Open Category<br>Alison Sheo Chiong Rui (4 Benevolence)<br>Leow Xun Ci Lucas (4 Benevolence)<br>Tay Xinhui (4 Benevolence)<br>Peh Yu Jie (4 Grace)</td>
   </tr>
   <tr>
     <td class="tg-u1cn">Dunman High ASEAN Plus	
