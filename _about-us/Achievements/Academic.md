@@ -95,8 +95,8 @@ variant: markdown
     <td class="tg-u1cn">Cedrick Teo Kai Xiang (4 Dilgence)<br>Ong Cai Hong Jamie (4 Harmony)</td>
   </tr>
   <tr>
-    <td class="tg-cly1">NUS Geography Challenge</td>
-    <td class="tg-cly1">2 Bronze</td>
+    <td class="tg-cly1">2025人文科奖学金获奖名单<br>Humanities Scholarship Award List</td>
+    <td class="tg-cly1">Charlotte Chong Qing Yu (4 Empathy)<br>Liu Shanglin (4 Harmony)<br>Tan Yin Le (4 Harmony)<br>Aysha Binte Farouq (4 Forgiveness)<br>Chloe Choon Jia Ying (4 Harmony)<br>Liu Aibai (4 Harmony)</td>
   </tr>
   <tr>
     <td class="tg-u1cn">Victoria Junior College Singapore Model Cabinet</td>
