@@ -15,6 +15,6 @@ Before you make your way down, do take note that MRT Circle Line services will s
 
 No worries though — Shuttle 36 &amp; 37 will be running early between 5am–9am to bring you here smoothly.
 
-Scan the QR code or visit the SMRT website for more information: https://www.smrt.com.sg/news-publications/newsroom/service-announcements/service-announcement-shuttle-bus-services-for-circle-line-service-adjustments/
+Scan the QR code or visit the SMRT website for more information: [https://www.smrt.com.sg/news-publications/newsroom/service-announcements/service-announcement-shuttle-bus-services-for-circle-line-service-adjustments/](https://www.smrt.com.sg/news-publications/newsroom/service-announcements/service-announcement-shuttle-bus-services-for-circle-line-service-adjustments/)
 
 See you soon at our beautiful campus! We promise an positive experience here!
