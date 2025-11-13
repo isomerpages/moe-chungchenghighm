@@ -71,8 +71,8 @@ variant: markdown
 </td>
   </tr>
   <tr>
-    <td class="tg-cly1">Singapore Asian Schools Math Olympiad (SASMO) 2022</td>
-    <td class="tg-cly1">8 Gold, 5 Silver, 13 Bronze, 4 Honourable Mention<br>Top-ranked individual in Singapore and 3rd globally</td>
+    <td class="tg-cly1">Singapore Junior Chemistry Olympiad (SJChO)</td>
+    <td class="tg-cly1">2 Bronze awards<br>2 Merit</td>
   </tr>
   <tr>
     <td class="tg-u1cn">Temasek Poly Engineering Olympiad 2022</td>
