@@ -79,8 +79,8 @@ variant: markdown
     <td class="tg-u1cn">Commendation Prize 优胜奖</td>
   </tr>
   <tr>
-    <td class="tg-cly1">Singapore Junior Biology Olympiad</td>
-    <td class="tg-cly1">Theory Round<br>2 Silver, 2 Bronze,<br>1 Honourable Mention</td>
+    <td class="tg-cly1">SAP Mentorship Programme 2025<br>特选中学学术幼苗计划</td>
+    <td class="tg-cly1">Best Presentation Award 最佳呈现奖</td>
   </tr>
   <tr>
     <td class="tg-u1cn">Singapore Junior Physics Olympiad</td>
