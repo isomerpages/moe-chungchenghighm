@@ -99,8 +99,8 @@ variant: markdown
     <td class="tg-cly1">Charlotte Chong Qing Yu (4 Empathy)<br>Liu Shanglin (4 Harmony)<br>Tan Yin Le (4 Harmony)<br>Aysha Binte Farouq (4 Forgiveness)<br>Chloe Choon Jia Ying (4 Harmony)<br>Liu Aibai (4 Harmony)</td>
   </tr>
   <tr>
-    <td class="tg-u1cn">Victoria Junior College Singapore Model Cabinet</td>
-    <td class="tg-u1cn">2 Honourable Mention<br>2 Best Position Paper<br>1 Best Representative<br>1 Outstanding Representative</td>
+    <td class="tg-u1cn">Young Reporter Challenge<br>我来报新闻挑战赛</td>
+    <td class="tg-u1cn">“鲜新闻”金奖<br>Chen Zining (3 Grace)<br>Wang Zixuan (3 Benevolence)<br>Jovine Lum Kar Xun (3 Harmony)<br><br>“鲜新闻”银奖<br>Melody Lim Yi Xuan (3 Grace)<br>Koo Zi Han (3 Justice)<br>Ng Dingjie, Darren (3 Grace) </td>
   </tr>
   <tr>
     <td class="tg-cly1">Istana Heritage Gallery Challenge</td>
