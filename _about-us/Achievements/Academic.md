@@ -39,8 +39,8 @@ variant: markdown
     <td class="tg-cly1">Best Delegate<br>Chan Yu Yan Elise (4 Justice)<br>Cao Peixuan (4 Justice)<br><br>Most Improved Delegate<br>Meng Mate (4 Empathy)<br>Cherry Wong Hong Hui (4 Justice)<br><br>Honourable Mention<br>Aye Pyae Sone Win (4 Harmony)<br>Low Cheng Xin Ryan (4 Courage)</td>
   </tr>
   <tr>
-    <td class="tg-u1cn">20th National Secondary Schools Chinese Creative Writing Competition</td>
-    <td class="tg-u1cn">3rd Prize (Individual)</td>
+    <td class="tg-u1cn">18th National Secondary Schools<br>Translation Competition 2025<br>2025年 第十八届全国中学现场翻译比赛</td>
+    <td class="tg-u1cn">Top 20 - Individual award<br>Team - Certificate of Participation</td>
   </tr>
   <tr>
     <td class="tg-cly1">6th Chinese Mini Fiction Creative Writing Competition</td>
