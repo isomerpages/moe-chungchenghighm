@@ -57,8 +57,8 @@ variant: markdown
 </td>
   </tr>
   <tr>
-    <td class="tg-u1cn">Cultural Translation Competition 2022</td>
-    <td class="tg-u1cn">3rd Prize (Group)</td>
+    <td class="tg-u1cn">Singapore Junior Biology Olympiad (SJBO</td>
+    <td class="tg-u1cn">6 Silver Awards<br>6 Bronze Awards<br>9 Honourable Mention</td>
   </tr>
   <tr>
     <td class="tg-cly1">River Hongbao 2022 Exhibition</td>
