@@ -83,10 +83,8 @@ variant: markdown
     <td class="tg-cly1">Best Presentation Award 最佳呈现奖</td>
   </tr>
   <tr>
-    <td class="tg-u1cn">Singapore Junior Physics Olympiad</td>
-    <td class="tg-u1cn">Individual Round<br>4 Silver, 7 Bronze,<br>22 Honourable Mention
-<br><br>
-Team Round<br>5 Bronze,<br>2 Honourable Mention</td>
+    <td class="tg-u1cn">Singapore Mathematical Olympiad Competition (SMO)</td>
+    <td class="tg-u1cn">Junior Category<br>1 Silver Award<br>2 Bronze Award<br>7 Honourable Mention<br><br>Senior Category<br>1 Silver Award<br>1 Bronze Award<br>1 Honourable Mention</td>
   </tr>
   <tr>
     <td class="tg-cly1">Junior Chemistry Olympiad</td>
