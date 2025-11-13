@@ -31,8 +31,8 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-u1cn">Orator's Trophy</td>
-    <td class="tg-u1cn">3rd in the Senior League</td>
+    <td class="tg-u1cn">NUS Geography Challenge 2025</td>
+    <td class="tg-u1cn">1 Silver Award<br>1 Bronze Award<br>2 Certificate of Participation</td>
   </tr>
   <tr>
     <td class="tg-cly1">2022 Hybrid Speech Arts' Competition &amp; Festival organised by ACJC</td>
