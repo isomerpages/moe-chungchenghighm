@@ -66,7 +66,7 @@ variant: markdown
  </td>
   </tr>
   <tr>
-    <td class="tg-u1cn">Singapore Junior Physics Olympiad (SJPO</td>
+    <td class="tg-u1cn">Singapore Junior Physics Olympiad (SJPO)</td>
     <td class="tg-u1cn">4 Bronze Awards<br>3 Honourable Mention 
 </td>
   </tr>
