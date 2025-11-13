@@ -107,8 +107,8 @@ variant: markdown
     <td class="tg-cly1">Gold Award<br>Liu Xinyu (1 Diligence)<br><br>Silver Award<br>Goh Wee-Ann  (2 Forgiveness)<br><br>Bronze Award<br>Lee Xin Lei Chryselle (3 Integrity)<br>Lim Yee Chiu (3 Integrity)<br><br>7 Certificate of Participantion<br>Li Zihan (3 Harmony)<br>Lee Yang (4 Courage)<br>Chen Yutong (3 Integrity)<br>Zhou Yuexi (3 Integrity)<br>Cerise Sierra Chen (1 Diligence)<br>Gao Xindi (1 Diligence)<br>Lim Yang Yun (1 Diligence)</td>
   </tr>
   <tr>
-    <td class="tg-u1cn">Historical Scene Investigation Challenge 2022</td>
-    <td class="tg-u1cn">Gold Award</td>
+    <td class="tg-u1cn">Make Your Own Newspaper Competition<br>编采比赛</td>
+    <td class="tg-u1cn">3rd Place 三等奖<br>Cerise Sierra Chen (1 Diligence)<br>Isabella Lexi Koh Estrada (1 Diligence)<br>Liu Xinyu (1 Diligence)<br>Qiu Xiangkun (1 Diligence)<br>Xing Junming (1Diligence)</td>
   </tr>
   <tr>
     <td class="tg-cly1">A Day in Court Student Seminar</td>
