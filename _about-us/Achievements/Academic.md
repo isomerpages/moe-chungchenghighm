@@ -35,8 +35,8 @@ variant: markdown
     <td class="tg-u1cn">1 Silver Award<br>1 Bronze Award<br>2 Certificate of Participation</td>
   </tr>
   <tr>
-    <td class="tg-cly1">2022 Hybrid Speech Arts' Competition &amp; Festival organised by ACJC</td>
-    <td class="tg-cly1">Comic Monologue (Lower Secondary) – 1st and 3rd<br><br>Comic Speech (Lower Secondary) – 2 3rd Placing</td>
+    <td class="tg-cly1">River Valley High Model United Nations</td>
+    <td class="tg-cly1">Best Delegate<br>Chan Yu Yan Elise (4 Justice)<br>Cao Peixuan (4 Justice)<br><br>Most Improved Delegate<br>Meng Mate (4 Empathy)<br>Cherry Wong Hong Hui (4 Justice)<br><br>Honourable Mention<br>Aye Pyae Sone Win (4 Harmony)<br>Low Cheng Xin Ryan (4 Courage)</td>
   </tr>
   <tr>
     <td class="tg-u1cn">20th National Secondary Schools Chinese Creative Writing Competition</td>
