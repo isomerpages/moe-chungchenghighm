@@ -51,9 +51,9 @@ variant: markdown
     <td class="tg-u1cn">1 Certificate of Participation</td>
   </tr>
   <tr>
-    <td class="tg-cly1">Create Your Own Newspaper Competition 2022
+    <td class="tg-cly1">2025年“读乐众乐”儿童绘本导读活动<br>Collaboration with NLB-Chinese<br>Guided Reading Activity<br>for Young Children at Tampines Regional Library
 </td>
-    <td class="tg-cly1">2nd Prize (Group)<br>Honourable Mention (Group)
+    <td class="tg-cly1">A total of 23 children participated in this activity with their parents. Our students took great efforts preparing for this activity, doing up PPT slides, planning for interactive activities, prepared props and acted well to guide the young children to better understand the two Chinese storybooks.   
 </td>
   </tr>
   <tr>
