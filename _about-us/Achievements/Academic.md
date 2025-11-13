@@ -91,8 +91,8 @@ variant: markdown
     <td class="tg-cly1">3 Certificate of Participation:<br>Chen Zining (3 Grace)<br>Chen Yutong (3 Iintegrity)<br>Mabel Ang Yan Zi ((3 Justice)</td>
   </tr>
   <tr>
-    <td class="tg-u1cn">Amazing Eco-STEM Race 2022</td>
-    <td class="tg-u1cn">Third Position</td>
+    <td class="tg-u1cn">2026地理人才培养计划邀请茶会<br>Geography Talent Development<br>Programme Invitation Tea</td>
+    <td class="tg-u1cn">Cedrick Teo Kai Xiang (4 Dilgence)<br>Ong Cai Hong Jamie (4 Harmony)</td>
   </tr>
   <tr>
     <td class="tg-cly1">NUS Geography Challenge</td>
