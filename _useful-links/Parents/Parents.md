@@ -19,7 +19,7 @@ variant: markdown
   </tr>
   <tr>
     <td><a href="/files/Group_Personal_Accident_Product_Fact_Sheet_Feb_2025.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/GPA-Insurance-logo.jpg" alt="GPA Insurance" width="106" height="17"></a></td>
-    <td><a href="/files/Group_Personal_Accident_Product_Fact_Sheet_Feb_2025.pdf" target="_blank" rel="noopener noreferrer"><img src="/images/GPA-Insurance-logo.jpg" alt="GPA Insurance" width="106" height="17"></a></td>
+    <td><a href="https://forms.moe.edu.sg/forms/vyQM7v" target="_blank" rel="noopener noreferrer"><img src="/images/Opt_Out_Photography_and_Videography_Logo.jpg" alt="OptOutPhotography_Videography" width="106" height="17"></a></td>
   </tr>		
   <tr>
     <td colspan="2"><a href="https://sites.google.com/moe.edu.sg/cyberwellnesscchm/home" target="_blank" rel="noopener noreferrer"><img src="/images/cyberwellness.jpeg" alt="Cyberwellness" width="106" height="17"></a></td>
