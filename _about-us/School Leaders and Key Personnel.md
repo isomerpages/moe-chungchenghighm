@@ -102,12 +102,12 @@ Key Personnel
     <td class="tg-u1cn">HOD/SAP</td>
   </tr>
   <tr>
-    <td class="tg-cly1">Ng Sin Wee Benny (Mr)</td>
-    <td class="tg-cly1">HOD/CCE (Int)</td>
+    <td class="tg-cly1">Tan Mei Hui (Ms)</td>
+    <td class="tg-cly1">HOD/Aesthetics &amp; Craft</td>
   </tr>
 	 <tr>
-    <td class="tg-u1cn">Tan Mei Hui (Ms)</td>
-    <td class="tg-u1cn">HOD/Aesthetics &amp; Craft</td>
+    <td class="tg-u1cn">Ng Sin Wee Benny (Mr)</td>
+    <td class="tg-u1cn">HOD/CCE (Int)</td>
   </tr>
   <tr>
     <td class="tg-cly1">Tan Qin Shan Bertrand (Mr)</td>
