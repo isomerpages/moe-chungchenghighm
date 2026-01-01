@@ -102,44 +102,52 @@ Key Personnel
     <td class="tg-u1cn">HOD/SAP</td>
   </tr>
   <tr>
-    <td class="tg-cly1">Mong Lian Zhi Jasmine (Ms)</td>
-    <td class="tg-cly1">HOD/CCE</td>
+    <td class="tg-cly1">Tan Mei Hui (Ms)</td>
+    <td class="tg-cly1">HOD/Aesthetics &amp; Craft</td>
   </tr>
 	 <tr>
-    <td class="tg-u1cn">Tan Mei Hui (Ms)</td>
-    <td class="tg-u1cn">HOD/Aesthetics &amp; Craft</td>
+    <td class="tg-u1cn">Ng Sin Wee Benny (Mr)</td>
+    <td class="tg-u1cn">HOD/CCE (Int)</td>
   </tr>
   <tr>
-    <td class="tg-cly1">Yeoh Zheng Sheng Alexandre Paul (Mr)</td>
+    <td class="tg-cly1">Tan Qin Shan Bertrand (Mr)</td>
     <td class="tg-cly1">Upper Sec Year Head</td>
   </tr>
   <tr>
-    <td class="tg-u1cn">Tan Pei Lin Jasmine (Mrs Lee)</td>
+    <td class="tg-u1cn">Mong Lian Zhi Jasmine (Ms)</td>
     <td class="tg-u1cn">Lower Sec Year Head</td>
   </tr>
   <tr>
     <td class="tg-cly1">Koh Rui Ling (Ms)</td>
     <td class="tg-cly1">School Staff Developer (SSD) </td>
   </tr>
-  <tr>
-    <td class="tg-u1cn">Woo Ching Nee Christine (Mrs Pang)</td>
-    <td class="tg-u1cn">SH/Mathematics</td>
+		 <tr>
+    <td class="tg-u1cn">Liu Manru Mandy (Ms)</td>
+    <td class="tg-u1cn">SH/English Language</td>
   </tr>
   <tr>
     <td class="tg-cly1">Chan Xin Min (Ms)</td>
     <td class="tg-cly1">SH/Chinese Language</td>
   </tr>
-	 <tr>
-    <td class="tg-u1cn">Tan Qin Shan Bertrand (Mr)</td>
-    <td class="tg-u1cn">SH/Applied Learning</td>
+<tr>
+    <td class="tg-u1cn">Woo Ching Nee Christine (Mrs Pang)</td>
+    <td class="tg-u1cn">SH/Mathematics</td>
   </tr>
-  <tr>
+	<tr>
     <td class="tg-cly1">Tay Han Tseng Clement (Mr)</td>
     <td class="tg-cly1">SH/Science</td>
   </tr>
   <tr>
     <td class="tg-u1cn">Shobitha d/o Vasudevan (Ms)</td>
     <td class="tg-u1cn">SH/CCE</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">See Yong Xin (Mr)</td>
+    <td class="tg-cly1">SH/Aesthetics &amp; Craft</td>
+  </tr>
+	 <tr>
+    <td class="tg-u1cn">Ng Wei Kee (Mr)</td>
+    <td class="tg-u1cn">SH/Applied Learning (Int)</td>
   </tr>
   <tr>
     <td class="tg-cly1">Loh Lai Yeow Daniel (Mr)</td>
@@ -150,12 +158,12 @@ Key Personnel
     <td class="tg-u1cn">SH/Physical Education &amp; CCA</td>
   </tr>
   <tr>
-    <td class="tg-cly1">Ng Sin Wee Benny (Mr)</td>
-    <td class="tg-cly1">SH/Student Wellbeing</td>
+    <td class="tg-cly1">Lim Wee (Mr)</td>
+    <td class="tg-cly1">SH/Student Wellbeing (Int)</td>
   </tr>
   <tr>
-    <td class="tg-u1cn">Ng See Khee Valerie (Ms)</td>
-    <td class="tg-u1cn">SH/Student Recognition</td>
+    <td class="tg-u1cn">Seah Ming Qi Alexandria (Ms)</td>
+    <td class="tg-u1cn">SH/Student Leadership (Int)</td>
   </tr>
   <tr>
     <td class="tg-cly1">Wang Xiao (Ms)</td>
@@ -193,25 +201,33 @@ Lead Teacher &amp; Senior Teacher
     <td class="tg-u1cn">Ahmad Hashikin M. B. Mohd Latiff (Mr)</td>
     <td class="tg-u1cn">Lead Teacher (English Language)</td>
   </tr>
-  <tr>
-    <td class="tg-cly1">Ang Weili Michelle (Mrs Foo)</td>
-    <td class="tg-cly1">Senior Teacher (Mathematics)</td>
+	  <tr>
+    <td class="tg-cly1">Wang Feng (Mr)</td>
+    <td class="tg-cly1">Senior Teacher (Chinese Language)</td>
   </tr>
 	 <tr>
     <td class="tg-u1cn">Mohamad Almie Bin Mohamed Mazlan (Mr)</td>
     <td class="tg-u1cn">Senior Teacher (Ed Support)</td>
   </tr>
-  <tr>
-    <td class="tg-cly1">Wang Feng (Mr)</td>
-    <td class="tg-cly1">Senior Teacher (Chinese Language)</td>
+ <tr>
+    <td class="tg-cly1">Nuurul Ezzah Bte Mohd Zulkefly (Ms)</td>
+    <td class="tg-cly1">Senior Teacher (English Language Int)</td>
   </tr>
 	<tr>
     <td class="tg-u1cn">Soh Lay Na (Mrs Long)</td>
     <td class="tg-u1cn">Senior Teacher (Geography)</td>
   </tr>
+	<tr>
+    <td class="tg-cly1">Char Wai Han Cassandra (Ms)</td>
+    <td class="tg-cly1">Senior Teacher (Mathematics Int)</td>
+  </tr>
+	<tr>
+    <td class="tg-u1cn">Fu Chunyu Esther (Ms)</td>
+    <td class="tg-u1cn">Senior Teacher (Music)</td>
+  </tr>
   <tr>
-    <td class="tg-cly1">Fu Chunyu Esther (Ms)</td>
-    <td class="tg-cly1">Senior Teacher (Music)</td>
+    <td class="tg-cly1">Gan Choon Ming Lawrence (Mr)</td>
+    <td class="tg-cly1">Senior Teacher (Science Int)</td>
   </tr>
 </tbody>
 	</table>
