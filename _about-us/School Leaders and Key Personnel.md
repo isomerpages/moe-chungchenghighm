@@ -138,8 +138,8 @@ Key Personnel
     <td class="tg-cly1">SH/Aesthetics &amp; Craft</td>
   </tr>
 	 <tr>
-    <td class="tg-u1cn"> (Mr)</td>
-    <td class="tg-u1cn"></td>
+    <td class="tg-u1cn">Ng Wei Kee (Mr)</td>
+    <td class="tg-u1cn">SH/Applied Learning (Int)</td>
   </tr>
   <tr>
     <td class="tg-cly1">Tay Han Tseng Clement (Mr)</td>
