@@ -98,18 +98,18 @@ Secondary 2 Form Teachers
 <tbody>
   <tr>
     <td class="tg-mgsp">2BN</td>
-    <td class="tg-mgsp">Tay Jing Yi (Miss)</td>
-    <td class="tg-mgsp">Mohamed Almie Bin Mohamed Mazlan (Mr)</td>
+    <td class="tg-mgsp">Yee Ren Ping Robbie (Mr)</td>
+    <td class="tg-mgsp"></td>
   </tr>
   <tr>
     <td class="tg-nrix">2CR</td>
-    <td class="tg-nrix">Li Yangping (Ms)</td>
-    <td class="tg-nrix">Nurdiyana Binte Hamzah Lee (Mdm)</td>
+    <td class="tg-nrix">S N Muraledharan Naidu (Mr)</td>
+    <td class="tg-nrix"></td>
   </tr>
   <tr>
     <td class="tg-mgsp">2DL</td>
-    <td class="tg-mgsp">Jalaluddin Bin Hezan (Mr)</td>
-    <td class="tg-mgsp">Chan Chow Syan (Mrs Lim)</td>
+    <td class="tg-mgsp">Tan Sek Jiau (Ms)</td>
+    <td class="tg-mgsp"></td>
   </tr>
   <tr>
     <td class="tg-nrix">2EP</td>
