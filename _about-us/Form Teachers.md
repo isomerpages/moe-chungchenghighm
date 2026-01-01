@@ -254,7 +254,7 @@ Secondary 4 Form Teachers
   </tr>
   <tr>
     <td class="tg-nrix">4EP</td>
-    <td class="tg-nrix">Yong Lai Yee Michelle(Mrs Chew)</td>
+    <td class="tg-nrix">Yong Lai Yee Michelle (Mrs Chew)</td>
     <td class="tg-nrix">Chia Jun Ru (Ms)</td>
   </tr>
   <tr>
