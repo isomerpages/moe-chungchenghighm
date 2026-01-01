@@ -269,18 +269,18 @@ Secondary 4 Form Teachers
   </tr>
   <tr>
     <td class="tg-mgsp">4HM</td>
-    <td class="tg-mgsp">Juni Liyana Bin (Ms)</td>
-    <td class="tg-mgsp">Lim Wee (Mr)</td>
+    <td class="tg-mgsp">Azmi Bin Abdul Wahid (Mr)</td>
+    <td class="tg-mgsp">Su Airong (Ms)</td>
   </tr>
   <tr>
     <td class="tg-nrix">4IT</td>
-    <td class="tg-nrix">Ang Weili Michelle (Mrs Foo)</td>
-    <td class="tg-nrix">Ho Yihan (Ms)</td>
+    <td class="tg-nrix">Farhana Begum Bte V S Mohamed Ibrahim (Ms)</td>
+    <td class="tg-nrix">Chia Choong Kwok Kelvin (Mr)</td>
   </tr>
   <tr>
     <td class="tg-mgsp">4JT</td>
-    <td class="tg-mgsp">Lim Lymin Joel (Mr)</td>
-    <td class="tg-mgsp">Nurashikin Bte Hanafi (Ms)</td>
+    <td class="tg-mgsp">Soh Lay Na (Mrs Long)</td>
+    <td class="tg-mgsp">Kek Yee Ann (Mr)</td>
   </tr>
 </tbody>
 </table>
