@@ -130,16 +130,16 @@ Key Personnel
     <td class="tg-cly1">SH/Chinese Language</td>
   </tr>
 	 <tr>
-    <td class="tg-u1cn">Woo Ching Nee Christine (Mrs Pang)</td>
-    <td class="tg-u1cn">SH/Mathematics</td>
+    <td class="tg-u1cn">Liu Manru Mandy (Ms)</td>
+    <td class="tg-u1cn">SH/English Language</td>
   </tr>
   <tr>
-    <td class="tg-cly1">Liu Manru Mandy (Ms)</td>
-    <td class="tg-cly1">SH/English Language</td>
+    <td class="tg-cly1">See Yong Xin (Mr</td>
+    <td class="tg-cly1">SH/Aesthetics &amp; Craft</td>
   </tr>
 	 <tr>
-    <td class="tg-u1cn">See Yong Xin (Mr)</td>
-    <td class="tg-u1cn">SH/Aesthetics &amp; Craft</td>
+    <td class="tg-u1cn"> (Mr)</td>
+    <td class="tg-u1cn"></td>
   </tr>
   <tr>
     <td class="tg-cly1">Tay Han Tseng Clement (Mr)</td>
