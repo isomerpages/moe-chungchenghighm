@@ -39,8 +39,8 @@ Parents may choose to modify or disable DMA settings after school hours. More in
 
 To support parents and guardians in guiding their children using the PLD at home, please see these MOE toolkits:
 
-*   [Parent Handbook (I)](/files/IP2_Parent_Handbook_I_2025.pdf)
-*  [Parent Handbook (II)](/files/IP3_Parent_Handbook_II_2025.pdf) 
+*   [Parent Handbook (I)](/files/IP2_Parent_Handbook_I_2026.pdf)
+*  [Parent Handbook (II)](/files/IP3_Parent_Handbook_II_2026.pdf) 
 *   [Parent Kit](https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf)
 
 Our school also has a microsite: [https://go.gov.sg/cchmcw](https://go.gov.sg/cchmcw) to help parents and guardians better understand the latest trends and school policies so that we can work together to educate our students in building up positive cyberwellness habits.
