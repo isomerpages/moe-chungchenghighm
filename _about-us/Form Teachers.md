@@ -169,47 +169,47 @@ Secondary 3 Form Teachers
 <tbody>
   <tr>
     <td class="tg-mgsp">3BN</td>
-    <td class="tg-mgsp">Ng Wei Kee Ricky (Mr)</td>
+    <td class="tg-mgsp">Ang Ban Leong Alvin (Mr)</td>
     <td class="tg-mgsp"></td>
   </tr>
   <tr>
     <td class="tg-nrix">3CR</td>
-    <td class="tg-nrix">Lim Wen Xi (Mr)</td>
-    <td class="tg-nrix"></td>
+    <td class="tg-nrix">Shang Nannan (Mr)</td>
+    <td class="tg-nrix">Shobitha d/o Vasudevan (Ms)</td>
   </tr>
   <tr>
     <td class="tg-mgsp">3DL</td>
-    <td class="tg-mgsp">Tan Qin Shan Bertrand (Mr)</td>
+    <td class="tg-mgsp">Ho Yihan (Ms)</td>
     <td class="tg-mgsp"></td>
   </tr>
   <tr>
     <td class="tg-nrix">3EP</td>
-    <td class="tg-nrix">Yong Lai Yee Michelle (Mrs Chew)</td>
-    <td class="tg-nrix"></td>
+    <td class="tg-nrix">Juni Liyana Binte Amin (Ms)</td>
+    <td class="tg-nrix">Ng Chieh Shing Jason (Mr)</td>
   </tr>
   <tr>
     <td class="tg-mgsp">3FG</td>
-    <td class="tg-mgsp">Surayah Bte Mohamed Anwar (Mdm)</td>
-    <td class="tg-mgsp">Fan Lijun (Ms)</td>
+    <td class="tg-mgsp">Tan Seow Lan (Ms)</td>
+    <td class="tg-mgsp">Wang Feng (Mr)</td>
   </tr>
   <tr>
     <td class="tg-nrix">3GR</td>
-    <td class="tg-nrix">Lee Su-Ern Joanna (Mrs Tan)</td>
+    <td class="tg-nrix">Han Huayi (Ms)</td>
     <td class="tg-nrix"></td>
   </tr>
   <tr>
     <td class="tg-mgsp">3HM</td>
-    <td class="tg-mgsp">Azmi Bin Abdul Wahid (Mr)</td>
-    <td class="tg-mgsp">Su Airong (Mdm)</td>
+    <td class="tg-mgsp">See Yong Xin (Mr)</td>
+    <td class="tg-mgsp">Loh Siew Hua (Ms)</td>
   </tr>
   <tr>
     <td class="tg-nrix">3IT</td>
-    <td class="tg-nrix">Farhana Begum Bte V S Mohamed Ibrahim (Ms)</td>
-    <td class="tg-nrix"></td>
+    <td class="tg-nrix">Anisa Binte Mohamad Ali (Ms)</td>
+    <td class="tg-nrix">Tay Han Tseng Clement (Mr)</td>
   </tr>
   <tr>
     <td class="tg-mgsp">3JT</td>
-    <td class="tg-mgsp">Soh Lay Na (Ms)</td>
+    <td class="tg-mgsp">Teo Tan Li Jaclyn (Ms)</td>
     <td class="tg-mgsp"></td>
   </tr>
 </tbody>
