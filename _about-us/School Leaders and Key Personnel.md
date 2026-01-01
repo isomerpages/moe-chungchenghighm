@@ -201,25 +201,33 @@ Lead Teacher &amp; Senior Teacher
     <td class="tg-u1cn">Ahmad Hashikin M. B. Mohd Latiff (Mr)</td>
     <td class="tg-u1cn">Lead Teacher (English Language)</td>
   </tr>
-  <tr>
-    <td class="tg-cly1">Ang Weili Michelle (Mrs Foo)</td>
-    <td class="tg-cly1">Senior Teacher (Mathematics)</td>
+	  <tr>
+    <td class="tg-cly1">Wang Feng (Mr)</td>
+    <td class="tg-cly1">Senior Teacher (Chinese Language)</td>
   </tr>
 	 <tr>
     <td class="tg-u1cn">Mohamad Almie Bin Mohamed Mazlan (Mr)</td>
     <td class="tg-u1cn">Senior Teacher (Ed Support)</td>
   </tr>
-  <tr>
-    <td class="tg-cly1">Wang Feng (Mr)</td>
-    <td class="tg-cly1">Senior Teacher (Chinese Language)</td>
+ <tr>
+    <td class="tg-cly1">Nuurul Ezzah Bte Mohd Zulkefly (Ms)</td>
+    <td class="tg-cly1">Senior Teacher (English Language Int)</td>
   </tr>
 	<tr>
     <td class="tg-u1cn">Soh Lay Na (Mrs Long)</td>
     <td class="tg-u1cn">Senior Teacher (Geography)</td>
   </tr>
+	<tr>
+    <td class="tg-cly1">Char Wai Han Cassandra (Ms)</td>
+    <td class="tg-cly1">Senior Teacher (Mathematics Int)</td>
+  </tr>
+	<tr>
+    <td class="tg-u1cn">Fu Chunyu Esther (Ms)</td>
+    <td class="tg-u1cn">Senior Teacher (Music)</td>
+  </tr>
   <tr>
-    <td class="tg-cly1">Fu Chunyu Esther (Ms)</td>
-    <td class="tg-cly1">Senior Teacher (Music)</td>
+    <td class="tg-cly1">Gan Choon Ming Lawrence (Mr)</td>
+    <td class="tg-cly1">Senior Teacher (Science Int)</td>
   </tr>
 </tbody>
 	</table>
