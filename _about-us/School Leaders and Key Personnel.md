@@ -142,7 +142,7 @@ Key Personnel
     <td class="tg-u1cn">SH/CCE</td>
   </tr>
   <tr>
-    <td class="tg-cly1">See Yong Xin (Mr</td>
+    <td class="tg-cly1">See Yong Xin (Mr)</td>
     <td class="tg-cly1">SH/Aesthetics &amp; Craft</td>
   </tr>
 	 <tr>
