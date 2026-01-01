@@ -103,7 +103,7 @@ Key Personnel
   </tr>
   <tr>
     <td class="tg-cly1">Ng Sin Wee Benny (Mr)</td>
-    <td class="tg-cly1">HOD/CCE(Int)</td>
+    <td class="tg-cly1">HOD/CCE (Int)</td>
   </tr>
 	 <tr>
     <td class="tg-u1cn">Tan Mei Hui (Ms)</td>
@@ -130,8 +130,16 @@ Key Personnel
     <td class="tg-cly1">SH/Chinese Language</td>
   </tr>
 	 <tr>
-    <td class="tg-u1cn">Ng Wei Kee Ricky (Mr)</td>
-    <td class="tg-u1cn">SH/Applied Learning (Int)</td>
+    <td class="tg-u1cn">Woo Ching Nee Christine (Mrs Pang)</td>
+    <td class="tg-u1cn">SH/Mathematics</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">Liu Manru Mandy (Ms)</td>
+    <td class="tg-cly1">SH/English Language</td>
+  </tr>
+	 <tr>
+    <td class="tg-u1cn">See Yong Xin (Mr)</td>
+    <td class="tg-u1cn">SH/Aesthetics &amp; Craft</td>
   </tr>
   <tr>
     <td class="tg-cly1">Tay Han Tseng Clement (Mr)</td>
