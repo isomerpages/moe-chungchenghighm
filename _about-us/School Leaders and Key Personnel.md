@@ -102,19 +102,19 @@ Key Personnel
     <td class="tg-u1cn">HOD/SAP</td>
   </tr>
   <tr>
-    <td class="tg-cly1">Mong Lian Zhi Jasmine (Ms)</td>
-    <td class="tg-cly1">HOD/CCE</td>
+    <td class="tg-cly1">Ng Sin Wee Benny (Mr)</td>
+    <td class="tg-cly1">HOD/CCE(Int)</td>
   </tr>
 	 <tr>
     <td class="tg-u1cn">Tan Mei Hui (Ms)</td>
     <td class="tg-u1cn">HOD/Aesthetics &amp; Craft</td>
   </tr>
   <tr>
-    <td class="tg-cly1">Yeoh Zheng Sheng Alexandre Paul (Mr)</td>
+    <td class="tg-cly1">Tan Qin Shan Bertrand (Mr)</td>
     <td class="tg-cly1">Upper Sec Year Head</td>
   </tr>
   <tr>
-    <td class="tg-u1cn">Tan Pei Lin Jasmine (Mrs Lee)</td>
+    <td class="tg-u1cn">Mong Lian Zhi Jasmine (Ms)</td>
     <td class="tg-u1cn">Lower Sec Year Head</td>
   </tr>
   <tr>
@@ -130,8 +130,8 @@ Key Personnel
     <td class="tg-cly1">SH/Chinese Language</td>
   </tr>
 	 <tr>
-    <td class="tg-u1cn">Tan Qin Shan Bertrand (Mr)</td>
-    <td class="tg-u1cn">SH/Applied Learning</td>
+    <td class="tg-u1cn">Ng Wei Kee Ricky (Mr)</td>
+    <td class="tg-u1cn">SH/Applied Learning (Int)</td>
   </tr>
   <tr>
     <td class="tg-cly1">Tay Han Tseng Clement (Mr)</td>
@@ -150,12 +150,12 @@ Key Personnel
     <td class="tg-u1cn">SH/Physical Education &amp; CCA</td>
   </tr>
   <tr>
-    <td class="tg-cly1">Ng Sin Wee Benny (Mr)</td>
-    <td class="tg-cly1">SH/Student Wellbeing</td>
+    <td class="tg-cly1">Lim Wee (Mr)</td>
+    <td class="tg-cly1">SH/Student Wellbeing (Int)</td>
   </tr>
   <tr>
-    <td class="tg-u1cn">Ng See Khee Valerie (Ms)</td>
-    <td class="tg-u1cn">SH/Student Recognition</td>
+    <td class="tg-u1cn">Seah Ming Qi Alexandria (Ms)</td>
+    <td class="tg-u1cn">SH/Student Leadership (Int)</td>
   </tr>
   <tr>
     <td class="tg-cly1">Wang Xiao (Ms)</td>
