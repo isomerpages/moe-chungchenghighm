@@ -14,25 +14,25 @@ The use of the PLD for teaching and learning aims to:
 *	support self-directed and collaborative learning, and
 *	enhance teaching and learning.
 
-To complement the PLD initiative, MOE will centrally provide students with digital tools, such as Google Workspace, Zoom and Microsoft Pro Plus.
+To complement the PLD initiative, MOE will centrally provide students with digital tools, such as Google Workspace and Microsoft Pro Plus.
 
 **The PLD**
 
 The Chromebook is Chung Cheng High School (Main)’s prescribed device due to its low cost, high functionality, shorter boot-up time and longer lasting battery. Chromebooks provide our teachers and students with a networked and cloud computing environment that helps to facilitate teaching and learning anytime, anywhere.
 
-The PLD will come with an Enhanced Device Bundle, which includes a 3-year warranty and 3-year insurance.
+The PLD will come with an Enhanced Device Bundle, which includes a 4-year warranty and 4-year insurance.
 
 Students can draw upon their Edusave funds to pay for the PLD. Permanent residents (PR) and international students (IS) will make cash payment for the PLD. Subsidies are available to students who require financial assistance.
 
-PLD procurement in our school will take place between **13 to 20 Jan 2025** More information will be provided through Parents Gateway.
+PLD procurement in our school will take place between **9 to 14 Jan 2026** More information will be provided through Parents Gateway.
 
 **Supporting Students in the Safe and Effective Use of PLDs**
 
 All PLDs will be installed with a Device Management Application (DMA) to provide a safer digital environment for learning. Students will be guided on the installation of DMA after the collection of their devices. The DMA will be **funded by MOE**. Please note that it will be **uninstalled** from the device **when the student graduates or leaves the school.**
  
-The school will determine DMA settings for in-school use. As a default, these settings will continue to be in place after school as well:
+The school will determine DMA settings for **in-school use**. As a default, these settings will continue to be in place after school as well:
 *	MOE and the school will set the level of web content filtering, including filtering out objectionable content or content that may not be conducive to teaching and learning (e.g. social media, pornography, gambling, or websites containing extremist content).
-*	Students will be able to use the device from 5.00 a.m. to 11.00 p.m. daily.
+*	Students will be able to use the device from 6.30 a.m. to 10.30 p.m. daily.
 *	The school will determine the apps and programs to be installed to support teaching and learning.
 
 Parents may choose to modify or disable DMA settings after school hours. More information will be provided through Parents Gateway.
