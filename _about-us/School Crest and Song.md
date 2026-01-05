@@ -2,6 +2,7 @@
 title: School Crest and Song
 permalink: /about-us/school-crest-and-song/
 description: ""
+variant: markdown
 ---
 School Crest
 ------------
@@ -14,9 +15,9 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<body><img src="/images/school_logo.png" alt="School Logo" style="width:15%;">  
+<img src="/images/school_logo.png" alt="School Logo" style="width:15%;">  
   
-</body>
+
 
 The three sides of the triangle represent the collaboration between the school’s management, teachers and pupils. These three work hand in hand to bring the school to greater heights. The colour red represents the school motto – “With Passion We Learn, With Perseverance We Strive” and “With Integrity We Live, With Commitment We Progress”. It inspires pupils to be upright, caring and loyal citizens. White symbolises purity and also signifies the imparting of knowledge. It serves to highlight the dual importance our school places on encouraging our pupils to achieve excellence in both studies and character building.
 
@@ -29,4 +30,4 @@ School Song
 
 <h4 style="color:black" align="center">Our School Song (Translation)</h4>
 
-<p style="text-align:center;">Overlooking the eastern shore of Singapore,<br>Gallantly stands the magnificent Chung Cheng of ours.<br>Spreading far and wide our cultural heritage and traditions, <br>Enriching it with the best of all great civilizations, <br>By this we fulfil our mission.<br>With enthusiasm and perseverance we strive<br>To achieve moral virtues and excellence.<br>With new knowledge and wisdom we seek<br>To constantly reinforce our confidence.<br>To be the best we can be,<br>Our success and glory we share<br>With people of all countries.<br>To eternity we perpetuate<br>The aspirations of our magnificent Chung Cheng,<br>Far beyond all boundaries.</p>
+<p style="text-align:center;">Overlooking the eastern shore of Singapore,<br>Gallantly stands the magnificent Chung Cheng of ours.<br>Spreading far and wide our cultural heritage and traditions, <br>Enriching it with the best of all great civilisations, <br>By this we fulfil our mission.<br>With enthusiasm and perseverance we strive<br>To achieve moral virtues and excellence.<br>With new knowledge and wisdom we seek<br>To constantly reinforce our confidence.<br>To be the best we can be,<br>Our success and glory we share<br>With people of all countries.<br>To eternity we perpetuate<br>The aspirations of our magnificent Chung Cheng,<br>Far beyond all boundaries.</p>
