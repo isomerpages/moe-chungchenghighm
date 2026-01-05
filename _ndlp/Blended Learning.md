@@ -6,7 +6,7 @@ variant: markdown
 ---
 Blended Learning refers to the blending of In-School Learning (ISL) and Home-Based Learning (HBL). The integration of HBL will be a regular feature in our students’ schooling experience.
 
-From 2025, HBL will take place on odd week Thursday.
+From 2026, HBL will take place on odd week Thursday.
 
 HBL aims to
 *	enhance digital literacy skills and the use of ICT tools in learning, and
