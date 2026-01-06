@@ -26,7 +26,7 @@ variant: markdown
 
 You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for more information on MOE Sexuality Education.
 
-**Overview of Chung Cheng High School (Main)’s Sexuality Education Programme for 2025**
+**Overview of Chung Cheng High School (Main)’s Sexuality Education Programme for 2026**
 
 4) Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education-scope)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
 
@@ -40,27 +40,27 @@ You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for mo
 
 7) Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
-**At Chung Cheng High School (Main), the following Sexuality Education lessons will be taught in&nbsp;<u>2025</u>:**
+**At Chung Cheng High School (Main), the following Sexuality Education lessons will be taught in&nbsp;<u>2026</u>:**
 
 **Secondary 1**
-<img style="width:1080px" alt="Sec1 SeD Table1" src="/images/Sec1_SeD_2025.jpg">
+<img style="width:1080px" alt="Sec1 SeD Table1" src="/images/Sec1_SeD_2026.jpg">
 
 **Secondary 2**
-<img style="width:1080px" alt="Sec2 SeD Table1" src="/images/Sec2_SeD_2025.jpg">
+<img style="width:1080px" alt="Sec2 SeD Table1" src="/images/Sec2_SeD_2026.jpg">
 
 **Secondary 3**
-<img style="width:1080px" alt="Sec3 SeD Table1" src="/images/Sec3_SeD_2025.jpg">
+<img style="width:1080px" alt="Sec3 SeD Table1" src="/images/Sec3_SeD_2026.jpg">
 
 **Secondary 4**&nbsp;
-<img style="width:1080px" alt="Sec4 SeD Table1" src="/images/Sec4_SeD_2025.jpg">
+<img style="width:1080px" alt="Sec4 SeD Table1" src="/images/Sec4_SeD_2026.jpg">
 
 **<u><em>eTeens</em> Programme</u>**:
 
-8) eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions. 
+8) eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. With the formation of the Communicable Diseases Agency (CDA) on 1 April 2025, the programme would now be managed by CDA’s Training and Education Division instead of HPB. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions to protect themselves from sexually transmitted infectious diseases. 
 
 9) Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages. 
 
-**At Chung Cheng High School (Main), the&nbsp;_eTeens_&nbsp;programme will be implemented as follows in 2025:**
+**At Chung Cheng High School (Main), the&nbsp;_eTeens_&nbsp;programme will be implemented as follows in 2026:**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -83,13 +83,13 @@ You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for mo
 <tbody>
   <tr>
     <td class="tg-cly1">Mass Talk delivered through a pre-recorded video</td>
-    <td class="tg-cly1">·       Raise awareness and provide knowledge on:<br><br><span style="color:#1E1E1E">       a)	Infectious diseases (STIs and HIV): what it is, how it spreads, how to prevent infection mainly through ABC (abstinence, being faithful, correct, and consistent condom use).</span><br><br><br><span style="font-weight:400;color:#1E1E1E">       b)	Managing relationships and risky situations in a healthy way.</span><br><br><span style="font-weight:400;color:#1E1E1E"></span></td>
-    <td class="tg-cly1">Term 3 Week 5</td>
+    <td class="tg-cly1">·       Raise awareness and provide knowledge on:<br><br><span style="color:#1E1E1E">       a)	Sexually transmitted infectious diseases (STIs and HIV): what it is, how it spreads, how to prevent infection mainly through ABC (abstinence, being faithful, correct, and consistent condom use), consequences and impact</span><br><br><br><span style="font-weight:400;color:#1E1E1E">       b)	Skills for respecting boundaries (e.g. decision-making, assertiveness, negotiation to say ‘no’ to peer pressure)</span><br><br><br><span style="font-weight:400;color:#1E1E1E">       c)	Managing relationships and risky situations in a healthy way, including avenues for help-seeking.</span><br><br><span style="font-weight:400;color:#1E1E1E"></span></td>
+    <td class="tg-cly1">Term 2 Week 7</td>
   </tr>
   <tr>
     <td class="tg-u1cn">Classroom-based Lesson</td>
     <td class="tg-u1cn">·       Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</td>
-    <td class="tg-u1cn">Term 3 Week 7</td>
+    <td class="tg-u1cn">Term 2 Week 9</td>
   </tr>
 </tbody>
 </table>
@@ -98,8 +98,8 @@ You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for mo
 
 10) Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers. 
 
-11) Parents who wish to opt their children out of the&nbsp;**Sexuality Education lessons**&nbsp;need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](https://go.gov.sg/cchm-2025-sed-opt-out). The completed form is to be submitted by 01/03/2025.
+11) Parents who wish to opt their children out of the&nbsp;**Sexuality Education lessons**&nbsp;need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](https://go.gov.sg/cchm-2026-sed-opt-out). The completed form is to be submitted by 27/02/2026.
 
-12) Parents who wish to opt their children out of the&nbsp;**_eTeens_**&nbsp;**programme**&nbsp;need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](https://go.gov.sg/cchm-2025-eteens-opt-out). The completed form is to be submitted by 01/03/2025.
+12) Parents who wish to opt their children out of the&nbsp;**_eTeens_**&nbsp;**programme**&nbsp;need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](https://go.gov.sg/cchm-2026-eteens-opt-out). The completed form is to be submitted by 27/02/2026.
 
 13) Parents can contact the school at 6344 1393 or&nbsp;[cchms@moe.edu.sg](mailto:cchms@moe.edu.sg)&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.
