@@ -23,6 +23,6 @@ School candidates who are unwell should seek medical attention and not return to
 Please call the General Office at 63441393 if you need assistance. 
 
 More information is available here.
-https://www.moe.gov.sg/news/press-releases/20260107-release-of-2025-singapore-cambridge-gce-o-level-examination-results-and-2026-joint-admissions-exercise 
+[https://www.moe.gov.sg/news/press-releases/20260107-release-of-2025-singapore-cambridge-gce-o-level-examination-results-and-2026-joint-admissions-exercise ](https://www.moe.gov.sg/news/press-releases/20260107-release-of-2025-singapore-cambridge-gce-o-level-examination-results-and-2026-joint-admissions-exercise )
 
 We look forward to seeing you soon!
