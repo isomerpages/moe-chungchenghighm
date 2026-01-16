@@ -47,7 +47,7 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-mgsp">Girl Guides</td>
-    <td class="tg-mgsp" rowspan="5">Wednesday &amp; Friday<br><br><span style="font-weight:400;color:#1E1E1E">3.15pm – 6.15pm</span></td>
+    <td class="tg-mgsp" rowspan="5">Wednesday &amp; Friday<br><br><span style="font-weight:400;color:#1E1E1E">3.30pm – 6.00pm</span></td>
     <td class="tg-mgsp">Concourse</td>
   </tr>
   <tr>
@@ -111,7 +111,7 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Badminton</span></td>
-    <td class="tg-3mbt" rowspan="5"><span style="font-weight:400;color:#1E1E1E">Monday, Wednesday &amp; Friday</span><br><span style="font-weight:400;color:#1E1E1E">3.15pm – 6.15pm</span></td>
+    <td class="tg-3mbt" rowspan="5"><span style="font-weight:400;color:#1E1E1E">Monday, Wednesday &amp; Friday</span><br><span style="font-weight:400;color:#1E1E1E">3.30pm – 6.00pm</span></td>
     <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Indoor Sports hall Level 2/ School Hall</span></td>
   </tr>
   <tr>
@@ -132,7 +132,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-x413"><span style="font-weight:400;color:#1E1E1E">Wushu</span></td>
-    <td class="tg-3mbt" rowspan="2"><span style="font-weight:400;color:#1E1E1E">3.15pm – 6.15pm</span></td>
+    <td class="tg-3mbt" rowspan="2"><span style="font-weight:400;color:#1E1E1E">3.30pm – 6.00pm</span></td>
     <td class="tg-x413"><span style="font-weight:400;color:#1E1E1E">School Hall</span></td>
   </tr>
  </tbody>
@@ -177,7 +177,7 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Chinese Drama</span></td>
-    <td class="tg-3mbt" rowspan="5"><span style="font-weight:400;color:#1E1E1E">Wednesday &amp; Friday</span><br><span style="font-weight:400;color:#1E1E1E">3.15pm – 6.15pm</span></td>
+    <td class="tg-3mbt" rowspan="5"><span style="font-weight:400;color:#1E1E1E">Wednesday &amp; Friday</span><br><span style="font-weight:400;color:#1E1E1E">3.30pm – 6.00pm</span></td>
     <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Innosphere Drama Studio Level 3</span></td>
   </tr>
   <tr>
@@ -198,7 +198,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-x413"><span style="font-weight:400;color:#1E1E1E">Modern Dance</span></td>
-    <td class="tg-3mbt" rowspan="2"><span style="font-weight:400;color:#1E1E1E">3.15pm – 6.15pm</span></td>
+    <td class="tg-3mbt" rowspan="2"><span style="font-weight:400;color:#1E1E1E">3.30pm – 6.00pm</span></td>
     <td class="tg-x413"><span style="font-weight:400;color:#1E1E1E">Innosphere Dance Studio Level 2</span></td>
   </tr>
  </tbody>
@@ -246,7 +246,7 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Art &amp; Crafts</span></td>
-    <td class="tg-3mbt" rowspan="5"><span style="font-weight:400;color:#1E1E1E">Wednesday &amp; Friday</span><br><span style="font-weight:400;color:#1E1E1E">3.15pm – 6.15pm</span><br></td>
+    <td class="tg-3mbt" rowspan="5"><span style="font-weight:400;color:#1E1E1E">Wednesday &amp; Friday</span><br><span style="font-weight:400;color:#1E1E1E">3.30pm – 6.00pm</span><br></td>
     <td class="tg-3mbt"><span style="font-weight:400;color:#1E1E1E">Art Room</span></td>
   </tr>
   <tr>
