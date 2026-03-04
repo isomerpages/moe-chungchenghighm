@@ -27,7 +27,7 @@ We achieve this by building a strong sense of purpose, offering highly relevant 
 * Generate innovative solutions to meet societal needs. 
 
 The programme structure is as follows: 
-(pic insert)
+<img src="/images/ALP_Programme_Structure___reduce.jpg" alt="Applied Learning Programme (ALP)" style="width:100%;">  
 
 #### **The Learning Tracks: Dive or Discover**
 
