@@ -75,4 +75,4 @@ In their graduating year, students apply their skills to give back to their scho
 
 <p style="text-align:center;"><iframe allowfullscreen="true" height="569" width="768" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTBseI_1DotRQvDbZO9YLb3R8J1eYy_jxf5kx9EARLpJbDenqjFH_4nm6HlIZqZPYD7v9NZHs9C1ljK/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe></p>
 
-For additional queries, please contact Mr Bertrand Tan (SH/Applied Learning) at [cchms@moe.edu.sg](mailto:cchms@moe.edu.sg).
+For additional queries, please contact Mr Ricky Ng (SH/Applied Learning) at [cchms@moe.edu.sg](mailto:cchms@moe.edu.sg).
