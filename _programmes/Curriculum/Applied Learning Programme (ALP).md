@@ -17,33 +17,61 @@ img {
 
 #### **Introduction** 
 
-Beginning in 2019, the school has put its signature twist to MOE’s Applied Learning Programme. A timetabled but non-examinable subject, the ALP aims to explicitly develop students’ 21st Century Competencies, prepare students for the future of work, and raise concerned and active citizens. 
+At Chung Cheng High School (Main), our Applied Learning Programme (ALP) goes beyond the traditional classroom. Introduced in 2019, this timetabled, non-examinable programme is designed to develop students’ 21st Century Competencies, prepare them for the future of work and nurture them into active, concerned citizens. 
 
-It does this through increasing students’ motivation and self-efficacy through the building of a strong subject identity, an exciting pedagogy and relevant content. 
+We achieve this by building a strong sense of purpose, offering highly relevant content and keeping students motivated through hands-on learning. Over the two-year programme, our Upper Secondary students will learn to:
 
-Over two years, our Upper Secondary students demonstrate their knowledge and understanding by: 
+* Communicate effectively across a variety of mediums and formats.
+* Apply problem-solving skills by proposing practical solutions within specific industries.
+* Demonstrate empathy by understanding the unique contexts and needs of different communities in Singapore and across Asia.
+* Generate innovative solutions to meet societal needs. 
 
-* Applying communication skills through a variety of mediums and formats;
-* Applying problem-solving skills by proposing solutions to problems in identified domains;
-* Empathising with the unique context and needs of different groups in Singapore and Asia;
-* Generating solutions to meet the needs of society.
+The programme structure is as follows: 
+(pic insert)
 
-#### **Taught Component – Communication &amp; Problem-Solving**
+#### **The Learning Tracks: Dive or Discover**
 
-Students in the ALP choose content that excites and challenges them to grow in their Communication and Problem-Solving skills. For example, in 2025, our students will learn: 
+Students in the ALP are encouraged to choose topics that excite and challenge them. Starting in 2026, students will choose between two distinct tracks to build their Communication and Problem-Solving skills: **Dive** or **Discover**. 
+
+##### The Dive Track
+
+* This track is for students who want to focus deeply on one core skill. Students will master either: 
+	* Communication via Public Speaking module OR
+	* Problem-Solving via Service Learning through Design Thinking module.
+
+* The Discover Track
+	* This track is for students who want broad exposure to both Communication and Problem-Solving skills. Students will select modules from the following 2026 offerings:
 
 <img src="/images/ALP_Table_2025.png" alt="Applied Learning Programmes (ALP)" style="width:100%;">  
  
 	
-#### **Taught Component – Empathy**
+#### **Learning Through Empathy**
 
-Students will experience a variety of learning journeys for them to empathise with the problems in Singapore and Asia. They will interact with industry professionals through a variety of authentic tasks, to learn how they apply communication and problem-solving skills, to add value to society. 
+To truly understand the challenges facing society, students will participate in a variety of local learning journeys. They will interact directly with industry professionals and engage in authentic, real-world tasks. This exposure helps them understand how communication and problem-solving are applied in the workplace to add value to society. 
 
 
-#### **Self-Directed Component – CREATE**
+#### **CREATE**
 
-In their graduating year, students will have a chance to CREATE to give back to society! 
-Students have done this through mounting advocacy projects in the community, participated in job-internships and shadowing, and done their own research projects to improve the school experience.
+In their graduating year, students apply their skills to give back to their school and society through the **CREATE** framework:
+
+* **C – Cross-Cultural Learning (Overseas Learning Journey)**
+	* Opportunities to interact with professionals and peers abroad.
+
+* **R – Real-World Exposure (Work Attachment)**
+	* First-hand experience through internships and job shadowing. 
+
+* **E – Exploration of Interests (Subject Interest Platform)**
+	* Specialised modules run by various departments for students to explore subjects beyond the textbook.
+
+* **A – Applied Opportunities**
+	* Participation in external competitions or Applied Learning Modules (ApLM) held at Polytechnics.
+
+
+* **T – Transformative Projects (Self-Directed)**
+	* Student-led advocacy or research projects designed to improve the school experience.
+
+* **E – Experiential Engagement**
+	* Platforms for students to share their voice, such as leading Assembly programmes or guiding visitors during Open House.
 
 <p style="text-align:center;"><iframe allowfullscreen="true" height="569" width="768" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTBseI_1DotRQvDbZO9YLb3R8J1eYy_jxf5kx9EARLpJbDenqjFH_4nm6HlIZqZPYD7v9NZHs9C1ljK/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe></p>
 
