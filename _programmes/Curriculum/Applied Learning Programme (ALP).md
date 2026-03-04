@@ -42,7 +42,7 @@ Students in the ALP are encouraged to choose topics that excite and challenge th
 * The Discover Track
 	* This track is for students who want broad exposure to both Communication and Problem-Solving skills. Students will select modules from the following 2026 offerings:
 
-<img src="/images/ALP_Table_2025.png" alt="Applied Learning Programmes (ALP)" style="width:100%;">  
+<img src="/images/ALP_Table_2026.png" alt="Applied Learning Programmes (ALP)" style="width:100%;">  
  
 	
 #### **Learning Through Empathy**
