@@ -3,6 +3,7 @@ title: English Language and Literature
 permalink: /programmes/curriculum/english-language-and-literature/
 description: ""
 third_nav_title: Curriculum
+variant: markdown
 ---
 Academic Programme: English Language and Literature
 ---------------------------------------------------
@@ -66,12 +67,12 @@ Academic Programme: English Language and Literature
   <tr>
     <td class="tg-u1cn">Oral Communication Programme</td>
     <td class="tg-u1cn">Secondary 1</td>
-    <td class="tg-5xw7"><span style="font-weight:400;color:#1E1E1E">Oral Communication Programme offers an interactive and activity-based learning experience which is aimed at developing the verbal and non-verbal communication skills of all students in the school using English Language so as to enable them to communicate verbally with confidence and clarity.</span><br><br><span style="font-weight:400;color:#1E1E1E">Through the programme, students are offered the opportunity to develop further whereby they get to present before a large audience in school. Students who show keen interest are given the chance to take part in national competitions and ad-hoc courses at Secondary 2.</span></td>
+    <td class="tg-5xw7"><span style="font-weight:400;color:#1E1E1E">Oral Communication Programme offers an interactive and activity-based learning experience which is aimed at developing the verbal and non-verbal communication skills of all students in the school using English Language so as to enable them to communicate verbally with confidence and clarity.</span><br><br><span style="font-weight:400;color:#1E1E1E">Students who demonstrate interest to further develop their communication and presentations skills can sign up for various speech presentation competitions (eg. PESA and Orator's Trophy) at different points in their time in school.</span></td>
   </tr>
   <tr>
-    <td class="tg-cly1">Authentic Project Work (Literature in English)</td>
-    <td class="tg-cly1">Secondary 1 and 2</td>
-    <td class="tg-ic9l"><span style="font-weight:400;color:#1E1E1E">Authentic Project Work is implemented at Secondary 1 and 2 whereby students demonstrate their understanding through the authentic tasks assigned to them. By collaborating with their classmates to produce posters, tableau and write-ups, students learn to apply their knowledge beyond the classrooms and this also deepens their understanding of the set text and hones their critical thinking skills through perspective-taking activities.</span></td>
+    <td class="tg-cly1">Literature in English</td>
+    <td class="tg-cly1">Secondary 2</td>
+    <td class="tg-ic9l"><span style="font-weight:400;color:#1E1E1E">At Secondary 2, students are given the opportunity to demonstrate their understanding of the drama text, Frankenstein, through authentic tasks assigned to them. By collaborating with their classmates, students learn to apply their knowledge beyond the classrooms, deepening their understanding of the text and honing their critical thinking skills through perspective-taking activities.</span></td>
   </tr>
 </tbody>
 </table>
