@@ -3,8 +3,9 @@ title: Design and Technology
 permalink: /programmes/curriculum/design-and-technology/
 description: ""
 third_nav_title: Curriculum
+variant: markdown
 ---
-Academic Programme: Design & Technology
+Academic Programme: Design &amp; Technology
 ---------------------------------------
 
 **Subjects Offered:**
@@ -58,14 +59,14 @@ Academic Programme: Design & Technology
 </thead>
 <tbody>
   <tr>
-    <td class="tg-mgsp">Project-based Learning</td>
+    <td class="tg-mgsp">Design &amp; Technology</td>
     <td class="tg-mgsp">Secondary 1 and 2</td>
-    <td class="tg-5xw7"><span style="font-weight:400;color:#1E1E1E">Students will engage in an iterative process of design making, and develop a ‘design thinking’ mindset as they problem-solve within a variety of design contexts of progressive demands.</span><br><br><span style="font-weight:400;color:#1E1E1E">Students will also develop critical and creative thinking to conceptualise and generate imaginative ideas, in response to practical needs in problem situations.</span><br><br><span style="font-weight:400;color:#1E1E1E">The setup of an educational Makerspace will provide an immersive learning opportunity for hands-on tinkering and experimental play. Students will tinker and create, as they apply a repertoire of knowledge, understanding and practical skills to manipulate a range of materials, tools and equipment, processes and basic technology to turn ideas into reality.</span></td>
+    <td class="tg-5xw7"><span style="font-weight:400;color:#1E1E1E">Our Lower Secondary Design &amp; Technology (D&amp;T) programme is aligned with the MOE Design &amp; Technology Syllabus and aims to develop students’ creativity, problem-solving abilities and technological literacy through authentic, hands-on learning experiences.</span><br><br><span style="font-weight:400;color:#1E1E1E">Through Design Thinking, students learn to identify user needs, generate ideas, develop prototypes and evaluate solutions. They are guided through the design process as they explore how thoughtful design and technology can address real-world problems.</span><br><br><span style="font-weight:400;color:#1E1E1E">Students also develop foundational skills in design communication, sketching, materials processing and the safe use of tools and equipment. They are introduced to technological elements such as Artificial Intelligence, basic electronics and digital design tools, allowing them to understand how technology can be integrated into functional products. Through project-based learning, students apply these skills to design and make prototypes while testing, evaluating and refining their ideas.</span><br><br><span style="font-weight:400;color:#1E1E1E">The programme nurtures innovative thinking, resilience and collaboration, preparing students to further develop their capabilities in Design &amp; Technology at the upper secondary level and to become thoughtful creators in an increasingly technology-driven world.</span></td>
   </tr>
   <tr>
-    <td class="tg-nrix">Digital Technology</td>
-    <td class="tg-nrix">Secondary 1 and 2</td>
-    <td class="tg-ic9l"><span style="font-weight:400;color:#1E1E1E">Students will learn to develop visual-spatial thinking and creativity using computer-aided design softwares to create 3-dimensional models.</span><br><br><span style="font-weight:400;color:#1E1E1E">Students will also have opportunities to learn and apply relevant skills on various other technological platforms to develop logical thinking.</span></td>
+    <td class="tg-nrix"></td>
+    <td class="tg-nrix"></td>
+    <td class="tg-ic9l"><span style="font-weight:400;color:#1E1E1E"></span><br><br><span style="font-weight:400;color:#1E1E1E"></span></td>
   </tr>
 </tbody>
 </table>
