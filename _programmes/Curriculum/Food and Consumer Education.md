@@ -3,6 +3,7 @@ title: Food and Consumer Education
 permalink: /programmes/curriculum/food-and-consumer-education/
 description: ""
 third_nav_title: Curriculum
+variant: markdown
 ---
 Academic Programme: Food And Consumer Education (FCE)
 -----------------------------------------------------
@@ -58,7 +59,9 @@ Academic Programme: Food And Consumer Education (FCE)
   <tr>
     <td class="tg-u1cn">Food and Consumer Education (FCE)</td>
     <td class="tg-u1cn">Secondary 1 and 2</td>
-    <td class="tg-5xw7"><span style="font-weight:400;color:#1E1E1E">The FCE curriculum aims to empower students with the knowledge, skills and attitudes required in order to maintain good health and sound organisational skills from a young age.</span><br><br><span style="font-weight:400;color:#1E1E1E">Student-centered pedagogies and teaching strategies are adopted to enhance student competencies in building self-awareness, self-management, responsible decision-making, social awareness and relationship management through the use of current and relevant online platforms such as the Google Classroom, Student Learning Space, and Social Media.</span><br><br><span style="font-weight:400;color:#1E1E1E">Students will also be equipped with a variety of culinary skills and be exposed to recipes of different cultures, allowing them to be appreciative of the diversity of food in Singapore and around the world. They will also learn how to make informed food choices and consumer decisions.</span></td>
+    <td class="tg-5xw7"><span style="font-weight:400;color:#1E1E1E">Food &amp; Consumer Education (FCE) equips students with the knowledge, skills and values needed to make informed food, health and consumer decisions in today’s rapidly changing world. Through the study of nutrition, food preparation, and consumer awareness, students develop the ability to maintain healthy lifestyles, manage resources responsibly and make thoughtful choices that impact themselves, their families and the wider community.
+</span><br><br><span style="font-weight:400;color:#1E1E1E">The FCE curriculum adopts student-centred and inquiry-based learning approaches to develop students’ critical thinking, self-management and responsible decision-making skills. Lessons integrate digital platforms such as the Student Learning Space and Google Classroom, where students engage in activities like online food journals, reflection tasks and collaborative discussions to build greater awareness of their eating habits and lifestyle choices.</span><br><br><span style="font-weight:400;color:#1E1E1E">Students gain hands-on culinary experience and learn practical food preparation skills while exploring the science of nutrition and health. They are also encouraged to examine contemporary food issues such as balanced diets, diet-related diseases, food sustainability and responsible consumption. Through these learning experiences, students become more mindful of how their food choices affect their health and the environment.</span><br><br><span style="font-weight:400;color:#1E1E1E">In addition, students are exposed to the rich diversity of food cultures in Singapore and around the world. By understanding different culinary traditions and consumer perspectives, they develop greater appreciation for cultural diversity and become more thoughtful and informed consumers.</span>
+		<br><br><span style="font-weight:400;color:#1E1E1E">Through FCE, students are empowered to develop lifelong habits that support healthy living, responsible consumption and sustainable food practices.</span></td>
   </tr>
 </tbody>
 </table>
