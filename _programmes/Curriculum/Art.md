@@ -3,6 +3,7 @@ title: Art
 permalink: /programmes/curriculum/art/
 description: ""
 third_nav_title: Curriculum
+variant: markdown
 ---
 Academic Programme: Art
 -----------------------
@@ -67,12 +68,12 @@ Academic Programme: Art
   <tr>
     <td class="tg-mgsp">General Art Programme (GAP)</td>
     <td class="tg-mgsp">Secondary 1 and 2</td>
-    <td class="tg-u1cn">GAP enables every child to be visually literate and appreciate art. Students are provided with opportunities to observe their environment, generate ideas, create artworks, discuss about art and value the role of art and culture in society.<br><br><span style="font-weight:400;color:#1E1E1E">The programmes covers ceramics, western painting and art appreciation. Through hands-on sessions, one-to-one consultations, presentations, school and external gallery visits, students are able to experience art learning and art making through various platforms of explorations,  discovery and sharing.</span></td>
+    <td class="tg-u1cn">The General Art Programme aims to develop every child as an active artist and an informed audience of art. Through the programme, students cultivate curiosity, critical and inventive thinking, and the confidence to express their own ideas and perspectives visually. They also develop an appreciation of how art reflects diverse social and cultural experiences.<br><br><span style="font-weight:400;color:#1E1E1E">In Lower Secondary, students explore a range of artistic media and approaches, including drawing, watercolour painting, clay, and bookmaking. Through these experiences, they learn to observe the world around them, generate and develop ideas, and create artworks with intention and purpose.</span><br><br><span style="font-weight:400;color:#1E1E1E">Learning extends beyond the classroom through workshops, discussions, and opportunities to engage with artworks in galleries and other cultural spaces. These experiences encourage students to reflect on their creative processes, share their ideas with others, and recognise the role of art in shaping how we understand ourselves and the world.</span></td>
   </tr>
   <tr>
     <td class="tg-nrix">Art and Higher Art</td>
     <td class="tg-nrix">Secondary 3 and 4</td>
-    <td class="tg-cly1">Art students undergo two components which are Studio Practice and the Study of Visual Arts (SOVA). These two areas enable students to attain a more holistic understanding through learning about different aspects of artworks, and in making art. Students offering Higher Art will be prepared in Visual Art Task (VAT) as one of the components in the GCE O-Level Art Examination. Students will apply art skills and knowledge to solve visual arts problems such as a simulated scenario akin to those encountered by a visual arts practitioner. Through this, students will acquire process skills of task analysis, solution generation and evaluation in problem solving.</td>
+    <td class="tg-cly1">In Upper Secondary, the Art programme offers students a rigorous and engaging experience that develops important artistic habits such as maintaining art journals, building and curating their own portfolios, and engaging in thoughtful art conversations. Through open-ended tasks across a range of 2D and 3D media, students experiment with ideas, solve visual problems, and develop their personal voice in art.<br><br>Students offering Higher Art have the opportunity to apply their artistic skills and knowledge to respond creatively to real-world visual challenges. Beyond the classroom, students’ interests and passions are further nurtured through gallery and museum visits, exposure to art and design programmes in Institutes of Higher Learning, and opportunities to participate in community art projects.</td>
   </tr>
 </tbody>
 </table>
