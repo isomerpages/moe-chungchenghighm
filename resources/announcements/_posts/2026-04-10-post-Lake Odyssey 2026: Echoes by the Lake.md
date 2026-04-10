@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-<img src="/images/CC85_02.png" alt="CC85AnniHomeComingLunch" style="width:600px">
+<img src="/images/Lake_Odyssey_2026_Echoes_by_the_Lake.jpg" alt="Lake Odyssey 2026 Echoes by the Lake" style="width:600px">
 
 **今年的5月30日，我们诚挚邀请学生、家长、校友和各位公众来中正总校，一同观赏原创舞台剧《湖的传奇之湖光长照中正人》。**
 
