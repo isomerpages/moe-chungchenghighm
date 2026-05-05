@@ -60,3 +60,48 @@ Chinese Language
 * Join the Chinese Language Elective Programme (Secondary), CLEP-Sec [https://www.moe.gov.sg/programmes/clep-sec](https://www.moe.gov.sg/programmes/clep-sec)
 * May apply for the CLEP scholarship if selection criteria are met
 
+
+**DSA Selection Process**
+
+*Step 1 — Application*
+
+* Submit application via the MOE DSA-Sec Portal at [www.moe.gov.sg/dsa-sec ](www.moe.gov.sg/dsa-sec )
+* Open from 6 May 2026, 11am to 2 June 2026, 4.30pm
+
+*Step 2 — Trial or Audition (Shortlisted applicants only)*
+
+* Sports and Performing Arts: in-person trial or audition by 10 July 2026; notified via email
+* Wushu: perform 1 Quanshu, 1 Short Weapon, and 1 Long Weapon routine (5-duan or higher), plus other required actions
+* Other Sports: play in game situations and perform sports-related skills as required
+* Chinese Orchestra and Concert Band: perform 2 contrasting pieces, total 5 to 10 minutes
+* Chinese Language: no trial or audition required; proceed directly to interview
+
+*Step 3 — Interview (Further shortlisted applicants only)*
+* Sports and Performing Arts: in-person interview after trial or audition
+* Chinese Language: in-person interview with a brief written task on the day
+* All shortlisted candidates notified of interview date and time via email
+
+**Important Dates**
+
+**6 May – 2 Jun 2026:** Application window
+
+**7 Jul – 14 Aug 2026:** Sports trials, Performing Arts auditions, and interviews
+
+**By early Sep 2026:** Selection outcome notified (Confirmed Offer, Wait List, or Unsuccessful)
+
+**End Oct 2026:** School Preference Submission (for applicants who received more than one offer) via DSA-Sec Portal (Singpass login required for both parents; up to 3 school preferences)
+
+**Late Nov 2026:** DSA-Sec results released together with PSLE results
+
+**Contact Us**
+
+For general DSA-Sec information, visit [www.moe.gov.sg/dsa-sec ](www.moe.gov.sg/dsa-sec )
+
+Other useful MOE weblinks, [https://www.moe.gov.sg/secondary/dsa/application ](https://www.moe.gov.sg/secondary/dsa/application )
+
+DSA-Sec iFAQs   [https://go.gov.sg/dsa-secfaqs ](https://go.gov.sg/dsa-secfaqs )
+
+DSA-Sec School Finder   [https://go.gov.sg/dsa-secschfinder ](https://go.gov.sg/dsa-secschfinder )
+
+For school-specific queries, email [cchms@moe.edu.sg](mailto:cchms@moe.edu.sg) with the subject header "DSA 2026".
+
