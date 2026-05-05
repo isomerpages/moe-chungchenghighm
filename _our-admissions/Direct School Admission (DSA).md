@@ -4,10 +4,10 @@ permalink: /direct-school-admission-dsa/
 variant: markdown
 description: ""
 ---
-**Direct School Admission (DSA) Exercise for 2027 Intake**
+##### Direct School Admission (DSA) Exercise for 2027 Intake
 We invite all current Primary Six students (or equivalent) to apply for admission for the academic year 2027 via the DSA-Sec exercise.
 
-**Before You Apply**
+##### Before You Apply
 
 Choose schools based on your child's aptitudes, strengths, and the programmes available
 
@@ -19,7 +19,7 @@ Choose schools based on your child's aptitudes, strengths, and the programmes av
 
 * All students in our school study Higher Chinese as their Mother Tongue Language
 
-**DSA Categories and Criteria**
+##### DSA Categories and Criteria
 
 *Sports and Games:*
 **Badminton, Basketball, Netball (Girls only), Table Tennis, Volleyball, Wushu**
@@ -61,7 +61,7 @@ Chinese Language
 * May apply for the CLEP scholarship if selection criteria are met
 
 
-**DSA Selection Process**
+##### DSA Selection Process
 
 *Step 1 — Application*
 
@@ -81,7 +81,7 @@ Chinese Language
 * Chinese Language: in-person interview with a brief written task on the day
 * All shortlisted candidates notified of interview date and time via email
 
-**Important Dates**
+##### Important Dates
 
 **6 May – 2 Jun 2026:** Application window
 
@@ -93,7 +93,7 @@ Chinese Language
 
 **Late Nov 2026:** DSA-Sec results released together with PSLE results
 
-**Contact Us**
+##### Contact Us
 
 For general DSA-Sec information, visit [www.moe.gov.sg/dsa-sec ](www.moe.gov.sg/dsa-sec )
 
@@ -104,4 +104,3 @@ DSA-Sec iFAQs   [https://go.gov.sg/dsa-secfaqs ](https://go.gov.sg/dsa-secfaqs )
 DSA-Sec School Finder   [https://go.gov.sg/dsa-secschfinder ](https://go.gov.sg/dsa-secschfinder )
 
 For school-specific queries, email [cchms@moe.edu.sg](mailto:cchms@moe.edu.sg) with the subject header "DSA 2026".
-
