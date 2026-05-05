@@ -1,0 +1,4 @@
+collections:
+  our-admissions:
+    output: true
+    order: []
