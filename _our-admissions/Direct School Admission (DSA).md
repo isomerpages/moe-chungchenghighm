@@ -50,11 +50,12 @@ Choose schools based on your child's aptitudes, strengths, and the programmes av
 
 **Programmes for DSA Talents**
 
-Sports and Games, and Performing Arts
+*Sports and Games, and Performing Arts*
 * Directly placed into respective CCA without trials or auditions
 * Join CCA training earlier than other Sec 1 students (place in school team is merit-based)
 * Opportunities to attend CCA experiential programmes and represent the school in competitions or performances
-Chinese Language
+
+*Chinese Language*
 * Lower Secondary special development programmes in public speaking and creative writing
 * Offered Chinese Literature (Full or Elective) at O-Level in Upper Secondary
 * Join the Chinese Language Elective Programme (Secondary), CLEP-Sec [https://www.moe.gov.sg/programmes/clep-sec](https://www.moe.gov.sg/programmes/clep-sec)
