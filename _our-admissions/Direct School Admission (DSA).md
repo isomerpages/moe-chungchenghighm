@@ -58,7 +58,7 @@ Choose schools based on your child's aptitudes, strengths, and the programmes av
 *Chinese Language*
 * Lower Secondary special development programmes in public speaking and creative writing
 * Offered Chinese Literature (Full or Elective) at O-Level in Upper Secondary
-* Join the Chinese Language Elective Programme (Secondary), CLEP-Sec [https://www.moe.gov.sg/programmes/clep-sec](https://www.moe.gov.sg/programmes/clep-sec)
+* Join the Chinese Language Elective Programme (Secondary), CLEP-Sec [https://www.moe.gov.sg/education-in-sg/our-programmes/clep-sec](https://www.moe.gov.sg/education-in-sg/our-programmes/clep-sec)
 * May apply for the CLEP scholarship if selection criteria are met
 
 
@@ -66,7 +66,7 @@ Choose schools based on your child's aptitudes, strengths, and the programmes av
 
 *Step 1 — Application*
 
-* Submit application via the MOE DSA-Sec Portal at [www.moe.gov.sg/dsa-sec ](www.moe.gov.sg/dsa-sec )
+* Submit application via the MOE DSA-Sec Portal at [www.moe.gov.sg/secondary/dsa](https://www.moe.gov.sg/secondary/dsa)
 * Open from 6 May 2026, 11am to 2 June 2026, 4.30pm
 
 *Step 2 — Trial or Audition (Shortlisted applicants only)*
