@@ -1,13 +1,13 @@
 ---
-title: School Graduation Certificates (For Sec4 2024)
-permalink: /school-graduation-certificates-for-sec4-2024/
-date: 2025-02-21
+title: School Graduation Certificates (For Sec4 2025)
+permalink: /school-graduation-certificates-for-sec4-2025/
+date: 2026-05-21
 layout: post
 description: ""
 image: ""
 variant: markdown
 ---
-Dear 2024 Graduates,
+Dear 2025 Graduates,
 
 Your School Graduation Certificates are ready for collection! 
 
@@ -18,7 +18,7 @@ Details for collection are as follows:
 <table>
   <tbody><tr>
 		<td><b>Dates</b></td>
-    <td>24 Feb 2025 – 1 Aug 2025</td>
+    <td>25 May 2026 – 14 Aug 2026</td>
   </tr>
   <tr>
 		<td><b>Day(s)</b></td>
@@ -35,6 +35,5 @@ Please bring a valid Student Card for identification, such as your <b>NRIC or St
 
 Should you be unable to come down to school yourself, your next-of-kin family member can collect on your behalf by bringing along your <b>NRIC or EZ Link Card.</b>
 
-The 2024 School Yearbook will be released later this year.
 
 Thank you.
