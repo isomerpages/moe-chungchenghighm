@@ -82,7 +82,7 @@ Key Personnel
     <td class="tg-cly1">HOD/Mathematics</td>
   </tr>
   <tr>
-    <td class="tg-u1cn">Chan Ann Chin Valerie (Ms)</td>
+    <td class="tg-u1cn">Ng Wei Kwang (Mr)</td>
     <td class="tg-u1cn">HOD/Humanities</td>
   </tr>
   <tr>
