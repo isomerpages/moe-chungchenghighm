@@ -44,7 +44,7 @@ Secondary 1 Form Teachers
   <tr>
     <td class="tg-nrix">1EP</td>
     <td class="tg-nrix">Soh Guat Ee (Ms)</td>
-    <td class="tg-nrix">Tan Peck Ha (Ms)</td>
+    <td class="tg-nrix"></td>
   </tr>
   <tr>
     <td class="tg-mgsp">1FG</td>
@@ -185,7 +185,7 @@ Secondary 3 Form Teachers
   <tr>
     <td class="tg-nrix">3EP</td>
     <td class="tg-nrix">Juni Liyana Binte Amin (Ms)</td>
-    <td class="tg-nrix">Ng Chieh Shing Jason (Mr)</td>
+    <td class="tg-nrix"></td>
   </tr>
   <tr>
     <td class="tg-mgsp">3FG</td>
