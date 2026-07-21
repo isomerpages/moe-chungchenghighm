@@ -48,7 +48,7 @@ Our school also has a microsite: [https://go.gov.sg/cchmcw](https://go.gov.sg/c
 For more information on 
 
 -the Personal Learning Device (PLD), [click here.](/files/Student-Device-Information-Kit-for-CCHM-_updJan22.pdf)  
--Acceptable Use Policy (AUP) for Personal Learning Device (PLD) & School ICT Resources, [click here](/files/CCHM-AUP.pdf).
+-Acceptable Use Policy (AUP) for Personal Learning Device (PLD) & School ICT Resources, [click here](/files/Acceptable_Use_Policy__AUP__CCHM_2025.pdf).
 
 **Contact Information**
 
